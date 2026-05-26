@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terra Campers — Van Life de Lujo</title>
+  <meta name="description" content="Terra Campers — Conversiones de furgonetas premium. Vive la aventura sin renunciar al confort." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav" id="nav">
+    <div class="nav__inner">
+      <a href="#inicio" class="nav__logo">
+        <span class="nav__logo-terra">TERRA</span>
+        <span class="nav__logo-campers">CAMPERS</span>
+      </a>
+      <ul class="nav__links" id="navLinks">
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="#modelos">Modelos</a></li>
+        <li><a href="#equipamiento">Equipamiento</a></li>
+        <li><a href="#galeria">Galería</a></li>
+        <li><a href="#contacto" class="nav__cta">Solicitar Presupuesto</a></li>
+      </ul>
+      <button class="nav__burger" id="burger" aria-label="Menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="inicio">
+    <div class="hero__bg">
+      <div class="hero__overlay"></div>
+      <div class="hero__mountains"></div>
+    </div>
+    <div class="hero__content">
+      <p class="hero__eyebrow">Conversiones Premium de Furgonetas</p>
+      <h1 class="hero__title">
+        La aventura<br />
+        <em>comienza en casa</em>
+      </h1>
+      <p class="hero__subtitle">
+        Diseñamos y construimos furgonetas camper de alto nivel.<br />
+        Cada detalle pensado para el viaje que siempre soñaste.
+      </p>
+      <div class="hero__actions">
+        <a href="#modelos" class="btn btn--primary">Ver Modelos</a>
+        <a href="#galeria" class="btn btn--ghost">Ver Galería</a>
+      </div>
+    </div>
+    <div class="hero__scroll">
+      <span>Scroll</span>
+      <div class="hero__scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <section class="stats">
+    <div class="stats__inner">
+      <div class="stats__item">
+        <span class="stats__number">+120</span>
+        <span class="stats__label">Conversiones Entregadas</span>
+      </div>
+      <div class="stats__divider"></div>
+      <div class="stats__item">
+        <span class="stats__number">6</span>
+        <span class="stats__label">Años de Experiencia</span>
+      </div>
+      <div class="stats__divider"></div>
+      <div class="stats__item">
+        <span class="stats__number">100%</span>
+        <span class="stats__label">A Medida</span>
+      </div>
+      <div class="stats__divider"></div>
+      <div class="stats__item">
+        <span class="stats__number">5★</span>
+        <span class="stats__label">Valoración Media</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- NOSOTROS -->
+  <section class="about" id="nosotros">
+    <div class="about__inner container">
+      <div class="about__media">
+        <div class="about__img-wrap">
+          <div class="about__img about__img--main" style="background-image: url('assets/interior-1.jpg')"></div>
+          <div class="about__badge">
+            <span class="about__badge-icon">▲</span>
+            <span>Crafted for<br/>the Road</span>
+          </div>
+        </div>
+      </div>
+      <div class="about__text">
+        <p class="section-eyebrow">Nuestra Historia</p>
+        <h2 class="section-title">Construimos hogares<br />sobre ruedas</h2>
+        <p class="about__body">
+          En Terra Campers creemos que la libertad tiene cuatro ruedas. Nacimos de la pasión por la vida en carretera y la obsesión por el detalle artesanal. Cada furgoneta que sale de nuestro taller es única: diseñada con el cliente, construida a mano y probada en ruta.
+        </p>
+        <p class="about__body">
+          Usamos materiales de primera calidad — madera natural, acero inoxidable, tejidos resistentes — para garantizar que tu van aguante años de aventura sin perder un ápice de elegancia.
+        </p>
+        <div class="about__features">
+          <div class="about__feature">
+            <span class="about__feature-icon">◈</span>
+            <div>
+              <strong>Diseño personalizado</strong>
+              <p>Cada proyecto parte de cero según tus necesidades y estilo.</p>
+            </div>
+          </div>
+          <div class="about__feature">
+            <span class="about__feature-icon">◈</span>
+            <div>
+              <strong>Construcción artesanal</strong>
+              <p>Equipo experto con más de 6 años de experiencia en conversiones.</p>
+            </div>
+          </div>
+          <div class="about__feature">
+            <span class="about__feature-icon">◈</span>
+            <div>
+              <strong>Garantía total</strong>
+              <p>2 años de garantía en carpintería, instalaciones y electrónica.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MODELOS -->
+  <section class="models" id="modelos">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-eyebrow">Nuestros Modelos</p>
+        <h2 class="section-title">Elige tu aventura</h2>
+        <p class="section-sub">Tres líneas de conversión diseñadas para distintos estilos de vida y presupuestos.</p>
+      </div>
+      <div class="models__grid">
+
+        <div class="model-card">
+          <div class="model-card__img" style="background-image: url('assets/model-explorer.jpg')">
+            <span class="model-card__tag">Más Popular</span>
+          </div>
+          <div class="model-card__body">
+            <h3 class="model-card__name">Explorer</h3>
+            <p class="model-card__tagline">Para el aventurero que no quiere renunciar al confort</p>
+            <ul class="model-card__specs">
+              <li><span>Cama fija</span><span>200×130 cm</span></li>
+              <li><span>Cocina</span><span>2 fuegos + fregadero</span></li>
+              <li><span>Depósito agua</span><span>80L</span></li>
+              <li><span>Solar</span><span>200W</span></li>
+              <li><span>Batería</span><span>100Ah LiFePO₄</span></li>
+            </ul>
+            <div class="model-card__price">
+              <span class="model-card__from">Desde</span>
+              <span class="model-card__amount">18.500 €</span>
+            </div>
+            <a href="#contacto" class="btn btn--primary btn--full">Solicitar Info</a>
+          </div>
+        </div>
+
+        <div class="model-card model-card--featured">
+          <div class="model-card__img" style="background-image: url('assets/model-summit.jpg')">
+            <span class="model-card__tag model-card__tag--gold">Premium</span>
+          </div>
+          <div class="model-card__body">
+            <h3 class="model-card__name">Summit</h3>
+            <p class="model-card__tagline">Máximo lujo y tecnología para vivir en ruta sin límites</p>
+            <ul class="model-card__specs">
+              <li><span>Cama fija</span><span>200×140 cm</span></li>
+              <li><span>Cocina</span><span>3 fuegos + horno</span></li>
+              <li><span>Depósito agua</span><span>120L + caliente</span></li>
+              <li><span>Solar</span><span>400W</span></li>
+              <li><span>Batería</span><span>200Ah LiFePO₄</span></li>
+            </ul>
+            <div class="model-card__price">
+              <span class="model-card__from">Desde</span>
+              <span class="model-card__amount">28.000 €</span>
+            </div>
+            <a href="#contacto" class="btn btn--primary btn--full">Solicitar Info</a>
+          </div>
+        </div>
+
+        <div class="model-card">
+          <div class="model-card__img" style="background-image: url('assets/model-base.jpg')">
+          </div>
+          <div class="model-card__body">
+            <h3 class="model-card__name">Base Camp</h3>
+            <p class="model-card__tagline">Funcional y esencial para escapadas de fin de semana</p>
+            <ul class="model-card__specs">
+              <li><span>Cama</span><span>Plegable 190×130 cm</span></li>
+              <li><span>Cocina</span><span>2 fuegos</span></li>
+              <li><span>Depósito agua</span><span>50L</span></li>
+              <li><span>Solar</span><span>100W</span></li>
+              <li><span>Batería</span><span>60Ah AGM</span></li>
+            </ul>
+            <div class="model-card__price">
+              <span class="model-card__from">Desde</span>
+              <span class="model-card__amount">11.000 €</span>
+            </div>
+            <a href="#contacto" class="btn btn--primary btn--full">Solicitar Info</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- EQUIPAMIENTO -->
+  <section class="features" id="equipamiento">
+    <div class="container">
+      <div class="section-header section-header--light">
+        <p class="section-eyebrow section-eyebrow--light">Equipamiento</p>
+        <h2 class="section-title section-title--light">Cada detalle importa</h2>
+      </div>
+      <div class="features__grid">
+        <div class="feature-item">
+          <div class="feature-item__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
+          </div>
+          <h3>Cama fija</h3>
+          <p>Colchón de alta densidad con somier de láminas. Sin necesidad de convertir todos los días.</p>
+        </div>
+        <div class="feature-item">
+          <div class="feature-item__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>
+          </div>
+          <h3>Sistema eléctrico</h3>
+          <p>Paneles solares, baterías LiFePO₄ y inversor para total autonomía energética.</p>
+        </div>
+        <div class="feature-item">
+          <div class="feature-item__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/></svg>
+          </div>
+          <h3>Agua caliente</h3>
+          <p>Sistema de agua fría y caliente con calentador instantáneo. Ducha exterior opcional.</p>
+        </div>
+        <div class="feature-item">
+          <div class="feature-item__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3v1m0 16v1M3 12h1m16 0h1M5.636 5.636l.707.707M17.657 17.657l.707.707M5.636 18.364l.707-.707M17.657 6.343l.707-.707M12 8a4 4 0 100 8 4 4 0 000-8z"/></svg>
+          </div>
+          <h3>Climatización</h3>
+          <p>Aislamiento de alta densidad y ventilador de techo Maxxair o Dometic para regulación térmica.</p>
+        </div>
+        <div class="feature-item">
+          <div class="feature-item__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7m0 10a2 2 0 002 2h2a2 2 0 002-2V7a2 2 0 00-2-2h-2a2 2 0 00-2 2"/></svg>
+          </div>
+          <h3>Almacenamiento inteligente</h3>
+          <p>Cada centímetro aprovechado. Cajones, armarios y compartimentos ocultos bajo el suelo.</p>
+        </div>
+        <div class="feature-item">
+          <div class="feature-item__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
+          </div>
+          <h3>Domótica 12V</h3>
+          <p>Control de luces, monitor de batería y enchufes USB-C desde una pantalla táctil.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESO -->
+  <section class="process" id="proceso">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-eyebrow">Cómo Trabajamos</p>
+        <h2 class="section-title">Tu van en 4 pasos</h2>
+      </div>
+      <div class="process__steps">
+        <div class="process__step">
+          <div class="process__num">01</div>
+          <div class="process__content">
+            <h3>Consulta inicial</h3>
+            <p>Hablamos de tus viajes, necesidades y presupuesto. Sin compromiso y totalmente gratuita.</p>
+          </div>
+        </div>
+        <div class="process__connector"></div>
+        <div class="process__step">
+          <div class="process__num">02</div>
+          <div class="process__content">
+            <h3>Diseño 3D</h3>
+            <p>Creamos el plano de tu furgoneta con renders 3D para que apruebes cada detalle antes de empezar.</p>
+          </div>
+        </div>
+        <div class="process__connector"></div>
+        <div class="process__step">
+          <div class="process__num">03</div>
+          <div class="process__content">
+            <h3>Construcción</h3>
+            <p>Entre 6 y 10 semanas de trabajo artesanal con actualizaciones semanales por foto y vídeo.</p>
+          </div>
+        </div>
+        <div class="process__connector"></div>
+        <div class="process__step">
+          <div class="process__num">04</div>
+          <div class="process__content">
+            <h3>Entrega y formación</h3>
+            <p>Visita al taller, revisión completa y formación sobre todos los sistemas antes de llevarte las llaves.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- GALERÍA -->
+  <section class="gallery" id="galeria">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-eyebrow">Galería</p>
+        <h2 class="section-title">Construido con pasión</h2>
+      </div>
+    </div>
+    <div class="gallery__grid">
+      <div class="gallery__item gallery__item--tall" style="background-image: url('assets/gallery-1.jpg')">
+        <div class="gallery__overlay"><span>Interior Summit</span></div>
+      </div>
+      <div class="gallery__item" style="background-image: url('assets/gallery-2.jpg')">
+        <div class="gallery__overlay"><span>Cocina Explorer</span></div>
+      </div>
+      <div class="gallery__item" style="background-image: url('assets/gallery-3.jpg')">
+        <div class="gallery__overlay"><span>Zona de descanso</span></div>
+      </div>
+      <div class="gallery__item gallery__item--wide" style="background-image: url('assets/gallery-4.jpg')">
+        <div class="gallery__overlay"><span>Exterior Summit en ruta</span></div>
+      </div>
+      <div class="gallery__item" style="background-image: url('assets/gallery-5.jpg')">
+        <div class="gallery__overlay"><span>Detalle carpintería</span></div>
+      </div>
+      <div class="gallery__item" style="background-image: url('assets/gallery-6.jpg')">
+        <div class="gallery__overlay"><span>Sistema solar</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TESTIMONIOS -->
+  <section class="testimonials">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-eyebrow">Testimonios</p>
+        <h2 class="section-title">Lo que dicen nuestros viajeros</h2>
+      </div>
+      <div class="testimonials__grid">
+        <div class="testimonial">
+          <div class="testimonial__stars">★★★★★</div>
+          <p class="testimonial__text">"Terra Campers superó todas mis expectativas. La calidad de construcción es increíble y el equipo siempre estuvo disponible para resolver dudas. Llevamos 8 meses viajando por Europa y la van funciona perfecta."</p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">ML</div>
+            <div>
+              <strong>María López</strong>
+              <span>Explorer — Madrid</span>
+            </div>
+          </div>
+        </div>
+        <div class="testimonial testimonial--featured">
+          <div class="testimonial__stars">★★★★★</div>
+          <p class="testimonial__text">"El diseño 3D antes de empezar fue clave. Pude cambiar varias cosas antes de que cortaran madera. El resultado final es exactamente lo que imaginé, pero mejor. Totalmente recomendable."</p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">CA</div>
+            <div>
+              <strong>Carlos Almendros</strong>
+              <span>Summit — Barcelona</span>
+            </div>
+          </div>
+        </div>
+        <div class="testimonial">
+          <div class="testimonial__stars">★★★★★</div>
+          <p class="testimonial__text">"Empecé con el modelo Base Camp para probar y ya estoy encargando un Summit. El servicio posventa es excelente, me ayudaron con una pequeña avería en mitad de un viaje por teléfono."</p>
+          <div class="testimonial__author">
+            <div class="testimonial__avatar">SR</div>
+            <div>
+              <strong>Sara Rivas</strong>
+              <span>Base Camp — Valencia</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACTO -->
+  <section class="contact" id="contacto">
+    <div class="contact__inner container">
+      <div class="contact__text">
+        <p class="section-eyebrow section-eyebrow--light">Contacto</p>
+        <h2 class="section-title section-title--light">¿Listo para la<br />aventura?</h2>
+        <p class="contact__body">Cuéntanos qué tienes en mente. Te respondemos en menos de 24 horas con una primera propuesta.</p>
+        <div class="contact__info">
+          <div class="contact__info-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+            <span>hola@terracampers.es</span>
+          </div>
+          <div class="contact__info-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+            <span>+34 600 123 456</span>
+          </div>
+          <div class="contact__info-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            <span>Polígono Industrial Norte, Nave 12<br />28080 Madrid</span>
+          </div>
+        </div>
+        <div class="contact__social">
+          <a href="#" class="social-link">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+          </a>
+          <a href="#" class="social-link">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          </a>
+          <a href="#" class="social-link">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.32 6.32 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.79 1.54V6.77a4.85 4.85 0 01-1.02-.08z"/></svg>
+          </a>
+        </div>
+      </div>
+      <div class="contact__form-wrap">
+        <form class="contact-form" id="contactForm" novalidate>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Nombre</label>
+              <input type="text" id="name" name="name" placeholder="Tu nombre" required />
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" placeholder="tu@email.com" required />
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="phone">Teléfono (opcional)</label>
+            <input type="tel" id="phone" name="phone" placeholder="+34 600 000 000" />
+          </div>
+          <div class="form-group">
+            <label for="model">Modelo de interés</label>
+            <select id="model" name="model">
+              <option value="">Selecciona un modelo</option>
+              <option>Base Camp — Desde 11.000 €</option>
+              <option>Explorer — Desde 18.500 €</option>
+              <option>Summit — Desde 28.000 €</option>
+              <option>Proyecto personalizado</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Cuéntanos tu proyecto</label>
+            <textarea id="message" name="message" rows="4" placeholder="Háblanos de tu furgoneta, tus viajes habituales, si ya tienes la van o quieres que te asesoremos..."></textarea>
+          </div>
+          <button type="submit" class="btn btn--primary btn--full btn--lg">
+            <span class="btn__text">Enviar Solicitud</span>
+            <span class="btn__icon">→</span>
+          </button>
+          <p class="form-note">Sin compromiso. Respondemos en menos de 24h.</p>
+          <div class="form-success" id="formSuccess" hidden>
+            <span>✓</span> ¡Mensaje enviado! Te contactaremos muy pronto.
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer__inner container">
+      <div class="footer__brand">
+        <p class="footer__logo">
+          <span>TERRA</span> <span class="footer__logo-campers">CAMPERS</span>
+        </p>
+        <p class="footer__tagline">Vive la aventura sin renunciar al hogar.</p>
+        <span class="footer__badge">▲</span>
+      </div>
+      <div class="footer__links">
+        <h4>Navegación</h4>
+        <ul>
+          <li><a href="#nosotros">Nosotros</a></li>
+          <li><a href="#modelos">Modelos</a></li>
+          <li><a href="#equipamiento">Equipamiento</a></li>
+          <li><a href="#galeria">Galería</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </div>
+      <div class="footer__links">
+        <h4>Modelos</h4>
+        <ul>
+          <li><a href="#modelos">Base Camp</a></li>
+          <li><a href="#modelos">Explorer</a></li>
+          <li><a href="#modelos">Summit</a></li>
+          <li><a href="#contacto">Personalizado</a></li>
+        </ul>
+      </div>
+      <div class="footer__links">
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="#">Aviso Legal</a></li>
+          <li><a href="#">Política de Privacidad</a></li>
+          <li><a href="#">Cookies</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <p>© 2025 Terra Campers. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
