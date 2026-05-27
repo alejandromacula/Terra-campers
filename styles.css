@@ -1168,60 +1168,186 @@ a.booking__contact-item:hover { color: var(--orange-lt); }
   100% { transform: translateX(0); }
 }
 
-/* ─── RESPONSIVE ─── */
+/* ─── iOS VIEWPORT FIX ─── */
+/* Fallback para browsers sin svh support */
+@supports not (height: 100svh) {
+  .hero { height: 100vh; }
+}
+
+/* Prevenir zoom en inputs (iOS requiere font-size >= 16px) */
+input, select, textarea {
+  font-size: 16px !important;
+}
+
+/* Deshabilitar grain en mobile (performance) */
+@media (max-width: 768px) {
+  body::after { display: none; }
+}
+
+/* ─── RESPONSIVE: tablet ─── */
 @media (max-width: 1100px) {
+  .van-section { padding: 5rem 0; }
   .van-section__inner { grid-template-columns: 1fr; gap: 3rem; }
   .van-section__img { aspect-ratio: 16/9; }
   .van-badge { bottom: -1rem; right: 1rem; }
+
+  .features { padding: 5rem 0; }
   .features__grid { grid-template-columns: 1fr 1fr; }
-  .process__grid { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
+
+  .process { padding: 5rem 0; }
+  .process__grid { grid-template-columns: 1fr 1fr; }
   .process__connector { display: none; }
+
+  .reviews { padding: 5rem 0; }
   .reviews__grid { grid-template-columns: 1fr; max-width: 520px; margin: 0 auto; }
   .review--featured { transform: none; }
-  .booking__inner { grid-template-columns: 1fr; gap: 3.5rem; }
+
+  .booking { padding: 5rem 0; }
+  .booking__inner { grid-template-columns: 1fr; gap: 3rem; }
+
+  .gallery { padding: 5rem 0 0; }
+
   .footer__inner { grid-template-columns: 1fr 1fr; gap: 2.5rem; }
 }
 
+/* ─── RESPONSIVE: mobile ─── */
 @media (max-width: 768px) {
-  .nav__links { display: none; flex-direction: column; }
+  :root { --nav-h: 64px; }
+
+  /* Nav */
+  .nav__links {
+    display: none;
+    flex-direction: column;
+  }
   .nav__links.open {
     display: flex;
     position: fixed;
     top: var(--nav-h);
     left: 0; right: 0;
-    background: rgba(15,22,14,.97);
+    background: rgba(11,18,9,.97);
+    -webkit-backdrop-filter: blur(12px);
     backdrop-filter: blur(12px);
-    padding: 2rem;
-    gap: 1.5rem;
+    padding: 1.75rem 1.5rem;
+    gap: 1.25rem;
     border-top: 1px solid rgba(255,255,255,.06);
     z-index: 999;
+    max-height: calc(100vh - var(--nav-h));
+    overflow-y: auto;
   }
   .nav__links.open a { font-size: .9rem; }
   .nav__burger { display: flex; }
+  .nav__logo-img { height: 38px; }
 
-  .hero__logo { height: 160px; }
-  .hero__title { font-size: clamp(3rem, 12vw, 5rem); }
+  /* Hero */
+  .hero__content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: calc(var(--nav-h) + 1rem) 1.5rem 5rem;
+    width: 100%;
+  }
+  .hero__logo { height: 150px; margin-bottom: 1.5rem; }
+  .hero__title { font-size: clamp(2.8rem, 11vw, 4.5rem); }
+  .hero__sub { font-size: .9rem; }
+  .hero__actions { gap: .75rem; }
 
-  .strip__item { padding: .75rem 1.5rem; }
+  /* Strip: horizontal scroll en mobile */
+  .strip__inner {
+    overflow-x: auto;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    padding: 0 1.5rem;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .strip__inner::-webkit-scrollbar { display: none; }
+  .strip__item { padding: .75rem 1.75rem; flex-shrink: 0; }
   .strip__div { display: none; }
 
-  .features__grid { grid-template-columns: 1fr; }
-  .van-specs { grid-template-columns: 1fr; }
+  /* Van section */
+  .van-section { padding: 4rem 0; }
+  .van-section__inner { gap: 2.5rem; }
+  .van-specs { grid-template-columns: 1fr 1fr; }
+  .van-badge { right: .75rem; bottom: -1rem; padding: 1rem 1.25rem; font-size: .65rem; }
 
-  .film-frame { width: 280px; height: 185px; }
+  /* Interior scroll */
+  .interior-scroll { padding: 4rem 0 0; }
+  .interior-track { padding: 0 1.5rem 2.5rem; gap: 1rem; }
+  .int-card { flex: 0 0 75vw; }
+  .int-card__img { height: 260px; }
 
-  .cta-banner { height: 50vh; }
+  /* Features */
+  .features { padding: 4rem 0; }
+  .features__grid { grid-template-columns: 1fr; gap: 1rem; }
+  .feat { padding: 1.5rem; }
 
-  .booking-form { padding: 1.75rem; }
+  /* Gallery */
+  .gallery { padding: 4rem 0 0; }
+  .film-frame { width: 260px; height: 170px; }
+  /* Mostrar labels siempre en touch */
+  .film-frame__label { transform: none; }
+
+  /* CTA banner */
+  .cta-banner { height: auto; min-height: 320px; padding: 4rem 1.5rem; }
+  .cta-banner__bg { inset: 0; }
+  .cta-banner__quote { font-size: clamp(1.4rem, 5vw, 2rem); }
+
+  /* Process */
+  .process { padding: 4rem 0; }
+  .process__grid { grid-template-columns: 1fr; gap: 0; }
+  .process-step { padding: 1.5rem 1rem; text-align: left; display: flex; gap: 1.25rem; align-items: flex-start; }
+  .process-step__num { font-size: 2.5rem; line-height: 1; flex-shrink: 0; margin-bottom: 0; }
+  .process-step__icon { display: none; }
+
+  /* Reviews */
+  .reviews { padding: 4rem 0; }
+  .reviews__grid { max-width: 100%; }
+
+  /* Booking */
+  .booking { padding: 4rem 0; }
+  .booking__inner { gap: 2.5rem; }
+  .booking-form { padding: 1.5rem; }
   .form-row { grid-template-columns: 1fr; }
 
-  .footer__inner { grid-template-columns: 1fr; }
+  /* Footer */
+  .footer { padding: 3.5rem 0 0; }
+  .footer__inner { grid-template-columns: 1fr; gap: 2rem; padding-bottom: 2.5rem; }
+
+  /* Global padding reduction */
+  .section-header { margin-bottom: 2.5rem; }
 }
 
-@media (max-width: 480px) {
-  .hero__logo { height: 130px; }
-  .hero__actions { flex-direction: column; align-items: stretch; }
-  .btn { justify-content: center; }
-  .film-frame { width: 240px; height: 160px; }
-  .int-card { flex: 0 0 260px; }
+/* ─── RESPONSIVE: small phones ─── */
+@media (max-width: 430px) {
+  .hero__logo { height: 120px; }
+  .hero__title { font-size: clamp(2.4rem, 13vw, 3.5rem); }
+  .hero__actions { flex-direction: column; align-items: stretch; width: 100%; max-width: 320px; }
+  .btn { justify-content: center; width: 100%; }
+
+  .van-specs { grid-template-columns: 1fr; }
+  .int-card { flex: 0 0 82vw; }
+  .film-frame { width: 200px; height: 135px; }
+
+  .booking-form { padding: 1.25rem; }
+
+  /* Strip: mostrar 2 por fila */
+  .strip__item { padding: .6rem 1.25rem; }
+  .strip__num { font-size: 2.2rem; }
+}
+
+/* ─── SAFE AREA (iPhone X+, Dynamic Island) ─── */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .footer__bottom {
+    padding-bottom: max(1.5rem, env(safe-area-inset-bottom));
+  }
+  .nav__links.open {
+    padding-bottom: max(1.75rem, env(safe-area-inset-bottom));
+  }
 }

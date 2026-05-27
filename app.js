@@ -57,7 +57,10 @@ navLinks.querySelectorAll('a').forEach(a => {
   });
 });
 
-/* ── 3. Hero parallax ── */
+/* ── 3. Hero parallax (desktop only) ── */
+const isMobile = () => window.innerWidth <= 768 ||
+  window.matchMedia('(hover: none) and (pointer: coarse)').matches;
+
 const heroLayers = [];
 document.querySelectorAll('[data-speed]').forEach(el => {
   heroLayers.push({ el, speed: parseFloat(el.dataset.speed) });
@@ -67,6 +70,7 @@ const hero = document.getElementById('inicio');
 const heroH = () => hero ? hero.offsetHeight : window.innerHeight;
 
 function updateParallax() {
+  if (isMobile()) return;
   const sy = window.scrollY;
   if (sy > heroH() * 1.2) return;
   heroLayers.forEach(({ el, speed }) => {
@@ -77,12 +81,12 @@ function updateParallax() {
 window.addEventListener('scroll', updateParallax, { passive: true });
 updateParallax();
 
-/* ── 4. CTA banner parallax ── */
+/* ── 4. CTA banner parallax (desktop only) ── */
 const ctaBg = document.getElementById('ctaBannerBg');
 if (ctaBg) {
   const ctaBanner = ctaBg.closest('.cta-banner');
   const updateCtaParallax = () => {
-    if (!ctaBanner) return;
+    if (isMobile() || !ctaBanner) return;
     const rect = ctaBanner.getBoundingClientRect();
     const vh = window.innerHeight;
     if (rect.bottom < 0 || rect.top > vh) return;
