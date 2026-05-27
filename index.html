@@ -3,502 +3,588 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Terra Campers — Van Life de Lujo</title>
-  <meta name="description" content="Terra Campers — Conversiones de furgonetas premium. Vive la aventura sin renunciar al confort." />
+  <title>Terra Campers — Alquiler de Casa Rodante Premium</title>
+  <meta name="description" content="Alquilá nuestra casa rodante premium y viví la aventura de la ruta. Terra Campers — Tu hogar sobre ruedas." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+
+  <!-- CURSOR GLOW -->
+  <div class="cursor-glow" id="cursorGlow" aria-hidden="true"></div>
 
   <!-- NAV -->
   <nav class="nav" id="nav">
     <div class="nav__inner">
       <a href="#inicio" class="nav__logo">
-        <span class="nav__logo-terra">TERRA</span>
-        <span class="nav__logo-campers">CAMPERS</span>
+        <img src="assets/logo.png" alt="Terra Campers" class="nav__logo-img"
+             onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+        <span class="nav__logo-fallback" style="display:none">
+          <span class="nav__logo-terra">TERRA</span>
+          <span class="nav__logo-campers">CAMPERS</span>
+        </span>
       </a>
       <ul class="nav__links" id="navLinks">
-        <li><a href="#nosotros">Nosotros</a></li>
-        <li><a href="#modelos">Modelos</a></li>
+        <li><a href="#la-van">La Van</a></li>
         <li><a href="#equipamiento">Equipamiento</a></li>
         <li><a href="#galeria">Galería</a></li>
-        <li><a href="#contacto" class="nav__cta">Solicitar Presupuesto</a></li>
+        <li><a href="#como-alquilar">Cómo Alquilar</a></li>
+        <li><a href="#reserva" class="nav__cta">Reservar</a></li>
       </ul>
-      <button class="nav__burger" id="burger" aria-label="Menú">
+      <button class="nav__burger" id="burger" aria-label="Menú" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
     </div>
   </nav>
 
-  <!-- HERO -->
+  <!-- ═══════════════════════════════════════════════════
+       HERO — parallax mountain scene
+  ═══════════════════════════════════════════════════ -->
   <section class="hero" id="inicio">
-    <div class="hero__bg">
-      <div class="hero__overlay"></div>
-      <div class="hero__mountains"></div>
-    </div>
-    <div class="hero__content">
-      <p class="hero__eyebrow">Conversiones Premium de Furgonetas</p>
+
+    <!-- sky gradient -->
+    <div class="hero__layer hero__sky" data-speed="0.02"></div>
+
+    <!-- far mountains (cream/snowy) -->
+    <svg class="hero__layer hero__mtns-far" data-speed="0.08"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice"
+         xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,700 L80,640 L120,600 L160,560 L200,540 L240,570 L280,540
+               L320,500 L360,480 L400,440 L440,470 L480,410
+               L500,350 L520,310 L540,270 L560,320 L580,240
+               L600,190 L620,220 L640,180 L660,150
+               L680,100 L700,130 L710,95 L720,70
+               L730,95 L740,80 L760,110 L780,140
+               L800,170 L820,148 L840,190 L860,170
+               L880,210 L900,185 L920,210 L940,195
+               L960,240 L980,215 L1000,260 L1020,285
+               L1040,310 L1060,340 L1080,370 L1100,350
+               L1120,395 L1140,425 L1160,455 L1180,480
+               L1200,505 L1240,530 L1280,560 L1320,585
+               L1360,600 L1400,620 L1440,640
+               L1440,900 L0,900 Z" fill="#cfc9b8"/>
+      <path d="M695,130 L720,70 L745,125 L732,148 L720,138 L708,145 Z"
+            fill="#e8e4d8" opacity="0.7"/>
+      <path d="M705,160 L720,100 L735,155 L728,175 L720,168 L712,172 Z"
+            fill="#ede9e0" opacity="0.45"/>
+      <path d="M637,205 L655,158 L673,200 L664,222 Z" fill="#e8e4d8" opacity="0.35"/>
+      <path d="M764,128 L780,162 L771,180 Z" fill="#e8e4d8" opacity="0.35"/>
+    </svg>
+
+    <!-- mid mountains (olive) -->
+    <svg class="hero__layer hero__mtns-mid" data-speed="0.18"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice"
+         xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,830 L80,770 L160,800 L240,745 L320,780
+               L400,725 L480,760 L560,705 L640,745
+               L720,695 L800,735 L880,705 L960,740
+               L1040,715 L1120,750 L1200,730 L1280,765
+               L1360,745 L1440,775 L1440,900 L0,900 Z" fill="#4a6250"/>
+    </svg>
+
+    <!-- mist at base of mountains -->
+    <div class="hero__layer hero__mist" data-speed="0.14"></div>
+
+    <!-- forest back (small pines, generated by JS) -->
+    <svg class="hero__layer hero__forest-back" data-speed="0.32"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice"
+         xmlns="http://www.w3.org/2000/svg">
+      <path id="forestBackPath" fill="#1a2b1c"/>
+    </svg>
+
+    <!-- forest front (larger pines, generated by JS) -->
+    <svg class="hero__layer hero__forest-front" data-speed="0.55"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice"
+         xmlns="http://www.w3.org/2000/svg">
+      <path id="forestFrontPath" fill="#0f1a10"/>
+    </svg>
+
+    <!-- road + van silhouette -->
+    <svg class="hero__layer hero__road-layer" data-speed="0.62"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice"
+         xmlns="http://www.w3.org/2000/svg">
+      <path d="M555,900 Q685,790 720,710 Q755,790 885,900 Z" fill="#191d18"/>
+      <path d="M605,900 Q688,810 720,745 Q752,810 835,900 Z" fill="#202520"/>
+      <line x1="720" y1="900" x2="720" y2="848"
+            stroke="#c45c1a" stroke-width="2" stroke-dasharray="14,18" opacity="0.35"/>
+      <!-- van silhouette -->
+      <g transform="translate(712,792)">
+        <rect x="-11" y="-17" width="22" height="17" rx="2" fill="#1c2418"/>
+        <rect x="-9" y="-21" width="18" height="6" rx="1" fill="#161e16"/>
+        <circle cx="-6" cy="0" r="4" fill="#0e1410"/>
+        <circle cx="6" cy="0" r="4" fill="#0e1410"/>
+        <rect x="-5" y="-15" width="6" height="6" rx="1" fill="#2d3f2e" opacity="0.5"/>
+        <rect x="2" y="-15" width="5" height="6" rx="1" fill="#2d3f2e" opacity="0.5"/>
+        <circle cx="6" cy="-20" r="1.5" fill="#c45c1a" opacity="0.6"/>
+      </g>
+    </svg>
+
+    <!-- content -->
+    <div class="hero__content" data-speed="0.1">
+      <img src="assets/logo.png" alt="Terra Campers" class="hero__logo" id="heroLogo"
+           onerror="this.style.display='none';document.getElementById('heroLogoFallback').style.display='flex'" />
+      <div class="hero__logo-fallback" id="heroLogoFallback" style="display:none" aria-hidden="true">
+        <div class="hlf__badge">
+          <span class="hlf__terra">TERRA</span>
+          <span class="hlf__campers">CAMPERS</span>
+          <span class="hlf__tri">▲</span>
+        </div>
+      </div>
+      <p class="hero__eyebrow">Casa Rodante Premium · Alquiler</p>
       <h1 class="hero__title">
-        La aventura<br />
-        <em>comienza en casa</em>
+        Tu hogar<br /><em>sin fronteras</em>
       </h1>
-      <p class="hero__subtitle">
-        Diseñamos y construimos furgonetas camper de alto nivel.<br />
-        Cada detalle pensado para el viaje que siempre soñaste.
+      <p class="hero__sub">
+        Viví la libertad de la carretera sin renunciar al confort.<br />
+        Alquilá nuestra van y salí cuando quieras.
       </p>
       <div class="hero__actions">
-        <a href="#modelos" class="btn btn--primary">Ver Modelos</a>
-        <a href="#galeria" class="btn btn--ghost">Ver Galería</a>
+        <a href="#reserva" class="btn btn--primary btn--lg">
+          <span>Reservar Ahora</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+        <a href="#la-van" class="btn btn--ghost btn--lg">Conocer la Van</a>
       </div>
     </div>
-    <div class="hero__scroll">
-      <span>Scroll</span>
+
+    <div class="hero__scroll-cue" id="scrollCue">
       <div class="hero__scroll-line"></div>
+      <span>scroll</span>
     </div>
   </section>
 
-  <!-- STATS BAR -->
-  <section class="stats">
-    <div class="stats__inner">
-      <div class="stats__item">
-        <span class="stats__number">+120</span>
-        <span class="stats__label">Conversiones Entregadas</span>
+  <!-- ═══════════════════════════════════════════════════
+       STATS STRIP
+  ═══════════════════════════════════════════════════ -->
+  <div class="strip">
+    <div class="strip__inner">
+      <div class="strip__item">
+        <span class="strip__num" data-target="8">0</span>
+        <span class="strip__unit">años</span>
+        <span class="strip__label">en la ruta</span>
       </div>
-      <div class="stats__divider"></div>
-      <div class="stats__item">
-        <span class="stats__number">6</span>
-        <span class="stats__label">Años de Experiencia</span>
+      <div class="strip__div"></div>
+      <div class="strip__item">
+        <span class="strip__num" data-target="15">0</span>
+        <span class="strip__unit">días</span>
+        <span class="strip__label">máx. por reserva</span>
       </div>
-      <div class="stats__divider"></div>
-      <div class="stats__item">
-        <span class="stats__number">100%</span>
-        <span class="stats__label">A Medida</span>
+      <div class="strip__div"></div>
+      <div class="strip__item">
+        <span class="strip__num" data-target="100">0</span>
+        <span class="strip__unit">%</span>
+        <span class="strip__label">off-grid ready</span>
       </div>
-      <div class="stats__divider"></div>
-      <div class="stats__item">
-        <span class="stats__number">5★</span>
-        <span class="stats__label">Valoración Media</span>
+      <div class="strip__div"></div>
+      <div class="strip__item">
+        <span class="strip__num strip__num--static">★ 5.0</span>
+        <span class="strip__label">valoración</span>
       </div>
     </div>
-  </section>
+  </div>
 
-  <!-- NOSOTROS -->
-  <section class="about" id="nosotros">
-    <div class="about__inner container">
-      <div class="about__media">
-        <div class="about__img-wrap">
-          <div class="about__img about__img--main" style="background-image: url('assets/interior-1.jpg')"></div>
-          <div class="about__badge">
-            <span class="about__badge-icon">▲</span>
-            <span>Crafted for<br/>the Road</span>
+  <!-- ═══════════════════════════════════════════════════
+       LA VAN
+  ═══════════════════════════════════════════════════ -->
+  <section class="van-section" id="la-van">
+    <div class="van-section__inner container">
+
+      <div class="van-section__media reveal">
+        <div class="van-section__img">
+          <img src="assets/van-exterior.jpg" alt="Van exterior" class="van-section__photo"
+               onerror="this.style.display='none'" />
+          <div class="van-section__placeholder">
+            <svg viewBox="0 0 100 62" fill="none" width="110" xmlns="http://www.w3.org/2000/svg" opacity="0.2">
+              <rect x="6" y="14" width="88" height="38" rx="5" fill="currentColor"/>
+              <rect x="6" y="10" width="44" height="22" rx="4" fill="currentColor" opacity="0.7"/>
+              <circle cx="22" cy="52" r="8" fill="currentColor"/>
+              <circle cx="78" cy="52" r="8" fill="currentColor"/>
+              <rect x="50" y="11" width="40" height="4" rx="2" fill="currentColor" opacity="0.5"/>
+            </svg>
+            <p>Tu foto aquí</p>
           </div>
         </div>
+        <div class="van-badge">
+          <span class="van-badge__icon">▲</span>
+          <span>Ready for<br/>the Road</span>
+        </div>
       </div>
-      <div class="about__text">
-        <p class="section-eyebrow">Nuestra Historia</p>
-        <h2 class="section-title">Construimos hogares<br />sobre ruedas</h2>
-        <p class="about__body">
-          En Terra Campers creemos que la libertad tiene cuatro ruedas. Nacimos de la pasión por la vida en carretera y la obsesión por el detalle artesanal. Cada furgoneta que sale de nuestro taller es única: diseñada con el cliente, construida a mano y probada en ruta.
+
+      <div class="van-section__text reveal" style="--delay:.12s">
+        <p class="eyebrow">La Van</p>
+        <h2 class="section-title">Equipada para<br />cada aventura</h2>
+        <p class="body-text">
+          Nuestra casa rodante fue diseñada pensando en cada detalle. Interior cálido y funcional, sistema eléctrico con paneles solares, cocina equipada y cama de matrimonio fija. Todo lo que necesitás para explorar rutas, montañas y paisajes sin límites.
         </p>
-        <p class="about__body">
-          Usamos materiales de primera calidad — madera natural, acero inoxidable, tejidos resistentes — para garantizar que tu van aguante años de aventura sin perder un ápice de elegancia.
-        </p>
-        <div class="about__features">
-          <div class="about__feature">
-            <span class="about__feature-icon">◈</span>
-            <div>
-              <strong>Diseño personalizado</strong>
-              <p>Cada proyecto parte de cero según tus necesidades y estilo.</p>
-            </div>
-          </div>
-          <div class="about__feature">
-            <span class="about__feature-icon">◈</span>
-            <div>
-              <strong>Construcción artesanal</strong>
-              <p>Equipo experto con más de 6 años de experiencia en conversiones.</p>
-            </div>
-          </div>
-          <div class="about__feature">
-            <span class="about__feature-icon">◈</span>
-            <div>
-              <strong>Garantía total</strong>
-              <p>2 años de garantía en carpintería, instalaciones y electrónica.</p>
-            </div>
-          </div>
+        <div class="van-specs">
+          <div class="van-spec"><span class="van-spec__key">Base</span><span class="van-spec__val">Mercedes Sprinter</span></div>
+          <div class="van-spec"><span class="van-spec__key">Cama</span><span class="van-spec__val">200 × 140 cm fija</span></div>
+          <div class="van-spec"><span class="van-spec__key">Energía</span><span class="van-spec__val">200Ah LiFePO₄ + 400W solar</span></div>
+          <div class="van-spec"><span class="van-spec__key">Agua</span><span class="van-spec__val">80L + calentador</span></div>
+          <div class="van-spec"><span class="van-spec__key">Cocina</span><span class="van-spec__val">2 hornallas + fregadero</span></div>
+          <div class="van-spec"><span class="van-spec__key">Personas</span><span class="van-spec__val">2</span></div>
         </div>
+        <a href="#reserva" class="btn btn--primary">Consultar disponibilidad</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════
+       INTERIOR HORIZONTAL SCROLL
+  ═══════════════════════════════════════════════════ -->
+  <section class="interior-scroll">
+    <div class="container interior-scroll__header reveal">
+      <p class="eyebrow">Interior</p>
+      <h2 class="section-title">Cada rincón,<br />pensado para vos</h2>
+      <p class="interior-hint">← arrastrá para explorar →</p>
+    </div>
+    <div class="interior-track" id="interiorTrack">
+      <div class="int-card">
+        <div class="int-card__img" style="background-image:url('assets/interior-1.jpg')">
+          <div class="int-card__placeholder"><span>01</span></div>
+        </div>
+        <span class="int-card__label">Zona de descanso</span>
+      </div>
+      <div class="int-card">
+        <div class="int-card__img" style="background-image:url('assets/interior-2.jpg')">
+          <div class="int-card__placeholder"><span>02</span></div>
+        </div>
+        <span class="int-card__label">Cocina equipada</span>
+      </div>
+      <div class="int-card">
+        <div class="int-card__img" style="background-image:url('assets/interior-3.jpg')">
+          <div class="int-card__placeholder"><span>03</span></div>
+        </div>
+        <span class="int-card__label">Sistema solar</span>
+      </div>
+      <div class="int-card">
+        <div class="int-card__img" style="background-image:url('assets/interior-4.jpg')">
+          <div class="int-card__placeholder"><span>04</span></div>
+        </div>
+        <span class="int-card__label">Almacenamiento</span>
+      </div>
+      <div class="int-card">
+        <div class="int-card__img" style="background-image:url('assets/interior-5.jpg')">
+          <div class="int-card__placeholder"><span>05</span></div>
+        </div>
+        <span class="int-card__label">Agua caliente</span>
       </div>
     </div>
   </section>
 
-  <!-- MODELOS -->
-  <section class="models" id="modelos">
-    <div class="container">
-      <div class="section-header">
-        <p class="section-eyebrow">Nuestros Modelos</p>
-        <h2 class="section-title">Elige tu aventura</h2>
-        <p class="section-sub">Tres líneas de conversión diseñadas para distintos estilos de vida y presupuestos.</p>
-      </div>
-      <div class="models__grid">
-
-        <div class="model-card">
-          <div class="model-card__img" style="background-image: url('assets/model-explorer.jpg')">
-            <span class="model-card__tag">Más Popular</span>
-          </div>
-          <div class="model-card__body">
-            <h3 class="model-card__name">Explorer</h3>
-            <p class="model-card__tagline">Para el aventurero que no quiere renunciar al confort</p>
-            <ul class="model-card__specs">
-              <li><span>Cama fija</span><span>200×130 cm</span></li>
-              <li><span>Cocina</span><span>2 fuegos + fregadero</span></li>
-              <li><span>Depósito agua</span><span>80L</span></li>
-              <li><span>Solar</span><span>200W</span></li>
-              <li><span>Batería</span><span>100Ah LiFePO₄</span></li>
-            </ul>
-            <div class="model-card__price">
-              <span class="model-card__from">Desde</span>
-              <span class="model-card__amount">18.500 €</span>
-            </div>
-            <a href="#contacto" class="btn btn--primary btn--full">Solicitar Info</a>
-          </div>
-        </div>
-
-        <div class="model-card model-card--featured">
-          <div class="model-card__img" style="background-image: url('assets/model-summit.jpg')">
-            <span class="model-card__tag model-card__tag--gold">Premium</span>
-          </div>
-          <div class="model-card__body">
-            <h3 class="model-card__name">Summit</h3>
-            <p class="model-card__tagline">Máximo lujo y tecnología para vivir en ruta sin límites</p>
-            <ul class="model-card__specs">
-              <li><span>Cama fija</span><span>200×140 cm</span></li>
-              <li><span>Cocina</span><span>3 fuegos + horno</span></li>
-              <li><span>Depósito agua</span><span>120L + caliente</span></li>
-              <li><span>Solar</span><span>400W</span></li>
-              <li><span>Batería</span><span>200Ah LiFePO₄</span></li>
-            </ul>
-            <div class="model-card__price">
-              <span class="model-card__from">Desde</span>
-              <span class="model-card__amount">28.000 €</span>
-            </div>
-            <a href="#contacto" class="btn btn--primary btn--full">Solicitar Info</a>
-          </div>
-        </div>
-
-        <div class="model-card">
-          <div class="model-card__img" style="background-image: url('assets/model-base.jpg')">
-          </div>
-          <div class="model-card__body">
-            <h3 class="model-card__name">Base Camp</h3>
-            <p class="model-card__tagline">Funcional y esencial para escapadas de fin de semana</p>
-            <ul class="model-card__specs">
-              <li><span>Cama</span><span>Plegable 190×130 cm</span></li>
-              <li><span>Cocina</span><span>2 fuegos</span></li>
-              <li><span>Depósito agua</span><span>50L</span></li>
-              <li><span>Solar</span><span>100W</span></li>
-              <li><span>Batería</span><span>60Ah AGM</span></li>
-            </ul>
-            <div class="model-card__price">
-              <span class="model-card__from">Desde</span>
-              <span class="model-card__amount">11.000 €</span>
-            </div>
-            <a href="#contacto" class="btn btn--primary btn--full">Solicitar Info</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- EQUIPAMIENTO -->
+  <!-- ═══════════════════════════════════════════════════
+       EQUIPAMIENTO
+  ═══════════════════════════════════════════════════ -->
   <section class="features" id="equipamiento">
     <div class="container">
-      <div class="section-header section-header--light">
-        <p class="section-eyebrow section-eyebrow--light">Equipamiento</p>
-        <h2 class="section-title section-title--light">Cada detalle importa</h2>
+      <div class="section-header reveal">
+        <p class="eyebrow eyebrow--light">Equipamiento incluido</p>
+        <h2 class="section-title section-title--light">Todo lo que necesitás.<br />Sin cargar nada extra.</h2>
       </div>
       <div class="features__grid">
-        <div class="feature-item">
-          <div class="feature-item__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
-          </div>
-          <h3>Cama fija</h3>
-          <p>Colchón de alta densidad con somier de láminas. Sin necesidad de convertir todos los días.</p>
+        <div class="feat reveal">
+          <div class="feat__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+          <h3>Cama fija 200×140</h3>
+          <p>Colchón premium de alta densidad. Sin armar ni desarmar cada noche.</p>
         </div>
-        <div class="feature-item">
-          <div class="feature-item__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>
-          </div>
-          <h3>Sistema eléctrico</h3>
-          <p>Paneles solares, baterías LiFePO₄ y inversor para total autonomía energética.</p>
+        <div class="feat reveal" style="--delay:.07s">
+          <div class="feat__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg></div>
+          <h3>400W solar + 200Ah</h3>
+          <p>Paneles solares y batería LiFePO₄ para autonomía eléctrica total.</p>
         </div>
-        <div class="feature-item">
-          <div class="feature-item__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/></svg>
-          </div>
-          <h3>Agua caliente</h3>
-          <p>Sistema de agua fría y caliente con calentador instantáneo. Ducha exterior opcional.</p>
+        <div class="feat reveal" style="--delay:.14s">
+          <div class="feat__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 2.69l5.66 5.66a8 8 0 11-11.31 0z"/></svg></div>
+          <h3>Agua fría y caliente</h3>
+          <p>Depósito de 80L con calentador instantáneo. Ducha interior incluida.</p>
         </div>
-        <div class="feature-item">
-          <div class="feature-item__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3v1m0 16v1M3 12h1m16 0h1M5.636 5.636l.707.707M17.657 17.657l.707.707M5.636 18.364l.707-.707M17.657 6.343l.707-.707M12 8a4 4 0 100 8 4 4 0 000-8z"/></svg>
-          </div>
+        <div class="feat reveal" style="--delay:.04s">
+          <div class="feat__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M18 8h1a4 4 0 010 8h-1M2 8h16v9a4 4 0 01-4 4H6a4 4 0 01-4-4V8zM6 1v3M10 1v3M14 1v3"/></svg></div>
+          <h3>Cocina completa</h3>
+          <p>2 hornallas a gas, fregadero, heladera y mesada de preparación.</p>
+        </div>
+        <div class="feat reveal" style="--delay:.11s">
+          <div class="feat__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 3v1m0 16v1M3 12h1m16 0h1M5.636 5.636l.707.707M17.657 17.657l.707.707M5.636 18.364l.707-.707M17.657 6.343l.707-.707M12 8a4 4 0 100 8 4 4 0 000-8z"/></svg></div>
           <h3>Climatización</h3>
-          <p>Aislamiento de alta densidad y ventilador de techo Maxxair o Dometic para regulación térmica.</p>
+          <p>Aislamiento premium y ventilador de techo Dometic para todo clima.</p>
         </div>
-        <div class="feature-item">
-          <div class="feature-item__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7m0 10a2 2 0 002 2h2a2 2 0 002-2V7a2 2 0 00-2-2h-2a2 2 0 00-2 2"/></svg>
-          </div>
-          <h3>Almacenamiento inteligente</h3>
-          <p>Cada centímetro aprovechado. Cajones, armarios y compartimentos ocultos bajo el suelo.</p>
-        </div>
-        <div class="feature-item">
-          <div class="feature-item__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
-          </div>
-          <h3>Domótica 12V</h3>
-          <p>Control de luces, monitor de batería y enchufes USB-C desde una pantalla táctil.</p>
+        <div class="feat reveal" style="--delay:.18s">
+          <div class="feat__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .84h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 8.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg></div>
+          <h3>Soporte 24/7</h3>
+          <p>Asistencia en ruta disponible durante todo tu viaje. Sin excepciones.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- PROCESO -->
-  <section class="process" id="proceso">
-    <div class="container">
-      <div class="section-header">
-        <p class="section-eyebrow">Cómo Trabajamos</p>
-        <h2 class="section-title">Tu van en 4 pasos</h2>
-      </div>
-      <div class="process__steps">
-        <div class="process__step">
-          <div class="process__num">01</div>
-          <div class="process__content">
-            <h3>Consulta inicial</h3>
-            <p>Hablamos de tus viajes, necesidades y presupuesto. Sin compromiso y totalmente gratuita.</p>
-          </div>
-        </div>
-        <div class="process__connector"></div>
-        <div class="process__step">
-          <div class="process__num">02</div>
-          <div class="process__content">
-            <h3>Diseño 3D</h3>
-            <p>Creamos el plano de tu furgoneta con renders 3D para que apruebes cada detalle antes de empezar.</p>
-          </div>
-        </div>
-        <div class="process__connector"></div>
-        <div class="process__step">
-          <div class="process__num">03</div>
-          <div class="process__content">
-            <h3>Construcción</h3>
-            <p>Entre 6 y 10 semanas de trabajo artesanal con actualizaciones semanales por foto y vídeo.</p>
-          </div>
-        </div>
-        <div class="process__connector"></div>
-        <div class="process__step">
-          <div class="process__num">04</div>
-          <div class="process__content">
-            <h3>Entrega y formación</h3>
-            <p>Visita al taller, revisión completa y formación sobre todos los sistemas antes de llevarte las llaves.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- GALERÍA -->
+  <!-- ═══════════════════════════════════════════════════
+       GALLERY — film strips animados
+  ═══════════════════════════════════════════════════ -->
   <section class="gallery" id="galeria">
     <div class="container">
-      <div class="section-header">
-        <p class="section-eyebrow">Galería</p>
-        <h2 class="section-title">Construido con pasión</h2>
+      <div class="section-header reveal">
+        <p class="eyebrow">Destinos</p>
+        <h2 class="section-title">El mundo es tuyo.<br /><em>Salí a descubrirlo.</em></h2>
+        <p class="section-sub">Rutas de montaña, lagos, desiertos, costas — la van va donde vos querés.</p>
       </div>
     </div>
-    <div class="gallery__grid">
-      <div class="gallery__item gallery__item--tall" style="background-image: url('assets/gallery-1.jpg')">
-        <div class="gallery__overlay"><span>Interior Summit</span></div>
+    <div class="film-strip film-strip--left">
+      <div class="film-strip__track">
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Patagonia</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Los Andes</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Valles del norte</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Cielos estrellados</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Lagos del sur</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Bosques nativos</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Rutas perdidas</span></div></div>
+        <!-- duplicate for seamless loop -->
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Patagonia</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Los Andes</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Valles del norte</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Cielos estrellados</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Lagos del sur</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Bosques nativos</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Rutas perdidas</span></div></div>
       </div>
-      <div class="gallery__item" style="background-image: url('assets/gallery-2.jpg')">
-        <div class="gallery__overlay"><span>Cocina Explorer</span></div>
-      </div>
-      <div class="gallery__item" style="background-image: url('assets/gallery-3.jpg')">
-        <div class="gallery__overlay"><span>Zona de descanso</span></div>
-      </div>
-      <div class="gallery__item gallery__item--wide" style="background-image: url('assets/gallery-4.jpg')">
-        <div class="gallery__overlay"><span>Exterior Summit en ruta</span></div>
-      </div>
-      <div class="gallery__item" style="background-image: url('assets/gallery-5.jpg')">
-        <div class="gallery__overlay"><span>Detalle carpintería</span></div>
-      </div>
-      <div class="gallery__item" style="background-image: url('assets/gallery-6.jpg')">
-        <div class="gallery__overlay"><span>Sistema solar</span></div>
+    </div>
+    <div class="film-strip film-strip--right">
+      <div class="film-strip__track">
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Atardeceres</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Glaciares</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1469521667766-4b8e2f721e0b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Vía Láctea</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Cañones</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1530432540370-9fdc1b5dc31e?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Nieve y silencio</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Acampe libre</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Amanecer</span></div></div>
+        <!-- duplicate -->
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Atardeceres</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Glaciares</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1469521667766-4b8e2f721e0b?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Vía Láctea</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Cañones</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1530432540370-9fdc1b5dc31e?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Nieve y silencio</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Acampe libre</span></div></div>
+        <div class="film-frame" style="background-image:url('https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=520&fit=crop&q=80')"><div class="film-frame__label"><span>Amanecer</span></div></div>
       </div>
     </div>
   </section>
 
-  <!-- TESTIMONIOS -->
-  <section class="testimonials">
+  <!-- ═══════════════════════════════════════════════════
+       CTA BANNER (parallax photo)
+  ═══════════════════════════════════════════════════ -->
+  <section class="cta-banner">
+    <div class="cta-banner__bg" id="ctaBannerBg"></div>
+    <div class="cta-banner__overlay"></div>
+    <div class="cta-banner__content reveal">
+      <p class="cta-banner__eyebrow">Terra Campers</p>
+      <blockquote class="cta-banner__quote">
+        "La carretera no termina.<br />Solo cambia de nombre."
+      </blockquote>
+      <a href="#reserva" class="btn btn--primary btn--lg">Reservá tu aventura</a>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════
+       CÓMO ALQUILAR
+  ═══════════════════════════════════════════════════ -->
+  <section class="process" id="como-alquilar">
     <div class="container">
-      <div class="section-header">
-        <p class="section-eyebrow">Testimonios</p>
-        <h2 class="section-title">Lo que dicen nuestros viajeros</h2>
+      <div class="section-header reveal">
+        <p class="eyebrow">Cómo Alquilar</p>
+        <h2 class="section-title">Tres pasos<br />hacia la libertad</h2>
       </div>
-      <div class="testimonials__grid">
-        <div class="testimonial">
-          <div class="testimonial__stars">★★★★★</div>
-          <p class="testimonial__text">"Terra Campers superó todas mis expectativas. La calidad de construcción es increíble y el equipo siempre estuvo disponible para resolver dudas. Llevamos 8 meses viajando por Europa y la van funciona perfecta."</p>
-          <div class="testimonial__author">
-            <div class="testimonial__avatar">ML</div>
-            <div>
-              <strong>María López</strong>
-              <span>Explorer — Madrid</span>
-            </div>
+      <div class="process__grid">
+        <div class="process-step reveal">
+          <div class="process-step__num">01</div>
+          <div class="process-step__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          </div>
+          <h3>Elegí tus fechas</h3>
+          <p>Consultá disponibilidad y reservá con anticipación. Atendemos por WhatsApp y email todos los días.</p>
+        </div>
+        <div class="process__connector reveal" style="--delay:.1s">
+          <div class="process__line"></div>
+          <svg viewBox="0 0 24 24" width="20" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+        <div class="process-step reveal" style="--delay:.15s">
+          <div class="process-step__num">02</div>
+          <div class="process-step__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+          </div>
+          <h3>Coordinamos la entrega</h3>
+          <p>Te mostramos la van, te explicamos todos los sistemas y firmamos el contrato. Sin sorpresas.</p>
+        </div>
+        <div class="process__connector reveal" style="--delay:.25s">
+          <div class="process__line"></div>
+          <svg viewBox="0 0 24 24" width="20" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+        <div class="process-step reveal" style="--delay:.3s">
+          <div class="process-step__num">03</div>
+          <div class="process-step__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <h3>Salís a la ruta</h3>
+          <p>Viajás libre con soporte 24/7. Estamos disponibles durante toda tu aventura.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════
+       TESTIMONIOS
+  ═══════════════════════════════════════════════════ -->
+  <section class="reviews">
+    <div class="container">
+      <div class="section-header reveal">
+        <p class="eyebrow eyebrow--light">Testimonios</p>
+        <h2 class="section-title section-title--light">Lo que dicen<br />nuestros viajeros</h2>
+      </div>
+      <div class="reviews__grid">
+        <div class="review reveal">
+          <div class="review__stars">★★★★★</div>
+          <p class="review__text">"La van superó todas mis expectativas. Viajamos por la Patagonia 12 días y nunca nos faltó nada. La cama es increíblemente cómoda y el sistema solar aguantó perfectamente."</p>
+          <div class="review__author">
+            <div class="review__avatar">ML</div>
+            <div><strong>María López</strong><span>Patagonia — 12 días</span></div>
           </div>
         </div>
-        <div class="testimonial testimonial--featured">
-          <div class="testimonial__stars">★★★★★</div>
-          <p class="testimonial__text">"El diseño 3D antes de empezar fue clave. Pude cambiar varias cosas antes de que cortaran madera. El resultado final es exactamente lo que imaginé, pero mejor. Totalmente recomendable."</p>
-          <div class="testimonial__author">
-            <div class="testimonial__avatar">CA</div>
-            <div>
-              <strong>Carlos Almendros</strong>
-              <span>Summit — Barcelona</span>
-            </div>
+        <div class="review review--featured reveal" style="--delay:.12s">
+          <div class="review__stars">★★★★★</div>
+          <p class="review__text">"La mejor decisión de nuestras vacaciones. La van tiene todo lo que necesitás: es espaciosa, bien equipada y muy cómoda. El trato fue excelente de principio a fin. ¡Ya reservamos para el año que viene!"</p>
+          <div class="review__author">
+            <div class="review__avatar">CA</div>
+            <div><strong>Carlos & Ana</strong><span>Mendoza y Bariloche — 10 días</span></div>
           </div>
         </div>
-        <div class="testimonial">
-          <div class="testimonial__stars">★★★★★</div>
-          <p class="testimonial__text">"Empecé con el modelo Base Camp para probar y ya estoy encargando un Summit. El servicio posventa es excelente, me ayudaron con una pequeña avería en mitad de un viaje por teléfono."</p>
-          <div class="testimonial__author">
-            <div class="testimonial__avatar">SR</div>
-            <div>
-              <strong>Sara Rivas</strong>
-              <span>Base Camp — Valencia</span>
-            </div>
+        <div class="review reveal" style="--delay:.24s">
+          <div class="review__stars">★★★★★</div>
+          <p class="review__text">"Fuimos por primera vez en casa rodante y nos enganchó para siempre. La comodidad de tener tu casa en cualquier ruta es incomparable. El soporte 24/7 da mucha tranquilidad."</p>
+          <div class="review__author">
+            <div class="review__avatar">SR</div>
+            <div><strong>Santiago Rivas</strong><span>Ruta 40 — 8 días</span></div>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- CONTACTO -->
-  <section class="contact" id="contacto">
-    <div class="contact__inner container">
-      <div class="contact__text">
-        <p class="section-eyebrow section-eyebrow--light">Contacto</p>
-        <h2 class="section-title section-title--light">¿Listo para la<br />aventura?</h2>
-        <p class="contact__body">Cuéntanos qué tienes en mente. Te respondemos en menos de 24 horas con una primera propuesta.</p>
-        <div class="contact__info">
-          <div class="contact__info-item">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
-            <span>hola@terracampers.es</span>
-          </div>
-          <div class="contact__info-item">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-            <span>+34 600 123 456</span>
-          </div>
-          <div class="contact__info-item">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
-            <span>Polígono Industrial Norte, Nave 12<br />28080 Madrid</span>
-          </div>
-        </div>
-        <div class="contact__social">
-          <a href="#" class="social-link">
-            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  <!-- ═══════════════════════════════════════════════════
+       RESERVA / CONTACTO
+  ═══════════════════════════════════════════════════ -->
+  <section class="booking" id="reserva">
+    <div class="booking__inner container">
+      <div class="booking__text reveal">
+        <p class="eyebrow eyebrow--light">Reservas</p>
+        <h2 class="section-title section-title--light">¿Listo para<br />la aventura?</h2>
+        <p class="booking__body">Contanos cuándo querés salir y te respondemos en menos de 24 horas con disponibilidad y precio.</p>
+        <div class="booking__info">
+          <a href="https://wa.me/5491100000000" class="booking__contact-item">
+            <svg viewBox="0 0 24 24" fill="currentColor" width="18"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            <span>WhatsApp</span>
           </a>
-          <a href="#" class="social-link">
-            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          <a href="mailto:hola@terracampers.com.ar" class="booking__contact-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="18"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+            <span>hola@terracampers.com.ar</span>
           </a>
-          <a href="#" class="social-link">
-            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.32 6.32 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.79 1.54V6.77a4.85 4.85 0 01-1.02-.08z"/></svg>
-          </a>
+          <div class="booking__contact-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="18"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            <span>Argentina</span>
+          </div>
         </div>
       </div>
-      <div class="contact__form-wrap">
-        <form class="contact-form" id="contactForm" novalidate>
+      <div class="booking__form-wrap reveal" style="--delay:.2s">
+        <form class="booking-form" id="bookingForm" novalidate>
           <div class="form-row">
             <div class="form-group">
-              <label for="name">Nombre</label>
-              <input type="text" id="name" name="name" placeholder="Tu nombre" required />
+              <label for="bName">Nombre</label>
+              <input type="text" id="bName" name="name" placeholder="Tu nombre" required />
             </div>
             <div class="form-group">
-              <label for="email">Email</label>
-              <input type="email" id="email" name="email" placeholder="tu@email.com" required />
+              <label for="bEmail">Email</label>
+              <input type="email" id="bEmail" name="email" placeholder="tu@email.com" required />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="bFrom">Fecha de salida</label>
+              <input type="date" id="bFrom" name="from" required />
+            </div>
+            <div class="form-group">
+              <label for="bTo">Fecha de regreso</label>
+              <input type="date" id="bTo" name="to" required />
             </div>
           </div>
           <div class="form-group">
-            <label for="phone">Teléfono (opcional)</label>
-            <input type="tel" id="phone" name="phone" placeholder="+34 600 000 000" />
+            <label for="bDest">Destino o Ruta</label>
+            <input type="text" id="bDest" name="destination" placeholder="Ej: Patagonia, Ruta 40, Mendoza..." />
           </div>
           <div class="form-group">
-            <label for="model">Modelo de interés</label>
-            <select id="model" name="model">
-              <option value="">Selecciona un modelo</option>
-              <option>Base Camp — Desde 11.000 €</option>
-              <option>Explorer — Desde 18.500 €</option>
-              <option>Summit — Desde 28.000 €</option>
-              <option>Proyecto personalizado</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <label for="message">Cuéntanos tu proyecto</label>
-            <textarea id="message" name="message" rows="4" placeholder="Háblanos de tu furgoneta, tus viajes habituales, si ya tienes la van o quieres que te asesoremos..."></textarea>
+            <label for="bMsg">Mensaje (opcional)</label>
+            <textarea id="bMsg" name="message" rows="3" placeholder="Contanos tu aventura, dudas o lo que necesitás saber..."></textarea>
           </div>
           <button type="submit" class="btn btn--primary btn--full btn--lg">
-            <span class="btn__text">Enviar Solicitud</span>
-            <span class="btn__icon">→</span>
+            <span class="btn__text">Enviar Consulta</span>
+            <svg class="btn__arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
           </button>
-          <p class="form-note">Sin compromiso. Respondemos en menos de 24h.</p>
+          <p class="form-note">Sin compromiso · Respondemos en menos de 24 hs.</p>
           <div class="form-success" id="formSuccess" hidden>
-            <span>✓</span> ¡Mensaje enviado! Te contactaremos muy pronto.
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20 6L9 17l-5-5"/></svg>
+            ¡Consulta enviada! Te respondemos muy pronto.
           </div>
         </form>
       </div>
     </div>
   </section>
 
-  <!-- FOOTER -->
+  <!-- ═══════════════════════════════════════════════════
+       FOOTER
+  ═══════════════════════════════════════════════════ -->
   <footer class="footer">
     <div class="footer__inner container">
       <div class="footer__brand">
-        <p class="footer__logo">
-          <span>TERRA</span> <span class="footer__logo-campers">CAMPERS</span>
-        </p>
-        <p class="footer__tagline">Vive la aventura sin renunciar al hogar.</p>
-        <span class="footer__badge">▲</span>
+        <img src="assets/logo.png" alt="Terra Campers" class="footer__logo-img"
+             onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+        <div class="footer__logo-text" style="display:none">
+          <span>TERRA</span> <span class="footer__logo-accent">CAMPERS</span>
+        </div>
+        <p class="footer__tagline">Tu hogar sobre ruedas.</p>
+        <div class="footer__social">
+          <a href="#" class="social-btn" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="TikTok">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.32 6.32 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.79 1.54V6.77a4.85 4.85 0 01-1.02-.08z"/></svg>
+          </a>
+        </div>
       </div>
       <div class="footer__links">
-        <h4>Navegación</h4>
+        <h4>La Van</h4>
         <ul>
-          <li><a href="#nosotros">Nosotros</a></li>
-          <li><a href="#modelos">Modelos</a></li>
+          <li><a href="#la-van">Exterior</a></li>
+          <li><a href="#la-van">Interior</a></li>
           <li><a href="#equipamiento">Equipamiento</a></li>
-          <li><a href="#galeria">Galería</a></li>
-          <li><a href="#contacto">Contacto</a></li>
         </ul>
       </div>
       <div class="footer__links">
-        <h4>Modelos</h4>
+        <h4>Alquilar</h4>
         <ul>
-          <li><a href="#modelos">Base Camp</a></li>
-          <li><a href="#modelos">Explorer</a></li>
-          <li><a href="#modelos">Summit</a></li>
-          <li><a href="#contacto">Personalizado</a></li>
+          <li><a href="#como-alquilar">Cómo funciona</a></li>
+          <li><a href="#reserva">Reservar</a></li>
+          <li><a href="https://wa.me/5491100000000">WhatsApp</a></li>
         </ul>
       </div>
       <div class="footer__links">
         <h4>Legal</h4>
         <ul>
-          <li><a href="#">Aviso Legal</a></li>
-          <li><a href="#">Política de Privacidad</a></li>
-          <li><a href="#">Cookies</a></li>
+          <li><a href="#">Términos</a></li>
+          <li><a href="#">Privacidad</a></li>
         </ul>
       </div>
     </div>
     <div class="footer__bottom">
-      <p>© 2025 Terra Campers. Todos los derechos reservados.</p>
+      <p>© 2025 Terra Campers · Todos los derechos reservados</p>
+      <p class="footer__love">Hecho con ♥ para los que eligen la ruta</p>
     </div>
   </footer>
 
