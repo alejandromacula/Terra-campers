@@ -205,41 +205,87 @@ input, select, textarea { font-size: 16px !important; }
 }
 @supports not (height: 100svh) { .hero { height: 100vh; } }
 
-/* ── All hero layers share the same base ── */
+/* ── Base for all parallax layers ── */
+/* Extra room (7%) on every side so parallax shift never reveals edges */
 .hero__layer {
   position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
+  inset: -7%;
+  width: 114%;
+  height: 114%;
   will-change: transform;
   pointer-events: none;
 }
 
-/* ── LAYER 1: Sky gradient ── */
-.hero__sky {
+.hero__layer img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ── CAPA 1: fondo lejano (cielo + montañas) ── */
+.hero__bg-photo {
   z-index: 1;
-  background:
-    radial-gradient(ellipse 55% 40% at 50% 88%, rgba(196,92,26,.20) 0%, transparent 60%),
-    radial-gradient(ellipse 100% 55% at 50% 100%, #10201a 0%, #0d1828 35%, #07101e 65%, #050810 100%);
+}
+.hero__bg-photo img {
+  object-position: center 35%;
+  filter: brightness(.7) saturate(.85);
 }
 
-/* ── LAYER 2 & 3: Mountain SVGs ── */
-.hero__mtns-far  { z-index: 2; }
-.hero__mtns-near { z-index: 3; }
+/* ── CAPA 2: montañas medias ── */
+/* Mask: top is transparent → sólo se ve la mitad inferior (silueta) */
+.hero__mid-photo {
+  z-index: 2;
+  -webkit-mask-image: linear-gradient(to bottom,
+    transparent  0%,
+    transparent 30%,
+    black       55%,
+    black      100%);
+  mask-image: linear-gradient(to bottom,
+    transparent  0%,
+    transparent 30%,
+    black       55%,
+    black      100%);
+}
+.hero__mid-photo img {
+  object-position: center bottom;
+  filter: brightness(.45) saturate(.65);
+}
 
-/* ── LAYER 4: Mist / depth haze ── */
+/* ── CAPA 3: neblina ── */
 .hero__mist {
-  z-index: 4;
+  z-index: 3;
+  /* Override inset: keep at 0 — mist doesn't need parallax room */
+  inset: 0; width: 100%; height: 100%;
   background: linear-gradient(to top,
-    rgba(200,228,215,.09) 0%,
-    rgba(200,228,215,.03) 18%,
-    transparent 38%);
+    rgba(210,230,220,.10)  0%,
+    rgba(210,230,220,.04) 20%,
+    transparent           42%);
 }
 
-/* ── LAYER 5: Van SVG (foreground) ── */
-.hero__van { z-index: 6; }
+/* ── CAPA 4: primer plano (van en ruta) ── */
+/* Mask: sólo el tercio inferior es visible → la van emerge del suelo */
+.hero__fg-photo {
+  z-index: 4;
+  -webkit-mask-image: linear-gradient(to bottom,
+    transparent  0%,
+    transparent 48%,
+    rgba(0,0,0,.5) 58%,
+    black        68%,
+    black       100%);
+  mask-image: linear-gradient(to bottom,
+    transparent  0%,
+    transparent 48%,
+    rgba(0,0,0,.5) 58%,
+    black        68%,
+    black       100%);
+}
+.hero__fg-photo img {
+  object-position: center bottom;
+  filter: brightness(.6) saturate(.8);
+}
 
-/* ── Vignette overlay ── */
+/* ── Vignette (encima de las fotos) ── */
 .hero__vignette {
   position: absolute;
   inset: 0;
@@ -247,13 +293,13 @@ input, select, textarea { font-size: 16px !important; }
   pointer-events: none;
   background:
     linear-gradient(to bottom,
-      rgba(5,8,16,.65)  0%,
-      rgba(5,8,16,.08) 28%,
-      rgba(5,8,16,.08) 55%,
-      rgba(5,8,16,.82) 100%),
+      rgba(5,8,16,.72) 0%,
+      rgba(5,8,16,.10) 25%,
+      rgba(5,8,16,.10) 55%,
+      rgba(5,8,16,.88) 100%),
     linear-gradient(to right,
-      rgba(5,8,16,.28) 0%, transparent 12%,
-      transparent 88%, rgba(5,8,16,.28) 100%);
+      rgba(5,8,16,.3) 0%, transparent 14%,
+      transparent 86%, rgba(5,8,16,.3) 100%);
 }
 
 /* ── Particles canvas ── */
@@ -266,7 +312,7 @@ input, select, textarea { font-size: 16px !important; }
   z-index: 8;
 }
 
-/* ── LAYER 6: Text content ── */
+/* ── Texto (sobre todo) ── */
 .hero__content {
   position: absolute;
   inset: 0;
