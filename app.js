@@ -57,29 +57,75 @@ navLinks.querySelectorAll('a').forEach(a => {
   });
 });
 
-/* ── 3. Hero parallax (desktop only) ── */
+/* ── 3. Mouse + scroll parallax (Slider Revolution style) ── */
 const isMobile = () => window.innerWidth <= 768 ||
   window.matchMedia('(hover: none) and (pointer: coarse)').matches;
-
-const heroLayers = [];
-document.querySelectorAll('[data-speed]').forEach(el => {
-  heroLayers.push({ el, speed: parseFloat(el.dataset.speed) });
-});
 
 const hero = document.getElementById('inicio');
 const heroH = () => hero ? hero.offsetHeight : window.innerHeight;
 
-function updateParallax() {
-  if (isMobile()) return;
-  const sy = window.scrollY;
-  if (sy > heroH() * 1.2) return;
-  heroLayers.forEach(({ el, speed }) => {
-    el.style.transform = `translateY(${sy * speed}px)`;
+// Collect parallax layers
+const parallaxLayers = [];
+document.querySelectorAll('[data-depth]').forEach(el => {
+  parallaxLayers.push({
+    el,
+    depth: parseFloat(el.dataset.depth),
+    speed: parseFloat(el.dataset.speed || 0),
+  });
+});
+
+// Lerp targets
+let mouseX = 0.5, mouseY = 0.5;   // normalized 0–1
+let lerpX = 0.5,  lerpY = 0.5;
+let scrollY = 0;
+
+// Mouse tracking (hero zone)
+document.addEventListener('mousemove', e => {
+  mouseX = e.clientX / window.innerWidth;
+  mouseY = e.clientY / window.innerHeight;
+}, { passive: true });
+
+window.addEventListener('scroll', () => {
+  scrollY = window.scrollY;
+}, { passive: true });
+
+const LERP_FACTOR = 0.06;
+const MOUSE_RANGE = 22; // max px shift from mouse at depth 1.0
+
+function lerp(a, b, t) { return a + (b - a) * t; }
+
+function tickParallax() {
+  requestAnimationFrame(tickParallax);
+
+  if (isMobile()) {
+    // On mobile: only apply vertical scroll parallax, no mouse effect
+    if (scrollY <= heroH() * 1.2) {
+      parallaxLayers.forEach(({ el, speed }) => {
+        el.style.transform = `translateY(${scrollY * speed}px)`;
+      });
+    }
+    return;
+  }
+
+  // Smooth mouse lerp
+  lerpX = lerp(lerpX, mouseX, LERP_FACTOR);
+  lerpY = lerp(lerpY, mouseY, LERP_FACTOR);
+
+  const dx = (lerpX - 0.5) * 2; // -1 to 1
+  const dy = (lerpY - 0.5) * 2;
+
+  parallaxLayers.forEach(({ el, speed, depth }) => {
+    const scrollShift = scrollY * speed;
+    const mx = dx * MOUSE_RANGE * depth;
+    const my = dy * MOUSE_RANGE * depth * 0.55; // less vertical range
+
+    if (scrollY <= heroH() * 1.2) {
+      el.style.transform = `translate(${mx.toFixed(2)}px, ${(scrollShift + my).toFixed(2)}px)`;
+    }
   });
 }
 
-window.addEventListener('scroll', updateParallax, { passive: true });
-updateParallax();
+tickParallax();
 
 /* ── 4. CTA banner parallax (desktop only) ── */
 const ctaBg = document.getElementById('ctaBannerBg');
@@ -137,13 +183,13 @@ if (strip) stripObs.observe(strip);
 
 /* ── 7. Cursor glow ── */
 const cursorGlow = document.getElementById('cursorGlow');
-let mouseX = 0, mouseY = 0, glowX = 0, glowY = 0;
+let glowMouseX = 0, glowMouseY = 0, glowX = 0, glowY = 0;
 let glowRaf = null;
 
 if (window.matchMedia('(pointer: fine)').matches) {
   document.addEventListener('mousemove', e => {
-    mouseX = e.clientX;
-    mouseY = e.clientY;
+    glowMouseX = e.clientX;
+    glowMouseY = e.clientY;
     cursorGlow.style.opacity = '1';
     if (!glowRaf) glowRaf = requestAnimationFrame(animateGlow);
   }, { passive: true });
@@ -153,8 +199,8 @@ if (window.matchMedia('(pointer: fine)').matches) {
   });
 
   function animateGlow() {
-    glowX += (mouseX - glowX) * 0.1;
-    glowY += (mouseY - glowY) * 0.1;
+    glowX += (glowMouseX - glowX) * 0.1;
+    glowY += (glowMouseY - glowY) * 0.1;
     cursorGlow.style.left = glowX + 'px';
     cursorGlow.style.top = glowY + 'px';
     glowRaf = requestAnimationFrame(animateGlow);
@@ -164,7 +210,7 @@ if (window.matchMedia('(pointer: fine)').matches) {
 /* ── 8. Interior horizontal drag scroll ── */
 const track = document.getElementById('interiorTrack');
 if (track) {
-  let isDown = false, startX = 0, scrollLeft = 0;
+  let isDown = false, startX = 0, trackScrollLeft = 0;
 
   const endDrag = () => {
     isDown = false;
@@ -175,23 +221,23 @@ if (track) {
     isDown = true;
     track.classList.add('dragging');
     startX = e.pageX - track.offsetLeft;
-    scrollLeft = track.scrollLeft;
+    trackScrollLeft = track.scrollLeft;
   });
   track.addEventListener('mousemove', e => {
     if (!isDown) return;
     e.preventDefault();
     const x = e.pageX - track.offsetLeft;
-    track.scrollLeft = scrollLeft - (x - startX) * 1.4;
+    track.scrollLeft = trackScrollLeft - (x - startX) * 1.4;
   });
   track.addEventListener('mouseup', endDrag);
   track.addEventListener('mouseleave', endDrag);
 
   track.addEventListener('touchstart', e => {
     startX = e.touches[0].pageX;
-    scrollLeft = track.scrollLeft;
+    trackScrollLeft = track.scrollLeft;
   }, { passive: true });
   track.addEventListener('touchmove', e => {
-    track.scrollLeft = scrollLeft - (e.touches[0].pageX - startX);
+    track.scrollLeft = trackScrollLeft - (e.touches[0].pageX - startX);
   }, { passive: true });
 }
 
@@ -223,8 +269,8 @@ window.addEventListener('scroll', () => {
 /* ── 11. Film strip pause on intersection ── */
 const filmObs = new IntersectionObserver(entries => {
   entries.forEach(e => {
-    e.target.querySelectorAll('.film-strip__track').forEach(track => {
-      track.style.animationPlayState = e.isIntersecting ? 'running' : 'paused';
+    e.target.querySelectorAll('.film-strip__track').forEach(t => {
+      t.style.animationPlayState = e.isIntersecting ? 'running' : 'paused';
     });
   });
 }, { threshold: 0.05 });
@@ -283,7 +329,125 @@ document.querySelectorAll('a[href^="#"]').forEach(a => {
   });
 });
 
-/* ── 14. Intro load animation class ── */
+/* ── 14. Atmospheric particles ── */
+class AtmosphericParticles {
+  constructor(canvas) {
+    this.canvas = canvas;
+    this.ctx = canvas.getContext('2d');
+    this.particles = [];
+    this.resize();
+    this.init();
+    window.addEventListener('resize', () => this.resize(), { passive: true });
+    this.tick();
+  }
+
+  resize() {
+    this.canvas.width  = this.canvas.offsetWidth;
+    this.canvas.height = this.canvas.offsetHeight;
+  }
+
+  init() {
+    this.particles = [];
+    const count = Math.floor((this.canvas.width * this.canvas.height) / 14000);
+    for (let i = 0; i < count; i++) {
+      this.particles.push(this.spawn(true));
+    }
+  }
+
+  spawn(anywhere) {
+    const x = Math.random() * this.canvas.width;
+    const y = anywhere
+      ? Math.random() * this.canvas.height
+      : this.canvas.height + 4;
+    return {
+      x, y,
+      r: 0.4 + Math.random() * 1.2,
+      vx: (Math.random() - 0.5) * 0.25,
+      vy: -(0.15 + Math.random() * 0.35),
+      alpha: 0.05 + Math.random() * 0.25,
+      life: 0,
+      maxLife: 180 + Math.random() * 240,
+    };
+  }
+
+  tick() {
+    requestAnimationFrame(() => this.tick());
+
+    // Only animate when hero is visible
+    if (window.scrollY > this.canvas.offsetHeight * 1.1) return;
+
+    const { ctx, canvas } = this;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    for (let i = this.particles.length - 1; i >= 0; i--) {
+      const p = this.particles[i];
+      p.x  += p.vx;
+      p.y  += p.vy;
+      p.life++;
+
+      const progress = p.life / p.maxLife;
+      // Fade in then out
+      const fade = progress < 0.15
+        ? progress / 0.15
+        : progress > 0.75
+          ? 1 - (progress - 0.75) / 0.25
+          : 1;
+
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(242,237,228,${(p.alpha * fade).toFixed(3)})`;
+      ctx.fill();
+
+      if (p.life >= p.maxLife || p.y < -4) {
+        this.particles[i] = this.spawn(false);
+      }
+    }
+  }
+}
+
+const particleCanvas = document.getElementById('heroParticles');
+if (particleCanvas && !isMobile()) {
+  new AtmosphericParticles(particleCanvas);
+}
+
+/* ── 15. Word-split hero title animation ── */
+function wrapWords(el) {
+  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+  const textNodes = [];
+  let node;
+  while ((node = walker.nextNode())) textNodes.push(node);
+
+  textNodes.forEach(tn => {
+    const frag = document.createDocumentFragment();
+    const words = tn.textContent.split(/(\s+)/);
+    words.forEach(part => {
+      if (/^\s+$/.test(part)) {
+        frag.appendChild(document.createTextNode(part));
+      } else if (part) {
+        const span = document.createElement('span');
+        span.className = 'word';
+        const inner = document.createElement('span');
+        inner.className = 'word__inner';
+        inner.textContent = part;
+        span.appendChild(inner);
+        frag.appendChild(span);
+      }
+    });
+    tn.parentNode.replaceChild(frag, tn);
+  });
+}
+
+const heroTitle = document.getElementById('heroTitle');
+if (heroTitle) {
+  wrapWords(heroTitle);
+
+  // Stagger the animation delay on each word
+  heroTitle.querySelectorAll('.word__inner').forEach((w, i) => {
+    w.style.animationDelay = `${0.15 + i * 0.12}s`;
+  });
+}
+
+/* ── 16. Intro load animation class ── */
 document.addEventListener('DOMContentLoaded', () => {
   document.body.classList.remove('loading');
 });
