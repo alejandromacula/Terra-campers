@@ -199,59 +199,85 @@ input, select, textarea { font-size: 16px !important; }
 .hero {
   position: relative;
   height: 100svh;
-  min-height: 580px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  min-height: 600px;
   overflow: hidden;
-  background: var(--black);
+  background: #050810;
 }
 @supports not (height: 100svh) { .hero { height: 100vh; } }
 
-/* Photo background */
-.hero__bg {
+/* ── All hero layers share the same base ── */
+.hero__layer {
   position: absolute;
-  inset: -6%;
-  z-index: 1;
-  will-change: transform;
-}
-.hero__bg-img {
+  inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  will-change: transform;
+  pointer-events: none;
 }
 
-/* Gradient overlay */
+/* ── LAYER 1: Sky gradient ── */
+.hero__sky {
+  z-index: 1;
+  background:
+    radial-gradient(ellipse 55% 40% at 50% 88%, rgba(196,92,26,.20) 0%, transparent 60%),
+    radial-gradient(ellipse 100% 55% at 50% 100%, #10201a 0%, #0d1828 35%, #07101e 65%, #050810 100%);
+}
+
+/* ── LAYER 2 & 3: Mountain SVGs ── */
+.hero__mtns-far  { z-index: 2; }
+.hero__mtns-near { z-index: 3; }
+
+/* ── LAYER 4: Mist / depth haze ── */
+.hero__mist {
+  z-index: 4;
+  background: linear-gradient(to top,
+    rgba(200,228,215,.09) 0%,
+    rgba(200,228,215,.03) 18%,
+    transparent 38%);
+}
+
+/* ── LAYER 5: Van SVG (foreground) ── */
+.hero__van { z-index: 6; }
+
+/* ── Vignette overlay ── */
 .hero__vignette {
   position: absolute;
   inset: 0;
-  z-index: 2;
+  z-index: 7;
+  pointer-events: none;
   background:
     linear-gradient(to bottom,
-      rgba(7,9,9,.55) 0%,
-      rgba(7,9,9,.15) 35%,
-      rgba(7,9,9,.55) 70%,
-      rgba(7,9,9,.88) 100%);
+      rgba(5,8,16,.65)  0%,
+      rgba(5,8,16,.08) 28%,
+      rgba(5,8,16,.08) 55%,
+      rgba(5,8,16,.82) 100%),
+    linear-gradient(to right,
+      rgba(5,8,16,.28) 0%, transparent 12%,
+      transparent 88%, rgba(5,8,16,.28) 100%);
 }
 
-/* Particles canvas */
+/* ── Particles canvas ── */
 .hero__particles {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
   pointer-events: none;
-  z-index: 3;
+  z-index: 8;
 }
 
-/* Content */
+/* ── LAYER 6: Text content ── */
 .hero__content {
-  position: relative;
+  position: absolute;
+  inset: 0;
   z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
   text-align: center;
-  padding: var(--nav-h) 2rem 4rem;
-  width: 100%;
-  max-width: 1200px;
+  padding: calc(var(--nav-h) + 5vh) 2rem 6rem;
+  will-change: transform;
 }
 .hero__eyebrow {
   font-size: .68rem;
@@ -294,10 +320,10 @@ input, select, textarea { font-size: 16px !important; }
   animation: fadeUp .8s .85s both;
 }
 
-/* Hero animations */
+/* Hero animations (simple fades — JS drives the parallax transform) */
 @keyframes heroReveal {
-  from { opacity: 0; transform: translateY(50px) skewY(2deg); clip-path: inset(0 0 30% 0); }
-  to   { opacity: 1; transform: translateY(0) skewY(0); clip-path: inset(0 0 0% 0); }
+  from { opacity: 0; transform: translateY(40px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(18px); }

@@ -3,8 +3,8 @@
 ═══════════════════════════════════════════════════════ */
 
 /* ── 1. Nav scroll state ── */
-const nav    = document.getElementById('nav');
-const burger = document.getElementById('burger');
+const nav      = document.getElementById('nav');
+const burger   = document.getElementById('burger');
 const navLinks = document.getElementById('navLinks');
 
 window.addEventListener('scroll', () => {
@@ -24,7 +24,6 @@ burger.addEventListener('click', () => {
     spans.forEach(s => s.style.cssText = '');
   }
 });
-
 navLinks.querySelectorAll('a').forEach(a => {
   a.addEventListener('click', () => {
     navLinks.classList.remove('open');
@@ -33,40 +32,83 @@ navLinks.querySelectorAll('a').forEach(a => {
   });
 });
 
-/* ── 3. Hero photo mouse parallax ── */
+/* ══════════════════════════════════
+   3. MULTI-LAYER PARALLAX
+   Each layer has:
+     data-scroll → compensates scrollY (0=no compensation, 1=fully fixed)
+     data-mouse  → depth of mouse parallax (higher = more shift = foreground)
+══════════════════════════════════ */
 const isMobile = () => window.innerWidth <= 640 ||
   window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
-const heroBg = document.getElementById('heroBg');
-const hero   = document.getElementById('inicio');
-const heroH  = () => hero ? hero.offsetHeight : window.innerHeight;
+const heroEl = document.getElementById('inicio');
+const heroH  = () => heroEl ? heroEl.offsetHeight : window.innerHeight;
 
+// Collect all parallax layers (SVG layers + content)
+const layers = [];
+document.querySelectorAll('[data-scroll], [data-mouse]').forEach(el => {
+  layers.push({
+    el,
+    scroll: parseFloat(el.dataset.scroll || 0),
+    mouse:  parseFloat(el.dataset.mouse  || 0),
+  });
+});
+
+// Mouse lerp state
 let mouseX = 0.5, mouseY = 0.5;
 let lerpX  = 0.5, lerpY  = 0.5;
+const LERP    = 0.055;
+const M_RANGE = 20; // max px shift at mouse depth 1.0
 
 document.addEventListener('mousemove', e => {
   mouseX = e.clientX / window.innerWidth;
   mouseY = e.clientY / window.innerHeight;
 }, { passive: true });
 
-(function tickParallax() {
-  requestAnimationFrame(tickParallax);
-  if (isMobile() || window.scrollY > heroH() * 1.1) return;
+(function tick() {
+  requestAnimationFrame(tick);
 
-  lerpX += (mouseX - lerpX) * 0.055;
-  lerpY += (mouseY - lerpY) * 0.055;
+  const sy = window.scrollY;
 
-  const dx = (lerpX - 0.5) * 2; // -1 to 1
+  // Lerp mouse position
+  lerpX += (mouseX - lerpX) * LERP;
+  lerpY += (mouseY - lerpY) * LERP;
+  const dx = (lerpX - 0.5) * 2; // −1 … +1
   const dy = (lerpY - 0.5) * 2;
-  const range = 24;
 
-  if (heroBg) {
-    heroBg.style.transform =
-      `translate(${(dx * range).toFixed(2)}px, ${(dy * range * 0.5).toFixed(2)}px)`;
-  }
+  // Only apply while hero is even partially in view
+  const heroVisible = sy < heroH() * 1.15;
+
+  layers.forEach(({ el, scroll, mouse }) => {
+    // scrollY * scroll  →  higher value keeps layer "fixed" (background)
+    // low scroll value  →  layer exits viewport faster (foreground)
+    const scrollShift = sy * scroll;
+
+    if (isMobile() || !heroVisible) {
+      el.style.transform = `translateY(${scrollShift.toFixed(1)}px)`;
+      return;
+    }
+
+    const mx = dx * M_RANGE * mouse;
+    const my = dy * M_RANGE * mouse * 0.45;
+    el.style.transform =
+      `translate(${mx.toFixed(2)}px, ${(scrollShift + my).toFixed(2)}px)`;
+  });
 })();
 
-/* ── 4. Photo break scroll parallax ── */
+/* ── 4. Scroll reveal ── */
+const revealObs = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.classList.add('visible');
+      revealObs.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
+
+/* ── 5. Photo break scroll parallax ── */
 const photoBreakBg = document.getElementById('photoBreakBg');
 if (photoBreakBg) {
   const section = photoBreakBg.closest('.photo-break');
@@ -80,18 +122,6 @@ if (photoBreakBg) {
       `translateY(${((progress - 0.5) * -70).toFixed(2)}px)`;
   }, { passive: true });
 }
-
-/* ── 5. Scroll reveal ── */
-const revealObs = new IntersectionObserver(entries => {
-  entries.forEach(e => {
-    if (e.isIntersecting) {
-      e.target.classList.add('visible');
-      revealObs.unobserve(e.target);
-    }
-  });
-}, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
-
-document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
 
 /* ── 6. Counter animation ── */
 function animateCounter(el) {
@@ -109,13 +139,11 @@ function animateCounter(el) {
   };
   requestAnimationFrame(step);
 }
-
 const stripObs = new IntersectionObserver(entries => {
   if (!entries[0].isIntersecting) return;
   document.querySelectorAll('.strip__num[data-target]').forEach(animateCounter);
   stripObs.disconnect();
 }, { threshold: 0.5 });
-
 const strip = document.querySelector('.strip');
 if (strip) stripObs.observe(strip);
 
@@ -129,9 +157,7 @@ if (cursorGlow && window.matchMedia('(pointer: fine)').matches) {
     cursorGlow.style.opacity = '1';
     if (!glowRaf) glowRaf = requestAnimationFrame(tickGlow);
   }, { passive: true });
-  document.addEventListener('mouseleave', () => {
-    cursorGlow.style.opacity = '0';
-  });
+  document.addEventListener('mouseleave', () => { cursorGlow.style.opacity = '0'; });
   function tickGlow() {
     glowX += (gmX - glowX) * 0.1;
     glowY += (gmY - glowY) * 0.1;
@@ -146,12 +172,9 @@ const track = document.getElementById('interiorTrack');
 if (track) {
   let isDown = false, startX = 0, scrollLeft = 0;
   const endDrag = () => { isDown = false; track.classList.remove('dragging'); };
-
   track.addEventListener('mousedown', e => {
-    isDown = true;
-    track.classList.add('dragging');
-    startX = e.pageX - track.offsetLeft;
-    scrollLeft = track.scrollLeft;
+    isDown = true; track.classList.add('dragging');
+    startX = e.pageX - track.offsetLeft; scrollLeft = track.scrollLeft;
   });
   track.addEventListener('mousemove', e => {
     if (!isDown) return;
@@ -160,10 +183,8 @@ if (track) {
   });
   track.addEventListener('mouseup', endDrag);
   track.addEventListener('mouseleave', endDrag);
-
   track.addEventListener('touchstart', e => {
-    startX = e.touches[0].pageX;
-    scrollLeft = track.scrollLeft;
+    startX = e.touches[0].pageX; scrollLeft = track.scrollLeft;
   }, { passive: true });
   track.addEventListener('touchmove', e => {
     track.scrollLeft = scrollLeft - (e.touches[0].pageX - startX);
@@ -173,17 +194,6 @@ if (track) {
 /* ── 9. Active nav highlight ── */
 const sections   = document.querySelectorAll('section[id]');
 const navAnchors = document.querySelectorAll('.nav__links a[href^="#"]');
-
-new IntersectionObserver(entries => {
-  entries.forEach(e => {
-    if (e.isIntersecting) {
-      const id = e.target.id;
-      navAnchors.forEach(a => {
-        a.style.color = a.getAttribute('href') === `#${id}` ? 'var(--cream)' : '';
-      });
-    }
-  });
-}, { rootMargin: '-40% 0px -50% 0px' }).observe;
 sections.forEach(s => {
   new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
@@ -218,18 +228,18 @@ class Particles {
   }
   spawn(anywhere) {
     return {
-      x: Math.random() * this.canvas.width,
-      y: anywhere ? Math.random() * this.canvas.height : this.canvas.height + 4,
-      r: 0.4 + Math.random() * 1.1,
-      vx: (Math.random() - 0.5) * 0.2,
-      vy: -(0.12 + Math.random() * 0.3),
-      alpha: 0.06 + Math.random() * 0.22,
-      life: 0,
-      maxLife: 180 + Math.random() * 260,
+      x:       Math.random() * this.canvas.width,
+      y:       anywhere ? Math.random() * this.canvas.height : this.canvas.height + 4,
+      r:       0.35 + Math.random() * 1.1,
+      vx:      (Math.random() - 0.5) * 0.18,
+      vy:      -(0.10 + Math.random() * 0.28),
+      alpha:   0.05 + Math.random() * 0.20,
+      life:    0,
+      maxLife: 200 + Math.random() * 280,
     };
   }
   init() {
-    const count = Math.floor(this.canvas.width * this.canvas.height / 14000);
+    const count = Math.floor(this.canvas.width * this.canvas.height / 13000);
     this.pts = Array.from({ length: count }, () => this.spawn(true));
   }
   tick() {
@@ -240,11 +250,11 @@ class Particles {
     for (let i = this.pts.length - 1; i >= 0; i--) {
       const p = this.pts[i];
       p.x += p.vx; p.y += p.vy; p.life++;
-      const t = p.life / p.maxLife;
+      const t    = p.life / p.maxLife;
       const fade = t < 0.15 ? t / 0.15 : t > 0.75 ? 1 - (t - 0.75) / 0.25 : 1;
       ctx.beginPath();
       ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(240,235,226,${(p.alpha * fade).toFixed(3)})`;
+      ctx.fillStyle = `rgba(200,228,215,${(p.alpha * fade).toFixed(3)})`;
       ctx.fill();
       if (p.life >= p.maxLife || p.y < -4) this.pts[i] = this.spawn(false);
     }
@@ -261,8 +271,7 @@ document.querySelectorAll('a[href^="#"]').forEach(a => {
     const tgt = document.getElementById(id);
     if (!tgt) return;
     e.preventDefault();
-    const top = tgt.getBoundingClientRect().top + window.scrollY - 72;
-    window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+    window.scrollTo({ top: Math.max(0, tgt.getBoundingClientRect().top + window.scrollY - 72), behavior: 'smooth' });
   });
 });
 
@@ -272,7 +281,7 @@ const formSuccess = document.getElementById('formSuccess');
 
 if (bookingForm) {
   const emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  const shake = el => {
+  const shake   = el => {
     el.style.borderColor = 'var(--orange-lt)';
     el.focus();
     el.addEventListener('input', () => { el.style.borderColor = ''; }, { once: true });

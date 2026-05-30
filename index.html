@@ -36,14 +36,145 @@
 
   <!-- ═══ HERO ═══ -->
   <section class="hero" id="inicio">
-    <div class="hero__bg" id="heroBg">
-      <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop&q=80"
-           alt="" class="hero__bg-img" fetchpriority="high" />
-    </div>
-    <div class="hero__vignette"></div>
+
+    <!-- ── CAPA 1: cielo (la más lenta, el fondo más lejano) ── -->
+    <div class="hero__layer hero__sky" data-scroll="0.85" data-mouse="0.12" aria-hidden="true"></div>
+
+    <!-- ── CAPA 2: montañas lejanas (nieve, picos blancos) ── -->
+    <svg class="hero__layer hero__mtns-far" data-scroll="0.65" data-mouse="0.5"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+      <path fill="#cdc9c2" opacity="0.55"
+            d="M0,810 L80,752 L155,718 L220,685 L280,658 L330,632
+               L368,608 L405,582 L438,560 L464,544 L486,528
+               L506,514 L524,500 L542,487 L558,476 L572,466
+               L586,456 L599,447 L612,438 L625,430 L638,422
+               L650,414 L662,406 L674,399 L685,392 L695,386
+               L704,380 L712,374 L719,369 L725,365
+               L730,362 L735,360 L740,358 L745,360
+               L752,365 L759,371 L768,378 L778,386
+               L789,395 L800,404 L814,415 L829,427
+               L845,440 L862,454 L880,469 L899,485
+               L919,502 L940,520 L963,540 L988,562
+               L1014,585 L1042,609 L1072,634 L1103,659
+               L1136,684 L1170,708 L1206,730 L1244,752
+               L1286,772 L1334,792 L1390,812 L1440,828
+               L1440,900 L0,900 Z"/>
+      <!-- Snow cap -->
+      <ellipse cx="740" cy="360" rx="22" ry="9" fill="#edeae5" opacity="0.75"/>
+      <ellipse cx="730" cy="368" rx="12" ry="6" fill="#f2f0ec" opacity="0.5"/>
+      <ellipse cx="750" cy="367" rx="9"  ry="5" fill="#f0ede9" opacity="0.5"/>
+    </svg>
+
+    <!-- ── CAPA 3: montañas cercanas (bosque oscuro) ── -->
+    <svg class="hero__layer hero__mtns-near" data-scroll="0.45" data-mouse="1.1"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+      <path fill="#182a1c"
+            d="M0,875 L90,828 L165,808 L235,786 L292,800
+               L345,770 L385,786 L425,758 L458,775
+               L490,748 L518,764 L545,738 L570,755
+               L594,728 L618,745 L640,718 L664,736
+               L685,710 L705,727 L723,703 L740,720
+               L757,700 L775,718 L795,698 L815,716
+               L838,698 L858,716 L882,700 L904,718
+               L928,705 L952,722 L978,710 L1004,726
+               L1032,714 L1060,730 L1090,718 L1122,734
+               L1156,722 L1192,738 L1232,752 L1276,768
+               L1322,784 L1375,800 L1440,818
+               L1440,900 L0,900 Z"/>
+    </svg>
+
+    <!-- ── CAPA 4: neblina (efecto de profundidad) ── -->
+    <div class="hero__layer hero__mist" data-scroll="0.38" data-mouse="1.5" aria-hidden="true"></div>
+
+    <!-- ── CAPA 5: van (primer plano, la más rápida) ── -->
+    <svg class="hero__layer hero__van" data-scroll="0.18" data-mouse="2.8"
+         viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+
+      <!-- Cuerpo principal de la van -->
+      <path d="M 382,872
+               L 382,592
+               L 394,573
+               L 415,556
+               L 938,549
+               L 1050,557
+               L 1085,574
+               L 1108,634
+               L 1116,676
+               L 1120,784
+               L 1122,872
+               Z"
+            fill="#0b0e0b"/>
+
+      <!-- Rueda trasera: llanta + neumático -->
+      <circle cx="510" cy="860" r="78" fill="#07090a"/>
+      <circle cx="510" cy="860" r="62" fill="#0e110e"/>
+      <circle cx="510" cy="860" r="42" fill="#111511"/>
+      <circle cx="510" cy="860" r="22" fill="#141814"/>
+      <circle cx="510" cy="860" r="9"  fill="#0c100c"/>
+      <!-- Rueda trasera doble (franja exterior) -->
+      <ellipse cx="510" cy="872" rx="72" ry="18" fill="#07090a" opacity="0.85"/>
+
+      <!-- Rueda delantera -->
+      <circle cx="1014" cy="860" r="72" fill="#07090a"/>
+      <circle cx="1014" cy="860" r="56" fill="#0e110e"/>
+      <circle cx="1014" cy="860" r="36" fill="#111511"/>
+      <circle cx="1014" cy="860" r="18" fill="#141814"/>
+      <circle cx="1014" cy="860" r="8"  fill="#0c100c"/>
+
+      <!-- Ventanas laterales (serie) -->
+      <rect x="434" y="598" width="62" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="508" y="598" width="62" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="582" y="598" width="62" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="656" y="598" width="62" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="730" y="598" width="62" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="804" y="598" width="62" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="878" y="598" width="60" height="44" rx="4" fill="#111e16" opacity="0.9"/>
+      <rect x="948" y="604" width="50" height="38" rx="4" fill="#111e16" opacity="0.8"/>
+
+      <!-- Parabrisas (vidrio delantero) -->
+      <path d="M 1050,566 L 1085,582 L 1108,640 L 1050,640 Z"
+            fill="#14231b" opacity="0.72"/>
+
+      <!-- Faros principales -->
+      <rect x="1108" y="660" width="12" height="10" rx="2" fill="#c45c1a" opacity="0.85"/>
+      <!-- Luces diurnas (DRL) -->
+      <rect x="1110" y="645" width="9"  height="4"  rx="1" fill="#e07040" opacity="0.55"/>
+
+      <!-- Luz trasera -->
+      <rect x="382" y="614" width="7" height="36" rx="1" fill="#7a1a0a" opacity="0.6"/>
+
+      <!-- Panel solar en techo -->
+      <rect x="458" y="552" width="225" height="11" rx="2" fill="#0f1a14" opacity="0.85"/>
+      <line x1="496" y1="552" x2="496" y2="563" stroke="#0b1410" stroke-width="1.5" opacity="0.8"/>
+      <line x1="534" y1="552" x2="534" y2="563" stroke="#0b1410" stroke-width="1.5" opacity="0.8"/>
+      <line x1="572" y1="552" x2="572" y2="563" stroke="#0b1410" stroke-width="1.5" opacity="0.8"/>
+      <line x1="610" y1="552" x2="610" y2="563" stroke="#0b1410" stroke-width="1.5" opacity="0.8"/>
+      <line x1="648" y1="552" x2="648" y2="563" stroke="#0b1410" stroke-width="1.5" opacity="0.8"/>
+
+      <!-- Escotilla de techo -->
+      <rect x="704" y="549" width="52" height="9" rx="2" fill="#0f1a14" opacity="0.55"/>
+
+      <!-- Línea de cintura (carácter del vehículo) -->
+      <line x1="384" y1="732" x2="1120" y2="732"
+            stroke="rgba(240,235,226,0.055)" stroke-width="1.5"/>
+
+      <!-- Juntas de puertas -->
+      <line x1="652"  y1="562" x2="652"  y2="786" stroke="rgba(240,235,226,0.03)" stroke-width="1.5"/>
+      <line x1="924"  y1="558" x2="924"  y2="786" stroke="rgba(240,235,226,0.03)" stroke-width="1.5"/>
+
+      <!-- Reflejo sutil en el techo -->
+      <path d="M 415,556 L 938,549 L 1050,557 L 1050,549 L 938,541 L 415,548 Z"
+            fill="rgba(240,235,226,0.018)"/>
+    </svg>
+
+    <!-- ── Gradiente de vignette ── -->
+    <div class="hero__vignette" aria-hidden="true"></div>
+
+    <!-- ── Partículas atmosféricas ── -->
     <canvas id="heroParticles" class="hero__particles" aria-hidden="true"></canvas>
 
-    <div class="hero__content">
+    <!-- ── CAPA 6: texto (casi fijo, sobre todo lo demás) ── -->
+    <div class="hero__content" data-scroll="0.92" data-mouse="0.08">
       <p class="hero__eyebrow">Casa Rodante &middot; Alquiler &middot; Argentina</p>
       <h1 class="hero__title" id="heroTitle">
         <span class="hero__line">TERRA</span>
