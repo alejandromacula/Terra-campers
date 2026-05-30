@@ -58,7 +58,7 @@ navLinks.querySelectorAll('a').forEach(a => {
 });
 
 /* ── 3. Mouse + scroll parallax (Slider Revolution style) ── */
-const isMobile = () => window.innerWidth <= 768 ||
+const isMobile = () => window.innerWidth <= 640 ||
   window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
 const hero = document.getElementById('inicio');

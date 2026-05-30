@@ -1180,7 +1180,7 @@ input, select, textarea {
 }
 
 /* Deshabilitar grain en mobile (performance) */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
   body::after { display: none; }
 }
 
@@ -1210,8 +1210,29 @@ input, select, textarea {
   .footer__inner { grid-template-columns: 1fr 1fr; gap: 2.5rem; }
 }
 
+/* ─── RESPONSIVE: iPad / tablet (641px – 1100px) ─── */
+@media (min-width: 641px) and (max-width: 1100px) {
+  /* Hero: slightly smaller logo and title on iPad portrait */
+  .hero__logo { height: 160px; }
+  .hero__title { font-size: clamp(3.2rem, 7vw, 5.5rem); }
+  .hero__sub { font-size: 1rem; }
+
+  /* Interior scroll: cards ~55vw so you see 1.5 at a time */
+  .int-card { flex: 0 0 55vw; }
+  .int-card__img { height: 300px; }
+
+  /* Film strip: comfortable size on tablet */
+  .film-frame { width: 240px; height: 155px; }
+  .film-frame__label { transform: none; }
+
+  /* Reviews: 2-column grid on iPad landscape, single col portrait handled by 1100px rule */
+  @media (min-width: 900px) {
+    .reviews__grid { grid-template-columns: 1fr 1fr; max-width: 100%; }
+  }
+}
+
 /* ─── RESPONSIVE: mobile ─── */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
   :root { --nav-h: 64px; }
 
   /* Nav */
