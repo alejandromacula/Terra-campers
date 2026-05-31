@@ -2,18 +2,55 @@
    TERRA CAMPERS — app.js
 ═══════════════════════════════════════════════════════ */
 
+/* ── 0. Loading screen ── */
+const ls        = document.getElementById('loadingScreen');
+const lsCounter = document.getElementById('lsCounter');
+const lsBar     = document.getElementById('lsBar');
+const lsWord    = document.getElementById('lsWord');
+
+const lsWords   = ['Aventura', 'Libertad', 'Patagonia', 'La ruta'];
+let   lsIdx     = 0;
+
+function showLsWord(idx) {
+  lsWord.classList.remove('visible');
+  setTimeout(() => {
+    lsWord.textContent = lsWords[idx % lsWords.length];
+    lsWord.classList.add('visible');
+  }, 440);
+}
+showLsWord(lsIdx);
+const lsWordTimer = setInterval(() => showLsWord(++lsIdx), 900);
+
+const LS_DURATION = 2600;
+const lsT0 = performance.now();
+
+function tickLoader(now) {
+  const p = Math.min((now - lsT0) / LS_DURATION, 1);
+  const n = Math.floor(p * 100);
+  lsCounter.textContent = String(n).padStart(3, '0');
+  lsBar.style.width = (p * 100) + '%';
+  if (p < 1) {
+    requestAnimationFrame(tickLoader);
+  } else {
+    clearInterval(lsWordTimer);
+    ls.classList.add('hidden');
+    document.body.classList.remove('is-loading');
+  }
+}
+requestAnimationFrame(tickLoader);
+
 /* ── 1. Nav scroll state ── */
-const nav      = document.getElementById('nav');
-const burger   = document.getElementById('burger');
-const navLinks = document.getElementById('navLinks');
+const nav    = document.getElementById('nav');
+const burger = document.getElementById('burger');
+const navDrawer = document.getElementById('navDrawer');
 
 window.addEventListener('scroll', () => {
   nav.classList.toggle('scrolled', window.scrollY > 60);
 }, { passive: true });
 
-/* ── 2. Burger menu ── */
+/* ── 2. Burger menu (mobile drawer) ── */
 burger.addEventListener('click', () => {
-  const open = navLinks.classList.toggle('open');
+  const open = navDrawer.classList.toggle('open');
   burger.setAttribute('aria-expanded', open);
   const spans = burger.querySelectorAll('span');
   if (open) {
@@ -24,19 +61,34 @@ burger.addEventListener('click', () => {
     spans.forEach(s => s.style.cssText = '');
   }
 });
-navLinks.querySelectorAll('a').forEach(a => {
+navDrawer.querySelectorAll('a').forEach(a => {
   a.addEventListener('click', () => {
-    navLinks.classList.remove('open');
+    navDrawer.classList.remove('open');
     burger.setAttribute('aria-expanded', false);
     burger.querySelectorAll('span').forEach(s => s.style.cssText = '');
   });
 });
 
+/* ── 3. Destination cycling ── */
+const destinations = ['Bariloche', 'Patagonia', 'Mendoza', 'Salta', 'Los Andes', 'Misiones'];
+const heroDest = document.getElementById('heroDest');
+let destIdx = 0;
+
+if (heroDest) {
+  setInterval(() => {
+    heroDest.classList.add('fade');
+    setTimeout(() => {
+      destIdx = (destIdx + 1) % destinations.length;
+      heroDest.textContent = destinations[destIdx];
+      heroDest.classList.remove('fade');
+    }, 360);
+  }, 2400);
+}
+
 /* ══════════════════════════════════
-   3. MULTI-LAYER PARALLAX
-   Each layer has:
-     data-scroll → compensates scrollY (0=no compensation, 1=fully fixed)
-     data-mouse  → depth of mouse parallax (higher = more shift = foreground)
+   4. MULTI-LAYER PARALLAX
+   data-scroll → compensates scrollY (0=foreground exits, 1=stays fixed)
+   data-mouse  → depth of mouse parallax (higher = more shift)
 ══════════════════════════════════ */
 const isMobile = () => window.innerWidth <= 640 ||
   window.matchMedia('(hover: none) and (pointer: coarse)').matches;
@@ -44,7 +96,6 @@ const isMobile = () => window.innerWidth <= 640 ||
 const heroEl = document.getElementById('inicio');
 const heroH  = () => heroEl ? heroEl.offsetHeight : window.innerHeight;
 
-// Collect all parallax layers (SVG layers + content)
 const layers = [];
 document.querySelectorAll('[data-scroll], [data-mouse]').forEach(el => {
   layers.push({
@@ -54,11 +105,10 @@ document.querySelectorAll('[data-scroll], [data-mouse]').forEach(el => {
   });
 });
 
-// Mouse lerp state
 let mouseX = 0.5, mouseY = 0.5;
 let lerpX  = 0.5, lerpY  = 0.5;
 const LERP    = 0.055;
-const M_RANGE = 20; // max px shift at mouse depth 1.0
+const M_RANGE = 20;
 
 document.addEventListener('mousemove', e => {
   mouseX = e.clientX / window.innerWidth;
@@ -70,18 +120,14 @@ document.addEventListener('mousemove', e => {
 
   const sy = window.scrollY;
 
-  // Lerp mouse position
   lerpX += (mouseX - lerpX) * LERP;
   lerpY += (mouseY - lerpY) * LERP;
-  const dx = (lerpX - 0.5) * 2; // −1 … +1
+  const dx = (lerpX - 0.5) * 2;
   const dy = (lerpY - 0.5) * 2;
 
-  // Only apply while hero is even partially in view
   const heroVisible = sy < heroH() * 1.15;
 
   layers.forEach(({ el, scroll, mouse }) => {
-    // scrollY * scroll  →  higher value keeps layer "fixed" (background)
-    // low scroll value  →  layer exits viewport faster (foreground)
     const scrollShift = sy * scroll;
 
     if (isMobile() || !heroVisible) {
@@ -96,7 +142,7 @@ document.addEventListener('mousemove', e => {
   });
 })();
 
-/* ── 4. Scroll reveal ── */
+/* ── 5. Scroll reveal ── */
 const revealObs = new IntersectionObserver(entries => {
   entries.forEach(e => {
     if (e.isIntersecting) {
@@ -108,7 +154,7 @@ const revealObs = new IntersectionObserver(entries => {
 
 document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
 
-/* ── 5. Photo break scroll parallax ── */
+/* ── 6. Photo break scroll parallax ── */
 const photoBreakBg = document.getElementById('photoBreakBg');
 if (photoBreakBg) {
   const section = photoBreakBg.closest('.photo-break');
@@ -123,7 +169,7 @@ if (photoBreakBg) {
   }, { passive: true });
 }
 
-/* ── 6. Counter animation ── */
+/* ── 7. Counter animation ── */
 function animateCounter(el) {
   const target = parseInt(el.dataset.target);
   if (isNaN(target)) return;
@@ -147,7 +193,7 @@ const stripObs = new IntersectionObserver(entries => {
 const strip = document.querySelector('.strip');
 if (strip) stripObs.observe(strip);
 
-/* ── 7. Cursor glow ── */
+/* ── 8. Cursor glow ── */
 const cursorGlow = document.getElementById('cursorGlow');
 let glowX = 0, glowY = 0, gmX = 0, gmY = 0, glowRaf = null;
 
@@ -167,7 +213,7 @@ if (cursorGlow && window.matchMedia('(pointer: fine)').matches) {
   }
 }
 
-/* ── 8. Interior horizontal drag scroll ── */
+/* ── 9. Interior horizontal drag scroll ── */
 const track = document.getElementById('interiorTrack');
 if (track) {
   let isDown = false, startX = 0, scrollLeft = 0;
@@ -191,27 +237,27 @@ if (track) {
   }, { passive: true });
 }
 
-/* ── 9. Active nav highlight ── */
+/* ── 10. Active nav highlight ── */
 const sections   = document.querySelectorAll('section[id]');
-const navAnchors = document.querySelectorAll('.nav__links a[href^="#"]');
+const navAnchors = document.querySelectorAll('.nav__links a[href^="#"], .nav__drawer a[href^="#"]');
 sections.forEach(s => {
   new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
       const id = entries[0].target.id;
       navAnchors.forEach(a => {
-        a.style.color = a.getAttribute('href') === `#${id}` ? 'var(--cream)' : '';
+        a.style.color = a.getAttribute('href') === `#${id}` ? 'var(--text)' : '';
       });
     }
   }, { rootMargin: '-40% 0px -50% 0px' }).observe(s);
 });
 
-/* ── 10. Scroll-cue fade ── */
+/* ── 11. Scroll-cue fade ── */
 const scrollCue = document.getElementById('scrollCue');
 window.addEventListener('scroll', () => {
   if (scrollCue) scrollCue.style.opacity = Math.max(0, 1 - window.scrollY / 180);
 }, { passive: true });
 
-/* ── 11. Atmospheric particles ── */
+/* ── 12. Atmospheric particles ── */
 class Particles {
   constructor(canvas) {
     this.canvas = canvas;
@@ -264,18 +310,18 @@ class Particles {
 const particleCanvas = document.getElementById('heroParticles');
 if (particleCanvas && !isMobile()) new Particles(particleCanvas);
 
-/* ── 12. Smooth anchor scroll ── */
+/* ── 13. Smooth anchor scroll ── */
 document.querySelectorAll('a[href^="#"]').forEach(a => {
   a.addEventListener('click', e => {
     const id  = a.getAttribute('href').slice(1);
     const tgt = document.getElementById(id);
     if (!tgt) return;
     e.preventDefault();
-    window.scrollTo({ top: Math.max(0, tgt.getBoundingClientRect().top + window.scrollY - 72), behavior: 'smooth' });
+    window.scrollTo({ top: Math.max(0, tgt.getBoundingClientRect().top + window.scrollY - 80), behavior: 'smooth' });
   });
 });
 
-/* ── 13. Booking form ── */
+/* ── 14. Booking form ── */
 const bookingForm = document.getElementById('bookingForm');
 const formSuccess = document.getElementById('formSuccess');
 
@@ -305,7 +351,7 @@ if (bookingForm) {
     setTimeout(() => {
       bookingForm.reset();
       btn.disabled = false;
-      btnText.textContent = 'Enviar Consulta';
+      btnText.textContent = 'Enviar consulta';
       formSuccess.hidden = false;
       formSuccess.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
       setTimeout(() => { formSuccess.hidden = true; }, 7000);
