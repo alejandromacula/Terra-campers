@@ -1,0 +1,4 @@
+main/secrets.h
+.pio/
+build/
+sdkconfig

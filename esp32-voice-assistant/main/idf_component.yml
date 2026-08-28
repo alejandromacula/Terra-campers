@@ -1,0 +1,10 @@
+# Official Espressif audio-codec components for the ES8311 (speaker DAC/amp)
+# + ES7210 (mic ADC) pair -- the same codec combo used on ESP32-S3-BOX-3 /
+# Korvo-2, which this Waveshare board reuses. Using these instead of
+# hand-written I2C register sequences avoids guessing at codec init values
+# I can't verify against this exact board's schematic.
+dependencies:
+  espressif/esp_codec_dev: "^1.3.1"
+  espressif/es8311: "^1.0.2"
+  espressif/es7210: "^1.0.2"
+  idf: ">=5.1"
