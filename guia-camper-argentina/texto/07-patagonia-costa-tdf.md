@@ -1,6 +1,6 @@
 # Patagonia Austral — Costa Atlántica y Tierra del Fuego
 
-**Región:** Patagonia Austral · **Código:** AUS (páginas AUS-30 a AUS-45; AUS-01 a AUS-29 son la Ruta 40 austral) · **Color:** el de la región AUS definido en el diseño
+**Región:** Patagonia Austral · **Código:** AUS (páginas AUS-30 a AUS-44; AUS-01 a AUS-29 son la Ruta 40 austral) · **Color:** el de la región AUS definido en el diseño
 
 ## Índice (recorrido de norte a sur por la RN 3)
 
@@ -14,12 +14,11 @@
 8. AUS-37 · Puerto Deseado y la Ría Deseado
 9. AUS-38 · Puerto San Julián
 10. AUS-39 · Parque Nacional Monte León
-11. AUS-40 · Cabo Vírgenes
-12. AUS-41 · Tolhuin y el Lago Fagnano
-13. AUS-42 · Lago Escondido y Paso Garibaldi
-14. AUS-43 · Ushuaia
-15. AUS-44 · Parque Nacional Tierra del Fuego
-16. AUS-45 · Canal Beagle, Isla Martillo y Estancia Harberton
+11. AUS-40 · Tolhuin y el Lago Fagnano (incluye el cruce a Tierra del Fuego y Cabo Vírgenes)
+12. AUS-41 · Lago Escondido y Paso Garibaldi
+13. AUS-42 · Ushuaia
+14. AUS-43 · Parque Nacional Tierra del Fuego
+15. AUS-44 · Canal Beagle, Isla Martillo y Estancia Harberton
 
 ## AUS-30 · Las Grutas y el Golfo San Matías
 - **Dónde:** Río Negro · San Antonio Oeste · Área Natural Protegida Bahía de San Antonio
@@ -236,4 +235,133 @@ Camping municipal sobre la costanera, concesionado, frente al mar: duchas, baño
 
 **Fotos necesarias:** principal: la ría desde el agua, con paredones rojizos y una tonina overa saltando junto a la lancha; chicas: pingüino de penacho amarillo en la roca de Isla Pingüino, tonina overa, cormorán roquero en su nido, costanera de Puerto Deseado
 **Fuentes:** https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-interjurisdiccional-marino-isla-pinguino/horarios-como · https://www.argentina.gob.ar/node/152988 · https://www.argentina.gob.ar/node/164273 · https://www.lanacion.com.ar/sociedad/centinela-de-pinguinos-la-pasion-por-proteger-un-ave-amenazada-en-el-sur-nid2119451/ · https://www.argentina.travel/actividades/puerto-deseado · https://www.interpatagonia.com/puertodeseado/reserva-natural-ria-deseado.html · https://es.hispanopedia.com/wiki/R%C3%ADa_Deseado · https://viapais.com.ar/caleta-olivia/1349526-temporada-de-pinguinos-en-puerto-deseado/ · https://www.tiempoar.com.ar/ta_article/una-guia-para-ver-de-cerca-al-famoso-pinguino-de-penacho-amarillo/ · https://argentina.wcs.org/es-es/Quienes-somos/Noticias/articleType/ArticleView/articleId/26118.aspx · https://www.welcomeargentina.com/puertodeseado/historia.html · https://www.Wikipedia.org/wiki/Port_Desire · https://cholilaonline.ar/2025/03/puerto-deseado-teoria-darwin.html · https://www.ruta0.com/ruta/argentina/fitz-roy-a-puerto-deseado/ · https://www.cronica.com.ar/sociedad/Un-rincon-patagonico-donde-el-mar-dibuja-acantilados-y-la-fauna-es-protagonista-20260106-0095.html · https://app.ioverlander.com/places/10092-camping-municipal · https://www.petitfute.com/v41414-puerto-deseado/c1166-hebergement/c1047-camping-hotellerie-de-plein-air · https://www.welcomeargentina.com/puertodeseado/alojamientos.html
+
+## AUS-38 · Puerto San Julián
+- **Dónde:** Santa Cruz · Puerto San Julián · Parque Interjurisdiccional Marino Makenke
+- **Bajada:** En esta bahía invernó Magallanes en 1520, y acá se celebró el 1 de abril de ese año la misa que se recuerda como la primera en territorio argentino.
+
+### Cómo llegar
+El pueblo está sobre la RN 3, a ~461 km de Comodoro Rivadavia y ~360 km de Río Gallegos; a Comandante Luis Piedra Buena son ~121 km de asfalto (~1 h 30). En septiembre de 2026 Vialidad informaba ese tramo habilitado pero con deformaciones y banquinas inestables: manejá con precaución. Calculá un día: museo, costanera y una salida en lancha por la bahía.
+
+### Historia
+La expedición de Magallanes llegó el 31 de marzo de 1520 y pasó el invierno en la bahía. El 1 de abril el sacerdote Pedro de Valderrama celebró la misa; en 2020 se conmemoraron los 500 años. Frente al Museo Temático Nao Victoria hay una obra en bronce que reproduce el mapa de Antonio Pigafetta, el cronista de la expedición.
+
+### Imperdible
+El Museo Temático Nao Victoria, en el centro del pueblo, está armado dentro de una réplica en tamaño real de la nao Victoria, el único barco de la flota de Magallanes que completó la primera vuelta al mundo.
+
+### Paisaje
+La ciudad mira a una bahía protegida del Atlántico. Desde 2012 sus aguas forman parte del Parque Interjurisdiccional Marino Makenke: ~71.000 ha de mar, lecho y subsuelo alrededor de la bahía y la península de San Julián, manejadas en conjunto por Parques Nacionales, la provincia y el municipio. El Circuito Costero arranca en el pueblo y está señalizado.
+
+### Fauna
+- **Delfín austral:** se busca en las salidas en lancha por la bahía.
+- **Pingüino de Magallanes:** colonias en la bahía, visibles en las mismas excursiones náuticas.
+
+### En la camper
+El camping municipal tiene parcelas con parrilla, mesa y bancos, sanitarios y duchas con agua caliente hasta las 21 h, según reseñas de viajeros; no tiene descarga de grises ni negras [VERIFICAR vigencia]. Cargá combustible antes de salir hacia el norte: según Ruta0, después de San Julián hay ~270 km sin estaciones hasta Fitz Roy.
+
+**Fotos necesarias:** principal: réplica de la nao Victoria en la costanera con la bahía de fondo; chicas: obra en bronce del mapa de Pigafetta, delfín austral en la bahía, pingüinos de Magallanes en la costa, Circuito Costero
+**Fuentes:** https://www.welcomeargentina.com/sanjulian/historia.html · https://www.welcomeargentina.com/sanjulian/ · https://www.interpatagonia.com/sanjulian/historia.html · https://viapais.com.ar/caleta-olivia/1669151-a-500-anos-de-la-primera-misa-en-territorio-argentino/ · https://www.aciprensa.com/noticias/este-lema-alienta-conmemoracion-de-500-anos-de-primera-misa-en-argentina-99330 · https://www.c5n.com/lifestyle/turismo-argentina-el-lugar-el-sur-recordar-la-llegada-hernando-magallanes-n231484 · https://www.argentina.travel/actividades/puerto-san-julian · https://www.patagonia-argentina.com/en/an-out-of-the-ordinary-theme-museum-in-patagonia/ · https://atlasobscura.com/places/nao-victoria-museum · https://www.argentina.gob.ar/node/153489 · https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-interjurisdiccional-marino-makenke/horarios-como-llegar · https://www.argentina.travel/actividades/parque-marino-makenke · https://www.ruta0.com/ruta/argentina/puerto-san-julian-a-comandante-luis-piedra-buena/ · https://www.ruta0.com/estado-de-rutas/rn-3/santa-cruz/comandante-luis-piedra-buena--puerto-san-julian.htm · https://www.ruta0.com/ruta/argentina/puerto-san-julian-a-puerto-deseado/ · https://sandee.com/argentina/santa-cruz/puerto-san-julian/camping-municipal-pto-san-julian · https://app.ioverlander.com/places/505-camping-municipal
+
+## AUS-39 · Parque Nacional Monte León
+- **Dónde:** Santa Cruz · Comandante Luis Piedra Buena · Parque Nacional Monte León
+- **Bajada:** El primer parque nacional costero continental del país: 36 km de acantilados sobre el Mar Argentino y una pingüinera de más de sesenta mil parejas.
+
+### Cómo llegar
+El ingreso principal está en el km 2.400 de la RN 3, asfaltada: ~210 km al norte de Río Gallegos y ~540 km al sur de Comodoro Rivadavia. Registrarse en el Centro Operativo es obligatorio. Adentro se circula por la RP 63; el estado del camino interno no lo pudimos confirmar [VERIFICAR] y en 2019 estuvo cerrado por obras: consultá antes de entrar con un vehículo grande. De mayo a septiembre abre de 10 a 15 h; en temporada alta la pingüinera se visita de 9 a 17 h. Calculá un día completo.
+
+### Historia
+Fue una estancia ovejera de la Southern Patagonia Sheep Farming Company, vendida en 1920 a la familia Braun. En 2001 se compró con una donación de Kristine Tompkins, el proyecto de parque arrancó en 2002 y la Ley 25.945, de noviembre de 2004, lo creó. El viejo galpón de esquila es hoy centro de interpretación.
+
+### Paisaje
+62.169 hectáreas de estepa que terminan en acantilados, cuevas y restingas. Con las bajantes pronunciadas de la marea queda al descubierto la franja intermareal y se puede caminar por la playa del área recreativa Juan Quiñonez. La Isla Monte León, reserva provincial, no es parte del parque.
+
+### Fauna
+- **Pingüino de Magallanes:** más de 60.000 parejas; se llega por un sendero de ~2,5 km por la estepa que sale del km 15 de la RP 63.
+- **Lobo marino y elefante marino:** sobre la costa del parque.
+- **Guanaco:** en la estepa, muy probable.
+
+### Antes de ir
+Mirá la tabla de mareas: la playa del área Juan Quiñonez solo se recorre con marea bien baja, y la marea vuelve rápido.
+
+### En la camper
+Según la información oficial de turismo no se puede acampar ni pernoctar dentro del parque; alguna guía menciona un camping de temporada con proveeduría [VERIFICAR con la Intendencia]. Lo seguro es dormir en Comandante Luis Piedra Buena o seguir hasta Río Gallegos, y entrar con tanque lleno y agua.
+
+**Fotos necesarias:** principal: acantilados de Monte León con la playa descubierta en marea baja; chicas: pingüinos de Magallanes en la pingüinera, lobos marinos, guanaco en la estepa, galpón de esquila convertido en centro de interpretación
+**Fuentes:** https://www.argentina.gob.ar/interior/ambiente/parquesnacionales/monteleon/como-llegar · https://www.argentina.gob.ar/node/153474 · https://www.argentina.gob.ar/node/321264 · https://www.argentina.travel/actividades/parque-nacional-monte-leon · https://www.argentina.travel/en/activities/monte-leon-national-park · https://en.wikipedia.org/wiki/Monte_Le%C3%B3n_National_Park · https://www.rewildingargentina.org/library/libros/institucional/parque_nacional_monte_leon.pdf · https://viapais.com.ar/caleta-olivia/1027496-esta-abierto-al-publico-el-primer-parque-nacional-costero-de-la-argentina-monteleon/ · https://viapais.com.ar/caleta-olivia/840144-se-habilito-la-circulacion-por-la-ruta-provincial-n-63/ · https://www.welcomeargentina.com/piedrabuena/monte-leon.html · https://promociones-aereas.com.ar/relato/que-hacer-en-el-parque-nacional-monte-leon-c · https://billiken.lat/naturaleza/parque-nacional-monte-leon-una-joya-patagonica-al-borde-del-mar/
+
+## AUS-40 · Tolhuin y el Lago Fagnano
+- **Dónde:** Tierra del Fuego · Tolhuin · Lago Fagnano (Khami)
+- **Bajada:** El lago ocupa una fosa abierta por la falla que separa dos placas tectónicas; en 1949 dos terremotos de magnitud 7,8 sacudieron sus orillas.
+
+### Cómo llegar
+Tolhuin está sobre la RN 3, a ~105–109 km de Río Grande y ~103–111 km de Ushuaia según la fuente (~1 h 15 a cada lado). La ruta es asfaltada, pero en 2026 se reportaban tramos en obra y con baches: consultá el estado antes de salir. Calculá una tarde, o una noche junto al lago. (Para llegar a la isla desde el continente hay que cruzar por Chile: mirá "Antes de cruzar" y "En la camper".)
+
+### Historia
+Tolhuin viene del selk'nam *Tol-wen*, "como corazón", porque el pueblo está en el centro de la isla, en la cabecera del lago. Se fundó en octubre de 1972. Los selk'nam llamaban al lago *Khami*, "agua grande"; el nombre actual recuerda a monseñor José Fagnano, primer administrador apostólico de la región.
+
+### Por qué hay un lago acá
+El Fagnano (~596 km²) ocupa una depresión estructural sobre la falla Magallanes-Fagnano, el límite entre la placa de Scotia y la Sudamericana. Los terremotos de 1949 dejaron una escarpa en el extremo oeste del lago, y todavía hay árboles secos en pie en zonas que se inundaron por la ola que levantó el sismo.
+
+### Dónde comer
+La Panadería La Unión, que Emilio Sáez abrió en 1985, es la parada obligada de la RN 3: los fines de semana recibe hasta 5.000 visitantes. Se incendió el 23 de enero de 2021 y se reconstruyó con una colecta.
+
+### Antes de cruzar a Tierra del Fuego
+Desde Río Gallegos se sigue la RN 3 hasta el Paso Integración Austral (Monte Aymond), que abre a las 8 h y cierra a las 21:45 para salir y a las 22 h para entrar [VERIFICAR horario vigente]. Del lado chileno se cruza el Estrecho de Magallanes en el transbordador de Primera Angostura (Punta Delgada–Bahía Azul, ~20 min; horarios en tabsa.cl). Se vuelve a Argentina por San Sebastián. **Desvío posible:** Cabo Vírgenes, ~130–145 km de ripio desde Río Gallegos (RN 3 hasta el km 16 y RP 1), donde nace la Ruta 40: faro de 1904 y reserva provincial (1986) con una colonia grande de pingüino de Magallanes. No hay servicios ni combustible en ese camino.
+
+### En la camper
+**Cruce:** llevá DNI o pasaporte vigentes (no sirven constancias de trámite). Para la camper, pedí a Terra Campers la documentación del vehículo, la autorización escrita para salir del país y el seguro con cobertura en Chile [VERIFICAR requisitos con Aduana]. Chile exige la Declaración Jurada del SAG por todo producto vegetal o animal (se puede completar online hasta un día antes); no declarar se multa y hay revisión con rayos X y perros: llegá con la heladera sin frutas, verduras, carnes ni lácteos frescos. El cruce del estrecho puede demorarse por viento [VERIFICAR con TABSA]. **Pernocte en Tolhuin:** Camping Hain, a orillas del Fagnano, atendido por una familia, con duchas calientes según reseñas [VERIFICAR vigencia]. Cargá combustible en Río Grande o Tolhuin antes de seguir a Ushuaia.
+
+**Fotos necesarias:** principal: el Lago Fagnano desde la costa de Tolhuin, con las montañas al fondo y árboles muertos en primer plano; chicas: fachada y mostrador de la Panadería La Unión, transbordador de Primera Angostura con vehículos a bordo, faro de Cabo Vírgenes, pingüinos de Magallanes en Cabo Vírgenes
+**Fuentes:** https://en.wikipedia.org/wiki/Tolhuin · https://www.welcomeargentina.com/tolhuin/historia.html · https://es.hispanopedia.com/wiki/Tolhuin · https://argentina.travel/actividades/tolhuin · https://legistdf.gob.ar/lp/leyes/Territoriales/LEYT031.pdf · https://www.tierradelfuego.gob.ar/wp-content/uploads/2017/07/cono-THL-2017-TECNICO.pdf · https://en.wikipedia.org/wiki/Lago_Fagnano · https://ri.conicet.gov.ar/bitstream/handle/11336/78348/CONICET_Digital_Nro.26f2d6bc-6fb2-4a01-b7a2-4671ebb94984_A.pdf?sequence=2 · https://www.usgs.gov/publications/paleoseismic-observations-onshore-transform-boundary-magallanes-fagnano-fault-tierra · https://EN.wikipedia.com/wiki/Magallanes-Fagnano_Fault · https://www.ambito.com/lifestyle/el-pueblito-argentina-ideal-desconectarse-y-contemplar-su-impactante-naturaleza-n6286339 · https://www.welcomeargentina.com/tolhuin/ · https://www.ruta0.com/estado-de-rutas/rn-3/tierra-del-fuego/ · https://www.lanacion.com.ar/sociedad/la-panaderia-austral-que-recibe-hasta-5000-visitantes-de-todo-el-mundo-cada-fin-de-semana-nid16112024/ · https://www.welcomeargentina.com/tolhuin/panaderia-union.html · https://www.tiempoar.com.ar/ta_article/con-una-lluvia-de-donaciones-reconstruiran-muy-rapido-la-panaderia-incendiada-en-tolhuin/ · https://www.argentina.gob.ar/interior/centros-de-frontera/integracion-austral · https://www.ruta0.com/monte-aymond.htm · https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile · https://www.sag.gob.cl/noticias/sag-insta-prepararse-y-completar-la-declaracion-jurada-con-anticipacion-para-un-ingreso-mas-agil-chile · https://www.radioagricultura.cl/noticias/nacional/sag-advierte-a-viajeros-ocultar-productos-en-la-maleta-puede-generar-sanciones_20260616/ · https://www.rome2rio.com/s/Punta-Arenas/Punta-Delgada · https://www.welcomeargentina.com/riogallegos/faro-cabo-virgenes.html · https://www.lonelyplanet.com/points-of-interest/reserva-provincial-cabo-virgenes/1529541 · https://www.ruta0.com/cabo-virgenes.htm · https://noticiasambientales.com/?p=132182 · https://www.cronica.com.ar/sociedad/Donde-nace-la-Ruta-40-un-rincon-lleno-de-postales-que-parecen-obras-de-arte-20251121-0063.html · https://ioverlander.com/places/175-camping-hain
+
+## AUS-41 · Lago Escondido y Paso Garibaldi
+- **Dónde:** Tierra del Fuego · Tolhuin / Ushuaia · RN 3, cordillera fueguina
+- **Bajada:** A 450 metros sobre el mar, el punto más alto de la Ruta 3 muestra de un lado el Lago Escondido y del otro el Fagnano.
+
+### Cómo llegar
+El paso está sobre la RN 3, a la altura del km 3.007, ~40 km al sur de Tolhuin; el Lago Escondido queda a ~50 km del centro de Ushuaia. Desde Ushuaia la ruta sube por el Valle de Tierra Mayor. En 2026 se reportaban tramos sin asfalto, deformados y con escalones entre Rancho Hambre y Ushuaia [VERIFICAR estado actual]. Calculá media hora en el mirador, o una tarde si bajás al lago.
+
+### Historia
+Lleva el nombre de Luis Garibaldi Honte, que en 1935 encontró una pasada natural que sale del Lago Escondido y cruza la cordillera. La RN 3 por el paso es de alrededor de 1956. Existe también un camino viejo de bajada, usado hoy sobre todo por vehículos 4x4.
+
+### Paisaje
+Acá la ruta cruza la cordillera que separa el centro de la isla del Canal Beagle. El Lago Escondido aparece encajonado entre montañas y rodeado de bosque patagónico; desde el paso se ven el Escondido y, más lejos, el Fagnano.
+
+### Fauna
+- **Castor:** vive en los alrededores del lago; desde Ushuaia hay excursiones de avistaje de castores.
+- **Zorro gris:** con suerte, en los bordes del bosque.
+
+### Consejo fotográfico
+El mirador del paso es, para muchos, el mejor de Tierra del Fuego: desde ahí entran en un mismo encuadre el Lago Escondido y, al fondo, el Fagnano.
+
+### En la camper
+Es una subida de montaña con curvas: andá despacio y con cambios bajos en la bajada. En invierno el tramo Ushuaia–Paso Garibaldi tiene antecedentes de nieve, cortes por temporal, avalanchas y desprendimientos; en septiembre de 2026 se pedían cubiertas de invierno a los livianos y cadenas a los pesados entre Puente Justicia y Tolhuin. Consultá Vialidad antes de salir. Junto al Lago Escondido hay un lugar reportado por viajeros para acampar con motorhome, con parrillas [VERIFICAR que esté permitido].
+
+**Fotos necesarias:** principal: Lago Escondido desde el mirador del Paso Garibaldi, con la RN 3 bajando en curvas; chicas: dique de castor en un arroyo, zorro gris, cartel del Paso Garibaldi, Valle de Tierra Mayor
+**Fuentes:** https://www.welcomeargentina.com/tolhuin/paso-garibaldi-lago-escondido.html · https://www.interpatagonia.com/ushuaia/paso-garibaldi.html · https://www.interpatagonia.com/tolhuin/circuito-lagos-escondido-fagnano.html · https://www.aaa.com/tripcanvas/attraction/garibaldi-pass-paso-garibaldi-VA15667 · https://www.canal26.com/turismo/2025/10/31/no-son-los-siete-lagos-la-otra-ruta-de-la-patagonia-que-deslumbra-con-los-paisajes-mas-asombrosos/ · https://guia.melhoresdestinos.com.br/lago-escondido-112-3455-l.html · https://www.sirchandler.com.ar/2013/09/de-ushuaia-tolhuin-por-el-paso-garibaldi-en-tierra-del-fuego · https://www.ambito.com/lifestyle/la-joya-oculta-la-patagonia-argentina-paisajes-impactantes-disfrutar-todo-el-ano-n6013964 · https://billiken.lat/mi-pais/lago-escondido-el-desconocido-pueblo-de-tierra-del-fuego-que-esta-rodeada-de-paisajes-unicos/ · https://www.ioverlander.com/places/12840-camp-at-lago-escondido · https://www.expedia.com/things-to-do/4wd-off-road-beaver-watching-with-dinner-in-shelter.a49621498.activity-details · https://www.ruta0.com/estado-de-rutas/rn-3/tierra-del-fuego/ · https://www.ruta0.com/estado-de-rutas/rn-3/tierra-del-fuego/rio-grande--puente-justicia.htm · https://legistdf.gob.ar/lp/secleg/Novedades%20de%20Inf%20Parlamentaria/Com.%20Of.%202009/C.%20Of.%20N%20125-09/Nota%20INFORME%20PASO%20GARIBALDI2.docx · https://diariojornada.com.ar/344381/magazine/una_ola_polar_provoco_nevadas_en_los_alrededores_de_ushuaia
+
+## AUS-42 · Ushuaia
+- **Dónde:** Tierra del Fuego · Ushuaia · Canal Beagle
+- **Bajada:** La ciudad nació como subprefectura en 1884 y creció alrededor de una cárcel de reincidentes que funcionó hasta 1947; hoy esa cárcel es museo.
+
+### Cómo llegar
+Desde Tolhuin son ~103–111 km por la RN 3, cruzando el Paso Garibaldi. La ciudad ocupa una bahía amplia sobre la costa sur de la Isla Grande, entre la Sierra Martial al norte y el Canal Beagle al sur. Calculá dos o tres días entre ciudad, Parque Nacional y navegación.
+
+### Historia
+El 12 de octubre de 1884 el comodoro Augusto Lasserre izó la bandera y fundó una subprefectura junto a la misión anglicana que ya dirigía Thomas Bridges. El nombre viene de la lengua yámana y se traduce como "bahía que mira hacia el poniente" [VERIFICAR]. En 1902 empezó a construirse el presidio y cárcel de reincidentes, que cerró en 1947 por orden de Perón.
+
+### Paisaje y geología
+El Canal Beagle es un valle excavado por los glaciares en una zona tectónicamente activa de los Andes fueguinos. Detrás de la ciudad, los Montes Martial guardan el Glaciar Martial, un glaciar de circo a unos 1.000–1.050 m de altura.
+
+### Imperdible
+El Museo Marítimo y del Presidio funciona en el edificio de la vieja cárcel, hoy de la Armada; en el mismo edificio está también el Museo Antártico José María Sobral.
+
+### Si tenés un día más
+Subí al Glaciar Martial: el acceso arranca a pocos kilómetros del centro (las fuentes dicen entre 4,5 y 7 km) y desde arriba se ve toda la bahía y el canal.
+
+### En la camper
+Camping Río Pipo: el más citado para motorhomes, abierto las 24 h, con duchas calientes, lavandería, agua, electricidad y wifi según reseñas de viajeros. Camping La Pista del Andino: ~3 km al noroeste del centro, en una vieja pista de esquí, con electricidad con cargo aparte y wifi lento (web: lapistadelandino.com.ar). Para vaciar tanques, en enero de 2026 el municipio habilitó dos puntos oficiales de descarga de aguas grises y negras, y la DPOSS eximió del pago a motorhomes y casillas: preguntá la ubicación en Turismo [VERIFICAR dirección]. No descargues en calles ni cordones.
+
+**Fotos necesarias:** principal: la bahía de Ushuaia con la ciudad, el puerto y los Montes Martial nevados detrás, desde la costanera; chicas: pabellón del ex presidio, Glaciar Martial, cartel del fin del mundo en el puerto
+**Fuentes:** https://EN.wikipedia.com/wiki/Ushuaia · https://es.hispanopedia.com/wiki/Ushuaia · https://www.welcomeargentina.com/ushuaia/historia.html · https://latitud2000.com/?p=3189 · https://m.roughguides.com/argentina/tierra-del-fuego/ushuaia-around/ · https://oceanwide-expeditions.com/es/blog/ushuaia-the-little-known-history-of-antarcticas-gateway · https://core.ac.uk/download/231222759.pdf · https://www.welcomeargentina.com/ushuaia/glaciar_martial.html · https://billiken.lat/mi-pais/glaciar-martial-por-que-es-uno-de-los-paisajes-mas-llamativos-de-la-patagonia/ · https://www.aaa.com/tripcanvas/attraction/martial-glacier-VA15682 · https://ioverlander.com/places/416-camping-rio-pipo · https://app.ioverlander.com/places/173-camping-la-pista-del-andino · https://www.ruta0.com/foros/destinos-consultas/mi-viaje-a-ushuaia-6901.htm · https://openvan.camp/en/news/law/disposicion-de-aguas-grises-y-negras-de · https://openvan.camp/en/news/opening/ushuaia-puntos-habilitados-para-la-disposicion-de · https://openvan.camp/en/news/law/eximen-motorhomes-el-pago-por-descarga-de · https://turismoushuaia.com/contenidos/donde-acampar/?lang=en_US
 

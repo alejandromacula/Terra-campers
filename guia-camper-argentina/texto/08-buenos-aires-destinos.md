@@ -121,11 +121,12 @@ Desde Buenos Aires o La Plata por la Autovía 2, después la RP 63 y la RP 11 ha
 Desde 1979 fue una reserva privada de la Fundación Vida Silvestre Argentina. En 2006 la Fundación acordó con Parques Nacionales donar las tierras, y el 13 de mayo de 2009 la Ley 26.499 las convirtió en parque nacional, de unas 3.040 ha.
 
 ### Paisaje y flora
-Ocupa la costa sur de la Bahía Samborombón, donde el Río de la Plata se abre al mar: una planicie bajísima de pastizales, bañados y marismas que la marea inunda y deja al descubierto. Toda la bahía es sitio Ramsar desde el 17 de enero de 1997. [PENDIENTE: 2 o 3 especies de flora con fuente.]
+Ocupa la costa sur de la Bahía Samborombón, donde el Río de la Plata se abre al mar: una planicie bajísima de pastizales, bañados y marismas que la marea inunda y deja al descubierto. Toda la bahía es sitio Ramsar desde el 17 de enero de 1997. En los bajos hay marismas salobres y cangrejales; en las lomas de antiguos cordones costeros crecen talares de tala (*Celtis ehrenbergiana*), bosquecitos bajos que albergan aves propias. El parque protege además una muestra del pastizal pampeano.
 
 ### Fauna
 - **Venado de las pampas:** el motivo del parque; quedan pocos y verlos depende de la visita guiada y de la suerte.
 - **Ciervo axis:** ciervo exótico, introducido con fines de caza; también aparece en el parque.
+- **Aves playeras:** la bahía suma más de 360 especies de aves y es parte de la Red Hemisférica de Reservas de Aves Playeras; entre ellas el playerito canela, migrador amenazado. En el pastizal, el ñandú.
 
 ### Si tenés un día más
 A 30 km de General Lavalle, por la RP 11 y camino vecinal, está Punta Rasa: reserva natural, el Faro San Antonio y pesca, en la punta donde termina la bahía.
@@ -149,10 +150,11 @@ No encontramos información oficial vigente sobre camping dentro del parque [VER
 Antes que Pinamar, Héctor Manuel Guerrero empezó en los años 20 a forestar los médanos de su campo, tierra adentro hacia el mar; en 1935 lo llamó Cariló, "médano verde". En la parcela vecina, el arquitecto Jorge Bunge se asoció con la dueña de las tierras, Valeria Guerrero, y Pinamar se inauguró el 14 de febrero de 1943. Su plan fue no aplanar los médanos sino fijarlos y aprovechar sus pendientes para trazar el pueblo.
 
 ### Paisaje y flora
-Es costa de médanos: arena que el viento movía tierra adentro hasta que se la fijó con pastos y pinos. Cariló conserva el bosque como norma: las calles son de arena (el pavimento dañaría las raíces y el drenaje) y no hay alumbrado público, para no apagar la noche. [PENDIENTE: especies de pino y vegetación de médano con fuente.]
+Es costa de médanos: arena que el viento movía tierra adentro hasta que se la fijó con pastos y pinos. Cariló conserva el bosque como norma: las calles son de arena (el pavimento dañaría las raíces y el drenaje) y no hay alumbrado público, para no apagar la noche. Antes, los médanos estaban cubiertos solo de vegetación herbácea; para fijarlos se plantaron pinos, eucaliptos, acacias y tamariscos, todos exóticos. Bajo los pinares y eucaliptales casi no crece nada: el sotobosque es muy pobre.
 
 ### Fauna
-[PENDIENTE: 2 o 3 especies con fuente.]
+- **Lagartija de las dunas:** vive en los médanos y pastizales costeros que quedan sin forestar; está entre las especies amenazadas de este ambiente.
+- [PENDIENTE: 1 o 2 especies más con fuente.]
 
 ### En la camper
 **Camping Quimey Lemú** (Pinamar) tiene sector específico para motorhomes y casas rodantes, además de carpas y cabañas; acepta mascotas con costo adicional. El **Camping Ostende** (desde 1970, sobre médanos a cuatro cuadras del mar) incluye lugar para un vehículo [VERIFICAR si recibe campers grandes]. No encontramos una ordenanza de Pinamar sobre pernocte de motorhomes, pero el municipio aplica multas altas y secuestro de vehículos en zonas prohibidas (como las de médanos): no entres a la arena con la camper. En Cariló las calles de arena no son para vehículos grandes. Enero es temporada alta: reservá.
@@ -193,22 +195,24 @@ El **Camping Mar Dorado** (Av. 3 y Paseo 170; tel. 2255-470963) tiene 5 ha de bo
 
 ## BSA-07 · Reserva Mar Chiquita
 - **Dónde:** Buenos Aires · Mar Chiquita (partido de Mar Chiquita) · Reserva de Biosfera Parque Atlántico Mar Chiquito
-- **Bajada:** La única albufera de la Argentina: una laguna de 27 km de largo, separada del mar por un cordón de arena, donde el agua dulce y la salada se mezclan con cada marea.
+- **Bajada:** La única albufera de la Argentina: una laguna de 25 a 27 km de largo, separada del mar por un cordón de arena, donde el agua dulce y la salada se mezclan con cada marea.
 
 ### Cómo llegar
 ~20–30 km al norte de Mar del Plata por la RP 11 (~30 min, asfalto); el ingreso al balneario Parque Mar Chiquita está en el km 483. Desde CABA, Autovía 2 hacia Mar del Plata y después la RP 11 hacia el norte. Calculá medio día para la laguna y la desembocadura.
 
 ### Historia
-La UNESCO la declaró Reserva de Biosfera en abril de 1996, dentro del programa Hombre y Biosfera: 26.488 ha que incluyen la laguna, playas, médanos, pastizales y arroyos. También es Área Importante para la Conservación de las Aves.
+La provincia la protegió como reserva natural de uso múltiple en 1989; la UNESCO la declaró Reserva de Biosfera en abril de 1996, dentro del programa Hombre y Biosfera (26.488 ha con laguna, playas, médanos, pastizales y arroyos), y en 1998 se sumó como refugio de vida silvestre. También es Área Importante para la Conservación de las Aves.
 
 ### Paisaje y geología
-Una albufera es una laguna costera que el viento y el mar cerraron con bancos de arena. La de Mar Chiquita ocupa 5.880 ha y se comunica con el océano por una boca angosta: por eso el agua es dulce tierra adentro y salada cerca de la desembocadura, y cambia con la marea.
+Una albufera es una laguna costera que el viento y el mar cerraron con bancos de arena. La de Mar Chiquita ocupa entre 4.600 y 5.880 ha según la fuente y se comunica con el océano por una boca angosta, así que mezcla agua dulce y salada. Su fondo de barro está lleno de cangrejos, la base de la comida de muchas aves.
 
 ### Flora
 [PENDIENTE: 2 o 3 especies o ambientes con fuente (pastizal, juncales, vegetación de médano).]
 
 ### Fauna
-- **Aves acuáticas y playeras:** la razón principal para venir; la reserva está catalogada como área importante para las aves. [PENDIENTE: 2 o 3 especies puntuales con fuente.]
+- **Cangrejo cavador** (*Neohelice granulata*): llena de cuevas el barro de las orillas; seguro lo ves con marea baja.
+- **Gaviota cangrejera:** especie vulnerable que se alimenta de esos cangrejos; una de las razones por las que la laguna es área clave para las aves.
+- **Rayador y flamenco austral:** el rayador "rasura" el agua con el pico en vuelo; el flamenco aparece en bandadas en los bajos. Probables en verano.
 
 ### En la camper
 La localidad tiene playa, laguna y poca gente, pero no encontramos campings con servicios confirmados para camper en el balneario Mar Chiquita [VERIFICAR]. La alternativa segura es hacer base en un camping de Mar del Plata (ver BSA-08) y venir de día. Enero es temporada alta en toda la costa.
@@ -228,8 +232,8 @@ Desde CABA por la Autovía 2, doble mano y asfalto todo el camino (~400 km, ~5 h
 ### Historia
 El lugar se conocía como Puerto de la Laguna de los Padres. Patricio Peralta Ramos (1814–1887) compró las tierras de un saladero que había fracasado, las loteó y en 1873 pidió el nombre Mar del Plata. El 10 de febrero de 1874 el gobernador Mariano Acosta firmó el decreto que reconoció el pueblo, entonces dentro del partido de Balcarce.
 
-### Paisaje y geología
-[PENDIENTE: origen de las barrancas y de Cabo Corrientes, con fuente geológica.]
+### Por qué hay piedra en la costa
+En Mar del Plata termina el sistema de Tandilia: un cordón de unos 350 km que nace tierra adentro y se hunde en el mar en Cabo Corrientes. Las rocas de la costa son ortocuarcitas de la Formación Balcarce, de edad ordovícico-silúrica, depositadas en un ambiente de mareas. Es la "piedra Mar del Plata", que se saca de canteras de Batán y Chapadmalal.
 
 ### Flora
 [PENDIENTE: 2 o 3 especies o ambientes con fuente.]
@@ -253,7 +257,7 @@ Hay campings sobre la RN 11 y la RP 226 (Colinas Verdes, Playa Dorada, Los Horne
 - **Bajada:** Las sierras de Tandil están hechas de las rocas más antiguas de la Argentina, de entre 1.960 y 2.176 millones de años, y sobre una de ellas se balanceó durante siglos una piedra que se movía sin caer… hasta 1912.
 
 ### Cómo llegar
-Desde Mar del Plata, por la RN 226 hacia el interior [VERIFICAR km y tiempo]; desde CABA, ~350 km [VERIFICAR ruta y tiempo]. Todo asfalto. El Parque Lítico La Movediza, el Cerro El Centinela y la Reserva Sierra del Tigre (entrada por calle Suiza) están a pocos minutos del centro. Calculá dos o tres días.
+Desde Mar del Plata, ~170 km por la RN 226 (~2 h); desde CABA, ~350 km [VERIFICAR ruta y tiempo]. Todo asfalto. El Parque Lítico La Movediza, el Cerro El Centinela y la Reserva Sierra del Tigre (entrada por calle Suiza) están a pocos minutos del centro. Calculá dos o tres días.
 
 ### Historia
 La ciudad nació en 1823 y su nombre se asocia a la Piedra Movediza, una roca enorme que oscilaba al borde del cerro. Se cayó y se partió el 29 de febrero de 1912, entre las 17 y las 18; nunca se supo con certeza por qué. El 17 de mayo de 2007 se inauguró en el mismo lugar una réplica, hoy parte del Parque Lítico La Movediza.
@@ -262,10 +266,11 @@ La ciudad nació en 1823 y su nombre se asocia a la Piedra Movediza, una roca en
 Tandilia es uno de los sistemas serranos más antiguos del planeta: un basamento de rocas muy viejas, gastado durante cientos de millones de años hasta quedar en cerros redondeados y bloques sueltos, que asoman sobre la llanura pampeana. El punto más alto de la Reserva Sierra del Tigre es el Cerro Venado, de 389 m.
 
 ### Flora
-[PENDIENTE: 2 o 3 especies del pastizal serrano con fuente.]
+El pastizal serrano de Tandilia es de los ambientes más diversos de la región pampeana: unas 600 especies de plantas, varias endémicas. Domina un pastizal de flechillas (*Nassella* y *Piptochaetium*) con matorrales y plantas que crecen en las grietas de la roca. Los árboles exóticos que se expanden sobre las sierras son una de sus amenazas.
 
 ### Fauna
-[PENDIENTE: 2 o 3 especies con fuente.]
+- **Lagartijas de las sierras** (*Liolaemus*): dos especies microendémicas, que solo viven en estos pastizales serranos; buscalas sobre las rocas al sol.
+- **Aves:** más de 100 especies registradas en las sierras; [PENDIENTE: 1 o 2 especies puntuales con fuente].
 
 ### Imperdible
 El Cerro El Centinela, con aerosilla, senderos, escalada, rappel y cabalgatas. Y el atardecer junto a la réplica de la Movediza.
@@ -283,7 +288,7 @@ Tandil tiene la regla más clara de la provincia: la **Ordenanza 18783/2025** pr
 - **Bajada:** El gran bosque frente al mar de Necochea no es natural: se plantó desde 1948 como cortina de coníferas para frenar el viento y fijar los médanos que avanzaban sobre la ciudad.
 
 ### Cómo llegar
-Desde Tandil hacia la costa [VERIFICAR ruta, km y tiempo]; desde Mar del Plata, por la costa hacia el sudoeste [VERIFICAR ruta, km y tiempo]. Todo asfalto hasta la ciudad. El Parque Miguel Lillo arranca pegado a la playa, en el centro; Quequén queda enfrente, cruzando el río. Calculá dos días.
+Desde Tandil, ~160 km (~1 h 45 a 2 h) [VERIFICAR rutas]; desde Mar del Plata, por la costa hacia el sudoeste [VERIFICAR km y tiempo]. Todo asfalto hasta la ciudad. El Parque Miguel Lillo arranca pegado a la playa, en el centro; Quequén queda enfrente, cruzando el río. Calculá dos días.
 
 ### Historia
 Ángel Ignacio Murga organizó el primer asentamiento a orillas del río Quequén Grande, y la fundación oficial es del 12 de octubre de 1881, con el proyecto aprobado por el gobernador Dardo Rocha. El nombre homenajea al general Mariano Necochea, guerrero de la Independencia. Casi todos los fundadores pertenecían a la logia masónica Sol Argentino 160.
@@ -305,4 +310,106 @@ En la ciudad figuran los campings **Miguel Lillo** (Av. 2 y 101), **El Gringo** 
 
 **Fotos necesarias:** principal: el bosque del Parque Miguel Lillo llegando a la playa, visto desde el médano; chicas: Lago de los Cisnes con aves, médanos vírgenes al oeste de la ciudad, desembocadura del río Quequén
 **Fuentes:** https://biblat.unam.mx/hevila/LetrasverdesQuito/2019/no26/4.pdf · https://dialnet.unirioja.es/descarga/articulo/7030197.pdf · https://www.pagina12.com.ar/diario/sociedad/3-249191-2014-06-23.html · https://latitud2000.com/?p=7175 · https://kupi.com/en-ae/explore/argentina/necochea/aerobic-circuit-miguel-lillo-park · https://en.wikipedia.org/wiki/Necochea · https://www.welcomeargentina.com/necochea/historia.html · https://billiken.lat/el-mundo/necochea-conoce-la-historia-de-una-de-las-playas-de-argentina-el-origen-de-su-nombre-y-cual-es-su-realidad-hoy/ · https://en.wikipedia.org/wiki/Mariano_Necochea · https://www.welcomeargentina.com/necochea/alojamientos.html · https://www.cronista.com/clase/break/el-camping-frente-al-mar-que-queda-en-la-costa-atlantica-tiene-las-playas-mas-tranquilas-de-la-zona-y-es-ideal-para-descansar-alejado-de-la-gente
+
+---
+
+## BSA-11 · Monte Hermoso
+- **Dónde:** Buenos Aires · Monte Hermoso · —
+- **Bajada:** Como su costa corre de este a oeste, es de las pocas playas del país donde el sol sale del mar a la mañana y se hunde en el mar a la tarde.
+
+### Cómo llegar
+Desde Necochea, ~275 km (~3 h 30): RN 228 hasta Tres Arroyos (142 km) y de ahí RN 3 y RP 78 (133 km). Desde Bahía Blanca [VERIFICAR km y tiempo]. Todo asfalto. Calculá dos días: uno de playa y uno para el faro y la laguna Sauce Grande.
+
+### Historia
+En 1879 Esteban Dufaur compró 4.000 hectáreas en la zona y le encargó a su hijo Sulpicio Esteban armar un establecimiento rural; de esas tierras salió después el balneario. El Faro Recalada a Bahía Blanca, al este del pueblo, se decidió en 1904 y se encendió el 1 de enero de 1906 para marcar la entrada a la bahía.
+
+### Paisaje y geología
+32 km de playa de arena que miran al sur, de cara al mar abierto, con médanos detrás. Las notas locales atribuyen sus aguas templadas a corrientes que llegan desde Brasil [VERIFICAR explicación oceanográfica].
+
+### Flora
+[PENDIENTE: 2 o 3 especies o ambientes con fuente.]
+
+### Fauna
+- **Flamenco austral:** hay registros fotográficos en Monte Hermoso y en la laguna Sauce Grande; con suerte, en los bajos de la laguna.
+- **Rayador:** en la laguna y en la desembocadura del río Sauce Grande, pescando al ras del agua.
+- **Cauquén común:** también registrado en la laguna Sauce Grande.
+
+### Si tenés un día más
+En la vecina Pehuen Có hay un yacimiento con huellas fósiles de megafauna: pisadas de megaterio (un perezoso gigante), macrauquenia y toxodonte [VERIFICAR km y modalidad de visita]. Y a ~7 km del pueblo está la laguna Sauce Grande, buena para pescar pejerrey y para deportes de viento.
+
+### Imperdible
+Subir al **Faro Recalada**, el más alto de Sudamérica: una torre metálica de 64 a 67 m (según la fuente) con más de 300 escalones por dentro, y un museo al pie. Y el atardecer, obvio, con el sol entrando al mar.
+
+### Consejo fotográfico
+Para la postal clásica, quedate en la playa al final del día: el sol se pone sobre el agua, algo que en casi toda la costa bonaerense solo pasa al amanecer.
+
+### En la camper
+Monte Hermoso tiene una relación difícil con las casas rodantes: una ordenanza de 2005 limita su presencia y los "rodanteros" generan polémica cada verano. Dormí en camping: figuran el **camping municipal de Santa Clara del Mar** (Sauce Grande), **Hipocampo** y **Tío Pepe** (Camino Acceso Este), y el **Complejo Americano**, con camping y playa propia [VERIFICAR cuáles reciben campers y con qué servicios]. No pernoctes en la calle hasta confirmar la norma vigente [VERIFICAR].
+
+**Fotos necesarias:** principal: puesta de sol sobre el mar desde la playa de Monte Hermoso; chicas: Faro Recalada, escalera interior del faro, laguna Sauce Grande, médanos de la costa
+**Fuentes:** https://www.canal26.com/turismo/2025/12/28/la-unica-playa-de-argentina-donde-el-sol-sale-y-se-pone-en-el-mar-esta-en-la-costa-atlantica-y-tiene-las-aguas-mas-calidas/ · https://www.rionegro.com.ar/?p=1215891 · https://www.rionegro.com.ar/?p=3305689 · https://www.welcomeargentina.com/montehermoso/historia.html · https://en.wikipedia.org/wiki/Monte_Hermoso · https://en.wikipedia.com/wiki/Recalada_a_Bah%C3%ADa_Blanca_Light · https://billiken.lat/interesante/faro-recalada-en-monte-hermoso-el-mas-alto-de-sudamerica/ · https://www.ambito.com/lifestyle/el-faro-mas-alto-del-pais-esta-monte-hermoso-y-fue-construido-materiales-la-torre-eiffel-n5780700 · https://www.welcomeargentina.com/montehermoso/visita-al-faro-recalada.html · https://revista-airelibre.com/?p=41637 · https://www.noticiasmontehermoso.com.ar/?p=34557 · https://www.welcomeargentina.com/montehermoso/campings.html
+
+---
+
+## BSA-12 · Sierra de la Ventana y Parque Provincial Ernesto Tornquist
+- **Dónde:** Buenos Aires · Sierra de la Ventana / Tornquist · Parque Provincial Ernesto Tornquist (Monumento Natural Cerro de la Ventana)
+- **Bajada:** En plena llanura se levanta una cadena de montañas plegadas, con el techo bonaerense, el Cerro Tres Picos, y un cerro agujereado de lado a lado cerca de la cumbre: la "ventana" que les da nombre.
+
+### Cómo llegar
+Desde CABA, ~560 km por la RN 3 hasta la zona de Bahía Blanca y después la RP 76 (~5 a 6 h); desde Bahía Blanca, ~110–125 km por las RP 51 y 76. Desde Monte Hermoso, vía Bahía Blanca [VERIFICAR km y tiempo]. Todo asfalto. La base del Cerro Ventana está en la RP 76 km 226 y la otra entrada del parque es la base del Cerro Bahía Blanca. Calculá al menos dos días.
+
+### Historia
+El parque nació el 11 de mayo de 1937, cuando la familia Tornquist —por iniciativa de Martín Tornquist— cedió tierras a la provincia para una reserva natural; un decreto de 1958 lo formalizó. Hoy tiene unas 6.700 ha. En la década de 1940, Emilio Solanet donó caballos criollos para trabajar en el parque; con el tiempo se escaparon y se volvieron cimarrones.
+
+### Por qué hay montañas acá
+Ventania es una cadena de rocas sedimentarias del Paleozoico, sobre todo cuarcitas, que se plegaron como un mantel empujado: la estructura dominante son pliegues, más intensos hacia el oeste. Los geólogos la emparentan con otras cadenas del antiguo continente de Gondwana. Su punto más alto, el Cerro Tres Picos, mide entre 1.239 y 1.247 m según la fuente; el Cerro Ventana, 1.134 m.
+
+### Flora
+Pastizal serrano: el parque protege un pedazo de la provincia fitogeográfica pampeana con plantas que solo crecen en estas sierras, como la margarita de la cumbre (*Grindelia ventanensis*). La amenaza principal son los pinos invasores, que los guardaparques arrancan.
+
+### Fauna
+- **Guanaco:** el mamífero grande más fácil de ver, en grupos sobre los pastizales altos y las laderas rocosas.
+- **Caballo cimarrón:** entre 600 y 700 según la fuente; se los ve seguido y son polémicos porque compiten con la fauna nativa.
+- **Sapito de las sierras:** anfibio endémico que se esconde en el pastizal; difícil de ver.
+
+### Imperdible
+La subida al **Cerro Ventana**: 5 a 6 horas ida y vuelta, dificultad media-alta. Se ingresa por orden de llegada, sin reserva, hasta completar un cupo diario, y hay que registrar entrada y salida en la base; en años recientes se exigió guía autorizado y el horario de ingreso fue de 8 a 10 h según la temporada [VERIFICAR régimen vigente]. Los fines de semana largos, llegá a las 7. Tel. del parque: (0291) 491-0039. Si no conseguís lugar, el Cerro Bahía Blanca es más corto (~2 h ida y vuelta, ingreso hasta las 15 h).
+
+### En la camper
+Sobre la RP 76 están **Campamento Base Cerro Ventana** (km 224, al lado del parque) y **Parque Norte** (km 250, hacia Tornquist); cerca del pueblo, **Yamila**, **Lourdes** (se llena los fines de semana y no toma reservas) y **Fortín Pavón** [VERIFICAR cuáles reciben campers y servicios]. **Camping El Pinar** (RP 76, cerca de Villa Ventana) tenía duchas, pileta y electricidad, pero una reseña reciente lo describe abandonado y en venta: confirmá antes. Cargá combustible en Tornquist, Sierra de la Ventana o Bahía Blanca. En la sierra el clima cambia rápido: llevá abrigo aunque sea verano.
+
+**Fotos necesarias:** principal: el Cerro Ventana con el hueco de la ventana a contraluz, desde la RP 76; chicas: Cerro Tres Picos, guanacos en el pastizal, caballos cimarrones, margarita de la cumbre, sapito de las sierras, base del Cerro Ventana
+**Fuentes:** https://www.welcomeargentina.com/sierradelaventana/parque-provincial-ernesto-tornquist.html · https://en.wikipedia.org/wiki/Ernesto_Tornquist_Provincial_Park · https://lanacion.com.ar/turismo/sierra-de-ventana-parque-provincial-tornquist-nid1963598 · https://www.cronista.com/clase/break/donde-ir-el-fin-de-semana-largo-el-pueblito-serrano-en-buenos-aires-que-deslumbra-por-sus-paisajes · https://www.ecoticias.com/eco-america/136019_argentina-quieren-convertir-a-sierra-de-la-ventana-en-un-destino-turistico-sustentable · https://www.lonelyplanet.com/argentina/southern-pampas/attractions/parque-provincial-ernesto-tornquist/a/poi-sig/1586906/1326511 · https://revistas.ucm.es/index.php/JIGE/article/download/JIGE0101110043A/32857/34018 · https://sedici.unlp.edu.ar/bitstream/handle/10915/186703/Documento_completo.pdf?sequence=1 · https://en.wikipedia.org/wiki/Sierra_de_la_Ventana_(mountains) · https://normas.gba.gob.ar/documentos/xa9gvcLx.html · https://www.lanacion.com.ar/sociedad/el-secreto-que-guardan-los-caballos-salvajes-de-sierra-de-la-ventana-y-la-importancia-de-nid13072022/ · https://www.lanacion.com.ar/revista-lugares/sierra-de-la-ventana-y-alrededores-historia-recorridos-clasicos-y-novedades-de-la-comarca-nid08082024/ · https://www.internationalparks.org/argentina/Ernesto%20Tornquist · https://www.welcomeargentina.com/sierradelaventana/vida-salvaje.html · https://revista-airelibre.com/2024/06/12/fin-de-semana-largo-en-tornquist · https://www.noticiasradioreflejos.com.ar/2021/?p=110540 · https://www.welcomeargentina.com/sierradelaventana/cerro-ventana.html · https://www.c5n.com/lifestyle/esta-pocas-horas-buenos-aires-y-te-vuelve-loco-su-paisaje-serrano-n224089 · https://www.rionegro.com.ar/?p=3415141 · https://app.ioverlander.com/places/5525-camping-el-pinar-sierra-de-la-ventana · https://app.ioverlander.com/places/25257-camping-lourdes
+
+---
+
+## BSA-13 · Villa Ventana
+- **Dónde:** Buenos Aires · Villa Ventana (partido de Tornquist) · al pie del Parque Provincial Ernesto Tornquist
+- **Bajada:** En el bosque al lado del pueblo quedan las ruinas del Club Hotel de la Ventana, un hotel de lujo de 1911 donde en 1943 fueron alojados 350 marinos del acorazado alemán Graf Spee.
+
+### Cómo llegar
+Se llega por la RP 76, la misma del Parque Tornquist, a ~30 km de Tornquist [VERIFICAR punto de acceso y km desde Sierra de la Ventana]. Dentro del pueblo las calles son de tierra entre los árboles: estacioná la camper y recorré a pie. Calculá un día, combinado con el parque.
+
+### Historia
+El Club Hotel lo construyó el Ferrocarril Buenos Aires al Sud y abrió en 1911; se pensó como lugar de reposo para enfermos respiratorios y terminó siendo un hotel de lujo, golpeado por la Primera Guerra Mundial. En diciembre de 1943 llegaron 350 marinos del Graf Spee, en tren especial hasta Coronel Pringles y en camiones del Ejército, para reacondicionarlo. El 8 de julio de 1983 lo consumió un incendio. Hoy las ruinas se visitan, con sectores clausurados.
+
+### Paisaje y geología
+Un pueblo chico entre pinares, rodeado por los arroyos Belisario y De las Piedras, que desaguan en el río Sauce Grande. Se lo suele mencionar como el pueblo más alto de la provincia, a unos 350 m, al pie del Cerro Tres Picos.
+
+### Flora
+Casas de madera entre pinos y calles arboladas en el pueblo; afuera empieza el pastizal serrano de Ventania, con sus plantas endémicas como la margarita de la cumbre (ver BSA-12). [PENDIENTE: especies de la vegetación de arroyo con fuente.]
+
+### Fauna
+- **Vizcacha:** coloniza los afloramientos rocosos de las sierras que rodean el pueblo; más activa al atardecer.
+- **Zorro pampa y gato montés:** habitan la comarca serrana; el zorro se cruza seguido, el gato montés es difícil de ver.
+- **Iguana de cobre:** lagarto de las sierras, sobre las piedras en días de calor.
+
+### Imperdible
+Las ruinas del Club Hotel (hay un sendero desde el pueblo) y, en los alrededores, las cascadas San Teófilo y Escondida y la Fuente del Bautismo.
+
+### En la camper
+En Villa Ventana figura un **camping municipal** y, sobre la RP 76 a pocos kilómetros, el **Camping El Pinar** (confirmá si sigue funcionando: una reseña reciente lo vio abandonado y en venta) [VERIFICAR servicios para camper en ambos]. Ver también los campings de la RP 76 en BSA-12. No entres con una camper grande a las calles internas de tierra del pueblo si llovió.
+
+**Fotos necesarias:** principal: ruinas del Club Hotel de la Ventana entre los árboles; chicas: calle de tierra de Villa Ventana bajo los pinos, arroyo Belisario, cascada San Teófilo, foto histórica del Club Hotel
+**Fuentes:** https://en.wikipedia.org/wiki/Club_Hotel_de_la_Ventana · https://billiken.lat/interesante/club-hotel-de-la-ventana-el-lujoso-hospedaje-de-buenos-aires-que-fue-lider-en-sudamerica/ · https://www.ellitoral.com/informacion-general/viral-buenos-aires-provincia-hotel-lujo-brillo-siglo-villa-ventana-sierra-incendio-abandono-ruinas-queda-imagenes-impactantes-historia-nazis-alemanes_0_yBTOnGVzQq.html · https://www.canal26.com/turismo/2026/07/01/club-hotel-de-la-ventana-canal-26-recorre-este-emblematico-hotel-de-aristocratas-nazis-y-fantasmas/ · https://www.welcomeargentina.com/blog/2014/09/lo-que-quedo-del-club-hotel-sierra-de-la-ventana.html · https://hikingproject.com/trail/7031595/club-hotel-villa-ventana-trail · https://billiken.lat/mi-pais/cual-es-el-pueblo-mas-alto-de-buenos-aires/ · https://www.mdzol.com/mdz-trip/2021/6/29/el-pueblo-de-cuento-en-buenos-aires-que-sorprende-por-su-tranquilidad-paisajes-169216.html · https://www.c5n.com/lifestyle/la-escapada-buenos-aires-disfrutar-las-calles-tierra-bosques-y-cabanas-n107809 · https://www.c5n.com/lifestyle/a-pocas-horas-buenos-aires-el-destino-conocer-y-enamorarse-las-montanas-y-paisajes-n234843 · https://www.lanacion.com.ar/turismo/las-otras-villas-de-la-comarca-nid1963599/ · https://app.ioverlander.com/places/5525-camping-el-pinar-sierra-de-la-ventana
 
