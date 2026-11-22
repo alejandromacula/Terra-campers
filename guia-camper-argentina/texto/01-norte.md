@@ -2,11 +2,11 @@
 
 **Código de región:** NOR · **Color:** terracota (propuesta, a confirmar con diseño)
 
-Recorrido sugerido: se sube desde Buenos Aires por Tucumán, se cruza a los Valles Calchaquíes, se sigue a Salta, la Puna y la Quebrada de Humahuaca, se baja a las yungas y se vuelve hacia el sur por la Ruta 40 catamarqueña.
+Recorrido sugerido: se sube desde Buenos Aires por Tucumán, se cruza a los Valles Calchaquíes, se sigue a Salta, la Puna y la Quebrada de Humahuaca, se baja a las yungas de Jujuy y Salta, y se vuelve hacia el sur por la Ruta 40 catamarqueña.
 
 1. NOR-01 · Parque Nacional Aconquija (Campo de los Alisos)
 2. NOR-02 · Tafí del Valle y los menhires
-3. NOR-03 · Ruinas de Quilmes
+3. NOR-03 · Ruinas de Quilmes (Ciudad Sagrada de los Quilmes)
 4. NOR-04 · Cafayate y los vinos de altura
 5. NOR-05 · Quebrada de las Conchas
 6. NOR-06 · Salta
@@ -18,11 +18,12 @@ Recorrido sugerido: se sube desde Buenos Aires por Tucumán, se cruza a los Vall
 12. NOR-12 · Tilcara y el Pucará
 13. NOR-13 · Humahuaca y la Serranía de Hornocal
 14. NOR-14 · Iruya
-15. NOR-15 · Parque Nacional Calilegua
-16. NOR-16 · Parque Nacional Baritú
-17. NOR-17 · Parque Nacional El Rey
-18. NOR-18 · Campo de Piedra Pómez
-19. NOR-19 · Fiambalá y la Ruta de los Seismiles
+15. NOR-15 · Monumento Natural Laguna de los Pozuelos
+16. NOR-16 · Parque Nacional Calilegua
+17. NOR-17 · Parque Nacional Baritú
+18. NOR-18 · Parque Nacional El Rey *(página pendiente de investigación)*
+19. NOR-19 · Campo de Piedra Pómez *(página pendiente de investigación)*
+20. NOR-20 · Fiambalá y la Ruta de los Seismiles *(página pendiente de investigación)*
 
 ---
 
@@ -37,7 +38,7 @@ Desde San Miguel de Tucumán, RN 38 hacia el sur hasta Concepción y desde ahí 
 Campo de los Alisos se creó en 1995 y en 2018 la Ley 27.451 lo amplió y lo transformó en el Parque Nacional Aconquija, con cuatro accesos: Cochuna, Campo de los Alisos, Piedra Labrada y Escaba. En la alta montaña está La Ciudacita, un sitio inca a más de 4.000 metros que integra el Qhapaq Ñan, Patrimonio Mundial; se llega solo con guía y avisando al parque con días de anticipación.
 
 ### Paisaje y flora
-Protege yungas y altos Andes en la ladera oriental del Aconquija: en pocos kilómetros se pasa de selva húmeda a pastizal de altura. El nombre viene de los bosques de aliso del cerro de las laderas medias; más abajo, sobre los 1.400 metros, aparecen el pino del cerro, el nogal criollo y el amancay.
+Protege yungas y altos Andes en la ladera oriental del Aconquija. El nombre viene de los bosques de aliso del cerro de las laderas medias; más abajo, sobre los 1.400 metros, aparecen el pino del cerro, el nogal criollo y el amancay.
 
 ### Fauna
 - **Taruca:** ciervo andino en peligro, protegido en el parque. Verlo es difícil y requiere caminar alto.
@@ -47,7 +48,7 @@ Protege yungas y altos Andes en la ladera oriental del Aconquija: en pocos kiló
 Cerca del centro operativo Santa Rosa sale un circuito de unos 800 metros (~40 minutos), de baja dificultad. Para la alta montaña y La Ciudacita, el guía de montaña es obligatorio y hay que acampar: no hay servicios.
 
 ### En la camper
-El Portal Campo de los Alisos tiene camping con baños, parrillas y estacionamiento, abierto las 24 horas cuando el acceso está habilitado. Salí de Concepción con tanque lleno, agua y provisiones. Antes de ir, confirmá el estado del ripio y de los vados con la intendencia del parque en Concepción (Raúl Alfonsín 1400; aconquija@apn.gob.ar): con lluvias de verano el camino puede complicarse. [VERIFICAR: apto para motorhome grande en el tramo de ripio]
+El Portal Campo de los Alisos tiene camping con baños, parrillas y estacionamiento, abierto las 24 horas cuando el acceso está habilitado. Salí de Concepción con tanque lleno, agua y provisiones. Consultá el estado del ripio con la intendencia en Concepción (Raúl Alfonsín 1400; aconquija@apn.gob.ar). [VERIFICAR: apto para motorhome grande en el tramo de ripio]
 
 **Fotos necesarias:** principal: bosque de alisos con niebla en la ladera del Aconquija, desde el sendero del Portal Campo de los Alisos; chicas: aliso del cerro, pino del cerro, amancay, taruca, ruinas de La Ciudacita
 **Fuentes:** [APN – Información y recomendaciones PN Aconquija (2022)](https://www.argentina.gob.ar/sites/default/files/2019/05/informacion_y_recomendaciones_pn_aconquija_actualizado_septiembre_2022.pdf) · [APN – Ficha del área protegida](https://www.argentina.gob.ar/parque-nacional-aconquija/ficha-del-area-protegida) · [La Nación – Revista Lugares](https://www.lanacion.com.ar/revista-lugares/selva-en-la-montana-el-parque-nacional-en-altura-con-cientos-de-aves-y-zonas-que-solo-se-visitan-con-nid31072026/) · [Tucumán Turismo – Senderos PN Aconquija](https://www.tucumanturismo.gob.ar/articulos/articulo/961/aconquija-national-park-trails) · [Tucumán Turismo – Parques](https://www.tucumanturismo.gob.ar/en/parks/16289/16296/buscador) · [Boletín Oficial – Ley 27.451](https://www.boletinoficial.gob.ar/pdf/aviso/primera/190185/20180822)
@@ -62,10 +63,10 @@ El Portal Campo de los Alisos tiene camping con baños, parrillas y estacionamie
 ~110 a 120 km desde San Miguel de Tucumán por RN 38 hasta Acheral y luego la RP 307, asfaltada y de curvas, que trepa por la selva de la Quebrada de Los Sosa (calculá ~2 h). El pueblo está a ~2.000 msnm. Los menhires están en El Mollar, junto al dique La Angostura, antes de llegar a Tafí. Calculá una hora para el parque y un día para el valle.
 
 ### Historia
-Los menhires, o huancas, son monolitos de la cultura Tafí, que habitó el valle aproximadamente entre el 800 a.C. y el 800 d.C. En 1977, durante el gobierno de facto de Antonio Domingo Bussi, se los sacó de sus sitios originales y se los agrupó en una loma frente al dique; hoy se los reconoce como un traslado forzado que rompió su sentido. El nombre "menhir" se lo pusieron los investigadores de fines del siglo XIX por su parecido con los monolitos celtas. El sitio es Lugar Histórico Nacional.
+Los menhires, o huancas, son monolitos de la cultura Tafí, que habitó el valle aproximadamente entre el 800 a.C. y el 800 d.C. En 1977, durante el gobierno de facto de Antonio Domingo Bussi, se los sacó de sus sitios originales y se los agrupó en una loma frente al dique; El nombre "menhir" se lo pusieron los investigadores de fines del siglo XIX por su parecido con los monolitos celtas. El sitio es Lugar Histórico Nacional.
 
 ### Paisaje y flora
-Para subir se atraviesa la Reserva Provincial Los Sosa, entre los km 20 y 38 de la RP 307: selva nublada (nimbosilva) con helechos y orquídeas. Arriba cambia todo: el valle de Tafí es un ambiente abierto de prados y bosquecillos de montaña, sin rastro de la selva que quedó abajo.
+Para subir se atraviesa la Reserva Provincial Los Sosa, entre los km 20 y 38 de la RP 307: selva nublada (nimbosilva) con helechos y orquídeas. Arriba, el valle de Tafí es de prados y bosquecillos de montaña.
 
 ### Fauna
 - **Cóndor andino:** en Tafí se han hecho liberaciones de cóndores con la Fundación Bioandina; buscalo planeando sobre los cerros.
@@ -75,7 +76,7 @@ Para subir se atraviesa la Reserva Provincial Los Sosa, entre los km 20 y 38 de 
 Seguí por la RP 307 hasta el Abra del Infiernillo, a 3.042 metros y 22 km de Tafí: es el punto más alto de las rutas de Tucumán y la puerta a Amaicha y Quilmes.
 
 ### En la camper
-El Camping Municipal Los Sauzales, cerca del centro, tiene espacio para vehículos grandes según viajeros [VERIFICAR servicios y vigencia con el municipio]. La RP 307 tiene muchas curvas y tramos angostos en la quebrada: manejá con tiempo y sin apuro. En invierno el tramo Tafí–Amaicha se corta seguido por hielo en la calzada en El Infiernillo: consultá el estado de la ruta antes de salir.
+El Camping Municipal Los Sauzales, cerca del centro, tiene espacio para vehículos grandes según viajeros [VERIFICAR servicios y vigencia con el municipio]. La RP 307 es de curvas: manejá sin apuro. En invierno el tramo Tafí–Amaicha se corta seguido por hielo en la calzada en El Infiernillo: consultá el estado de la ruta antes de salir.
 
 **Fotos necesarias:** principal: menhires tallados con el dique La Angostura y los cerros de fondo, en El Mollar; chicas: detalle de un menhir con rostro tallado, selva nublada de Los Sosa, cóndor andino, curvas de la RP 307
 **Fuentes:** [Argentina.travel – Tafí del Valle](https://www.argentina.travel/actividades/tafi-del-valle) · [Argentina.gob.ar – Menhires de Tafí](https://www.argentina.gob.ar/node/413550) · [La Gaceta – Restauración de menhires](https://www.lagaceta.com.ar/nota/441108/opinion/restauracion-menhires.html) · [Página/12 Turismo](https://www.pagina12.com.ar/diario/suplementos/turismo/9-88-2002-07-01.html?mobile=1) · [Welcome Argentina – Reserva Los Menhires](https://www.welcomeargentina.com/tafidelvalle/reserva_los_menhires.html) · [Tucumán Turismo – Áreas protegidas](https://www.tucumanturismo.gob.ar/articulos/articulo/209/protected-areas) · [Tucumán Turismo – El Infiernillo](https://www.tucumanturismo.gob.ar/en/calchaquies-valley-road/16068/16072/buscador) · [La Gaceta – Cortes de la RP 307 por hielo](https://www.lagaceta.com.ar/nota/1090226/sociedad/cortan-ruta-307-congelamiento-calzada-estos-son-puntos-criticos.html) · [Ruta0 – Tafí del Valle a Yerba Buena](https://www.ruta0.com/ruta/argentina/tafi-del-valle-a-yerba-buena/) · [iOverlander – Camping Los Sauzales](https://app.ioverlander.com/places/136-municipal-camping-los-sauzales)
@@ -99,7 +100,7 @@ La ciudad se apoya en la ladera de la Sierra del Cajón, sobre el fondo seco del
 - **Aves:** el entorno de las ruinas está registrado como Área Clave para la Biodiversidad (KBA "Ruinas de Quilmes"). [VERIFICAR: especies destacadas]
 
 ### Antes de ir
-Hacé primero la visita guiada del Centro de Interpretación, al pie de la ciudad: sin ese contexto las ruinas son piedras. Subí temprano a los miradores: el sol pega fuerte y no hay sombra.
+Hacé primero la visita guiada del Centro de Interpretación, al pie de la ciudad: sin ese contexto las ruinas son piedras. Llevá agua, sombrero y protector para subir a los miradores.
 
 ### En la camper
 No hay camping oficial en el sitio; viajeros reportan un lugar de acampe silvestre sobre el camino de acceso, sin confirmar si está permitido. Lo más seguro es dormir en Amaicha del Valle o seguir a Cafayate. Andá despacio en el ripio del acceso, que está anunciado para pavimentar pero sin fecha confirmada.
@@ -156,14 +157,11 @@ La Garganta del Diablo y el Anfiteatro son gargantas laterales que el agua tall�
 Las paredes son sedimentos del Grupo Salta, depositados en una cuenca que se abrió en el noroeste entre el Cretácico y el Eoceno: arenas y arcillas continentales teñidas de rojo por óxidos de hierro, con algunos niveles de origen marino somero. Después los Andes las levantaron e inclinaron, y el río las fue cortando. En la quebrada también hay restos de volcanes antiguos, ligados a la falla Las Conchas.
 
 ### Paisaje y flora
-Es ambiente de Monte: laderas peladas con jarillas y cardones, y una franja más verde junto al río.
+Es ambiente de Monte: laderas secas con jarillas y cardones.
 
 ### Fauna
 - **Cóndor andino:** citado en los valles calchaquíes; mirá hacia los filos de la quebrada.
 - **Quirquincho chico:** armadillo típico del Monte; activo de noche y difícil de ver.
-
-### Consejo fotográfico
-Los colores encienden con el sol bajo: a la mañana temprano o en la última hora de la tarde. Adentro del Anfiteatro y la Garganta la luz cambia rápido; llevá gran angular.
 
 ### En la camper
 No hay campings dentro de la quebrada: planificá dormir en Cafayate o en Salta. Para las paradas, dejá la camper completamente fuera de la calzada: la ruta tiene curvas y pasan muchos vehículos de excursión. Cargá combustible en Cafayate o en Salta antes de salir.
@@ -202,24 +200,24 @@ El Camping Municipal Carlos Xamena, junto al balneario del mismo nombre, es el c
 - **Bajada:** Una ruta que sube en zigzag hasta los 3.348 metros de la Piedra del Molino y después corre recta, durante unos 15 a 19 km, sobre un trazado atribuido a los incas, entre cactus de casi 15 metros.
 
 ### Cómo llegar
-Desde Salta, RN 68 hasta El Carril y ahí la RP 33, que sube por la Quebrada de Escoipe y la Cuesta del Obispo (unos 20 km de curvas y pendiente) hasta la Piedra del Molino, puerta del parque. La Recta de Tin Tin cruza el parque camino a Cachi. El parque abre todo el año; el ingreso es de 9:30 a 18 h. Calculá un día entero entre Salta y Cachi con paradas.
+Desde Salta, RN 68 hasta El Carril y ahí la RP 33, que sube por la Quebrada de Escoipe y la Cuesta del Obispo (~20 km de curvas) hasta la Piedra del Molino, puerta del parque; después viene la Recta de Tin Tin. El parque abre todo el año; el ingreso es de 9:30 a 18 h. Calculá un día entero entre Salta y Cachi con paradas.
 
 ### Historia
 El parque se creó por la Ley 24.737 de noviembre de 1996, en tierras cedidas por la provincia de Salta, y protege unas 65.000 hectáreas. La Recta de Tin Tin sigue un camino que las fuentes turísticas atribuyen a la red vial inca, con una datación entre 1480 y 1535 [VERIFICAR fuente arqueológica].
 
 ### Paisaje y flora
-En la cuesta se pasa de la quebrada húmeda a la prepuna seca en pocos kilómetros. Arriba, el cardonal cubre unas 10.000 hectáreas de cardón o pasacana (*Trichocereus atacamensis*), que puede llegar a casi 15 metros de altura.
+La cuesta trepa desde la Quebrada de Escoipe hasta más de 3.300 metros. Arriba, el cardonal cubre unas 10.000 hectáreas de cardón o pasacana (*Trichocereus atacamensis*), que puede llegar a casi 15 metros de altura.
 
 ### Fauna
-- **Guanaco:** se lo ve con cierta frecuencia, sobre todo desde el mirador Ojo de Cóndor.
-- **Zorro colorado y zorro gris:** los dos viven en el parque y suelen cruzarse en la ruta.
+- **Guanaco:** en ocasiones se lo ve desde el mirador Ojo de Cóndor.
+- **Zorro colorado y zorro gris:** viven en el parque; no es raro cruzarlos en el camino.
 - **Gato andino:** uno de los felinos más amenazados de América; Parques Nacionales lo registró por primera vez en Los Cardones con cámaras trampa. Verlo es casi imposible.
 
-### Consejo fotográfico
-El mirador Ojo de Cóndor tiene estacionamiento y un sendero corto con cartelería: es la mejor parada para los cardones con los cerros detrás. Con sol bajo, a la tarde, los cardones proyectan sombras largas.
+### Imperdible: mirador Ojo de Cóndor
+Tiene estacionamiento y un sendero corto, de dificultad media, con cartelería sobre el cardonal. Es la parada para ver los cardones de cerca y, con suerte, guanacos.
 
 ### En la camper
-Dentro del parque hay un área de uso público con estacionamiento, sendero circular de 2 km, picnic, baños secos y acampe libre [VERIFICAR nombre del sector y si admite motorhome]. Salí de Salta con tanque lleno y agua: en el parque no hay estación de servicio ni proveeduría. La cuesta es angosta y con curvas cerradas: bajá en marcha corta, sin apuro y con luz de día. El estado de la RP 33 cambia con las lluvias de verano; algunas fuentes todavía mencionan tramos de ripio [VERIFICAR asfalto completo con Vialidad de Salta]. A 3.300 metros podés sentir la altura: no hagas esfuerzos bruscos en el mirador.
+Dentro del parque hay un área de uso público con estacionamiento, sendero circular de 2 km, picnic, baños secos y acampe libre [VERIFICAR nombre del sector y si admite motorhome]. Salí de Salta con tanque lleno y agua: en el parque no hay estación de servicio ni proveeduría. Bajá la cuesta en marcha corta y de día. El estado de la RP 33 cambia con las lluvias de verano; algunas fuentes todavía mencionan tramos de ripio [VERIFICAR asfalto completo con Vialidad de Salta].
 
 **Fotos necesarias:** principal: Recta de Tin Tin con cardones a los costados y los cerros al fondo; chicas: zigzag de la Cuesta del Obispo desde arriba, Piedra del Molino, cardón con flor, guanaco, zorro colorado, gato andino
 **Fuentes:** [APN – PN Los Cardones](https://www.argentina.gob.ar/node/138459) · [APN – Gato andino en Los Cardones](https://www.argentina.gob.ar/node/391642) · [Ley 24.737](https://www.argentina.gob.ar/normativa/nacional/norma-40950/texto) · [Argentina.travel – PN Los Cardones](https://www.argentina.travel/actividades/parque-nacional-los-cardones) · [Visit Salta – Recta del Tin Tin](https://visitsalta.ar/post/recta-del-tin-tin_2) · [Billiken – Recta del Tin Tin](https://billiken.lat/interesante/recta-del-tin-tin/) · [Canal 26 – Cuesta del Obispo y su mirador a 3.348 m](https://www.canal26.com/turismo/2026/05/15/la-ruta-de-salta-que-parece-subir-al-cielo-asi-se-vive-la-cuesta-del-obispo-y-su-mirador-a-3348-metros/) · [Canal 26 – 10.000 hectáreas de cardones](https://www.canal26.com/turismo/2026/10/21/el-rincon-de-salta-con-10000-hectareas-de-cardones-mas-de-500000-cactus-y-un-camino-que-supera-los-3000-metros-de-altura/) · [Ruta0 – Estado de la RP 33](https://www.ruta0.com/estado-de-rutas/rp-33/salta/) · [Perfil – PN Los Cardones](https://www.perfil.com/noticias/sociedad/el-parque-nacional-los-cardones-deslumbra-con-sus-cactus-gigantes-en-los-valles-calchaquies.phtml)
@@ -228,7 +226,7 @@ Dentro del parque hay un área de uso público con estacionamiento, sendero circ
 
 ## NOR-08 · Cachi
 - **Dónde:** Salta · Cachi · Valles Calchaquíes
-- **Bajada:** Un pueblo blanco de adobe al pie de los cerros, con una iglesia cuyo techo, confesionario y bancos están hechos con madera de cardón.
+- **Bajada:** Un pueblo blanco de adobe al pie de los cerros, con una iglesia cuyo techo y confesionario están hechos con madera de cardón.
 
 ### Cómo llegar
 ~157 a 162 km desde Salta por RN 68 y RP 33, cruzando la Cuesta del Obispo y el Parque Nacional Los Cardones (ver NOR-07); el último tramo, desde Payogasta, es por la RN 40 asfaltada. El pueblo está a más de 2.200 msnm. Calculá un día y una noche.
@@ -262,23 +260,23 @@ El Camping Municipal de Cachi (Av. Tavella s/n) es arbolado, con pileta, duchas 
 Desde Salta son ~164 km por la RN 51 (~2 h 50) por la Quebrada del Toro, siguiendo en buena parte el trazado del ferrocarril. El estado de la RN 51 es irregular: proyectos presentados en la Cámara de Diputados la describen deteriorada, con un badén importante cerca de San Antonio [VERIFICAR estado actual con Vialidad Nacional]. Desde el pueblo, viajeros reportan unos 15 a 17 km de ripio hasta el viaducto. Calculá un día ida y vuelta desde Salta, o mejor, hacé noche y seguí hacia Salinas Grandes.
 
 ### Historia
-El ingeniero estadounidense Richard Maury tomó la obra del ramal C14 el 31 de marzo de 1921 y la resolvió sin cremallera, solo con adherencia, a fuerza de zigzags, rulos y viaductos. La línea, que cruza a Chile, se inauguró completa en 1948; La Polvorilla, el viaducto más alto, se terminó en la década de 1930 (las fuentes dan 1932 o 1939). Maury está enterrado en Campo Quijano, donde lo recuerda una escultura. Hoy el tren turístico solo hace el tramo San Antonio–La Polvorilla; desde Salta, el traslado es en bus.
+El ingeniero estadounidense Richard Maury tomó la obra del ramal C14 el 31 de marzo de 1921 y la resolvió sin cremallera, solo por adherencia. La línea a Chile se inauguró completa en 1948; La Polvorilla, su viaducto más alto, se terminó en los años 30. Maury descansa en Campo Quijano. Hoy el tren turístico solo hace el tramo San Antonio–La Polvorilla.
 
 ### Paisaje y geología
-San Antonio está a unos 3.770 msnm [VERIFICAR cifra exacta], en plena Puna: una meseta alta, seca y fría, con cielos limpios y pastizales ralos. La Quebrada del Toro es el corredor natural que el tren y la ruta usan para trepar desde el Valle de Lerma.
+San Antonio está a unos 3.770 msnm [VERIFICAR cifra exacta], en plena Puna: una meseta alta, seca y fría. Tren y ruta trepan hasta ahí desde el Valle de Lerma por la Quebrada del Toro.
 
 ### Fauna
 - **Vicuña:** el camélido silvestre de la estepa puneña; con suerte, se la ve en grupos al costado de la ruta.
 - **Zorro colorado:** habita la Puna. No lo alimentes.
 
 ### Cielo nocturno
-No es casualidad que a unos 20 km del pueblo, en Alto Chorrillos, a cerca de 4.900 metros, funcionen dos observatorios internacionales: QUBIC, que estudia señales del universo temprano, y el radiotelescopio LLAMA, un proyecto argentino-brasileño. La altura y el aire seco de la Puna hacen que el cielo sea excepcional: apagá todas las luces de la camper y mirá.
+No es casualidad que a unos 20 km del pueblo, en Alto Chorrillos, a cerca de 4.900 metros, funcionen dos observatorios internacionales: QUBIC, que estudia señales del universo temprano, y el radiotelescopio LLAMA, un proyecto argentino-brasileño. Altura y aire seco: apagá las luces de la camper y mirá.
 
 ### Antes de ir
 El soroche (apunamiento) es real: pasás de unos 1.200 metros en Salta a casi 3.800 en pocas horas. Comé liviano, tomá mucha agua, no hagas esfuerzos y, si tenés problemas cardíacos o respiratorios, consultá antes a tu médico.
 
 ### En la camper
-San Antonio tiene estación YPF: llená el tanque antes de seguir, porque en la Puna las distancias entre estaciones son largas. No encontramos camping habilitado para motorhome en el pueblo [VERIFICAR]. Las noches son muy frías todo el año: revisá calefacción, gas y anticongelante. El motor rinde menos en altura: subí sin exigirlo.
+San Antonio tiene estación YPF: llená el tanque antes de seguir, porque en la Puna las distancias entre estaciones son largas. No encontramos camping habilitado para motorhome en el pueblo [VERIFICAR]. Las noches son muy frías: revisá calefacción y gas.
 
 **Fotos necesarias:** principal: Viaducto La Polvorilla con el Tren a las Nubes cruzando, desde el mirador junto a las vías; chicas: estación de San Antonio de los Cobres, Quebrada del Toro, vicuñas, zorro colorado, retrato de Richard Maury, cielo estrellado sobre la Puna
 **Fuentes:** [Tren a las Nubes – Ramal C14](https://trenalasnubes.com.ar/ramal-c14-en/) · [Canal 26 – El tren que sube a 4.220 metros](https://www.canal26.com/turismo/2026/09/04/el-tren-argentino-que-sube-a-4220-metros-la-obra-de-ingenieria-que-parece-suspendida-en-la-puna/) · [Welcome Argentina – Tren a las Nubes](https://www.welcomeargentina.com/salta/train-to-the-clouds.html) · [Wikipedia – Tren a las Nubes](https://en.wikipedia.org/wiki/Tren_a_las_Nubes) · [La Capital MdP – Tren a las Nubes suma trayectos viales](https://www.lacapitalmdp.com/el-tren-a-las-nubes-suma-trayectos-viales-en-su-iconico-viaje/) · [Ruta0 – San Antonio de los Cobres a Jujuy](https://www.ruta0.com/ruta/argentina/san-antonio-de-los-cobres-a-san-salvador-de-jujuy/) · [Ruta0 foro – Viaje a San Antonio de los Cobres](https://www.ruta0.com/foros/destinos-consultas/hoteles-hosterias/mi-viaje-a-san-antonio-de-los-cobres-informacion-4212.htm) · [Turismo Ruta 40 – Estaciones de servicio](https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html) · [HCDN – Proyecto sobre RN 51](https://rest.hcdn.gob.ar/web/tramites-parlamentarios/render/adjunto/6a74b367bb997.pdf) · [HCDN – Proyecto 1540-D-2025 (RN 51)](https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2025/PDF2025/TP2025/1540-D-2025.pdf) · [CNEA – Observatorio QUBIC](https://www.argentina.gob.ar/cnea/ip/instituto-de-tecnologias-en-deteccion-y-astroparticulas-iteda/observatorio-qubic) · [CONICET – Salta, ventana al universo](https://www.conicet.gov.ar/franchi-estuvo-en-salta-para-la-puesta-en-funcionamiento-del-proyecto-qubic-avances-en-llama-y-nuevas-obras-en-la-provincia/) · [APN – Fauna de Laguna de los Pozuelos (Puna)](https://www.argentina.gob.ar/node/149180)
@@ -351,7 +349,7 @@ Juan Bautista Ambrosetti y su discípulo Salvador Debenedetti excavaron el sitio
 El cerro domina el ancho fondo de la Quebrada, con cerros de colores a los dos lados. Dentro del predio hay un Jardín Botánico de Altura con plantas de la Quebrada y la Puna [VERIFICAR especies].
 
 ### Antes de ir
-Tené en cuenta que una parte de lo que ves es reconstrucción del siglo XX y no original: la historia de esa reconstrucción también es parte de la visita. Andá temprano: el sol pega fuerte en el cerro y hay que caminar en subida.
+Tené en cuenta que una parte de lo que ves es reconstrucción del siglo XX y no original: la historia de esa reconstrucción también es parte de la visita. Llevá agua y sombrero: se camina en subida y al sol.
 
 ### En la camper
 El Camping El Jardín, cerca del centro, tiene electricidad, ducha caliente y zona de picnic según viajeros; reportan cables bajos que complican la entrada de vehículos altos, así que medí tu camper y preguntá antes de entrar [VERIFICAR]. Tilcara está a unos 2.400 metros [VERIFICAR]: si venís del llano, es buen lugar para aclimatarte antes de subir más. Según Todo Jujuy, es uno de los lugares recomendados para cargar combustible antes de ir a la Puna.
@@ -409,3 +407,214 @@ La caminata clásica es a San Isidro, otro caserío a unos 8 km. Consultá en el
 
 ---
 
+## NOR-15 · Monumento Natural Laguna de los Pozuelos
+- **Dónde:** Jujuy · Abra Pampa · Monumento Natural Laguna de los Pozuelos
+- **Bajada:** En esta laguna de la Puna se contaron más de 30.000 flamencos de las tres especies que viven en la Argentina.
+
+### Cómo llegar
+Desde Humahuaca, RN 9 hacia el norte hasta Abra Pampa y desde ahí la RP 7, unos 50 km de ripio hasta la seccional de guardaparques Río Cincel, en la entrada del área. El camino interno de 7 km hasta la orilla suele cortarse con las lluvias de verano. La entrada es gratuita. La oficina del área está en Pellegrini 120, Abra Pampa (lunes a viernes de 7:30 a 16:30; tel. 03883 302000; mnlpozuelos@gmail.com). Calculá un día ida y vuelta desde Abra Pampa.
+
+### Historia
+Tiene varias capas de protección: Reserva de Biosfera de la UNESCO desde 1990 y sitio Ramsar desde 1992 (unas 16.000 hectáreas). Además es Área Importante para la Conservación de las Aves. La administra Parques Nacionales con la categoría de Monumento Natural.
+
+### Paisaje
+Una laguna abierta en medio de la estepa puneña. Cambia mucho con la estación: la mejor época es marzo y abril, después de las lluvias, cuando miles de flamencos tiñen de rosa la orilla.
+
+### Fauna
+- **Flamencos (flamenco austral, parina grande y parina chica):** las tres especies del país juntas; en marzo y abril se concentran por miles.
+- **Suri (ñandú puneño):** amenazado; se lo ve a veces en la estepa alrededor de la laguna.
+- **Vicuña:** pasta en la estepa de los alrededores; con suerte, desde el camino.
+
+### En la camper
+No hay servicios turísticos dentro del área: Abra Pampa tiene alojamiento, comedores y estaciones de servicio, así que cargá todo ahí. No encontramos información oficial sobre acampe en el área [VERIFICAR con la intendencia]. El ripio de la RP 7 se complica con lluvia; consultá su estado en la oficina de Abra Pampa antes de salir. Estás en plena Puna: frío intenso de noche y altura (ver NOR-09).
+
+**Fotos necesarias:** principal: bandada de flamencos en la orilla de la laguna con los cerros puneños de fondo; chicas: parina grande, parina chica, flamenco austral, suri, vicuñas, seccional Río Cincel
+**Fuentes:** [APN – Pozuelos: horarios y cómo llegar](https://www.argentina.gob.ar/parquesnacionales/pozuelos/como-llegar) · [APN – Monumento Natural Laguna de los Pozuelos](https://www.argentina.gob.ar/parquesnacionales/pozuelos) · [APN – Pozuelos (fauna)](https://www.argentina.gob.ar/node/149180) · [APN – Láminas de aves acuáticas de Pozuelos](https://argentina.gob.ar/sites/default/files/laminas_aves_acuaticas_pozuelos.pdf) · [Ramsar – Laguna de los Pozuelos](https://rsis.ramsar.org/ris/555) · [BirdLife – IBA Laguna de los Pozuelos](https://datazone.birdlife.org/site/factsheet/monumento-natural-laguna-de-los-pozuelos-iba-argentina/details) · [Argentina.travel – Laguna de los Pozuelos](https://www.argentina.travel/actividades/monumento-natural-laguna-de-los-pozuelos) · [Todo Jujuy – Laguna de Pozuelos](https://www.todojujuy.com/jujuy/laguna-pozuelos-un-sitio-imperdible-jujuy-n144518)
+
+---
+
+## NOR-16 · Parque Nacional Calilegua
+- **Dónde:** Jujuy · Libertador General San Martín · Parque Nacional Calilegua
+- **Bajada:** La mayor área protegida de las yungas argentinas, donde viven el yaguareté, el tapir y más de 350 especies de aves.
+
+### Cómo llegar
+Desde San Salvador de Jujuy, ~112 km al noreste por la RN 34 hasta Libertador General San Martín. Poco después del puente sobre el río San Lorenzo empieza la RP 83, de ripio consolidado y cornisa, que cruza el parque durante 23 km y sigue hacia Valle Grande. El centro de visitantes Aguas Negras atiende todos los días de 8 a 19 h; la entrada es gratuita y para hacer los senderos hay que registrarse ahí. Calculá un día entero.
+
+### Historia
+El parque se creó en 1979 sobre tierras que la provincia de Jujuy donó al Estado nacional. Forma parte de la Reserva de Biosfera de las Yungas, que protege la selva de montaña en todo su gradiente de altura.
+
+### Paisaje y flora
+Las yungas son una selva de montaña escalonada: a medida que subís cambia el bosque. Abajo, en la selva pedemontana (300 a 900 metros), dominan la tipa, el pacará y el cebil, con jacarandá y cochucho; más arriba, en el bosque montano, aparecen el nogal, el aliso y el pino del cerro. Cuanto más alto, más fresco y abierto.
+
+### Fauna
+- **Mono caí:** vive en el parque; buscalo en las copas de los árboles desde los senderos.
+- **Tapir (anta):** el mamífero terrestre más grande del país; es esquivo y verlo es difícil.
+- **Yaguareté:** en peligro de extinción; vive en el parque, pero verlo es casi imposible.
+
+### En la camper
+El camping Aguas Negras, junto al centro de visitantes, tiene agua potable y baños; no se puede hacer fuego, pero sí usar calentador [VERIFICAR si admite motorhome]. La RP 83 tiene curvas pronunciadas y es común cruzarse fauna: manejá despacio. Es selva: el ambiente es mucho más húmedo que el de la Quebrada. Llevá repelente y ropa para lluvia.
+
+**Fotos necesarias:** principal: selva de yungas con niebla sobre las laderas, desde la RP 83; chicas: tipa, mono caí, tapir, yaguareté (foto de archivo o cámara trampa), centro de visitantes Aguas Negras
+**Fuentes:** [APN – Calilegua: horarios y cómo llegar](https://www.argentina.gob.ar/parquesnacionales/calilegua/como-llegar) · [APN – PN Calilegua](https://www.argentina.gob.ar/parquesnacionales/calilegua) · [APN – Calilegua (biodiversidad)](https://www.argentina.gob.ar/node/149081) · [APN – Calilegua (camping)](https://www.argentina.gob.ar/node/149076) · [APN – Programa de voluntariado Calilegua](https://argentina.gob.ar/sites/default/files/if-2023-104633217-apn-pncapnac.pdf) · [Argentina.travel – PN Calilegua](https://www.argentina.travel/actividades/parque-nacional-calilegua) · [Welcome Argentina – PN Calilegua](https://www.welcomeargentina.com/jujuy/parque-nacional-calilegua.html) · [CONICET – Yungas, el tesoro verde](https://www.conicet.gov.ar/yungas-el-tesoro-verde/)
+
+---
+
+## NOR-17 · Parque Nacional Baritú
+- **Dónde:** Salta · Los Toldos · Parque Nacional Baritú
+- **Bajada:** El parque nacional más al norte del país, presentado como el único tropical de la Argentina, tiene una particularidad: para llegar en vehículo hay que pasar obligatoriamente por Bolivia.
+
+### Cómo llegar
+Desde Orán se va a Aguas Blancas, se cruza a Bermejo (Bolivia) por el paso internacional, se recorren ~113 km por territorio boliviano y se vuelve a entrar a la Argentina por La Mamora. De ahí son ~17 km a Los Toldos y otros ~26 km a Lipeo, donde está la seccional de guardaparques. Dentro del parque, la RP 19 une Lipeo con Baritú. Hay que registrarse en el centro de visitantes de Los Toldos o en la seccional de Lipeo. En verano se ingresa de 6 a 19 h [VERIFICAR horario del resto del año]. Es un viaje de varios días, no una excursión.
+
+### Historia
+Se creó por la Ley 20.656 en 1974 y protege unas 72.000 hectáreas del sector más septentrional de las yungas, la selva tucumano-oranense, una de las regiones con mayor biodiversidad del país.
+
+### Paisaje y flora
+Selva de montaña en laderas muy empinadas y húmedas. En las partes bajas aparecen ceibas y palmeras; más arriba, bosques de aliso andino [VERIFICAR especies con la ficha de Parques Nacionales].
+
+### Fauna
+- **Yaguareté:** el felino más grande de América, en peligro; vive en el parque, pero verlo es excepcional. [VERIFICAR otras especies destacadas]
+
+### En la camper
+**Es uno de los parques más difíciles de visitar del país.** Necesitás tu documentación personal, toda la de la camper y un seguro con cobertura en Bolivia para cruzar la frontera; si la camper es alquilada, confirmá antes con Terra Campers si está autorizada a salir del país [VERIFICAR]. Cargá combustible en Orán o en Aguas Blancas: en Los Toldos no hay estación de servicio. El área de acampe Cerro Ukumar, libre y gratuita, está a unos 620 metros de la seccional de guardaparques [VERIFICAR si admite vehículos grandes]. Con lluvias los caminos pueden cerrarse: consultá con la intendencia antes de salir.
+
+**Fotos necesarias:** principal: laderas de selva tupida con nubes bajas en el valle del parque; chicas: cruce fronterizo Aguas Blancas–Bermejo, cartel de la seccional Lipeo, ceiba, yaguareté (foto de archivo o cámara trampa)
+**Fuentes:** [APN – Baritú: horarios y cómo llegar](https://www.argentina.gob.ar/node/148953) · [APN – Baritú: biodiversidad](https://www.argentina.gob.ar/parquesnacionales/region-noroeste/parque-nacional-baritu/biodiversidad) · [APN – Baritú (acampe)](https://www.argentina.gob.ar/node/149044) · [Argentina.travel – PN Baritú](https://www.argentina.travel/actividades/parque-nacional-baritu) · [La Nación – Baritú, insólito parque nacional](https://www.lanacion.com.ar/turismo/baritu-insolito-parque-nacional-al-se-accede-nid2214029/) · [Lonely Planet – PN Baritú](https://www.lonelyplanet.com/points-of-interest/parque-nacional-baritu/1274465) · [Billiken – Baritú, el único parque nacional tropical](https://billiken.lat/mi-pais/sabias-que-baritu-es-el-unico-parque-nacional-tropical-de-argentina/) · [Billiken – Baritú, el parque más al norte](https://billiken.lat/interesante/baritu-el-parque-nacional-mas-al-norte-de-argentina/) · [Aire de Santa Fe – Escapada a Baritú](https://www.airedesantafe.com.ar/turismo/escapada-un-parque-nacional-la-provincia-salta-que-ofrece-experiencias-increibles-este-verano-n603128/amp) · [EcuRed – PN Baritú](https://www.ecured.cu/Parque_Nacional_Barit%C3%BA)
+
+---
+
+## NOR-18 · Parque Nacional El Rey
+- **Dónde:** Salta · [VERIFICAR pueblo base] · Parque Nacional El Rey
+- **Bajada:** [PENDIENTE DE INVESTIGACIÓN]
+
+> **Página pendiente.** Se agotó el cupo de búsquedas web de esta sesión antes de investigar este parque, y no hay datos previos en `guia-fuente.md`. Por la regla de "nada inventado", la página queda sin cuerpo hasta completar la investigación. Lo que hay que buscar: acceso desde Salta (ruta, kilómetros de ripio, vados y si es apto para motorhome), horario y registro en la intendencia, historia de la creación del parque, pisos de selva de yungas, fauna (el tucán grande es su emblema [VERIFICAR]), camping del parque y servicios, combustible más cercano.
+
+### Cómo llegar
+[PENDIENTE]
+
+### Historia
+[PENDIENTE]
+
+### Paisaje y flora
+[PENDIENTE]
+
+### Fauna
+[PENDIENTE]
+
+### En la camper
+[PENDIENTE]
+
+**Fotos necesarias:** principal: selva de yungas del parque [VERIFICAR encuadre]; chicas: tucán grande [VERIFICAR]
+**Fuentes:** [PENDIENTE]
+
+---
+
+## NOR-19 · Campo de Piedra Pómez
+- **Dónde:** Catamarca · El Peñón [VERIFICAR] · Reserva provincial [VERIFICAR nombre y categoría]
+- **Bajada:** [PENDIENTE DE INVESTIGACIÓN]
+
+> **Página pendiente.** Se agotó el cupo de búsquedas web de esta sesión antes de investigar este lugar, y no hay datos previos en `guia-fuente.md`. Lo que hay que buscar: acceso desde Belén por la RN 40 y la RP 43 hasta El Peñón (asfalto y ripio), si al campo se entra solo con 4x4 y guía, origen volcánico de la piedra pómez, altura, fauna de la Puna catamarqueña, dónde pernoctar en El Peñón o Antofagasta de la Sierra, combustible y señal.
+
+### Cómo llegar
+[PENDIENTE]
+
+### Historia
+[PENDIENTE]
+
+### Paisaje y geología
+[PENDIENTE]
+
+### Fauna
+[PENDIENTE]
+
+### En la camper
+[PENDIENTE]
+
+**Fotos necesarias:** principal: formaciones blancas de piedra pómez esculpidas por el viento, con luz baja [VERIFICAR]; chicas: [PENDIENTE]
+**Fuentes:** [PENDIENTE]
+
+---
+
+## NOR-20 · Fiambalá y la Ruta de los Seismiles
+- **Dónde:** Catamarca · Fiambalá · RN 60 hacia el Paso de San Francisco [VERIFICAR]
+- **Bajada:** [PENDIENTE DE INVESTIGACIÓN]
+
+> **Página pendiente.** Se agotó el cupo de búsquedas web de esta sesión antes de investigar este lugar, y no hay datos previos en `guia-fuente.md`. Lo que hay que buscar: termas de Fiambalá (acceso y horarios), dunas de Saujil, Ruta de los Seismiles (qué volcanes se ven, alturas oficiales, Laguna Verde, refugios), estado de la RN 60, altura máxima y riesgo de apunamiento, combustible (última estación antes del paso), clima y cierres invernales del paso, dónde pernoctar en Fiambalá o Tinogasta, y si el cielo nocturno califica para la sección "Cielo nocturno".
+
+### Cómo llegar
+[PENDIENTE]
+
+### Historia
+[PENDIENTE]
+
+### Paisaje y geología
+[PENDIENTE]
+
+### Fauna
+[PENDIENTE]
+
+### En la camper
+[PENDIENTE]
+
+**Fotos necesarias:** [PENDIENTE]
+**Fuentes:** [PENDIENTE]
+
+---
+
+## Pendientes de verificar
+
+**Páginas sin investigar (se agotó el cupo de búsquedas web de la sesión):** NOR-18 Parque Nacional El Rey, NOR-19 Campo de Piedra Pómez y NOR-20 Fiambalá y la Ruta de los Seismiles. Tienen solo la estructura y la lista de lo que hay que buscar; todo su contenido está marcado [PENDIENTE].
+
+**Datos marcados [VERIFICAR] en las páginas escritas (44):**
+
+- NOR-01: «con lluvias de verano el camino puede complicarse.» [VERIFICAR: apto para motorhome grande en el tramo de ripio]
+- NOR-02: «El Camping Municipal Los Sauzales, cerca del centro, tiene espacio para vehículos grandes según viajeros» [VERIFICAR servicios y vigencia con el municipio]
+- NOR-03: «…ves: el entorno de las ruinas está registrado como Área Clave para la Biodiversidad (KBA "Ruinas de Quilmes").» [VERIFICAR: especies destacadas]
+- NOR-04: «Desde Quilmes, ~50 km al norte por la RN 40» [VERIFICAR distancia exacta]
+- NOR-04: «Abre todos los días» [VERIFICAR horario]
+- NOR-04: «otros reportan el Camping Luz y Fuerza, cerca del centro, con ducha caliente, baño y electricidad» [VERIFICAR vigencia y acceso para motorhome grande]
+- NOR-05: «- Dónde: Salta · entre Cafayate y Salta, sobre la RN 68 · Reserva Natural Quebrada de las Conchas» [VERIFICAR categoría y norma de la reserva]
+- NOR-05: «… la ruta es parte del circuito clásico Salta–Cafayate y casi todas las excursiones paran en los mismos puntos.» [VERIFICAR: origen del nombre "de las Conchas"]
+- NOR-06: «desde 2025 se entra sin reserva.» [VERIFICAR horario vigente en maam.gob.ar: las fuentes no coinciden]
+- NOR-07: «…in sigue un camino que las fuentes turísticas atribuyen a la red vial inca, con una datación entre 1480 y 1535» [VERIFICAR fuente arqueológica]
+- NOR-07: «…e hay un área de uso público con estacionamiento, sendero circular de 2 km, picnic, baños secos y acampe libre» [VERIFICAR nombre del sector y si admite motorhome]
+- NOR-07: «algunas fuentes todavía mencionan tramos de ripio» [VERIFICAR asfalto completo con Vialidad de Salta]
+- NOR-08: «…achi está en el valle alto del río Calchaquí, entre cerros secos y la mole nevada del Nevado de Cachi al oeste» [VERIFICAR altura del nevado]
+- NOR-08: «Antes de seguir por la RN 40 llená el tanque donde puedas» [VERIFICAR estación de servicio en Cachi]
+- NOR-09: «…s presentados en la Cámara de Diputados la describen deteriorada, con un badén importante cerca de San Antonio» [VERIFICAR estado actual con Vialidad Nacional]
+- NOR-09: «San Antonio está a unos 3.770 msnm» [VERIFICAR cifra exacta]
+- NOR-09: «No encontramos camping habilitado para motorhome en el pueblo» [VERIFICAR]
+- NOR-10: «Desde San Antonio de los Cobres se puede llegar por la RN 40 hacia el norte, de ripio» [VERIFICAR estado y km actuales antes de ir en camper]
+- NOR-11: «…un sendero que sale del pueblo y rodea los cerros rojizos detrás del caserío, muestra las formaciones de cerca» [VERIFICAR largo del circuito, ~3 km]
+- NOR-12: «Desde Purmamarca, volvé a la RN 9 y seguí hacia el norte, todo asfaltado (~25 km» [VERIFICAR]
+- NOR-12: «Calculá 2 a 3 horas para el Pucará y el museo arqueológico del pueblo» [VERIFICAR horarios en la web de la Facultad de Filosofía y Letras de la UBA]
+- NOR-12: «Dentro del predio hay un Jardín Botánico de Altura con plantas de la Quebrada y la Puna» [VERIFICAR especies]
+- NOR-12: «…an cables bajos que complican la entrada de vehículos altos, así que medí tu camper y preguntá antes de entrar» [VERIFICAR]
+- NOR-12: «Tilcara está a unos 2.400 metros» [VERIFICAR]
+- NOR-13: «…duchas, y otro con parcelas con electricidad y parrilla, aunque con la plaza para motorhome lejos de los baños» [VERIFICAR nombres y vigencia]
+- NOR-14: «Calculá al menos una noche en Iruya» [VERIFICAR tiempo de manejo por tramo]
+- NOR-14: «Fue elegido entre los 50 pueblos más lindos del mundo por una revista de viajes» [VERIFICAR nombre de la publicación y año]
+- NOR-14: «…sensato es dejar la camper en Humahuaca y subir en el colectivo de línea o en una excursión con vehículo local» [VERIFICAR servicio de transporte y lugar seguro para dejar la camper]
+- NOR-14: «No encontramos camping apto para vehículos en Iruya» [VERIFICAR]
+- NOR-15: «No encontramos información oficial sobre acampe en el área» [VERIFICAR con la intendencia]
+- NOR-16: «no se puede hacer fuego, pero sí usar calentador» [VERIFICAR si admite motorhome]
+- NOR-17: «En verano se ingresa de 6 a 19 h» [VERIFICAR horario del resto del año]
+- NOR-17: «más arriba, bosques de aliso andino» [VERIFICAR especies con la ficha de Parques Nacionales]
+- NOR-17: «vive en el parque, pero verlo es excepcional.» [VERIFICAR otras especies destacadas]
+- NOR-17: «si la camper es alquilada, confirmá antes con Terra Campers si está autorizada a salir del país» [VERIFICAR]
+- NOR-17: «El área de acampe Cerro Ukumar, libre y gratuita, está a unos 620 metros de la seccional de guardaparques» [VERIFICAR si admite vehículos grandes]
+- NOR-18: «- Dónde: Salta ·» [VERIFICAR pueblo base]
+- NOR-18: «…ntendencia, historia de la creación del parque, pisos de selva de yungas, fauna (el tucán grande es su emblema» [VERIFICAR]
+- NOR-18: «selva de yungas del parque» [VERIFICAR encuadre]
+- NOR-18: «tucán grande» [VERIFICAR]
+- NOR-19: «- Dónde: Catamarca · El Peñón» [VERIFICAR]
+- NOR-19: «- Dónde: Catamarca · El Peñón [VERIFICAR] · Reserva provincial» [VERIFICAR nombre y categoría]
+- NOR-19: «formaciones blancas de piedra pómez esculpidas por el viento, con luz baja» [VERIFICAR]
+- NOR-20: «- Dónde: Catamarca · Fiambalá · RN 60 hacia el Paso de San Francisco» [VERIFICAR]
+
+**Otros puntos a revisar:**
+
+- NOR-03 Ruinas de Quilmes: solo se pudo verificar un ítem de fauna (Área Clave para la Biodiversidad); faltan especies.
+- NOR-06 Salta, NOR-11 Purmamarca, NOR-12 Tilcara, NOR-13 Humahuaca y NOR-14 Iruya: sin sección de fauna por no encontrar datos verificables propios del lugar.
+- NOR-17 Baritú: una sola especie de fauna verificada (yaguareté).
+- Las fuentes de WebFetch no se pudieron abrir en esta sesión (argentina.gob.ar y wikipedia.org bloqueados por la red): los datos de Parques Nacionales salen de los resúmenes del buscador sobre esas páginas oficiales. Conviene una lectura directa antes de imprimir.
