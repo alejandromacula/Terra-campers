@@ -38,7 +38,7 @@ Es una cuenca endorreica: el agua entra y no sale, solo se evapora. El río Dulc
 
 ### Fauna
 - **Flamenco austral (*Phoenicopterus chilensis*):** está todo el año y esta laguna es su principal sitio de cría; muy probable verlo. Las otras dos especies de flamencos sudamericanos también llegan.
-- **Aves playeras migratorias:** acá se registró el 66 % de las especies de aves migratorias y playeras de la Argentina; llevá binoculares.
+- **Aves playeras migratorias:** acá se registró el 66 % de las especies migratorias y playeras del país; llevá binoculares.
 - **Aguará guazú:** el zorro de patas largas vive en los bañados del Dulce; es tímido y difícil de ver.
 
 ### Antes de ir
@@ -375,7 +375,7 @@ Las localidades más cercanas son Salsacate y Chancaní; no hay transporte públ
 Se creó por la Ley 27.435 en 2018 sobre la histórica Estancia Pinas, en el oeste de Córdoba, que guarda también rastros de un antiguo asentamiento comechingón. La superficie protegida varía según la etapa y la fuente: la ficha oficial habla de 44.000 ha.
 
 ### Paisaje y flora
-Es Chaco Seco: bosques, arbustales, pastizales naturales y zonas salinas. En los bosques de Chaco Serrano de la sierra de Guasapampa se descubrió un roedor nuevo para la ciencia, *Apnoctomys conicetorum*, nombrado en honor a Parques Nacionales y al CONICET. Especies de flora destacadas: [VERIFICAR].
+Es Chaco Seco: bosques, arbustales, pastizales naturales y zonas salinas. En sus bosques serranos de la sierra de Guasapampa se descubrió un roedor nuevo para la ciencia, *Apnoctomys conicetorum*. Especies de flora destacadas: [VERIFICAR].
 
 ### Fauna
 - **Guanaco:** el parque protege una de las últimas poblaciones de la provincia.
@@ -383,10 +383,10 @@ Es Chaco Seco: bosques, arbustales, pastizales naturales y zonas salinas. En los
 - **Boa chaqueña (*Epicrates alvarezi*):** exclusiva del Chaco Seco, especie de valor especial para Parques Nacionales.
 
 ### Antes de ir
-Las visitas son por cuenta propia: según la información oficial de 2024 no había guías habilitados en el parque. Se permiten caminatas, avistaje de fauna y flora, miradores, fotografía, visita a sitios históricos y picnic cerca del casco de la ex estancia.
+Las visitas son por cuenta propia: según la información oficial de 2024 no había guías habilitados en el parque. Cerca del casco de la ex estancia se permiten caminatas, avistaje, fotografía, visita a sitios históricos y picnic.
 
 ### En la camper
-**Ripio largo y sin servicios:** entrá con tanque lleno, agua y comida; no hay camping informado dentro del parque [VERIFICAR]. El punto de la Ruta del Motorhome más cercano está en Salsacate (Camping Municipal), con carga de agua y descarga de grises y negras sin cargo. Antes de ir escribí a traslasierra@apn.gob.ar (sede en Aristóbulo del Valle 7, Villa de Soto) para confirmar estado del camino y días de apertura.
+**Ripio largo y sin servicios:** entrá con tanque lleno, agua y comida; no hay camping informado dentro del parque [VERIFICAR]. El punto de la Ruta del Motorhome más cercano está en Salsacate (Camping Municipal), con carga de agua y descarga de grises y negras sin cargo. Antes de ir, confirmá camino y apertura: traslasierra@apn.gob.ar (sede en Aristóbulo del Valle 7, Villa de Soto).
 
 **Fotos necesarias:** principal: guanacos en el pastizal con las sierras de Guasapampa de fondo; chicas: casco de la ex Estancia Pinas, águila coronada, boa chaqueña, bosque de Chaco Serrano
 **Fuentes:** https://argentina.gob.ar/sites/default/files/2022/07/informacion_para_la_visita_pntr_2024_0.pdf · https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-traslasierra/como-llegar · https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-traslasierra/biodiversidad · https://www.argentina.gob.ar/noticias/el-parque-nacional-traslasierra-cumple-seis-anos · https://www.argentina.gob.ar/noticias/descubren-una-nueva-especie-de-roedor-y-la-nombran-en-honor-parques-nacionales-y-conicet · https://argentina.gob.ar/sites/default/files/2019/06/ficha_-_pn_traslasierra.pdf · https://www.argentina.gob.ar/node/164354 · https://www4.hcdn.gob.ar/dependencias/dcomisiones/periodo-140/140-14.pdf · https://grupoclarin-la-voz-prod.cdn.arcpublishing.com/ciudadanos/parque-nacional-traslasierra-suma-17-mil-hectareas · https://www.lavozdesanjusto.com.ar/el-parque-nacional-traslasierra-abrio-sus-puertas-al-turismo-124284 · https://www.cronica.com.ar/sociedad/el-area-natural-que-tiene-senderos-bosques-y-una-increible-historia/ · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
