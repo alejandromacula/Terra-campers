@@ -390,155 +390,168 @@ Desde el área de Pampa Linda sale la senda a la Garganta del Diablo, corta y co
 **Fotos necesarias:** principal: Ventisquero Negro con el lago oscuro y témpanos, y los glaciares blancos del Tronador encima; chicas: Pampa Linda con el cerro de fondo, cascada de la Garganta del Diablo, camino de ripio de mano única, cóndor
 **Fuentes:** https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-nahuel-huapi/horarios-como-llegar · https://www.argentina.gob.ar/node/138527 · https://www.anbariloche.com.ar/noticias/2026/07/03/110299-restringen-la-circulacion-en-el-camino-al-tronador-que-vehiculos-podran-ingresar · https://www.anbariloche.com.ar/noticias/2026/04/14/103756-tronador-cesa-sus-servicios-durante-la-temporada-otono-invierno · https://www.anbariloche.com.ar/noticias/2026/10/09/119562-reabrieron-el-camino-a-la-cascada-los-alerces-pero-sigue-cerrado-el-acceso-a-tronador · https://www.anbariloche.com.ar/noticias/2023/06/23/90033-camino-al-tronador-solo-transitable-para-camionetas-4x4 · https://www.anbariloche.com.ar/noticias/2023/01/27/88331-vuelven-a-habilitar-el-camino-al-tronador-para-todo-tipo-de-vehiculos · https://nahuelhuapi.gov.ar/wp-content/uploads/2025/03/Sendas-de-trekking-desde-P.-Linda-AGO-2022-frente.pdf · https://www.minutouno.com/lifestyle/descubri-bariloche-el-glaciar-que-parece-color-negro-y-esta-90km-la-ciudad-n6269412 · https://billiken.lat/mi-pais/ventisquero-negro-todo-lo-que-tenes-que-saber-antes-de-visitar-a-esta-mole-de-hielo-unica-en-la-patagonia/ · https://www.lanacion.com.ar/sociedad/el-retroceso-del-glaciar-ventisquero-negro-creo-un-nuevo-lago-que-ya-tiene-70-metros-de-profundidad-nid07082023/ · https://www.noticiasnqn.com.ar/amp/noticias/2026/09/07/351398-una-enorme-caida-de-hielo-sorprendio-en-el-ventisquero-negro · https://www.rionegro.com.ar/?p=840109 · https://www.argentina.travel/actividades/cerro-tronador · https://en.wikipedia.org/wiki/Tronador · https://www.sirchandler.com.ar/2026/04/excursion-al-cerro-tronador-y-ventisqueros-negros-en-bariloche/ · https://nahuelhuapi.gov.ar/wp-content/uploads/2025/03/Sendas-de-trekking-desde-P.-Linda-AGO-2022-frente.pdf · https://www.argentina.gob.ar/node/138538
 
-<!-- Nota de investigación: las páginas AND-14 a AND-19 se escribieron después de agotarse el cupo de búsquedas web de la sesión. Usan solo datos con fuente de la investigación previa (guia-fuente.md) y de la última búsqueda sobre El Bolsón; todo dato no re-verificado en esta etapa va marcado [VERIFICAR]. Conviene una segunda pasada de investigación antes de imprimir. -->
-
 ## AND-14 · El Bolsón
-- **Dónde:** Río Negro · El Bolsón · valle del río Azul
-- **Bajada:** En 1984 el pueblo se declaró por ordenanza "zona no nuclear", libre de actividad nuclear, para proteger su ambiente.
+- **Dónde:** Río Negro · El Bolsón · Área Natural Protegida Río Azul–Lago Escondido (provincial)
+- **Bajada:** El pueblo que en 1984 se declaró por ordenanza "zona no nuclear" y que cumplió cien años en enero de 2026.
 
 ### Cómo llegar
-Al sur de Bariloche por la RN 40, asfaltada `[VERIFICAR distancia y tiempo desde Bariloche]`. Calculá dos días para combinar feria, cerro y río Azul.
+~120 a 130 km al sur de Bariloche por la RN 40, asfaltada (~2 h, apta camper). Calculá dos o tres días para combinar feria, cerro y río Azul.
 
 ### Historia
-La Feria Regional Artesanal de la Plaza Pagano se formalizó en 1979 por la ordenanza 214 y vende solo productos artesanales y regionales hechos por sus feriantes. Funciona los jueves y sábados, con días extra en temporada `[VERIFICAR días vigentes]`.
-
-### Paisaje
-- **Cajón del Azul:** cañón de aguas cristalinas del río Azul al que se llega con un trekking de dificultad media a alta `[VERIFICAR duración y punto de partida]`.
-- **Cerro Piltriquitrón y Bosque Tallado:** esculturas talladas en troncos de un bosque quemado, en la ladera del cerro; desde ahí se vuela en parapente `[VERIFICAR acceso y estado del camino]`.
-
-### Flora y fauna
-Sin especies verificadas en esta investigación `[VERIFICAR]`.
-
-### Dónde comer
-Cervecería El Bolsón (RN 40 km 123,9), pionera de la cerveza artesanal argentina `[VERIFICAR vigencia]`.
-
-### En la camper
-Campo Base Hielo Azul, a ~7 km sobre el río Azul: rústico, con duchas calientes, baños y estacionamiento, punto de partida al refugio Hielo Azul `[VERIFICAR]`. Camping Mirando al Piltri, sobre el río Azul `[VERIFICAR admisión de motorhome]`. Garrafas: Coopetel, la cooperativa envasadora de El Bolsón `[VERIFICAR]`. Combustible en la zona: estaciones en El Hoyo y Epuyén (Chubut) además de El Bolsón `[VERIFICAR]`.
-
-**Fotos necesarias:** principal: feria de la Plaza Pagano con el Piltriquitrón de fondo; chicas: escultura del Bosque Tallado, aguas del Cajón del Azul, parapente sobre el valle, puesto de la feria con artesanías
-**Fuentes:** https://www.patagonia-argentina.com/en/?p=5124 · https://www.primeraedicion.com.ar/nota/238780/el-bolson/ · https://diariojornada.com.ar/257605/magazine/la_feria_regional_artesanal_de_el_bolson_cumple_40_anos · https://www.welcomeargentina.com/elbolson/el-bolson-city-tour.html · https://www.welcomeargentina.com/elbolson/feria-artesanal.html · https://www.theoutbound.com/argentina/hiking/hike-el-cajon-del-azul · https://theculturetrip.com/articles/the-top-10-things-to-do-and-see-in-el-bols-n · https://www.interpatagonia.com/elbolson/c9217.html · https://www.welcomeargentina.com/elbolson/hielo-azul.html · https://www.noticiasnqn.com.ar/noticias/2025/01/03/307954-camping-en-el-bolson-naturaleza-confort-y-aventura-en-verano · https://rionegro.gov.ar/articulo/59400/bariloche-rio-negro-lanzo-el-operativo-de-recarga-de-garrafas · https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html
-
-## AND-15 · Parque Nacional Lago Puelo
-- **Dónde:** Chubut · Lago Puelo (a pocos km de El Bolsón) · Parque Nacional Lago Puelo
-- **Bajada:** Un lago de aguas verdes que, según la información disponible, desagua hacia el Pacífico a través de Chile `[VERIFICAR]`.
-
-### Cómo llegar
-Desde El Bolsón, por camino asfaltado hasta la villa de Lago Puelo y la costa del lago `[VERIFICAR distancia, ruta y si se cobra entrada]`. Calculá medio día o un día con navegación.
-
-### Historia
-Parque nacional de la cordillera chubutense creado para proteger el lago y sus bosques `[VERIFICAR año y norma de creación]`.
+Toma como fecha fundacional el 28 de enero de 1926, cuando los pobladores formaron la primera Comisión de Fomento. El nombre tiene varias versiones: el valle cerrado como una bolsa, o un bolso de cuero colgado de un ciprés que los pioneros usaban como correo. En los años 30, inmigrantes alemanes empezaron a cultivar lúpulo. La Feria Regional de la Plaza Pagano se formalizó en 1979 (Ordenanza 214) y reúne a más de 300 artesanos y productores de la comarca; funciona martes, jueves, sábados y domingos `[VERIFICAR días y horario vigentes]`.
 
 ### Paisaje y flora
-Lago encajonado entre montañas boscosas, con influencia de selva valdiviana por la baja altitud `[VERIFICAR]`.
-
-### Fauna
-Sin especies verificadas en esta investigación `[VERIFICAR]`.
-
-### En la camper
-Hay campings dentro y en el entorno del parque `[VERIFICAR nombres, servicios y admisión de motorhome]`. Respetá las restricciones de fuego de Parques Nacionales.
-
-**Fotos necesarias:** principal: lago Puelo desde la playa principal con las montañas de fondo; chicas: embarcadero, bosque costero, sendero de la costa
-**Fuentes:** pendientes: no se pudo investigar esta página en esta etapa (cupo de búsquedas agotado).
-
-## AND-16 · Cholila
-- **Dónde:** Chubut · Cholila · acceso norte al Parque Nacional Los Alerces
-- **Bajada:** En este valle vivieron como estancieros, a comienzos del siglo XX, los forajidos estadounidenses Butch Cassidy y Sundance Kid `[VERIFICAR]`.
-
-### Cómo llegar
-Entre El Bolsón/Epuyén y el Parque Nacional Los Alerces `[VERIFICAR ruta, distancia y tipo de calzada]`. Calculá una parada de una o dos horas para la cabaña.
-
-### Historia
-Butch Cassidy, Sundance Kid y Etta Place se instalaron en Cholila bajo nombres falsos y levantaron una cabaña de troncos que todavía se conserva `[VERIFICAR fechas, nombres usados y estado de la cabaña]`.
-
-### Paisaje
-Valle de estepa y pastizales al pie de la cordillera, antesala de los lagos de Los Alerces `[VERIFICAR]`.
-
-### Fauna
-Sin especies verificadas en esta investigación `[VERIFICAR]`.
-
-### En la camper
-Sin campings verificados en esta investigación `[VERIFICAR]`. Hay estaciones de servicio en Epuyén y El Hoyo sobre la RN 40 `[VERIFICAR]`.
-
-**Fotos necesarias:** principal: cabaña de troncos de Butch Cassidy con el valle y la cordillera de fondo; chicas: detalle de la construcción, cartel histórico
-**Fuentes:** https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html · resto pendiente: no se pudo investigar esta página en esta etapa (cupo de búsquedas agotado).
-
-## AND-17 · Parque Nacional Los Alerces
-- **Dónde:** Chubut · Esquel / Trevelin · Parque Nacional Los Alerces (Patrimonio Mundial UNESCO `[VERIFICAR año]`)
-- **Bajada:** Protege bosques de alerce, árboles que pueden vivir miles de años; al Alerzal Milenario se llega navegando `[VERIFICAR edad del ejemplar más viejo]`.
-
-### Cómo llegar
-Desde Esquel, ~45 min hasta el camping Los Maitenes por acceso asfaltado. Dentro del parque, la RP 71 tiene tramos de ripio `[VERIFICAR estado y tramos]`. Calculá dos o tres días.
-
-### Historia
-Parque nacional de la cordillera de Chubut, inscripto como Patrimonio Mundial de la UNESCO `[VERIFICAR año de creación y de inscripción]`.
-
-### Paisaje y flora
-Cadena de lagos (Futalaufquen, Menéndez, Rivadavia, Verde) entre montañas boscosas.
-- **Alerce (Fitzroya cupressoides):** el árbol que da nombre al parque; los más viejos se ven en el Alerzal Milenario `[VERIFICAR edad]`.
-
-### Fauna
-Sin especies verificadas en esta investigación `[VERIFICAR]`.
+Un valle encerrado por montañas, a los pies del cerro Piltriquitrón.
+- **Lenga:** en las laderas del Piltriquitrón; un incendio de fines de los 70 y comienzos de los 80 dejó troncos muertos a ~1.400 m.
+- **Ciprés de la cordillera:** el árbol del mito del "bolsón" correo.
 
 ### Imperdible
-La excursión lacustre al Alerzal Milenario por los lagos Futalaufquen y Menéndez.
+- **Bosque Tallado:** desde 1998, escultores tallan los troncos quemados de lenga del Piltriquitrón; ya son más de 50 obras. Se sube por un camino de montaña de ~13 km hasta un estacionamiento y se sigue a pie `[VERIFICAR calzada para camper]`.
+- **Cajón del Azul:** desde Wharton, ~9 a 10 km de sendero (3 a 5 h por tramo) con puentes colgantes y de madera, hasta pozones de agua cristalina entre paredones. Antes, completá el registro de trekking del Área Natural Protegida Río Azul–Lago Escondido.
 
 ### En la camper
-Camping organizado **Los Maitenes**, a orillas del lago Futalaufquen, con acceso asfaltado; abre del 1 de noviembre a la última Semana Santa y concentra la mayoría de las motorhomes de la zona. Otros organizados: Bahía Rosales, Lago Rivadavia, Lago Verde, Pucón Pai, Cumé Hue, Futalaufquen y Quimé Quipán. Agrestes: Bahía Rosales, Arroyo Centinela, Río Arrayán, Río Grande, Tres Bahías y Lago Verde. Reservas: usopublicolosalerces@apn.gob.ar · +54 9 2945 54-8973 (sin reserva online confirmada) `[VERIFICAR vigencia de todo el listado: fuente oficial de 2019]`. No hay restaurantes verificados dentro del parque: abastecete en Esquel o Trevelin. Ripio en la RP 71: andá despacio con una camper grande.
+Campo Base Hielo Azul, a ~7 km sobre el río Azul: rústico, con duchas calientes, baños y estacionamiento `[VERIFICAR vigencia]`. Camping Mirando al Piltri, a orillas del río Azul, y Camping Refugio Patagónico, a 4 cuadras del centro `[VERIFICAR admisión de motorhome]`. No se encontró punto de descarga de grises y negras en El Bolsón: el más cercano verificado es la estación del camping Club Danés, en Dina Huapi. En el verano de 2025 hubo grandes incendios en la zona: respetá las prohibiciones de fuego.
 
-**Fotos necesarias:** principal: lago Menéndez con el bosque de alerces y la cordillera nevada; chicas: alerce milenario, camping Los Maitenes, lago Verde, embarcación de la excursión lacustre
-**Fuentes:** https://www.argentina.gob.ar/sites/default/files/2019/06/servicios_-_parque_nacional_los_alerces.pdf · https://www.welcomeargentina.com/esquel/camping-los-maitenes.html · https://www.rionegro.com.ar/?p=1283317
+**Fotos necesarias:** principal: feria de la Plaza Pagano con el Piltriquitrón de fondo; chicas: escultura del Bosque Tallado, pozones del Cajón del Azul, puente colgante sobre el río Azul, flor de lúpulo, puesto de la feria
+**Fuentes:** https://www.anbariloche.com.ar/noticias/2026/01/29/102107-el-bolson-cumplio-cien-anos-y-lo-celebraron-recordando-su-historia · https://www.welcomeargentina.com/elbolson/historia.html · https://www.diariouno.com.ar/el-bolson-la-ciudad-argentina-que-carga-extrano-nombre-inspirado-leyendas-n1550858 · https://kupi.com/en/explore/argentina/el-bolson/history · https://www.patagonia-argentina.com/en/?p=5124 · https://www.primeraedicion.com.ar/nota/238780/el-bolson/ · https://diariojornada.com.ar/257605/magazine/la_feria_regional_artesanal_de_el_bolson_cumple_40_anos · https://www.interpatagonia.com/elbolson/feria-regional-artesanal.html · https://www.lonelyplanet.com/argentina/el-bolson/attractions/feria-artesanal/a/poi-sig/503654/363104 · https://www.welcomeargentina.com/elbolson/bosque-tallado.html · https://atlasobscura.com/places/el-bosque-tallado · https://www.ruta0.com/el-bolson/qc63262-bosque-tallado.htm · https://www.rionegro.com.ar/?p=3348262 · https://www.welcomeargentina.com/elbolson/trekking-cajon-del-azul.html · https://www.lanacion.com.ar/revista-lugares/como-es-el-cajon-del-azul-el-famoso-destino-de-trekking-amenazado-por-los-incendios-en-el-bolson-nid06022025/ · https://www.patagonia-argentina.com/en/?p=655 · https://barilocheturismo.gob.ar/docs/marketing-kit/guia-de-actividades-2023.pdf · https://www.frommers.com/destinations/san-carlos-de-bariloche/side-trips · https://www.welcomeargentina.com/elbolson/hielo-azul.html · https://www.noticiasnqn.com.ar/noticias/2025/01/03/307954-camping-en-el-bolson-naturaleza-confort-y-aventura-en-verano · https://app.ioverlander.com/places/4847-camping-refugio-patagonico · https://rionegro.gov.ar/articulo/52284/dina-huapi-destino-turistico-responsable-para-motorhomes
 
-## AND-18 · Esquel y La Trochita
-- **Dónde:** Chubut · Esquel
-- **Bajada:** La Trochita, un tren a vapor de trocha angosta, sale de Esquel y recorre 19 km con 49 curvas hasta Nahuel Pan.
+## AND-15 · Parque Nacional Lago Puelo
+- **Dónde:** Chubut · Lago Puelo (villa) · Parque Nacional Lago Puelo
+- **Bajada:** Guarda la porción más grande de selva valdiviana en suelo argentino, con árboles que parecen sacados de los bosques chilenos.
 
 ### Cómo llegar
-Esquel está sobre la ruta cordillerana, puerta de entrada a Los Alerces y a Trevelin (~25 km) `[VERIFICAR distancia desde El Bolsón]`. Para La Trochita reservá con anticipación. Calculá un día.
+Desde El Bolsón por la RN 40 y la RP 16 hasta la villa de Lago Puelo; desde el centro de la villa son ~4 km de ripio hasta la costa del lago `[VERIFICAR distancia desde El Bolsón: las fuentes no coinciden]`. Los derechos de acceso valen 72 horas, pero la web oficial informaba que el parque no estaba cobrando el ingreso: consultá en la intendencia (02944-499232 / 02944-499064). Calculá un día.
 
 ### Historia
-La Trochita es el Viejo Expreso Patagónico, de trocha angosta `[VERIFICAR año de inauguración y ancho de vía]`. El viaje turístico une Esquel con la estación Nahuel Pan.
+Desde 1937 fue un anexo del Parque Nacional Los Alerces y en 1971 se lo declaró parque nacional independiente. Protege ~27.674 hectáreas.
+
+### Paisaje y geología
+El río Azul desemboca en el lago Puelo, y el río Puelo es su salida. Lagos y ventisqueros entre montañas; la baja altitud deja entrar especies típicas de los bosques húmedos de Chile.
+
+### Flora
+- **Selva valdiviana:** avellano, ulmo, lingue y olivillo, árboles raros en la Argentina.
+- **Ciprés y alerce:** completan el bosque del parque.
+
+### Fauna
+- **Huemul:** ciervo andino en peligro; verlo es excepcional.
+- **Pudú:** el ciervo más chico, también protegido; tímido y difícil de ver. El parque registra más de 150 especies.
+
+### Imperdible
+El Mirador del Lago, un sendero de montaña de dificultad media (~40 min) que arranca en el estacionamiento de La Playita. Otros senderos: Bosque de las Sombras, Pitranto Grande y El Faldeo.
+
+### En la camper
+En el balneario La Playita hay un camping vehicular dentro del parque `[VERIFICAR servicios y admisión de motorhome]`; sobre el sendero del Bosque de las Sombras hay un camping sin servicios. Fuera del parque hay campings privados, como La Pasarela, sobre el río Azul, con electricidad, baños, parrillas y canillas, y Los Quinchos, sobre la RP 16. Cargá combustible en El Bolsón o El Hoyo.
+
+**Fotos necesarias:** principal: lago Puelo verde desde el Mirador del Lago, con las montañas hacia Chile; chicas: bosque de selva valdiviana con olivillo, playa de La Playita, huemul, pudú
+**Fuentes:** https://www.argentina.gob.ar/parquesnacionales/lagopuelo · https://www.argentina.gob.ar/node/153867 · https://www.argentina.gob.ar/node/153870 · https://www.argentina.gob.ar/node/275510 · https://en.wikipedia.org/wiki/Lago_Puelo_National_Park · https://m.parkswatch.org/parkprofiles/pdf/loal_spa.pdf · https://www.welcomeargentina.com/lago-puelo/parque-nacional-lago-puelo.html · https://www.welcomeargentina.com/elbolson/parque-nacional-lago-puelo.html · https://www.interpatagonia.com/elbolson/parque-nacional-lago-puelo.html · https://www.rionegro.com.ar/?p=838878 · https://www.argentina.travel/actividades/parque-nacional-lago-puelo · https://www.lanacion.com.ar/revista-lugares/lago-puelo-la-joyita-patagonica-pozones-de-agua-turquesa-senderos-bosque-y-vinedos-nid30092024/ · https://www.despegar.com.ar/lugares-turisticos/el+bolson/parque+nacional+lago+puelo · https://www.welcomeargentina.com/lago-puelo/campings.html · https://www.interpatagonia.com/lagopuelo/camping-la-pasarela.html · https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html
+
+## AND-16 · Cholila
+- **Dónde:** Chubut · Cholila · entre El Bolsón y el Parque Nacional Los Alerces
+- **Bajada:** En 1901, Butch Cassidy, Sundance Kid y Etta Place compraron un campo en este valle y criaron ovejas, vacas y caballos como cualquier colono.
+
+### Cómo llegar
+~80 km al sur de El Bolsón; se llega desde la RN 40 `[VERIFICAR ruta exacta y tipo de calzada del desvío]`. La cabaña está en un campo privado, pero la visita es libre y gratuita. Calculá una o dos horas para la cabaña y medio día si sumás el lago.
+
+### Historia
+El grupo se instaló cerca de Cholila en 1901, en un campo de ~5.000 hectáreas, y se quedó hasta alrededor de 1905, cuando partieron hacia Bolivia (las fuentes no coinciden del todo en las fechas). La cabaña de troncos principal sigue en pie: se restauró parcialmente en 2007 y guías locales cuentan la historia. Sobre Etta Place, se cree que volvió a Estados Unidos.
 
 ### Paisaje
-Valle rodeado de cerros, con estepa hacia el este y cordillera al oeste `[VERIFICAR]`. La Laguna La Zeta, a ~4 km, sirve para kayak, aves y caminatas. En invierno funciona el centro de esquí La Hoya.
+El pueblo reúne cuatro valles: El Cajón, El Rincón, El Blanco y Villa Lago Rivadavia. El nombre tiene dos versiones: recordaría al cacique Chulilaquin o significaría "valle hermoso" en mapuche.
 
 ### Fauna
-Sin especies verificadas en esta investigación `[VERIFICAR]`.
+- **Truchas arco iris y fontinalis, y salmón encerrado:** el lago Cholila es destino de pesca deportiva, desde la orilla o embarcado, con permiso.
+
+### Si tenés un día más
+Una flotada de pesca por el río Carrileufú hasta el lago Rivadavia, o kayak en el lago Pellegrini.
 
 ### En la camper
-Camping La Colina (Darwin 1400): 50 parcelas con parrillas y estacionamiento `[VERIFICAR admisión de motorhome]`. Hay estación de servicio en Esquel: cargá antes de entrar a Los Alerces. No se encontró normativa municipal sobre pernocte en la vía pública `[VERIFICAR]`.
+No se encontraron campings verificados en Cholila `[VERIFICAR]`. Los campings más cercanos con fuente son los del Parque Nacional Los Alerces, como el de Lago Rivadavia (ver AND-17). Estaciones de servicio sobre la RN 40 en Epuyén y El Hoyo; en Cholila `[VERIFICAR]`.
 
-**Fotos necesarias:** principal: La Trochita con su locomotora a vapor echando humo en la estepa; chicas: estación de Nahuel Pan, Laguna La Zeta, vagón de madera con salamandra `[VERIFICAR]`
-**Fuentes:** https://www.welcomeargentina.com/esquel/la-trochita-expreso-patagonico.html · https://www.rionegro.com.ar/?p=1283317 · https://www.welcomeargentina.com/esquel/camping-la-colina.html · https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html
+**Fotos necesarias:** principal: cabaña de troncos de Butch Cassidy con el valle y la cordillera de fondo; chicas: detalle de los troncos y el interior restaurado, lago Cholila con pescador, río Carrileufú, trucha arco iris
+**Fuentes:** https://www.rionegro.com.ar/voy-turismo/pistoleros-en-la-patagonia-las-andanzas-de-butch-cassidy-sundance-kid-y-su-banda-2915876/ · https://www.rionegro.com.ar/?p=834889 · https://www.wikipedia.org/wiki/Cholila · https://www.canal26.com/historia/2026/01/31/le-dicen-el-viejo-oeste-de-la-patagonia-el-escondido-pueblo-donde-vivieron-los-delincuentes-mas-famosos-y-temidos/ · https://atlasobscura.com/places/butch-cassidys-cabin · https://csmonitor.com/1998/0127/012798.intl.intl.2.html · https://solsalute.com/blog/things-to-do-in-cholila-argentina/ · https://cholilaonline.ar/2014/11/pesca-deportiva-en-lago-cholila-una.html · https://www.diariojornada.com.ar/229669/magazine/lago_cholila__un_destino_para_los_pescadores_del_mundo_entero · https://en.wikipedia.org/wiki/Lake_Cholila · https://www.patagonia.com.ar/Cholila/64E_Cholila.html · https://patagonia.com.ar/Cholila/752E_Enjoying+the+nature+in+Cholila.html · https://www.argentina.gob.ar/sites/default/files/2019/06/servicios_-_parque_nacional_los_alerces.pdf · https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html
 
-## AND-19 · Trevelin
-- **Dónde:** Chubut · Trevelin (a ~25 km de Esquel)
-- **Bajada:** El pueblo galés de la cordillera guarda un molino harinero de 1920 convertido en museo de la colonización galesa.
+## AND-17 · Parque Nacional Los Alerces
+- **Dónde:** Chubut · Esquel / Trevelin · Parque Nacional Los Alerces (Patrimonio Mundial UNESCO desde 2017)
+- **Bajada:** Sobre el brazo norte del lago Menéndez crecen alerces que alcanzan los 2.600 años: estaban en pie antes de que naciera el Imperio romano.
 
 ### Cómo llegar
-~25 km desde Esquel por asfalto `[VERIFICAR ruta]`. Calculá un día, más en temporada de tulipanes.
+Desde Esquel, ~52 km por la RN 259 y la RP 71, todo asfaltado, hasta Villa Futalaufquen, donde está el Centro Administrativo e informes (apto camper). Desde el norte (El Bolsón, por la RN 40, Cholila y la RP 71) son ~105 km con ~28 km de ripio hasta la portada norte: andá despacio con una camper grande. Se cobra entrada; la Portada Sur abre de 9 a 20 h en verano y de 9 a 17 h en invierno. Calculá dos o tres días.
 
 ### Historia
-El Molino Andes, molino harinero de 1920, funciona como Museo Regional desde 1971 y cuenta la colonización galesa del valle. La casa de té Nain Maggie sirve torta galesa desde 1975 `[VERIFICAR vigencia]`.
+Creado el 11 de mayo de 1937 para proteger el bosque de alerces; protege ~259.822 ha y es Patrimonio Mundial desde 2017. En enero de 2024 un incendio quemó más de 8.300 ha, y en 2025 y 2026 hubo nuevos focos.
 
-### Paisaje y flora
-- **Campo de Tulipanes:** florece desde octubre, sobre la Ruta Galesa.
-- **Cascada Nant y Fall:** saltos de agua cerca del campo de tulipanes `[VERIFICAR distancia y si se cobra entrada]`.
+### Paisaje y geología
+Una cadena de lagos (Rivadavia, Verde, Futalaufquen, Menéndez) entre montañas cubiertas de Bosque Patagónico.
+
+### Flora
+- **Alerce (Fitzroya cupressoides):** el árbol que el parque se creó para proteger; los milenarios se visitan en excursión por el lago Menéndez.
+- **Coihue, ciprés, lenga y ñire:** completan el bosque.
 
 ### Fauna
-Sin especies verificadas en esta investigación `[VERIFICAR]`.
+- **Pudú:** símbolo del parque; ~42 cm de alto, uno de los ciervos más chicos del mundo. Raro de ver.
+- **Huemul:** el parque guarda algunas de sus principales poblaciones; avistaje excepcional.
+- **Huillín:** en 2021 se lo volvió a registrar acá tras más de 70 años sin datos verificados.
 
-### Dónde comer
-Torta galesa en una casa de té: Nain Maggie, abierta desde 1975 `[VERIFICAR vigencia]`.
+### Imperdible
+La navegación por el lago Menéndez con caminata al Bosque de Alerces Milenarios, con operadores desde Esquel o el parque `[VERIFICAR puerto de salida, duración y temporada]`.
 
 ### En la camper
-No se encontraron campings verificables en Trevelin: usá como base Esquel (~25 km) o consultá en la Secretaría de Turismo local `[VERIFICAR]`. Cargá combustible en Esquel.
+Campings organizados: Bahía Rosales, Lago Rivadavia, Lago Verde, Los Maitenes y Pucón Pai (lista oficial de 2023). **Los Maitenes**, sobre el lago Futalaufquen y con acceso asfaltado, es el preferido de las motorhomes: ahí empezó la temporada 2026-2027 con un encuentro de más de 120 vehículos recreativos. El fuego solo se permite en campings organizados con fogones estructurados; en campings libres estuvo prohibido hasta el 30 de abril de 2026 `[VERIFICAR restricción vigente]`. Hay un punto de aprovisionamiento cerca de la seccional Lago Rivadavia; para lo demás, abastecete en Esquel o Trevelin.
 
-**Fotos necesarias:** principal: campo de tulipanes en flor con la cordillera nevada detrás; chicas: Molino Andes, torta galesa, cascada Nant y Fall
-**Fuentes:** https://www.interpatagonia.com/trevelin/museo-regional-trevelin.html · https://www.cronista.com/clase/trendy/el-pueblito-mas-lindo-de-la-patagonia-tiene-las-mejores-casas-de-te-con-influencia-europea-y-cascadas-de-mas-de-60-metros · https://www.welcomeargentina.com/trevelin/la-floral-casa-de-te-y-restaurante-de-montana.html · https://www.welcomeargentina.com/trevelin/gastronomia.html
+**Fotos necesarias:** principal: lago Menéndez con el bosque de alerces y la cordillera nevada; chicas: alerce milenario con persona para escala, lago Verde, camping Los Maitenes, pudú, huemul, huillín
+**Fuentes:** https://argentina.gob.ar/sites/default/files/ficha_-_pn_los_alerces.pdf · https://www.argentina.gob.ar/node/154136 · https://www.argentina.gob.ar/node/154134 · https://www.argentina.gob.ar/node/276965 · https://www.argentina.gob.ar/node/276968 · https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-los-alerces/panoramica · https://whc.unesco.org/ES/list/1526 · https://whc.unesco.org/es/noticias/2652/ · https://www.lanacion.com.ar/sociedad/el-parque-nacional-los-alerces-fue-declarado-sitio-de-patrimonio-mundial-de-la-humanidad-nid2040639 · https://www.educ.ar/recursos/158580/sitios-del-patrimonio-mundial-parque-nacional-los-alerces · https://en.wikipedia.org/wiki/Los_Alerces_National_Park · https://worldheritageoutlook.iucn.org/node/1706 · https://www.rionegro.com.ar/?p=3941915 · https://www.hachettebookgroup.com/?p=577271 · https://www.rionegro.com.ar/sociedad/incendio-en-el-parque-los-alerces-con-mas-de-8-300-hectareas-afectadas-la-situacion-mejora-3423970/ · https://diariojornada.com.ar/389126/magazine/el_incendio_en_los_alerces_ya_consumio_320_hectareas · https://www.cadena3.com/noticia/sociedad/intervienen-el-parque-nacional-los-alerces-ante-devastadores-incendios_512255 · https://cholilaonline.ar/2026/10/los-alerces-inicio-la-temporada-turistica-2026-2027.html · https://cholilaonline.ar/2025/12/patagonia-desde-este-jueves-no-se-podra-usar-fuego-en-campings-libres-hasta-abril.html · https://www.argentina.gob.ar/sites/default/files/2019/06/servicios_-_parque_nacional_los_alerces.pdf · https://www.welcomeargentina.com/esquel/camping-los-maitenes.html · https://www.tur.com/en/esquel-169/navegacion-y-trekking-bosque-de-alerces-milenarios-6300
+
+## AND-18 · Esquel y La Trochita
+- **Dónde:** Chubut · Esquel · puerta del Parque Nacional Los Alerces
+- **Bajada:** La Trochita es un tren a vapor de apenas 75 cm de trocha que sale de Esquel y recorre 19 km, con 49 curvas, hasta Nahuel Pan.
+
+### Cómo llegar
+Esquel está a ~52 km de Villa Futalaufquen (Los Alerces) por la RN 259 y la RP 71, todo asfaltado, y a ~25 km de Trevelin. Para La Trochita reservá con tiempo en la estación de Esquel: los pasajes se agotan y el cronograma cambia por trimestre (en octubre de 2025 las salidas eran a las 10). Calculá un día.
+
+### Historia
+Esquel toma como fecha fundacional el 25 de febrero de 1906, ligada a la mensura de la Colonia 16 de Octubre y a la llegada del telégrafo; en 2026 cumplió 120 años. El nombre significa "abrojo" o "lugar de abrojos" (las fuentes discrepan entre origen tehuelche o mapuche), por las plantas espinosas de la zona. La Trochita, hoy operada por el gobierno de Chubut, llegó a recorrer 402 km entre Ingeniero Jacobacci y Esquel; el tramo Esquel–Nahuel Pan opera desde 1945 `[VERIFICAR: las fuentes dan 1922, 1935 o 1945 como inicio]`.
+
+### Paisaje y flora
+Valle al pie de la cordillera, con el cerro La Hoya, centro de esquí en invierno.
+- **Coirón y calafate:** las plantas espinosas que, según una de las versiones, le dieron el nombre al pueblo.
+
+### Si tenés un día más
+La Laguna La Zeta, a ~4 km del centro, para kayak, aves y caminatas.
+
+### En la camper
+Camping La Colina (Darwin 1400): 50 parcelas con iluminación, parrillas, cocinas, agua caliente y estacionamiento; según viajeros, ruidoso. En abril de 2025 el municipio anunció un sector para motorhomes con descarga de aguas grises `[VERIFICAR si ya funciona]`. Sobre la RN 259, entre Esquel y Trevelin, Camping & Motorhome 259 ofrece descarga de efluentes. Viajeros advierten que en la Laguna La Zeta hubo robos a turistas: no conviene pernoctar ahí. Cargá combustible en Esquel antes de entrar a Los Alerces.
+
+**Fotos necesarias:** principal: La Trochita con la locomotora a vapor echando humo en la estepa camino a Nahuel Pan; chicas: estación de Esquel, estación Nahuel Pan, Laguna La Zeta, calafate, cerro La Hoya nevado
+**Fuentes:** https://en.wikipedia.org/wiki/La_Trochita · https://www.rionegro.com.ar/?p=4079086 · https://diariojornada.com.ar/424510/magazine/la_trochita_suma_salida_adicional_para_noviembe · https://www.diariojornada.com.ar/403557/magazine/la_trochita_tiene_pasajes_agotados_para_octubre · https://www.cronista.com/informacion-gral/es-hermoso-y-casi-nadie-lo-conoce-el-tren-a-vapor-que-funciona-en-la-patagonia-hace-mas-de-100-anos-y-es-una-joya-de-la-ingenieria-argentina-no-hay-otro-igual-en-el-mundo/ · https://www.lacapital.com.ar/turismo/un-viaje-el-tiempo-n2515546.html · https://www.welcomeargentina.com/esquel/la-trochita-expreso-patagonico.html · https://www.welcomeargentina.com/esquel/historia.html · https://cholilaonline.ar/2026/02/esquel-conmemora-su-120-aniversario-hoy.html · https://ninos.kiddle.co/Esquel · https://kupi.com/en/explore/argentina/esquel/history · https://www.argentina.gob.ar/node/154136 · https://www.rionegro.com.ar/?p=1283317 · https://www.welcomeargentina.com/esquel/camping-la-colina.html · https://app.ioverlander.com/places/4956-la-colina-hostel-and-camping · https://cholilaonline.ar/2025/04/espacio-para-motorhome.html · https://cholilaonline.ar/2025/01/motorhome-trevelin-ruta-259.html · https://www.ioverlander.com/places/27366-laguna-zeta · https://www.turismoruta40.com.ar/en/service-stations-ruta-40.html
+
+## AND-19 · Trevelin
+- **Dónde:** Chubut · Trevelin · Área Natural Protegida Cascadas Nant y Fall
+- **Bajada:** Su nombre es galés: "tre" es pueblo y "velin", molino. Es el pueblo del molino que fundaron los colonos galeses al pie de la cordillera.
+
+### Cómo llegar
+~25 km desde Esquel, por asfalto `[VERIFICAR ruta]`. Desde Trevelin la RN 259 sigue ~39 km hasta el paso internacional a Futaleufú (Chile). Calculá un día, más en temporada de tulipanes.
+
+### Historia
+El lugar se llamaba Colonia 16 de Octubre. La fecha de fundación es discutida: varias fuentes la ligan al primer molino, inaugurado en 1918 según unas y en 1891 por John Daniel Evans según otras. Desde 1971 el antiguo Molino Andes es el Museo Regional, que cuenta la colonización galesa y la historia triguera del valle. En el pueblo está la tumba del Malacara, el caballo que según su lápida salvó a Evans de un ataque en el Valle de los Mártires el 4 de marzo de 1884 (otras fuentes dicen 1883).
+
+### Paisaje y flora
+Valle agrícola rodeado de montañas, con viñedos y campos de flores.
+- **Campo de Tulipanes:** florece entre comienzos de octubre y comienzos de noviembre `[VERIFICAR fechas de la temporada]`.
+- **Bosque Andino Patagónico:** el que protege el Área Natural Protegida Cascadas Nant y Fall.
+
+### Imperdible
+Las Cascadas Nant y Fall, a ~14 km por la RN 259: un arroyo forma siete saltos y tres (Larga, Mellizas y La Petiza) se visitan con senderos señalizados y miradores.
+
+### Dónde comer
+Merienda galesa con torta negra en la casa de té Nain Maggie (Perito Moreno 179), abierta en 1975 y la mejor puntuada de Trevelin en Tripadvisor. Otra opción: Casa de Té La Mutisia (Av. San Martín 170).
+
+### En la camper
+**Motorhome & Cámping Ruta 259**, sobre la RN 259 en el acceso a Trevelin, ofrece descarga de efluentes. Cargá combustible en Esquel `[VERIFICAR estación en Trevelin]`.
+
+**Fotos necesarias:** principal: campo de tulipanes en flor con la cordillera nevada detrás; chicas: Molino Andes, tumba del Malacara, torta negra galesa servida en la casa de té, cascada Nant y Fall
+**Fuentes:** https://billiken.lat/interesante/que-significa-la-palabra-trevelin/ · https://www.welcomeargentina.com/trevelin/historia.html · https://www.wikipedia.org/wiki/Trevelin · https://www.diariojornada.com.ar/205584/sociedad/trigo_de_museo_en_el_pueblo_del_molino · https://www.welcomeargentina.com/trevelin/museo_regional_trevelin.html · https://www.interpatagonia.com/trevelin/museo-regional-trevelin.html · https://economiasustentable.com/noticias/parece-un-pueblo-europeo-y-queda-en-la-patagonia-como-es-trevelin/?swcfpc=1 · https://en.wikipedia.org/wiki/Malacara · https://www.rionegro.com.ar/?p=3417550 · https://www.patagonia-argentina.com/en/cartreftaid-museum/ · https://www.canal26.com/turismo/2025/10/20/de-trevelin-a-chile-el-cruce-casi-desconocido-que-rodea-campos-de-tulipanes-vinedos-e-imponentes-montanas-cordilleranas/ · https://www.canal26.com/turismo/2025/12/11/un-viaje-sonado-entre-trevelin-y-chile-por-la-magica-ruta-galesa-un-camino-que-todo-amante-de-la-naturaleza-deberia-conocer/ · https://revista-airelibre.com/?p=40514 · https://www.patagonia.com.ar/Esquel/48E_Nant+and+Fall+Waterfalls.html · https://www.civitatis.com/en/esquel/trevelin-nant-fall-day-trip · https://www.lanacion.com.ar/sabado/la-ruta-del-vino-austral-los-vinedos-del-valle-de-trevelin-nid15012022/ · https://caras.perfil.com/noticias/caras-resto/nain-maggie-una-casa-de-te-que-mantiene-viva-la-tradicion-familiar-en-trevelin.phtml · https://www.interpatagonia.com/trevelin/c20844.html · https://www.interpatagonia.com/trevelin/c22668.html · https://cholilaonline.ar/2025/01/motorhome-trevelin-ruta-259.html
 
 ## Pendientes de verificar
-
-**Aviso general:** AND-14 a AND-19 se completaron sin búsquedas nuevas (se agotó el cupo de búsquedas web de la sesión) y necesitan una segunda pasada de investigación antes de imprimir; AND-15 (Lago Puelo) y AND-16 (Cholila) son borradores casi sin fuentes.
 
 - **AND-01 Villa El Chocón:** horario vigente del Museo Ernesto Bachmann.
 - **AND-02 Laguna Blanca:** si la entrada al parque sigue siendo gratuita.
@@ -553,11 +566,11 @@ No se encontraron campings verificables en Trevelin: usá como base Esquel (~25 
 - **AND-11 Villa La Angostura:** normativa municipal de pernocte en la vía pública.
 - **AND-12 Bariloche:** número de la ordenanza de motorhomes de 2025 y zonas habilitadas.
 - **AND-13 Tronador:** habilitación vigente del camino para vehículos grandes; admisión de motorhome en el camping de Pampa Linda.
-- **AND-14 El Bolsón:** distancia y tiempo desde Bariloche; días vigentes de la feria; duración y punto de partida del Cajón del Azul; acceso al Bosque Tallado; especies de flora y fauna; vigencia de la Cervecería El Bolsón; datos de Campo Base Hielo Azul y de Mirando al Piltri; garrafas en Coopetel; estaciones de servicio de El Hoyo y Epuyén.
-- **AND-15 Lago Puelo:** página entera: desagüe al Pacífico, acceso y entrada, año de creación, flora, fauna y campings.
-- **AND-16 Cholila:** página entera: historia de Butch Cassidy y Sundance Kid y estado de la cabaña, ruta y calzada, paisaje, fauna, campings y combustible.
-- **AND-17 Los Alerces:** año de creación y de inscripción UNESCO; edad de los alerces; estado de la RP 71; especies de fauna; vigencia del listado de campings y del contacto de reservas (fuente oficial de 2019).
-- **AND-18 Esquel:** distancia desde El Bolsón; año e historia de La Trochita y ancho de vía; descripción del paisaje; fauna; admisión de motorhome en Camping La Colina; normativa de pernocte; detalle de los vagones para la foto.
-- **AND-19 Trevelin:** ruta desde Esquel; vigencia de la casa de té Nain Maggie; distancia y entrada a la cascada Nant y Fall; fauna; campings en Trevelin.
+- **AND-14 El Bolsón:** días y horario vigentes de la feria; si el camino al Bosque Tallado es apto para camper; vigencia de Campo Base Hielo Azul; admisión de motorhome en Mirando al Piltri y Refugio Patagónico.
+- **AND-15 Lago Puelo:** distancia desde El Bolsón (las fuentes no coinciden); servicios y admisión de motorhome en el camping vehicular de La Playita.
+- **AND-16 Cholila:** ruta exacta y calzada del desvío desde la RN 40; campings en Cholila; estación de servicio en Cholila.
+- **AND-17 Los Alerces:** puerto de salida, duración y temporada de la excursión al Alerzal Milenario; restricción de fuego vigente en campings libres.
+- **AND-18 Esquel:** año de inicio de La Trochita en el tramo Esquel–Nahuel Pan (1922, 1935 o 1945 según la fuente); si ya funciona el sector municipal para motorhomes con descarga de grises.
+- **AND-19 Trevelin:** ruta desde Esquel; fechas de la temporada del Campo de Tulipanes; estación de servicio en Trevelin.
 
-**Total de marcas `[VERIFICAR]` en el texto: 68.**
+**Total de marcas `[VERIFICAR]` en el texto: 41.**
