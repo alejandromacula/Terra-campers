@@ -21,9 +21,9 @@ Recorrido sugerido: se sube desde Buenos Aires por Tucumán, se cruza a los Vall
 15. NOR-15 · Monumento Natural Laguna de los Pozuelos
 16. NOR-16 · Parque Nacional Calilegua
 17. NOR-17 · Parque Nacional Baritú
-18. NOR-18 · Parque Nacional El Rey *(página pendiente de investigación)*
-19. NOR-19 · Campo de Piedra Pómez *(página pendiente de investigación)*
-20. NOR-20 · Fiambalá y la Ruta de los Seismiles *(página pendiente de investigación)*
+18. NOR-18 · Parque Nacional El Rey
+19. NOR-19 · Campo de Piedra Pómez
+20. NOR-20 · Fiambalá y la Ruta de los Seismiles
 
 ---
 
@@ -520,7 +520,7 @@ Junto a la sede del parque hay un camping gratuito con césped, baños, agua pot
 Se llega por El Peñón, en la Puna catamarqueña, desde Belén por la RN 40 y la RP 43 hacia Antofagasta de la Sierra; la provincia informó que la RP 43 quedó asfaltada, aunque viajeros reportan tramos deteriorados [VERIFICAR estado actual con Vialidad de Catamarca]. El campo está a ~35 km de El Peñón y se recorre con guía de la zona en 4x4: las excursiones salen del pueblo y duran ~3 horas, o ~4 h 30 si suman el volcán Carachi Pampa. Calculá dos días con la noche en El Peñón.
 
 ### Historia
-Es un área natural protegida de la provincia de Catamarca, con unas 75.000 hectáreas; su marco legal se consolidó con el Decreto 1490/2012 [VERIFICAR número en el digesto provincial]. En 2024 fue seleccionado para integrar el patrimonio geológico [VERIFICAR año y catálogo].
+Es un área natural protegida de la provincia de Catamarca, con unas 75.000 hectáreas; su marco legal se consolidó con el Decreto 1490/2012 [VERIFICAR número en el digesto provincial]. Fue seleccionado para integrar el patrimonio geológico [VERIFICAR año y catálogo].
 
 ### Por qué es blanco y tiene esas formas
 Todo el campo es un enorme manto de material volcánico (ignimbrita) que expulsó la caldera del Cerro Blanco, unos 2 km³ de roca porosa y liviana. Después el viento de la Puna, cargado de arena, la fue limando en filas de crestas y canales llamadas yardangs; algunas superficies se oscurecen con una pátina. Las fuentes de divulgación hablan de una formación de unos cien mil años [VERIFICAR edad con fuente geológica].
@@ -537,44 +537,44 @@ Todo el campo es un enorme manto de material volcánico (ignimbrita) que expuls�
 ---
 
 ## NOR-20 · Fiambalá y la Ruta de los Seismiles
-- **Dónde:** Catamarca · Fiambalá · RN 60 hacia el Paso de San Francisco [VERIFICAR]
-- **Bajada:** [PENDIENTE DE INVESTIGACIÓN]
-
-> **Página pendiente.** Se agotó el cupo de búsquedas web de esta sesión antes de investigar este lugar, y no hay datos previos en `guia-fuente.md`. Lo que hay que buscar: termas de Fiambalá (acceso y horarios), dunas de Saujil, Ruta de los Seismiles (qué volcanes se ven, alturas oficiales, Laguna Verde, refugios), estado de la RN 60, altura máxima y riesgo de apunamiento, combustible (última estación antes del paso), clima y cierres invernales del paso, dónde pernoctar en Fiambalá o Tinogasta, y si el cielo nocturno califica para la sección "Cielo nocturno".
+- **Dónde:** Catamarca · Fiambalá · RN 60 hasta el Paso de San Francisco
+- **Bajada:** En unos 200 km la ruta sube de los 1.505 metros de Fiambalá a los 4.726 del Paso de San Francisco, con volcanes como el Pissis (6.882 m) y el Ojos del Salado a la vista.
 
 ### Cómo llegar
-[PENDIENTE]
+Fiambalá está sobre la RN 60, a ~50 km de Tinogasta por la llamada Ruta del Adobe. La Ruta de los Seismiles es la RN 60 entre Fiambalá y el paso a Chile (~197 a 200 km), asfaltada; los grandes picos aparecen desde el km 120 de recorrido, aproximadamente. En La Gruta, a 4.100 metros, está el complejo de frontera; de ahí quedan 21 km al paso. Las Termas de Fiambalá están a ~15 km del pueblo por la RP 156, asfaltada; abren de 7 a 22 h con ingreso por turnos y las entradas no se venden en el complejo [VERIFICAR dónde se compran]. Calculá un día para el pueblo y las termas y otro, ida y vuelta, para los Seismiles.
 
 ### Historia
-[PENDIENTE]
+Entre Tinogasta y Fiambalá, la Ruta del Adobe une capillas, casonas y oratorios de barro, algunos con unos 300 años. La iglesia de San Pedro de Fiambalá es del siglo XVIII.
 
 ### Paisaje y geología
-[PENDIENTE]
+La zona se presenta como la segunda región más alta del mundo después del Himalaya: desde la ruta se cuentan 19 volcanes. Las fuentes no coinciden en la altura del Ojos del Salado (entre 6.864 y 6.893 m). Cerca del pueblo, las dunas de Saujil, a 14 km, pasan los 90 metros de alto; ahí se hace sandboard con guía, mejor a la mañana por el calor.
 
 ### Fauna
-[PENDIENTE]
+- **Vicuña y guanaco:** en tropillas a lo largo de la RN 60; es común verlas.
+- **Flamencos (parinas):** se juntan en las lagunas de altura junto a la ruta, según la temporada.
+
+### Cielo nocturno
+Turismo de Catamarca destaca el departamento Tinogasta, donde está Fiambalá, junto con Antofagasta de la Sierra, como zonas sin contaminación lumínica, aptas para el astroturismo [VERIFICAR enlace exacto de la nota]. Si dormís en el pueblo o en las termas, apagá las luces y mirá.
 
 ### En la camper
-[PENDIENTE]
+**Ojo con la altura:** vas a pasar de 1.500 a más de 4.700 metros en un día. No subas sin aclimatarte unos días antes en la Puna (ver NOR-09), no duermas arriba si no estás aclimatado y bajá ante dolor de cabeza fuerte, mareo o falta de aire. En invierno el paso se cierra por nieve y a veces es obligatorio llevar cadenas; los horarios de la frontera cambian según la temporada. Consultá el estado del paso y los horarios antes de salir. Llená el tanque en Fiambalá y llevá combustible de reserva: no encontramos estaciones confirmadas sobre la RN 60 hasta Chile [VERIFICAR]. Junto a las termas, viajeros reportan el Camping Los Alamitos, con electricidad, baño y ducha, que se llena los fines de semana; un reporte dice que alguna vez estuvo cerrado [VERIFICAR vigencia y acceso para motorhome].
 
-**Fotos necesarias:** [PENDIENTE]
-**Fuentes:** [PENDIENTE]
+**Fotos necesarias:** principal: RN 60 en la Puna con el volcán Pissis nevado al fondo; chicas: piletones escalonados de las Termas de Fiambalá, dunas de Saujil, iglesia de adobe de San Pedro, vicuñas, parinas en una laguna de altura, hito del Paso de San Francisco
+**Fuentes:** [Vialidad Nacional – Ruta escénica de los Seismiles](https://www.argentina.gob.ar/noticias/vialidad-nacional-comenzo-la-colocacion-de-senales-informativas-sobre-la-ruta-escenica-de-0) · [HCDN – Proyecto 2667-D-2021 (Ruta de los Seismiles)](https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2021/PDF2021/TP2021/2667-D-2021.pdf) · [Billiken – Ruta de los Seismiles](https://billiken.lat/interesante/la-ruta-de-los-seismiles-un-recorrido-unico-en-el-norte-argentino/) · [La Capital MdP – Los Seismiles](https://www.lacapitalmdp.com/los-seismiles-un-iman-para-el-andinismo-y-turismo-aventura/) · [Canal 26 – La segunda región más alta detrás del Himalaya](https://www.canal26.com/turismo/la-ruta-argentina-que-recorre-volcanes-andinos-y-es-la-segunda-region-mas-alta-detras-del-himalaya--352942) · [Cadena 3 – Una ruta con 19 volcanes](https://www.cadena3.com/noticia/argentina/una-ruta-con-19-volcanes-y-paisajes-unicos-en-catamarca_306746) · [Visit Catamarca – Termas de Fiambalá](https://www.visitcatamarca.com/en/imperdibles/termas-de-fiambal%C3%A1) · [Welcome Argentina – Termas de Fiambalá](https://www.welcomeargentina.com/tinogasta/termas-fiambala.html) · [El Ancasti – Turnos en las termas](https://www.elancasti.com.ar/edicion-impresa/termas-fiambala-sumaria-un-turno-la-gran-demanda-n588608) · [La Nación – Ruta del Adobe](https://www.lanacion.com.ar/revista-lugares/los-hitos-de-la-ruta-del-adobe-catamarquena-de-tinogasta-a-fiambala-nid01062022/) · [FADU-UBA – Ruta del Adobe](https://publicacionescientificas.fadu.uba.ar/index.php/construccioncontierra/article/download/998/1437) · [Argentina.travel – Sandboard en las dunas de Saujil](https://www.argentina.travel/actividades/sandboard-en-las-dunas-de-saujil) · [El Ancasti – El cielo de Catamarca](https://www.elancasti.com.ar/informacion-general/el-cielo-catamarca-tambien-se-vive-el-poncho-n617733) · [Ruta0 – Paso de San Francisco](https://www.ruta0.com/paso-de-san-francisco/) · [Ruta0 – Estado RN 60](https://www.ruta0.com/estado-de-rutas/rn-60/?pag=1) · [Argentina.gob.ar – Paso San Francisco](https://www.argentina.gob.ar/node/464543) · [iOverlander – Camping Los Alamitos](https://ioverlander.com/places/1752-camping-los-alamitos-de-las-termas-de-fiambala) · [Wikipedia – Fiambalá (altura)](https://wikipedia.com/wiki/Fiambala)
 
 ---
 
 ## Pendientes de verificar
 
-**Páginas sin investigar (se agotó el cupo de búsquedas web de la sesión):** NOR-18 Parque Nacional El Rey, NOR-19 Campo de Piedra Pómez y NOR-20 Fiambalá y la Ruta de los Seismiles. Tienen solo la estructura y la lista de lo que hay que buscar; todo su contenido está marcado [PENDIENTE].
+**Datos marcados [VERIFICAR] (48):**
 
-**Datos marcados [VERIFICAR] en las páginas escritas (44):**
-
-- NOR-01: «Consultá el estado del ripio con la intendencia en Concepción» [VERIFICAR: apto para motorhome grande en el tramo de ripio]
+- NOR-01: «aconquija@apn.gob.ar).» [VERIFICAR: apto para motorhome grande en el tramo de ripio]
 - NOR-02: «El Camping Municipal Los Sauzales, cerca del centro, tiene espacio para vehículos grandes según viajeros» [VERIFICAR servicios y vigencia con el municipio]
-- NOR-03: «…ves: el entorno de las ruinas está registrado como Área Clave para la Biodiversidad (KBA "Ruinas de Quilmes").» [VERIFICAR: especies destacadas]
+- NOR-03: «el entorno de las ruinas está registrado como Área Clave para la Biodiversidad (KBA "Ruinas de Quilmes").» [VERIFICAR: especies destacadas]
 - NOR-04: «Desde Quilmes, ~50 km al norte por la RN 40» [VERIFICAR distancia exacta]
 - NOR-04: «Abre todos los días» [VERIFICAR horario]
 - NOR-04: «otros reportan el Camping Luz y Fuerza, cerca del centro, con ducha caliente, baño y electricidad» [VERIFICAR vigencia y acceso para motorhome grande]
-- NOR-05: «- Dónde: Salta · entre Cafayate y Salta, sobre la RN 68 · Reserva Natural Quebrada de las Conchas» [VERIFICAR categoría y norma de la reserva]
+- NOR-05: «Salta · entre Cafayate y Salta, sobre la RN 68 · Reserva Natural Quebrada de las Conchas» [VERIFICAR categoría y norma de la reserva]
 - NOR-05: «… la ruta es parte del circuito clásico Salta–Cafayate y casi todas las excursiones paran en los mismos puntos.» [VERIFICAR: origen del nombre "de las Conchas"]
 - NOR-06: «desde 2025 se entra sin reserva.» [VERIFICAR horario vigente en maam.gob.ar: las fuentes no coinciden]
 - NOR-07: «…in sigue un camino que las fuentes turísticas atribuyen a la red vial inca, con una datación entre 1480 y 1535» [VERIFICAR fuente arqueológica]
@@ -604,18 +604,23 @@ Todo el campo es un enorme manto de material volcánico (ignimbrita) que expuls�
 - NOR-17: «vive en el parque, pero verlo es excepcional.» [VERIFICAR otras especies destacadas]
 - NOR-17: «si la camper es alquilada, confirmá antes con Terra Campers si está autorizada a salir del país» [VERIFICAR]
 - NOR-17: «El área de acampe Cerro Ukumar, libre y gratuita, está a unos 620 metros de la seccional de guardaparques» [VERIFICAR si admite vehículos grandes]
-- NOR-18: «- Dónde: Salta ·» [VERIFICAR pueblo base]
-- NOR-18: «…ntendencia, historia de la creación del parque, pisos de selva de yungas, fauna (el tucán grande es su emblema» [VERIFICAR]
-- NOR-18: «selva de yungas del parque» [VERIFICAR encuadre]
-- NOR-18: «tucán grande» [VERIFICAR]
-- NOR-19: «- Dónde: Catamarca · El Peñón» [VERIFICAR]
-- NOR-19: «- Dónde: Catamarca · El Peñón [VERIFICAR] · Reserva provincial» [VERIFICAR nombre y categoría]
-- NOR-19: «formaciones blancas de piedra pómez esculpidas por el viento, con luz baja» [VERIFICAR]
-- NOR-20: «- Dónde: Catamarca · Fiambalá · RN 60 hacia el Paso de San Francisco» [VERIFICAR]
+- NOR-18: «no hay proveeduría, así que entrá con comida y combustible para la ida y la vuelta.» [VERIFICAR: si el ripio y los vados son aptos para motorhome grande, y última estación de servicio antes del parque]
+- NOR-19: «la provincia informó que la RP 43 quedó asfaltada, aunque viajeros reportan tramos deteriorados» [VERIFICAR estado actual con Vialidad de Catamarca]
+- NOR-19: «su marco legal se consolidó con el Decreto 1490/2012» [VERIFICAR número en el digesto provincial]
+- NOR-19: «Fue seleccionado para integrar el patrimonio geológico» [VERIFICAR año y catálogo]
+- NOR-19: «Las fuentes de divulgación hablan de una formación de unos cien mil años» [VERIFICAR edad con fuente geológica]
+- NOR-19: «se los puede ver en las lagunas de la zona, según las excursiones que salen de El Peñón.» [VERIFICAR otras especies]
+- NOR-19: «la siguiente está en Antofagasta de la Sierra, así que llená el tanque en Belén» [VERIFICAR]
+- NOR-19: «no encontramos camping» [VERIFICAR lugar para dejar o pernoctar con la camper]
+- NOR-20: «abren de 7 a 22 h con ingreso por turnos y las entradas no se venden en el complejo» [VERIFICAR dónde se compran]
+- NOR-20: «…iambalá, junto con Antofagasta de la Sierra, como zonas sin contaminación lumínica, aptas para el astroturismo» [VERIFICAR enlace exacto de la nota]
+- NOR-20: «no encontramos estaciones confirmadas sobre la RN 60 hasta Chile» [VERIFICAR]
+- NOR-20: «un reporte dice que alguna vez estuvo cerrado» [VERIFICAR vigencia y acceso para motorhome]
 
 **Otros puntos a revisar:**
 
 - NOR-03 Ruinas de Quilmes: solo se pudo verificar un ítem de fauna (Área Clave para la Biodiversidad); faltan especies.
 - NOR-06 Salta, NOR-11 Purmamarca, NOR-12 Tilcara, NOR-13 Humahuaca y NOR-14 Iruya: sin sección de fauna por no encontrar datos verificables propios del lugar.
-- NOR-17 Baritú: una sola especie de fauna verificada (yaguareté).
-- Las fuentes de WebFetch no se pudieron abrir en esta sesión (argentina.gob.ar y wikipedia.org bloqueados por la red): los datos de Parques Nacionales salen de los resúmenes del buscador sobre esas páginas oficiales. Conviene una lectura directa antes de imprimir.
+- NOR-17 Baritú y NOR-19 Campo de Piedra Pómez: una sola especie de fauna verificada.
+- NOR-18 El Rey: no se encontró fuente que confirme al tucán grande como emblema del parque, por eso no se menciona.
+- No se pudieron abrir páginas con WebFetch en esta sesión (argentina.gob.ar y wikipedia.org bloqueados por la red): los datos de Parques Nacionales salen de los resúmenes del buscador sobre esas páginas oficiales. Conviene una lectura directa antes de imprimir.
