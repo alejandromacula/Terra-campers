@@ -379,9 +379,9 @@ El parque se creó el 15 de octubre de 1960 por la Ley 15.554 y se amplió en 19
 Montañas, lagos y el Canal Beagle; Bahía Lapataia es el único fiordo del sector argentino de la isla. El bosque es de *Nothofagus*: **lenga**, de hoja caduca, que se pone roja y dorada en otoño; **guindo** o coihue de Magallanes, siempreverde; y **ñire**, más bajo, en sitios húmedos y expuestos. En los valles abundan las turberas, colchones de musgo y materia vegetal.
 
 ### Fauna
-- **Cauquén:** ganso que pasta en los claros y junto a la costa; fácil de ver.
-- **Zorro colorado fueguino:** ronda senderos y estacionamientos. No lo alimentes.
-- **Castor:** introducido en 1946 desde Canadá (20 ejemplares) para la industria peletera; hoy se lo combate porque inunda y mata el bosque. Sus diques y lagunas se ven desde los senderos.
+- **Cauquén:** ganso patagónico que se ve caminando por los claros del parque.
+- **Zorro colorado fueguino:** habita el parque. Si lo cruzás, no lo alimentes.
+- **Castor:** introducido en 1946 desde Canadá (20 ejemplares) para la industria peletera; hoy se lo controla porque sus diques inundan y matan el bosque de lenga junto a los ríos.
 
 ### En la camper
 Hay tres áreas de acampe agreste, sin servicios: Río Pipo, Ensenada y Laguna Verde/Cauquenes (en Isla Entre Ríos). El permiso de acampe no incluye la entrada: con el permiso, el ticket de acceso vale 48 horas. Llevá agua y todo tu residuo de vuelta; las restricciones de fuego cambian según la temporada de incendios. Para servicios completos, dormí en los campings de Ushuaia.
@@ -389,3 +389,89 @@ Hay tres áreas de acampe agreste, sin servicios: Río Pipo, Ensenada y Laguna V
 **Fotos necesarias:** principal: Bahía Lapataia con el cartel del fin de la RN 3 y las montañas sobre el agua; chicas: bosque de lenga en otoño, guindo, ñire, turbera, cauquén, zorro colorado fueguino, dique de castor, conchero junto a la costa
 **Fuentes:** https://argentina.gob.ar/sites/default/files/2019/03/1_informacion_al_visitante_pntdf_23-05-24_espanol.pdf · https://www.argentina.gob.ar/node/306449 · https://www.argentina.gob.ar/senderos-del-parque-nacional-tierra-del-fuego · https://turismoushuaia.com/wp-content/uploads/2022/05/5-Informacion-al-visitante-PNTDF-11-05-22-ESPANOL-corregido.pdf · https://turismoushuaia.com/zonas/parque-nacional/?lang=en_US · https://turismoushuaia.com/contenidos/donde-acampar/?lang=en_US · https://en.wikipedia.org/wiki/Tierra_del_Fuego_National_Park · https://www.lonelyplanet.com/pois/1049438 · https://www.welcomeargentina.com/ushuaia/parque-nacional-tierra-del-fuego.html · https://www.interpatagonia.com/ushuaia/parque-nacional-tierra-del-fuego.html · https://www.interpatagonia.com/ushuaia/parque-nacional-tierra-del-fuego-lapataia-lago-roca-senda-costera.html · https://Www.wikipedia.org/wiki/Beaver_eradication_in_Tierra_del_Fuego · https://www.nationalgeographic.com/animals/article/beaver-overpopulation-tierra-del-fuego · https://www.npr.org/2011/06/24/137067240/imported-beavers-gnaw-away-at-argentinas-forests · https://solsalute.com/blog/tierra-del-fuego-national-park-guide/
 
+## AUS-44 · Canal Beagle, Isla Martillo y Estancia Harberton
+- **Dónde:** Tierra del Fuego · Ushuaia · Canal Beagle y Estancia Harberton (reserva natural privada)
+- **Bajada:** En Isla Martillo se baja a caminar entre pingüinos, y en la costa de enfrente sigue en pie la estancia que el misionero Thomas Bridges fundó en 1886.
+
+### Cómo llegar
+**Navegación:** las salidas clásicas parten del muelle turístico de Ushuaia, pasan por las islas de los Lobos y de los Pájaros y llegan al faro Les Éclaireurs, ~17 km al sudeste; duran ~3 h, y las más largas ~5 h. **Harberton:** RN 3 y desvío a la RP 33 (ex Ruta J), de ripio pero en buen estado según visitantes, hasta el km ~43–45: ~85 km de Ushuaia. Calculá un día entero para Harberton y Martillo.
+
+### Historia
+El canal tomó el nombre del bergantín HMS Beagle, durante el relevamiento hidrográfico británico de 1826–1830; al mando estaba Robert FitzRoy, que volvió en el segundo viaje con Charles Darwin como naturalista. Harberton se fundó en 1886, cuando Thomas Bridges dejó la misión anglicana de Ushuaia: fue la primera empresa productiva de Tierra del Fuego y es Monumento Histórico Nacional desde 1999.
+
+### Paisaje
+Un canal angosto entre montañas, con islotes rocosos donde se apiñan aves y lobos. El faro Les Éclaireurs, de alrededor de 1919–1920, es el que muchos llaman el "falso" faro del Fin del Mundo.
+
+### Fauna
+- **Pingüino de Magallanes:** la mayoría de la colonia de Isla Martillo; mejor época, de noviembre a abril. Fuera de temporada no hay.
+- **Pingüino papúa:** algunos pocos ejemplares conviven con los de Magallanes en Martillo; verlo es cuestión de suerte.
+- **Lobos marinos de uno y dos pelos:** en la Isla de los Lobos, desde el barco.
+- **Cormorán imperial y cormorán magallánico:** colonias en la Isla de los Pájaros.
+
+### Imperdible
+Desembarcar en Isla Martillo: Piratour es la única empresa autorizada a bajar visitantes a caminar cerca de los pingüinos, y su salida incluye Harberton (la entrada a la estancia se paga aparte). En la estancia está el Museo Acatushún de aves y mamíferos marinos australes, creado por la bióloga Natalie Prosser Goodall; abre de mediados de octubre a mediados de abril.
+
+### En la camper
+En temporada, la estancia permite acampar en sitios agrestes y gratuitos junto a los ríos Lasifashaj, Varela y Cambaceres; avisá en la estancia o pedí el permiso gratuito en la entrada [VERIFICAR vigencia en estanciaharberton.com]. Sin servicios. Un viajero con una autocaravana de 6,8 m reportó terreno muy irregular para estacionar: con una camper grande, elegí sitios planos y evitá entrar con lluvia. Salí de Ushuaia con tanque lleno.
+
+**Fotos necesarias:** principal: pingüinos de Magallanes caminando en la playa de Isla Martillo con el Canal Beagle y las montañas detrás; chicas: pingüino papúa, lobos marinos en la Isla de los Lobos, cormoranes imperiales en la Isla de los Pájaros, faro Les Éclaireurs, casco de la Estancia Harberton, sala de esqueletos del Museo Acatushún
+**Fuentes:** https://Www.Wikipedia.org/wiki/Beagle_Channel · https://www.memoriachilena.gob.cl/602/w3-article-3625.html · https://www.britannica.com/topic/Beagle-ship · https://en.wikipedia.org/wiki/Estancia_Harberton · https://turismoushuaia.com/wp-content/uploads/2018/05/Estancia-Harberton.pdf · https://turismoushuaia.com/actividad/estancia-harberton/?lang=en_US · https://www.estanciaharberton.com/home · https://lonelyplanet.com/argentina/tierra-del-fuego/attractions/museo-acatushun/a/poi-sig/1145384/363114 · https://antarctic.wp.st-andrews.ac.uk/?p=37 · https://www.welcomeargentina.com/ushuaia/navegacion-isla-lobos-pinguinos.html · https://www.welcomeargentina.com/ushuaia/navegacion-canal-beagle.html · https://argentina.travel/actividades/navegacion-en-tierra-del-fuego · https://www.conclusion.com.ar/?p=1304897 · https://turismoushuaia.com/prestador/piratour/?lang=en_US · https://www.infoviajera.com/?p=128868 · https://atickettotakeoff.com/en/martillo-island-penguin-tour-review/ · https://wanderlog.com/place/details/477/isla-martillo · https://app.ioverlander.com/places/423-estancia-harberton-camping-permit · https://app.ioverlander.com/places/5409-rio-cambaceres-haberton-estancia · https://app.ioverlander.com/places/1776-estancia-harberton-rio-varela · https://findelmundo.tur.ar/en/reservas-naturales/1026
+
+## Pendientes de verificar
+
+**AUS-31 · Puerto Madryn y El Doradillo**
+- Estado actual del camino de acceso a El Doradillo (hubo obras de pavimentación y desvíos).
+
+**AUS-32 · Península Valdés**
+- Si hay estación de servicio con combustible en Puerto Pirámides.
+
+**AUS-33 · Trelew y Gaiman**
+- Distancia Puerto Madryn–Trelew por RN 3.
+- Distancia Trelew–Gaiman por RN 25.
+- Que Plas y Coed sea la casa de té más antigua de Gaiman (solo una fuente de reseñas).
+
+**AUS-34 · Punta Tombo**
+- Kilómetros exactos del tramo final de ripio (las fuentes dan entre 22 y 38 km según el acceso) y número de ruta provincial.
+- Si existe algún camping habilitado cerca de la reserva.
+
+**AUS-35 · Camarones y Cabo Dos Bahías**
+- Si la RP 30 (72 km desde la RN 3) está asfaltada en todo su tramo.
+- Si hay combustible en Camarones (reporte de viajeros) o solo en Garayalde.
+
+**AUS-36 · PN Bosques Petrificados de Jaramillo**
+- Horario oficial de visita (una fuente dice 8 a 18 h).
+- Guanaco y choique como fauna del parque (no se encontró la lista oficial de especies).
+- Vigencia del área de uso diurno de La Paloma.
+
+**AUS-37 · Puerto Deseado y la Ría Deseado**
+- Estado actual de la RN 281 entre Fitz Roy y Puerto Deseado (algunas fuentes marcan tramos sin pavimentar).
+- Vigencia del camping de Cañadón Giménez y si es distinto del camping municipal de la costanera.
+
+**AUS-38 · Puerto San Julián**
+- Servicios actuales del camping municipal (reseñas de viajeros sin fecha; sin descarga de grises/negras).
+
+**AUS-39 · PN Monte León**
+- Estado de la RP 63 dentro del parque para vehículos grandes.
+- Si existe un camping de temporada en el parque (contradicción entre fuentes; consultar a la Intendencia).
+
+**AUS-40 · Tolhuin y el Lago Fagnano (cruce a Tierra del Fuego)**
+- Horario vigente del Paso Integración Austral (Monte Aymond).
+- Requisitos de Aduana para sacar del país un vehículo de alquiler (autorización, seguro con cobertura en Chile).
+- Política de suspensión por viento y horarios del transbordador de Primera Angostura (TABSA).
+- Vigencia y servicios del Camping Hain.
+
+**AUS-41 · Lago Escondido y Paso Garibaldi**
+- Estado actual de la RN 3 entre Rancho Hambre y Ushuaia.
+- Si está permitido pernoctar junto al Lago Escondido (solo reporte de viajeros).
+
+**AUS-42 · Ushuaia**
+- Etimología yámana de "Ushuaia" (una sola fuente).
+- Ubicación de los dos puntos oficiales de descarga de aguas grises y negras (habilitados en enero de 2026).
+
+**AUS-43 · PN Tierra del Fuego**
+- Estado de los caminos internos del parque para vehículos grandes.
+
+**AUS-44 · Canal Beagle, Isla Martillo y Estancia Harberton**
+- Vigencia del permiso de acampe gratuito en los ríos de la Estancia Harberton.
+
+**Datos que no se pudieron confirmar y por eso no se incluyeron:** distancia Buenos Aires–Las Grutas; origen del nombre de Gaiman; especies de flora en Las Grutas, Puerto Madryn, Península Valdés (salvo tipo de vegetación), Punta Tombo, Camarones y Jaramillo; fecha del derrumbe de la "Cabeza de León" en Monte León; horario del Paso San Sebastián; horario actual del Museo Egidio Feruglio (fuentes contradictorias).
