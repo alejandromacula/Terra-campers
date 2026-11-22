@@ -132,7 +132,7 @@ Está a ~70 km de Ischigualasto. La RN 76 nace en el cruce de Los Baldecitos (RN
 Fue parque provincial desde 1975 y es Parque Nacional desde 1997 (Ley 24.846); en 2000 la UNESCO lo declaró Patrimonio Mundial junto con Ischigualasto. El nombre viene de la extinta lengua cacán y se interpreta como "río seco del tala". En la entrada del cañón hay uno de los conjuntos de arte rupestre más importantes del país: petroglifos grabados en paredones, rocas y aleros.
 
 ### Paisaje y geología
-Las areniscas rojas se depositaron en el Triásico (hace entre 252 y 201 millones de años) y después una falla geológica las levantó y partió; el río, hoy casi siempre seco, abrió el cañón. La caminata del cañón pasa por la Puerta, los Petroglifos, la Falla Geológica y el Jardín Botánico.
+Las capas rojas del cañón son sedimentos del Triásico (hace entre 252 y 201 millones de años), y el río que lo recorre pasa casi todo el año seco. La caminata del cañón pasa por la Puerta, los Petroglifos, la Falla Geológica y el Jardín Botánico.
 
 ### Flora
 Ambiente de Monte. En el punto más angosto del cañón crece un "jardín botánico" natural de flora local, a la sombra de los paredones.
