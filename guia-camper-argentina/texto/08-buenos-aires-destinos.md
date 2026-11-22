@@ -4,7 +4,7 @@
 
 ## Índice (en orden de recorrido)
 
-Salida desde CABA hacia el norte (Delta y río), después la costa atlántica hacia el sur y, al final, las sierras de Tandilia y Ventania.
+Salida desde CABA hacia el norte (Delta y río), después la costa atlántica hacia el sur, con un desvío desde Mar del Plata a las sierras de Tandil para bajar a Necochea, y al final las sierras de Ventania.
 
 1. BSA-01 · Delta del Paraná (Tigre y la Reserva de Biosfera)
 2. BSA-02 · Isla Martín García
@@ -189,7 +189,7 @@ Subir al Faro Querandí: 54 metros de alto y 276 escalones en caracol, con la vi
 El **Camping Mar Dorado** (Av. 3 y Paseo 170; tel. 2255-470963) tiene 5 ha de bosque con acceso directo a la playa; ingreso hasta las 20 h, salida antes de las 10 h. Sobre la Av. 3 hay otros, como Campamento del Sol [VERIFICAR servicios para camper]. El municipio secuestró casi 50 vehículos en los médanos del norte y multa el acampe en el Faro Querandí: dormí en camping. No encontramos ordenanza sobre pernocte en la vía pública [VERIFICAR].
 
 **Fotos necesarias:** principal: el Faro Querandí sobre las dunas vírgenes, con el mar a un lado; chicas: casa-museo de Carlos Gesell sobre la duna, bosque y calle de arena de Mar de las Pampas, ostrero, monjita dominica, lagartija de las dunas
-**Fuentes:** https://en.wikipedia.org/wiki/Villa_Gesell · https://www.welcomeargentina.com/villagesell/historia.html · https://www.welcomeargentina.com/villagesell/municipal-historical-museum.html · https://billiken.lat/el-mundo/villa-gesell-conoce-la-historia-de-una-de-las-playas-mas-visitadas-de-argentina/ · https://www.lacapitalmdp.com/la-reserva-natural-municipal-faro-querandi-como-atractivo-turistico/ · https://www.welcomeargentina.com/mardelaspampas/faro-querandi.html · https://www.welcomeargentina.com/villagesell/cuatriciclos-querandi.html · https://www.lanacion.com.ar/turismo/reserva-municipal-faro-querandi-nid1963537 · https://www.cronista.com/clase/break/verano-2024-la-excursion-que-tenes-que-hacer-si-queres-unas-fotos-increibles-de-tus-vacaciones-en-villa-gesell · https://noticiasambientales.com/tourism/this-summer-dont-miss-out-on-the-most-spectacular-nature-reserve-on-the-coast/ · https://www.pitchup.com/campsites/argentina/buenos-aires/buenos-aires/villa_gesell/camping_mar_dorado · https://www.welcomeargentina.com/villagesell/campings.html · https://www.lanacion.com.ar/sociedad/el-clima-en-la-otra-frontera-tras-el-endurecimiento-de-los-controles-en-pinamar-nid25012026/ · https://www.change.org/p/honorable-concejo-deliberante-de-villa-gesell-queremos-acampar-responsablemente-en-faro-querandi-controlen-y-multen-a-los-infractores
+**Fuentes:** https://en.wikipedia.org/wiki/Villa_Gesell · https://www.welcomeargentina.com/villagesell/historia.html · https://www.welcomeargentina.com/villagesell/municipal-historical-museum.html · https://billiken.lat/el-mundo/villa-gesell-conoce-la-historia-de-una-de-las-playas-mas-visitadas-de-argentina/ · https://www.lacapitalmdp.com/la-reserva-natural-municipal-faro-querandi-como-atractivo-turistico/ · https://www.welcomeargentina.com/mardelaspampas/faro-querandi.html · https://www.welcomeargentina.com/villagesell/cuatriciclos-querandi.html · https://www.lanacion.com.ar/turismo/reserva-municipal-faro-querandi-nid1963537 · https://www.cronista.com/clase/break/verano-2024-la-excursion-que-tenes-que-hacer-si-queres-unas-fotos-increibles-de-tus-vacaciones-en-villa-gesell · https://noticiasambientales.com/tourism/this-summer-dont-miss-out-on-the-most-spectacular-nature-reserve-on-the-coast/ · https://www.pitchup.com/campsites/argentina/buenos-aires/buenos-aires/villa_gesell/camping_mar_dorado · https://www.welcomeargentina.com/villagesell/campings.html · https://www.lanacion.com.ar/sociedad/el-clima-en-la-otra-frontera-tras-el-endurecimiento-de-los-controles-en-pinamar-nid25012026/ · https://www.change.org/p/honorable-concejo-deliberante-de-villa-gesell-queremos-acampar-responsablemente-en-faro-querandi-controlen-y-multen-a-los-infractores · https://www.distancecalculator.net/from-mar-del-plata-to-villa-gesell
 
 ---
 
@@ -227,10 +227,10 @@ No encontramos campings con servicios confirmados para camper en el balneario Ma
 - **Bajada:** Antes que los turistas llegaron los lobos marinos: en 1873 el fundador ya los describía amontonados en la costa, y hoy siguen en el puerto, en la lobería más al norte de la Argentina.
 
 ### Cómo llegar
-Desde CABA por la Autovía 2, doble mano y asfalto todo el camino (~400 km, ~5 h) [VERIFICAR km y tiempo]. Desde Mar Chiquita, ~30 km al sur por la RP 11. Para la lobería, andá al puerto, a la Escollera Sur: es un espacio público y gratuito a pocos minutos del centro. Calculá dos o tres días para la ciudad y alrededores.
+Desde CABA por la Autovía 2, todo asfalto (~400 km, ~5 h) [VERIFICAR km y tiempo]; desde Mar Chiquita, ~30 km al sur por la RP 11. La lobería está en el puerto, en la Escollera Sur: espacio público y gratuito a minutos del centro. Calculá dos o tres días.
 
 ### Historia
-El lugar se conocía como Puerto de la Laguna de los Padres. Patricio Peralta Ramos (1814–1887) compró las tierras de un saladero que había fracasado, las loteó y en 1873 pidió el nombre Mar del Plata. El 10 de febrero de 1874 el gobernador Mariano Acosta firmó el decreto que reconoció el pueblo, entonces dentro del partido de Balcarce.
+El lugar se conocía como Puerto de la Laguna de los Padres. Patricio Peralta Ramos (1814–1887) compró las tierras de un saladero fracasado, las loteó y en 1873 pidió el nombre Mar del Plata. El 10 de febrero de 1874 el gobernador Mariano Acosta firmó el decreto que reconoció el pueblo.
 
 ### Por qué hay piedra en la costa
 En Mar del Plata termina el sistema de Tandilia: un cordón de unos 350 km que nace tierra adentro y se hunde en el mar en Cabo Corrientes. Las rocas de la costa son ortocuarcitas de la Formación Balcarce, de edad ordovícico-silúrica, depositadas en un ambiente de mareas. Es la "piedra Mar del Plata", que se saca de canteras de Batán y Chapadmalal.
@@ -239,13 +239,10 @@ En Mar del Plata termina el sistema de Tandilia: un cordón de unos 350 km que n
 [PENDIENTE: 2 o 3 especies o ambientes con fuente.]
 
 ### Fauna
-- **Lobo marino de un pelo:** la colonia de la Escollera Sur rondaba los 500 animales en 2023; se ven siempre, echados en la banquina. No te acerques: en 2023 se cerró el acceso por gripe aviar.
-
-### Antes de ir
-La colonia de lobos se está reubicando dentro del puerto (Consorcio Portuario, Universidad Nacional de Mar del Plata y Fundación Fauna Argentina trabajan en el traslado): preguntá en el puerto dónde están ese día.
+- **Lobo marino de un pelo:** la colonia de la Escollera Sur rondaba los 500 animales en 2023, echados en la banquina. No te acerques: ese año se cerró el acceso por gripe aviar. Hay un plan para reubicarla dentro del puerto: preguntá dónde están ese día.
 
 ### En la camper
-Hay campings sobre la RN 11 y la RP 226 (Colinas Verdes, Playa Dorada, Los Horneros, La Serranita, El Griego) [VERIFICAR equipamiento para motorhome]. En la Laguna de los Padres, el centro recreativo Crecim permite acampar varios días, y cerca de Chapadmalal el **Camping del Faro** tiene pileta y restaurante [VERIFICAR servicios para camper en ambos]. Sobre el pernocte en la calle: el Concejo Deliberante de General Pueyrredon trató un programa de estacionamiento transitorio para casas rodantes que prohíbe su permanencia en la vía pública fuera de los playones habilitados; no confirmamos si ya fue aprobado ni dónde están esos playones [VERIFICAR]. En enero los campings rozan el 80 % de ocupación: reservá.
+Hay campings sobre la RN 11 y la RP 226 (Colinas Verdes, Playa Dorada, Los Horneros, La Serranita, El Griego); en la Laguna de los Padres, el centro recreativo Crecim permite acampar varios días, y cerca de Chapadmalal está el **Camping del Faro**, con pileta y restaurante [VERIFICAR servicios para camper en todos]. El Concejo Deliberante trató un programa de playones para casas rodantes que prohíbe su permanencia en la vía pública fuera de ellos; no confirmamos si se aprobó [VERIFICAR]. En enero los campings rozan el 80 % de ocupación: reservá.
 
 **Fotos necesarias:** principal: lobos marinos echados en la banquina de la Escollera Sur con los barcos pesqueros amarillos detrás; chicas: lobo marino de un pelo macho, Laguna de los Padres, rambla y costa del centro
 **Fuentes:** https://www.lanacion.com.ar/lifestyle/mar-del-plata-la-historia-fundacional-de-la-ciudad-balnearia-mas-importante-del-pais-nid10022024/ · https://www.lacapitalmdp.com/patricio-peralta-ramos-el-fundador/ · https://billiken.lat/mi-pais/por-que-mar-del-plata-se-llama-asi/ · https://en.wikipedia.org/wiki/Patricio_Peralta_Ramos · https://www.lacapitalmdp.com/lobos-marinos-los-primeros-duenos-de-nuestras-costas/ · https://www.lacapitalmdp.com/avanza-el-plan-para-mudar-a-los-lobos-marinos-sin-que-se-pierda-su-atractivo/ · https://www.cadena3.com/noticia/operativo-verano-2026/la-reserva-de-lobos-marinos-en-mar-del-plata-un-plan-ideal-para-ir-en-familia_509555 · https://www.perfil.com/noticias/actualidad/cerraron-el-acceso-a-la-escollera-sur-en-mar-del-plata-por-la-gripe-aviar-que-esta-matando-lobos-marinos.phtml · https://www.welcomeargentina.com/mardelplata/campings.html · https://www.lacapitalmdp.com/la-ocupacion-en-los-campings-esta-cerca-del-80-con-estadias-cortas/ · https://www.cronista.com/clase/break/el-camping-de-la-costa-atlantica-que-tiene-acceso-directo-al-mar-y-es-ideal-para-pasar-en-familia-las-vacaciones-2025 · https://www.concejomdp.gov.ar/sgl/expedientes/proyectos/2024/24E01375/electronico/24E01375_20250626121752.pdf · https://www.lacapitalmdp.com/mar-del-plata-rodante-buscan-impulsar-el-turismo-de-motorhomes/ · https://www.lacapitalmdp.com/buscan-acuerdos-para-impulsar-el-turismo-en-casas-rodantes/ · https://www.lanacion.com.ar/lifestyle/verano-2023-como-ir-a-mar-del-plata-pinamar-villa-gesell-y-carilo-nid08012023/ · https://core.ac.uk/download/153565705.pdf · https://sedici.unlp.edu.ar/bitstream/handle/10915/106428/Documento_completo.pdf?sequence=1 · https://digital.cic.gba.gob.ar/bitstreams/2b7b678c-dd6c-40da-9846-5c196e33e354/download
@@ -257,26 +254,26 @@ Hay campings sobre la RN 11 y la RP 226 (Colinas Verdes, Playa Dorada, Los Horne
 - **Bajada:** Las sierras de Tandil están hechas de las rocas más antiguas de la Argentina, de entre 1.960 y 2.176 millones de años, y sobre una de ellas se balanceó durante siglos una piedra que se movía sin caer… hasta 1912.
 
 ### Cómo llegar
-Desde Mar del Plata, ~170 km por la RN 226 (~2 h); desde CABA, ~350 km [VERIFICAR ruta y tiempo]. Todo asfalto. El Parque Lítico La Movediza, el Cerro El Centinela y la Reserva Sierra del Tigre (entrada por calle Suiza) están a pocos minutos del centro. Calculá dos o tres días.
+Desde Mar del Plata, ~170 km por la RN 226 (~2 h), todo asfalto; desde CABA, ~350 km [VERIFICAR ruta y tiempo]. La Movediza, el Cerro El Centinela y la Reserva Sierra del Tigre (calle Suiza) están cerca del centro [VERIFICAR distancias]. Calculá dos o tres días.
 
 ### Historia
 La ciudad nació en 1823 y su nombre se asocia a la Piedra Movediza, una roca enorme que oscilaba al borde del cerro. Se cayó y se partió el 29 de febrero de 1912, entre las 17 y las 18; nunca se supo con certeza por qué. El 17 de mayo de 2007 se inauguró en el mismo lugar una réplica, hoy parte del Parque Lítico La Movediza.
 
 ### Paisaje y geología
-Tandilia es uno de los sistemas serranos más antiguos del planeta: un basamento de rocas muy viejas, gastado durante cientos de millones de años hasta quedar en cerros redondeados y bloques sueltos, que asoman sobre la llanura pampeana. El punto más alto de la Reserva Sierra del Tigre es el Cerro Venado, de 389 m.
+Tandilia es uno de los sistemas serranos más antiguos del planeta: un cordón de ~350 km que asoma sobre la llanura pampeana y expone el basamento más viejo del país. El punto más alto de la Reserva Sierra del Tigre es el Cerro Venado, de 389 m.
 
 ### Flora
-El pastizal serrano de Tandilia es de los ambientes más diversos de la región pampeana: unas 600 especies de plantas, varias endémicas. Domina un pastizal de flechillas (*Nassella* y *Piptochaetium*) con matorrales y plantas que crecen en las grietas de la roca. Los árboles exóticos que se expanden sobre las sierras son una de sus amenazas.
+El pastizal serrano es de los ambientes más diversos de la región pampeana: unas 600 especies de plantas, varias endémicas. Domina la flechilla (*Nassella* y *Piptochaetium*), con matorrales y plantas de roca. Los árboles exóticos que avanzan sobre las sierras son una amenaza.
 
 ### Fauna
-- **Lagartijas de las sierras** (*Liolaemus*): dos especies microendémicas, que solo viven en estos pastizales serranos; buscalas sobre las rocas al sol.
+- **Lagartijas de las sierras** (*Liolaemus*): dos especies microendémicas de estos pastizales serranos.
 - **Aves:** más de 100 especies registradas en las sierras; [PENDIENTE: 1 o 2 especies puntuales con fuente].
 
 ### Imperdible
 El Cerro El Centinela, con aerosilla, senderos, escalada, rappel y cabalgatas. Y el atardecer junto a la réplica de la Movediza.
 
 ### En la camper
-Tandil tiene la regla más clara de la provincia: la **Ordenanza 18783/2025** prohíbe pernoctar en espacios públicos entre las 22 y las 8 y obliga a usar áreas habilitadas, que deben tener agua potable, electricidad y tratamiento de residuos. Alrededor del Lago del Fuerte hay carteles que prohíben estacionar o pernoctar de 22 a 8. También prohíbe tirar aguas grises o negras en calles, banquinas o bocas de tormenta: el municipio ofrece descarga (sin estadía) en las instalaciones de Obras Sanitarias [VERIFICAR dirección]. Pedí la lista de áreas habilitadas en la Dirección de Turismo [VERIFICAR campings que reciben campers].
+Tandil reglamentó el tema: la **Ordenanza 18783/2025** prohíbe pernoctar en espacios públicos entre las 22 y las 8 (con carteles alrededor del Lago del Fuerte) y obliga a usar áreas habilitadas, con agua potable, electricidad y tratamiento de residuos. También prohíbe tirar aguas grises o negras en la vía pública: el municipio ofrece descarga, sin estadía, en Obras Sanitarias [VERIFICAR dirección]. Pedí la lista de áreas habilitadas en la Dirección de Turismo [VERIFICAR campings que reciben campers].
 
 **Fotos necesarias:** principal: réplica de la Piedra Movediza sobre el cerro, con la ciudad y la llanura detrás, al atardecer; chicas: Cerro El Centinela con la aerosilla, Lago del Fuerte, bloques de roca de la Sierra del Tigre, foto histórica de la Piedra Movediza original
 **Fuentes:** https://en.wikipedia.org/wiki/Piedra_Movediza · https://en.wikipedia.org/wiki/Tandil · https://billiken.lat/interesante/la-historia-de-la-piedra-movediza-de-tandil-y-su-misteriosa-caida-en-1912/ · https://www.elimparcial.com/locurioso/2024/03/01/la-historia-detras-de-la-piedra-movediza-se-rompio-un-29-de-febrero-de-1912/ · https://core.ac.uk/download/153567247.pdf · https://repositorio.segemar.gov.ar/308849217/1348 · https://revistas.uned.ac.cr/index.php/biocenosis/article/download/5603/8012/28363 · https://www.civitatis.com/ar/tandil/senderismo-cerro-venado/ · https://www.timeout.com/es/buenos-aires/que-hacer-en-tandil-guia-definitiva-piedra-movediza-cerro-centinela · https://sibom.slyt.gba.gob.ar/bulletins/12563/contents/2202790 · https://www.tiempodesanjuan.com/el-pais/viajes-motorhome-nuevas-reglas-estacionar-dormir-y-descargar-residuos-n430634 · https://www.diariojornada.com.ar/416933/magazine/motorhome_nuevas_reglas_para_estacionar_dormir_y_descargar_residuos · https://openvan.camp/en/news/law/tandil-busca-regular-el-turismo-itinerante-con · https://www.ruta0.com/ruta/argentina/camet-a-tandil/ · https://www.distancecalculator.net/from-mar-del-plata-to-tandil · https://naturalis.fcnym.unlp.edu.ar/bitstreams/fe1f6315-effa-4fa8-a665-79a4604f5c54/download · https://ri.conicet.gov.ar/handle/11336/133084 · https://extension.unicen.edu.ar/wp-content/uploads/2017/06/Pastizal-Serrano.pdf · https://core.ac.uk/download/370608796.pdf
@@ -291,7 +288,7 @@ Tandil tiene la regla más clara de la provincia: la **Ordenanza 18783/2025** pr
 Desde Tandil, ~160 km (~1 h 45 a 2 h) [VERIFICAR rutas]; desde Mar del Plata, por la costa hacia el sudoeste [VERIFICAR km y tiempo]. Todo asfalto hasta la ciudad. El Parque Miguel Lillo arranca pegado a la playa, en el centro; Quequén queda enfrente, cruzando el río. Calculá dos días.
 
 ### Historia
-Ángel Ignacio Murga organizó el primer asentamiento a orillas del río Quequén Grande, y la fundación oficial es del 12 de octubre de 1881, con el proyecto aprobado por el gobernador Dardo Rocha. El nombre homenajea al general Mariano Necochea, guerrero de la Independencia. Casi todos los fundadores pertenecían a la logia masónica Sol Argentino 160.
+Ángel Ignacio Murga organizó el primer asentamiento a orillas del río Quequén Grande; la fundación oficial es del 12 de octubre de 1881, con aprobación del gobernador Dardo Rocha. El nombre homenajea al general Mariano Necochea. Casi todos los fundadores pertenecían a la logia Sol Argentino 160.
 
 ### Paisaje y geología
 Costa de playas anchas y médanos empujados por el viento, cortada por la desembocadura del río Quequén Grande. Al oeste de la ciudad siguen los médanos sin forestar (Médano Blanco, Las Grutas, Médano de la Mesa), que se recorren en excursiones 4x4 [VERIFICAR nombres y operadores].
@@ -300,8 +297,7 @@ Costa de playas anchas y médanos empujados por el viento, cortada por la desemb
 El Parque Miguel Lillo es un bosque marítimo de coníferas plantadas sobre la duna, con arboledas exóticas donde también aparecen eucaliptos; desde 1979 es reserva. Tiene sectores quemados con planes de replantación. [PENDIENTE: especies de pino con fuente.]
 
 ### Fauna
-- **Aves acuáticas:** se ven en el Lago de los Cisnes, un lago artificial entre la playa y el parque. [PENDIENTE: especies puntuales con fuente.]
-- **Aves de bosque:** los senderos internos del parque son buenos para avistar muchas especies. [PENDIENTE: especies puntuales con fuente.]
+- **Aves acuáticas:** en el Lago de los Cisnes, un lago artificial entre la playa y el parque; los senderos internos también son buenos para avistar aves. [PENDIENTE: 2 o 3 especies puntuales con fuente.]
 
 ### Imperdible
 Perderte en bici o caminando por los senderos del Parque Miguel Lillo y salir a la playa entre los pinos.
@@ -322,7 +318,7 @@ En la ciudad figuran los campings **Miguel Lillo** (Av. 2 y 101), **El Gringo** 
 Desde Necochea, ~275 km (~3 h 30): RN 228 hasta Tres Arroyos (142 km) y de ahí RN 3 y RP 78 (133 km). Desde Bahía Blanca, ~105 km (~1 h 20) por la RN 3 y la RP 78. Todo asfalto. Calculá dos días: uno de playa y uno para el faro y la laguna Sauce Grande.
 
 ### Historia
-En 1879 Esteban Dufaur compró 4.000 hectáreas en la zona y le encargó a su hijo Sulpicio Esteban armar un establecimiento rural; de esas tierras salió después el balneario. El Faro Recalada a Bahía Blanca, al este del pueblo, se decidió en 1904 y se encendió el 1 de enero de 1906 para marcar la entrada a la bahía.
+En 1879 Esteban Dufaur compró 4.000 hectáreas y le encargó a su hijo Sulpicio Esteban armar un establecimiento rural. El Faro Recalada a Bahía Blanca, al este del pueblo, se decidió en 1904 y se inauguró el 1 de enero de 1906 para marcar la entrada a la bahía.
 
 ### Paisaje y geología
 32 km de playa de arena que miran al sur, de cara al mar abierto, con médanos detrás. Las notas locales atribuyen sus aguas templadas a corrientes que llegan desde Brasil [VERIFICAR explicación oceanográfica].
@@ -332,20 +328,17 @@ En 1879 Esteban Dufaur compró 4.000 hectáreas en la zona y le encargó a su hi
 
 ### Fauna
 - **Flamenco austral:** hay registros fotográficos en Monte Hermoso y en la laguna Sauce Grande; con suerte, en los bajos de la laguna.
-- **Rayador:** en la laguna y en la desembocadura del río Sauce Grande, pescando al ras del agua.
+- **Rayador:** en la laguna y en la desembocadura del río Sauce Grande.
 - **Cauquén común:** también registrado en la laguna Sauce Grande.
 
 ### Si tenés un día más
 En la vecina Pehuen Có hay un yacimiento con huellas fósiles de megafauna: pisadas de megaterio (un perezoso gigante), macrauquenia y toxodonte [VERIFICAR fuente, km y modalidad de visita]. Y a ~7 km del pueblo está la laguna Sauce Grande, buena para pescar pejerrey y para deportes de viento.
 
 ### Imperdible
-Subir al **Faro Recalada**, el más alto de Sudamérica: una torre metálica de 64 a 67 m (según la fuente) con más de 300 escalones por dentro, y un museo al pie. Y el atardecer, obvio, con el sol entrando al mar.
-
-### Consejo fotográfico
-Para la postal clásica, quedate en la playa al final del día: el sol se pone sobre el agua, algo que en casi toda la costa bonaerense solo pasa al amanecer.
+Subir al **Faro Recalada**, el más alto de Sudamérica: una torre metálica de 64 a 67 m (según la fuente) con más de 300 escalones, y su museo. Y quedarte en la playa al atardecer para ver el sol entrar al mar.
 
 ### En la camper
-Monte Hermoso tiene una relación difícil con las casas rodantes: una ordenanza de 2005 limita su presencia y los "rodanteros" generan polémica cada verano. Dormí en camping: figuran el **camping municipal de Santa Clara del Mar** (Sauce Grande), **Hipocampo** y **Tío Pepe** (Camino Acceso Este), y el **Complejo Americano**, con camping y playa propia [VERIFICAR cuáles reciben campers y con qué servicios]. No pernoctes en la calle hasta confirmar la norma vigente [VERIFICAR].
+Monte Hermoso tiene una relación difícil con las casas rodantes: una ordenanza de 2005 dificulta su presencia y los "rodanteros" generan polémica. Dormí en camping: el **municipal de Santa Clara del Mar** (Sauce Grande), **Hipocampo** y **Tío Pepe** (Camino Acceso Este) o el **Complejo Americano**, con playa propia [VERIFICAR cuáles reciben campers y servicios]. No pernoctes en la calle sin confirmar la norma vigente [VERIFICAR].
 
 **Fotos necesarias:** principal: puesta de sol sobre el mar desde la playa de Monte Hermoso; chicas: Faro Recalada, escalera interior del faro, laguna Sauce Grande, médanos de la costa
 **Fuentes:** https://www.canal26.com/turismo/2025/12/28/la-unica-playa-de-argentina-donde-el-sol-sale-y-se-pone-en-el-mar-esta-en-la-costa-atlantica-y-tiene-las-aguas-mas-calidas/ · https://www.rionegro.com.ar/?p=1215891 · https://www.rionegro.com.ar/?p=3305689 · https://www.welcomeargentina.com/montehermoso/historia.html · https://en.wikipedia.org/wiki/Monte_Hermoso · https://en.wikipedia.com/wiki/Recalada_a_Bah%C3%ADa_Blanca_Light · https://billiken.lat/interesante/faro-recalada-en-monte-hermoso-el-mas-alto-de-sudamerica/ · https://www.ambito.com/lifestyle/el-faro-mas-alto-del-pais-esta-monte-hermoso-y-fue-construido-materiales-la-torre-eiffel-n5780700 · https://www.welcomeargentina.com/montehermoso/visita-al-faro-recalada.html · https://revista-airelibre.com/?p=41637 · https://www.noticiasmontehermoso.com.ar/?p=34557 · https://www.welcomeargentina.com/montehermoso/campings.html · https://www.ruta0.com/ruta/argentina/necochea-a-claromeco/ · https://www.ruta0.com/ruta/argentina/monte-hermoso-a-claromeco/ · https://en.wikipedia.org/wiki/Monte_Hermoso_Partido · https://www.argentina.gob.ar/node/132542 · https://www.ecoregistros.org/sheet/Phoenicopterus-chilensis&idlugar=885 · https://ecoregistros.org/sheet/Rynchops-niger&idlugar=885 · https://ecoregistros.org/sheet/Chloephaga-picta&idlugar=885 · https://www.welcomeargentina.com/montehermoso/laguna-sauce-grande.html
@@ -354,30 +347,30 @@ Monte Hermoso tiene una relación difícil con las casas rodantes: una ordenanza
 
 ## BSA-12 · Sierra de la Ventana y Parque Provincial Ernesto Tornquist
 - **Dónde:** Buenos Aires · Sierra de la Ventana / Tornquist · Parque Provincial Ernesto Tornquist (Monumento Natural Cerro de la Ventana)
-- **Bajada:** En plena llanura se levanta una cadena de montañas plegadas, con el techo bonaerense, el Cerro Tres Picos, y un cerro agujereado de lado a lado cerca de la cumbre: la "ventana" que les da nombre.
+- **Bajada:** En plena llanura se levantan montañas plegadas hace cientos de millones de años, con el techo bonaerense y un cerro agujereado cerca de la cumbre: la "ventana".
 
 ### Cómo llegar
-Desde CABA, ~560 km por la RN 3 hasta la zona de Bahía Blanca y después la RP 76 (~5 a 6 h); desde Bahía Blanca, ~110–125 km por las RP 51 y 76. Desde Monte Hermoso, volvé a Bahía Blanca (~105 km) y seguí hacia las sierras (~110–125 km más). Todo asfalto. La base del Cerro Ventana está en la RP 76 km 226 y la otra entrada del parque es la base del Cerro Bahía Blanca. Calculá al menos dos días.
+Desde Monte Hermoso, volvé a Bahía Blanca (~105 km) y de ahí ~110–125 km por las RP 51 y 76. Desde CABA son ~560 km por la RN 3 y la RP 76 (~5 a 6 h). Todo asfalto. La base del Cerro Ventana está en la RP 76 km 226; la otra entrada es la base del Cerro Bahía Blanca. Calculá al menos dos días.
 
 ### Historia
-El parque nació el 11 de mayo de 1937, cuando la familia Tornquist —por iniciativa de Martín Tornquist— cedió tierras a la provincia para una reserva natural; un decreto de 1958 lo formalizó. Hoy tiene unas 6.700 ha. En la década de 1940, Emilio Solanet donó caballos criollos para trabajar en el parque; con el tiempo se escaparon y se volvieron cimarrones.
+El parque nació el 11 de mayo de 1937, cuando la familia Tornquist, por iniciativa de Martín Tornquist, cedió tierras a la provincia; un decreto de 1958 lo formalizó. Tiene unas 6.700 ha. En los años 40, Emilio Solanet donó caballos criollos para trabajar en él; con el tiempo se volvieron cimarrones.
 
 ### Por qué hay montañas acá
-Ventania es una cadena de rocas sedimentarias del Paleozoico, sobre todo cuarcitas, que se plegaron como un mantel empujado: la estructura dominante son pliegues, más intensos hacia el oeste. Los geólogos la emparentan con otras cadenas del antiguo continente de Gondwana. Su punto más alto, el Cerro Tres Picos, mide entre 1.239 y 1.247 m según la fuente; el Cerro Ventana, 1.134 m.
+Ventania es una cadena paleozoica de rocas sedimentarias, sobre todo cuarcitas, plegadas como un mantel empujado, con pliegues más intensos hacia el oeste; los geólogos la ubican entre las cadenas del antiguo Gondwana. El Cerro Tres Picos mide 1.239 a 1.247 m según la fuente; el Cerro Ventana, 1.134 m.
 
 ### Flora
-Pastizal serrano: el parque protege un pedazo de la provincia fitogeográfica pampeana con plantas que solo crecen en estas sierras, como la margarita de la cumbre (*Grindelia ventanensis*). La amenaza principal son los pinos invasores, que los guardaparques arrancan.
+Pastizal serrano pampeano con plantas que solo crecen en estas sierras, como la margarita de la cumbre (*Grindelia ventanensis*). Los pinos invasores son una amenaza grande; los guardaparques los extraen.
 
 ### Fauna
-- **Guanaco:** el mamífero grande más fácil de ver, en grupos sobre los pastizales altos y las laderas rocosas.
-- **Caballo cimarrón:** entre 600 y 700 según la fuente; se los ve seguido y son polémicos porque compiten con la fauna nativa.
+- **Guanaco:** el gran mamífero emblemático del parque, en grupos sobre los pastizales altos.
+- **Caballo cimarrón:** entre 600 y 700 según la fuente; polémicos porque compiten con la fauna nativa.
 - **Sapito de las sierras:** anfibio endémico que se esconde en el pastizal; difícil de ver.
 
 ### Imperdible
-La subida al **Cerro Ventana**: 5 a 6 horas ida y vuelta, dificultad media-alta. Se ingresa por orden de llegada, sin reserva, hasta completar un cupo diario, y hay que registrar entrada y salida en la base; en años recientes se exigió guía autorizado y el horario de ingreso fue de 8 a 10 h según la temporada [VERIFICAR régimen vigente]. Los fines de semana largos, llegá a las 7. Tel. del parque: (0291) 491-0039. Si no conseguís lugar, el Cerro Bahía Blanca es más corto (~2 h ida y vuelta, ingreso hasta las 15 h).
+La subida al **Cerro Ventana**: 5 a 6 h ida y vuelta, dificultad media-alta. Ingreso por orden de llegada hasta completar un cupo diario, con registro en la base; en años recientes se exigió guía autorizado y el ingreso cerró entre las 8 y las 10 según la temporada [VERIFICAR régimen vigente]. Tel. del parque: (0291) 491-0039. Alternativa corta: el Cerro Bahía Blanca (~2 h, ingreso hasta las 15).
 
 ### En la camper
-Sobre la RP 76 están **Campamento Base Cerro Ventana** (km 224, al lado del parque) y **Parque Norte** (km 250, hacia Tornquist); cerca del pueblo, **Yamila**, **Lourdes** (se llena los fines de semana y no toma reservas) y **Fortín Pavón** [VERIFICAR cuáles reciben campers y servicios]. **Camping El Pinar** (RP 76, cerca de Villa Ventana) tenía duchas, pileta y electricidad, pero una reseña reciente lo describe abandonado y en venta: confirmá antes. Cargá combustible en Tornquist, Sierra de la Ventana o Bahía Blanca. En la sierra el clima cambia rápido: llevá abrigo aunque sea verano.
+Sobre la RP 76 están **Campamento Base Cerro Ventana** (km 224) y **Parque Norte** (km 250, hacia Tornquist); además figuran **Yamila**, **Lourdes** (se llena los fines de semana, sin reservas) y **Fortín Pavón** [VERIFICAR cuáles reciben campers y servicios]. En fines de semana largos, llegá temprano a la base: el cupo se agota.
 
 **Fotos necesarias:** principal: el Cerro Ventana con el hueco de la ventana a contraluz, desde la RP 76; chicas: Cerro Tres Picos, guanacos en el pastizal, caballos cimarrones, margarita de la cumbre, sapito de las sierras, base del Cerro Ventana
 **Fuentes:** https://www.welcomeargentina.com/sierradelaventana/parque-provincial-ernesto-tornquist.html · https://en.wikipedia.org/wiki/Ernesto_Tornquist_Provincial_Park · https://lanacion.com.ar/turismo/sierra-de-ventana-parque-provincial-tornquist-nid1963598 · https://www.cronista.com/clase/break/donde-ir-el-fin-de-semana-largo-el-pueblito-serrano-en-buenos-aires-que-deslumbra-por-sus-paisajes · https://www.ecoticias.com/eco-america/136019_argentina-quieren-convertir-a-sierra-de-la-ventana-en-un-destino-turistico-sustentable · https://www.lonelyplanet.com/argentina/southern-pampas/attractions/parque-provincial-ernesto-tornquist/a/poi-sig/1586906/1326511 · https://revistas.ucm.es/index.php/JIGE/article/download/JIGE0101110043A/32857/34018 · https://sedici.unlp.edu.ar/bitstream/handle/10915/186703/Documento_completo.pdf?sequence=1 · https://en.wikipedia.org/wiki/Sierra_de_la_Ventana_(mountains) · https://normas.gba.gob.ar/documentos/xa9gvcLx.html · https://www.lanacion.com.ar/sociedad/el-secreto-que-guardan-los-caballos-salvajes-de-sierra-de-la-ventana-y-la-importancia-de-nid13072022/ · https://www.lanacion.com.ar/revista-lugares/sierra-de-la-ventana-y-alrededores-historia-recorridos-clasicos-y-novedades-de-la-comarca-nid08082024/ · https://www.internationalparks.org/argentina/Ernesto%20Tornquist · https://www.welcomeargentina.com/sierradelaventana/vida-salvaje.html · https://revista-airelibre.com/2024/06/12/fin-de-semana-largo-en-tornquist · https://www.noticiasradioreflejos.com.ar/2021/?p=110540 · https://www.welcomeargentina.com/sierradelaventana/cerro-ventana.html · https://www.c5n.com/lifestyle/esta-pocas-horas-buenos-aires-y-te-vuelve-loco-su-paisaje-serrano-n224089 · https://www.rionegro.com.ar/?p=3415141 · https://app.ioverlander.com/places/5525-camping-el-pinar-sierra-de-la-ventana · https://app.ioverlander.com/places/25257-camping-lourdes
@@ -392,25 +385,96 @@ Sobre la RP 76 están **Campamento Base Cerro Ventana** (km 224, al lado del par
 Se llega por la RP 76, la misma del Parque Tornquist, a ~30 km de Tornquist [VERIFICAR punto de acceso y km desde Sierra de la Ventana]. Dentro del pueblo las calles son de tierra entre los árboles: estacioná la camper y recorré a pie. Calculá un día, combinado con el parque.
 
 ### Historia
-El Club Hotel lo construyó el Ferrocarril Buenos Aires al Sud y abrió en 1911; se pensó como lugar de reposo para enfermos respiratorios y terminó siendo un hotel de lujo, golpeado por la Primera Guerra Mundial. En diciembre de 1943 llegaron 350 marinos del Graf Spee, en tren especial hasta Coronel Pringles y en camiones del Ejército, para reacondicionarlo. El 8 de julio de 1983 lo consumió un incendio. Hoy las ruinas se visitan, con sectores clausurados.
+El Club Hotel lo construyó el Ferrocarril Buenos Aires al Sud y abrió en 1911: pensado como reposo para enfermos respiratorios, terminó siendo hotel de lujo, golpeado por la Primera Guerra Mundial. En diciembre de 1943 llegaron 350 marinos del Graf Spee, en tren hasta Coronel Pringles y en camiones del Ejército, para reacondicionarlo. El 8 de julio de 1983 lo consumió un incendio. Las ruinas se visitan, con sectores clausurados.
 
 ### Paisaje y geología
-Un pueblo chico entre pinares, rodeado por los arroyos Belisario y De las Piedras, que desaguan en el río Sauce Grande. Se lo suele mencionar como el pueblo más alto de la provincia, a unos 350 m, al pie del Cerro Tres Picos.
+Un pueblo chico rodeado por los arroyos Belisario y De las Piedras, que desaguan en el río Sauce Grande. Se lo menciona como el pueblo más alto de la provincia, a unos 350 m, cerca del Cerro Tres Picos.
 
 ### Flora
 Casas de madera entre pinos y calles arboladas en el pueblo; afuera empieza el pastizal serrano de Ventania, con sus plantas endémicas como la margarita de la cumbre (ver BSA-12). [PENDIENTE: especies de la vegetación de arroyo con fuente.]
 
 ### Fauna
-- **Vizcacha:** coloniza los afloramientos rocosos de las sierras que rodean el pueblo; más activa al atardecer.
-- **Zorro pampa y gato montés:** habitan la comarca serrana; el zorro se cruza seguido, el gato montés es difícil de ver.
-- **Iguana de cobre:** lagarto de las sierras, sobre las piedras en días de calor.
+- **Vizcacha:** coloniza los afloramientos rocosos de las sierras vecinas.
+- **Zorro pampa y gato montés:** habitan la comarca serrana; el gato montés es difícil de ver.
+- **Iguana de cobre:** lagarto de las sierras, sobre las piedras.
 
 ### Imperdible
 Las ruinas del Club Hotel (hay un sendero desde el pueblo) y, en los alrededores, las cascadas San Teófilo y Escondida y la Fuente del Bautismo.
 
 ### En la camper
-En Villa Ventana figura un **camping municipal** y, sobre la RP 76 a pocos kilómetros, el **Camping El Pinar** (confirmá si sigue funcionando: una reseña reciente lo vio abandonado y en venta) [VERIFICAR servicios para camper en ambos]. Ver también los campings de la RP 76 en BSA-12. No entres con una camper grande a las calles internas de tierra del pueblo si llovió.
+En Villa Ventana figura un **camping municipal**; sobre la RP 76, a pocos kilómetros, el **Camping El Pinar** tenía duchas, pileta y electricidad, pero una reseña reciente lo describe abandonado y en venta [VERIFICAR ambos]. Ver también los campings de BSA-12. Con lluvia, evitá las calles de tierra del pueblo con una camper grande.
 
 **Fotos necesarias:** principal: ruinas del Club Hotel de la Ventana entre los árboles; chicas: calle de tierra de Villa Ventana bajo los pinos, arroyo Belisario, cascada San Teófilo, foto histórica del Club Hotel
 **Fuentes:** https://en.wikipedia.org/wiki/Club_Hotel_de_la_Ventana · https://billiken.lat/interesante/club-hotel-de-la-ventana-el-lujoso-hospedaje-de-buenos-aires-que-fue-lider-en-sudamerica/ · https://www.ellitoral.com/informacion-general/viral-buenos-aires-provincia-hotel-lujo-brillo-siglo-villa-ventana-sierra-incendio-abandono-ruinas-queda-imagenes-impactantes-historia-nazis-alemanes_0_yBTOnGVzQq.html · https://www.canal26.com/turismo/2026/07/01/club-hotel-de-la-ventana-canal-26-recorre-este-emblematico-hotel-de-aristocratas-nazis-y-fantasmas/ · https://www.welcomeargentina.com/blog/2014/09/lo-que-quedo-del-club-hotel-sierra-de-la-ventana.html · https://hikingproject.com/trail/7031595/club-hotel-villa-ventana-trail · https://billiken.lat/mi-pais/cual-es-el-pueblo-mas-alto-de-buenos-aires/ · https://www.mdzol.com/mdz-trip/2021/6/29/el-pueblo-de-cuento-en-buenos-aires-que-sorprende-por-su-tranquilidad-paisajes-169216.html · https://www.c5n.com/lifestyle/la-escapada-buenos-aires-disfrutar-las-calles-tierra-bosques-y-cabanas-n107809 · https://www.c5n.com/lifestyle/a-pocas-horas-buenos-aires-el-destino-conocer-y-enamorarse-las-montanas-y-paisajes-n234843 · https://www.lanacion.com.ar/turismo/las-otras-villas-de-la-comarca-nid1963599/ · https://app.ioverlander.com/places/5525-camping-el-pinar-sierra-de-la-ventana · https://www.welcomeargentina.com/sierradelaventana/vida-salvaje.html · https://www.internationalparks.org/argentina/Ernesto%20Tornquist
 
+---
+
+## Pendientes de verificar
+
+Todo lo marcado en las páginas, para confirmar antes de imprimir (33 [VERIFICAR] y 7 [PENDIENTE]).
+
+**BSA-01 · Delta del Paraná (Tigre y la Reserva de Biosfera)**
+- [VERIFICAR] Campings de Tigre (Colonia Banco Provincia, Parque Lyfe, Ciervo Rojo, El Zorzal): cuáles tienen acceso por tierra y lugar para una camper grande.
+- [VERIFICAR] Normativa de Tigre sobre pernocte en la vía pública.
+
+**BSA-02 · Isla Martín García**
+- [VERIFICAR] origen geológico — …del Delta, Martín García es una isla de roca: un afloramiento del basamento antiguo del Río de la Plata
+- [VERIFICAR] opciones para vehículo grande — …La camper se queda en Tigre todo el día: buscá estacionamiento cerca de la Estación Fluvial
+
+**BSA-03 · Parque Nacional Ciervo de los Pantanos**
+- [VERIFICAR] estado para camper — …registro obligatorio al llegar. Hay un camino vehicular de 5,5 km desde la estación Otamendi hasta el río
+- [VERIFICAR] campings cercanos con lugar para camper — …camping dentro del parque: es visita de día. Volvé a dormir a un camping de la zona o seguí viaje
+
+**BSA-04 · Parque Nacional Campos del Tuyú**
+- [VERIFICAR] modalidad y horarios — …La Plata. Coordiná la visita con la intendencia (Manuel Lainez 1171, General Lavalle; tel. 02252-491-085)
+- [VERIFICAR] …No encontramos información oficial vigente sobre camping en el parque
+
+**BSA-05 · Pinamar y Cariló**
+- [PENDIENTE] 1 o 2 especies más con fuente.
+- [VERIFICAR] si recibe campers grandes — …adicional. El Camping Ostende (desde 1970, a cuatro cuadras del mar) incluye lugar para un vehículo
+
+**BSA-06 · Villa Gesell y Mar de las Pampas**
+- [VERIFICAR] km exactos — …Desde CABA, el mismo camino que a Pinamar y unos kilómetros más al sur (~4 h)
+- [VERIFICAR] servicios para camper — …playa; ingreso hasta las 20 h, salida antes de las 10 h. Sobre la Av. 3 hay otros, como Campamento del Sol
+- [VERIFICAR] …el acampe en el Faro Querandí: dormí en camping. No encontramos ordenanza sobre pernocte en la vía pública
+
+**BSA-07 · Reserva Mar Chiquita**
+- [VERIFICAR] …No encontramos campings con servicios confirmados para camper en el balneario Mar Chiquita
+
+**BSA-08 · Mar del Plata**
+- [VERIFICAR] km y tiempo — …Desde CABA por la Autovía 2, todo asfalto (~400 km, ~5 h)
+- [PENDIENTE] 2 o 3 especies o ambientes con fuente.
+- [VERIFICAR] servicios para camper en todos — …permite acampar varios días, y cerca de Chapadmalal está el Camping del Faro, con pileta y restaurante
+- [VERIFICAR] …casas rodantes que prohíbe su permanencia en la vía pública fuera de ellos; no confirmamos si se aprobó
+
+**BSA-09 · Tandil**
+- [VERIFICAR] ruta y tiempo — …Desde Mar del Plata, ~170 km por la RN 226 (~2 h), todo asfalto; desde CABA, ~350 km
+- [VERIFICAR] distancias — …La Movediza, el Cerro El Centinela y la Reserva Sierra del Tigre (calle Suiza) están cerca del centro
+- [PENDIENTE] 1 o 2 especies puntuales con fuente
+- [VERIFICAR] Dirección del punto de descarga de grises/negras en Obras Sanitarias.
+- [VERIFICAR] Lista de áreas habilitadas y campings que reciben campers (Dirección de Turismo).
+
+**BSA-10 · Necochea**
+- [VERIFICAR] Rutas exactas Tandil–Necochea (~160 km).
+- [VERIFICAR] Km y tiempo Mar del Plata–Necochea por la costa.
+- [VERIFICAR] nombres y operadores — …los médanos sin forestar (Médano Blanco, Las Grutas, Médano de la Mesa), que se recorren en excursiones 4x4
+- [PENDIENTE] especies de pino con fuente.
+- [PENDIENTE] 2 o 3 especies puntuales con fuente.
+- [VERIFICAR] si reciben campers y servicios — …Gringo (Calle 519 Nº 901), SUTEBA (Av. 10 y calle 197) y Río Quequén (Calle 22 y ribera del río)
+- [VERIFICAR] …frente a la playa, entre médanos. No encontramos ordenanza de Necochea sobre pernocte en la vía pública
+
+**BSA-11 · Monte Hermoso**
+- [VERIFICAR] explicación oceanográfica — …con médanos detrás. Las notas locales atribuyen sus aguas templadas a corrientes que llegan desde Brasil
+- [PENDIENTE] 2 o 3 especies o ambientes con fuente.
+- [VERIFICAR] fuente, km y modalidad de visita — …con huellas fósiles de megafauna: pisadas de megaterio (un perezoso gigante), macrauquenia y toxodonte
+- [VERIFICAR] Campings (municipal Santa Clara del Mar, Hipocampo, Tío Pepe, Complejo Americano): cuáles reciben campers y con qué servicios.
+- [VERIFICAR] Norma vigente sobre pernocte de casas rodantes (ordenanza de 2005 y cambios posteriores).
+
+**BSA-12 · Sierra de la Ventana y Parque Provincial Ernesto Tornquist**
+- [VERIFICAR] régimen vigente — …en años recientes se exigió guía autorizado y el ingreso cerró entre las 8 y las 10 según la temporada
+- [VERIFICAR] cuáles reciben campers y servicios — …además figuran Yamila, Lourdes (se llena los fines de semana, sin reservas) y Fortín Pavón
+
+**BSA-13 · Villa Ventana**
+- [VERIFICAR] punto de acceso y km desde Sierra de la Ventana — …Se llega por la RP 76, la misma del Parque Tornquist, a ~30 km de Tornquist
+- [PENDIENTE] especies de la vegetación de arroyo con fuente.
+- [VERIFICAR] ambos — …El Pinar tenía duchas, pileta y electricidad, pero una reseña reciente lo describe abandonado y en venta
