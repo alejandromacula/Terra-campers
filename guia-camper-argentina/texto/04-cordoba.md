@@ -58,19 +58,19 @@ Miramar tiene uno de los primeros puntos de asistencia de la Ruta del Motorhome 
 Jesús María queda ~50 km al norte de Córdoba por la RN 9, asfaltada (~1 h). La Estancia de Caroya está en Colonia Caroya, ~4 km antes por la misma ruta. A Santa Catalina se llega desde la ruta Jesús María–Ascochinga y después ~13 km de camino de tierra (E53). Calculá un día entero para las tres.
 
 ### Historia
-Los jesuitas armaron estas estancias para sostener su Colegio en Córdoba. En Jesús María hacían el lagrimilla, usado para la misa y también vendido; hoy la casa es el Museo Jesuítico Nacional. Tras la expulsión de la orden, Francisco Antonio Díaz compró Santa Catalina en un remate y sigue siendo de su familia: es la única de las estancias que es casa privada. En Caroya, el Estado alojó en 1878 a inmigrantes friulanos, que fundaron la colonia y todavía hacen vino.
+En Jesús María los jesuitas hacían el lagrimilla, usado para la misa y también vendido; hoy la casa es el Museo Jesuítico Nacional. Tras la expulsión de la orden, Francisco Antonio Díaz compró Santa Catalina en un remate y sigue en manos de sus descendientes, que la usan como casa de fin de semana. En Caroya, el Estado alojó en 1878 a inmigrantes friulanos, que fundaron la colonia y todavía hacen vino.
 
 ### Qué ver
 - **Estancia de Jesús María:** iglesia, residencia y bodega; museo nacional.
 - **Estancia de Caroya:** muebles y objetos con influencia friulana y la vieja prensa de vino.
 - **Avenida de Colonia Caroya:** ~9 km de plátanos centenarios. El Museo de la Friulanidad Casa Copetti muestra cómo vivían los primeros colonos.
-- **Santa Catalina (1622):** la iglesia barroca más imponente del circuito; solo con visita guiada. Los fines de semana a veces solo abre la iglesia.
+- **Santa Catalina (1622):** iglesia barroca y claustros; propiedad privada, solo con visita guiada. Los fines de semana a veces solo abre la iglesia.
 
 ### Fiesta / evento
-El Festival Nacional de Doma y Folklore se hace desde 1966 en el Anfiteatro José Hernández de Jesús María, durante unos diez días de enero. Esas noches el tránsito y el alojamiento colapsan.
+El Festival Nacional de Doma y Folklore se hace desde 1966 en el Anfiteatro José Hernández de Jesús María, durante unos diez días de enero.
 
 ### En la camper
-Asfalto hasta Jesús María y Caroya, sin problemas para un vehículo grande. El tramo de tierra a Santa Catalina se complica con lluvia: preguntá el estado antes. El punto de la Ruta del Motorhome más cercano está en La Granja (Camping La Toma), sobre las Sierras Chicas, camino a Ascochinga: agua y descarga de grises y negras sin cargo. Campings en Jesús María: [VERIFICAR].
+Asfalto hasta Jesús María y Caroya, sin problemas para un vehículo grande. El tramo de tierra a Santa Catalina se complica con lluvia: preguntá el estado antes. El punto de la Ruta del Motorhome más cercano está en La Granja (Camping La Toma): agua y descarga de grises y negras sin cargo. Campings en Jesús María: [VERIFICAR].
 
 **Fotos necesarias:** principal: fachada barroca de la iglesia de Santa Catalina con el atrio; chicas: patio y bodega de la Estancia de Jesús María, Estancia de Caroya, avenida de plátanos de Colonia Caroya, jinete en el Festival de Doma
 **Fuentes:** https://www.welcomeargentina.com/jesusmaria/estancia-jesus-maria.html · https://www.argentina.gob.ar/node/272145 · https://www.cadena3.com/noticia/caminos-de-la-cultura/la-estancia-jesuitica-donde-nacio-el-primer-vino-argentino_336740 · https://grupoclarin-la-voz-prod.cdn.arcpublishing.com/ciudadanos/el-primer-vino-hecho-en-cordoba-en-el-siglo-xvi-llego-al-rey-felipe-v-verdad-o-puro-cuento · https://www.lanacion.com.ar/revista-lugares/santa-catalina-la-estancia-que-es-patrimonio-cultural-de-la-humanidad-y-casa-de-fin-de-semana-para-nid05092023/ · https://www.nomades.com/cordoba-argentina/triangulo-jesuitico-id287 · https://welcomeargentina.com/jesusmaria/santa-catalina-estancia.html · https://www.welcomeargentina.com/colonia-caroya/caroya-estancia.html · https://www.welcomeargentina.com/colonia-caroya/museo-friulanidad-casa-copetti.html · https://es.hispanopedia.com/wiki/Colonia_Caroya · https://en.wikipedia.org/wiki/Jes%C3%BAs_Mar%C3%ADa,_Argentina · https://www.c5n.com/lifestyle/viajar-cordoba-el-destino-maravilloso-un-festival-imponente-n221493 · https://www.welcomeargentina.com/jesusmaria/festival-doma-folklore.html · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
