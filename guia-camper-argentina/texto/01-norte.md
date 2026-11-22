@@ -520,7 +520,7 @@ Junto a la sede del parque hay un camping gratuito con césped, baños, agua pot
 Se llega por El Peñón, en la Puna catamarqueña, desde Belén por la RN 40 y la RP 43 hacia Antofagasta de la Sierra; la provincia informó que la RP 43 quedó asfaltada, aunque viajeros reportan tramos deteriorados [VERIFICAR estado actual con Vialidad de Catamarca]. El campo está a ~35 km de El Peñón y se recorre con guía de la zona en 4x4: las excursiones salen del pueblo y duran ~3 horas, o ~4 h 30 si suman el volcán Carachi Pampa. Calculá dos días con la noche en El Peñón.
 
 ### Historia
-Es un área natural protegida de la provincia de Catamarca, con unas 75.000 hectáreas; su marco legal se consolidó con el Decreto 1490/2012. Fue seleccionado para integrar el patrimonio geológico por su valor científico.
+Es un área natural protegida de la provincia de Catamarca, con unas 75.000 hectáreas; su marco legal se consolidó con el Decreto 1490/2012 [VERIFICAR número en el digesto provincial]. En 2024 fue seleccionado para integrar el patrimonio geológico [VERIFICAR año y catálogo].
 
 ### Por qué es blanco y tiene esas formas
 Todo el campo es un enorme manto de material volcánico (ignimbrita) que expulsó la caldera del Cerro Blanco, unos 2 km³ de roca porosa y liviana. Después el viento de la Puna, cargado de arena, la fue limando en filas de crestas y canales llamadas yardangs; algunas superficies se oscurecen con una pátina. Las fuentes de divulgación hablan de una formación de unos cien mil años [VERIFICAR edad con fuente geológica].
