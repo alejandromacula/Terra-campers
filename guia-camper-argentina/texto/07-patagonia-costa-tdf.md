@@ -365,3 +365,27 @@ Camping Río Pipo: el más citado para motorhomes, abierto las 24 h, con duchas 
 **Fotos necesarias:** principal: la bahía de Ushuaia con la ciudad, el puerto y los Montes Martial nevados detrás, desde la costanera; chicas: pabellón del ex presidio, Glaciar Martial, cartel del fin del mundo en el puerto
 **Fuentes:** https://EN.wikipedia.com/wiki/Ushuaia · https://es.hispanopedia.com/wiki/Ushuaia · https://www.welcomeargentina.com/ushuaia/historia.html · https://latitud2000.com/?p=3189 · https://m.roughguides.com/argentina/tierra-del-fuego/ushuaia-around/ · https://oceanwide-expeditions.com/es/blog/ushuaia-the-little-known-history-of-antarcticas-gateway · https://core.ac.uk/download/231222759.pdf · https://www.welcomeargentina.com/ushuaia/glaciar_martial.html · https://billiken.lat/mi-pais/glaciar-martial-por-que-es-uno-de-los-paisajes-mas-llamativos-de-la-patagonia/ · https://www.aaa.com/tripcanvas/attraction/martial-glacier-VA15682 · https://ioverlander.com/places/416-camping-rio-pipo · https://app.ioverlander.com/places/173-camping-la-pista-del-andino · https://www.ruta0.com/foros/destinos-consultas/mi-viaje-a-ushuaia-6901.htm · https://openvan.camp/en/news/law/disposicion-de-aguas-grises-y-negras-de · https://openvan.camp/en/news/opening/ushuaia-puntos-habilitados-para-la-disposicion-de · https://openvan.camp/en/news/law/eximen-motorhomes-el-pago-por-descarga-de · https://turismoushuaia.com/contenidos/donde-acampar/?lang=en_US
 
+## AUS-43 · Parque Nacional Tierra del Fuego
+- **Dónde:** Tierra del Fuego · Ushuaia · Parque Nacional Tierra del Fuego
+- **Bajada:** La Ruta 3 termina acá, en Bahía Lapataia, frente a montículos de conchillas que dejaron los yaganes durante miles de años.
+
+### Cómo llegar
+La entrada está a ~12 km de Ushuaia por la RN 3, que sigue dentro del parque hasta terminar en Bahía Lapataia. Los caminos internos no son asfaltados [VERIFICAR estado para vehículos grandes]. Se paga entrada en el portal. La hoja oficial de 2024 indica horario de 8:30 a 20 h; se desaconseja entrar de noche. Calculá un día completo; hay estacionamientos en el portal, Río Pipo, Ensenada Zaratiegui, el centro de visitantes Alakush, el Lago Acigami y Lapataia.
+
+### Historia
+El parque se creó el 15 de octubre de 1960 por la Ley 15.554 y se amplió en 1966; fue el primer parque nacional argentino con costa marina. La zona la ocuparon cazadores recolectores yámanas o yaganes, canoeros, y selk'nam. Los concheros —montículos de valvas de mejillón, restos de su alimentación— son sitios arqueológicos que muestran ocupación humana desde hace miles de años.
+
+### Paisaje y flora
+Montañas, lagos y el Canal Beagle; Bahía Lapataia es el único fiordo del sector argentino de la isla. El bosque es de *Nothofagus*: **lenga**, de hoja caduca, que se pone roja y dorada en otoño; **guindo** o coihue de Magallanes, siempreverde; y **ñire**, más bajo, en sitios húmedos y expuestos. En los valles abundan las turberas, colchones de musgo y materia vegetal.
+
+### Fauna
+- **Cauquén:** ganso que pasta en los claros y junto a la costa; fácil de ver.
+- **Zorro colorado fueguino:** ronda senderos y estacionamientos. No lo alimentes.
+- **Castor:** introducido en 1946 desde Canadá (20 ejemplares) para la industria peletera; hoy se lo combate porque inunda y mata el bosque. Sus diques y lagunas se ven desde los senderos.
+
+### En la camper
+Hay tres áreas de acampe agreste, sin servicios: Río Pipo, Ensenada y Laguna Verde/Cauquenes (en Isla Entre Ríos). El permiso de acampe no incluye la entrada: con el permiso, el ticket de acceso vale 48 horas. Llevá agua y todo tu residuo de vuelta; las restricciones de fuego cambian según la temporada de incendios. Para servicios completos, dormí en los campings de Ushuaia.
+
+**Fotos necesarias:** principal: Bahía Lapataia con el cartel del fin de la RN 3 y las montañas sobre el agua; chicas: bosque de lenga en otoño, guindo, ñire, turbera, cauquén, zorro colorado fueguino, dique de castor, conchero junto a la costa
+**Fuentes:** https://argentina.gob.ar/sites/default/files/2019/03/1_informacion_al_visitante_pntdf_23-05-24_espanol.pdf · https://www.argentina.gob.ar/node/306449 · https://www.argentina.gob.ar/senderos-del-parque-nacional-tierra-del-fuego · https://turismoushuaia.com/wp-content/uploads/2022/05/5-Informacion-al-visitante-PNTDF-11-05-22-ESPANOL-corregido.pdf · https://turismoushuaia.com/zonas/parque-nacional/?lang=en_US · https://turismoushuaia.com/contenidos/donde-acampar/?lang=en_US · https://en.wikipedia.org/wiki/Tierra_del_Fuego_National_Park · https://www.lonelyplanet.com/pois/1049438 · https://www.welcomeargentina.com/ushuaia/parque-nacional-tierra-del-fuego.html · https://www.interpatagonia.com/ushuaia/parque-nacional-tierra-del-fuego.html · https://www.interpatagonia.com/ushuaia/parque-nacional-tierra-del-fuego-lapataia-lago-roca-senda-costera.html · https://Www.wikipedia.org/wiki/Beaver_eradication_in_Tierra_del_Fuego · https://www.nationalgeographic.com/animals/article/beaver-overpopulation-tierra-del-fuego · https://www.npr.org/2011/06/24/137067240/imported-beavers-gnaw-away-at-argentinas-forests · https://solsalute.com/blog/tierra-del-fuego-national-park-guide/
+

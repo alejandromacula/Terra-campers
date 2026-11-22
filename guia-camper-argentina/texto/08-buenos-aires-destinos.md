@@ -207,7 +207,7 @@ La provincia la protegió como reserva natural de uso múltiple en 1989; la UNES
 Una albufera es una laguna costera que el viento y el mar cerraron con bancos de arena. La de Mar Chiquita ocupa entre 4.600 y 5.880 ha según la fuente y se comunica con el océano por una boca angosta, así que mezcla agua dulce y salada. Su fondo de barro está lleno de cangrejos, la base de la comida de muchas aves.
 
 ### Flora
-[PENDIENTE: 2 o 3 especies o ambientes con fuente (pastizal, juncales, vegetación de médano).]
+Alrededor de la laguna domina la estepa de plantas que toleran la sal: espartillares (*Spartina densiflora*), juncales (*Schoenoplectus californicus*) y hunquillares (*Juncus acutus*). En las lomas aparecen talares de tala y matas de cortadera, y entre los médanos más alejados, lagunitas temporarias de agua de lluvia.
 
 ### Fauna
 - **Cangrejo cavador** (*Neohelice granulata*): llena de cuevas el barro de las orillas; seguro lo ves con marea baja.
@@ -297,10 +297,11 @@ Desde Tandil, ~160 km (~1 h 45 a 2 h) [VERIFICAR rutas]; desde Mar del Plata, po
 Costa de playas anchas y médanos empujados por el viento, cortada por la desembocadura del río Quequén Grande. Al oeste de la ciudad siguen los médanos sin forestar (Médano Blanco, Las Grutas, Médano de la Mesa), que se recorren en excursiones 4x4 [VERIFICAR nombres y operadores].
 
 ### Flora
-El Parque Miguel Lillo es un bosque marítimo de coníferas plantadas sobre la duna; desde 1979 es reserva. Tiene sectores quemados con planes de replantación. [PENDIENTE: especies puntuales con fuente.]
+El Parque Miguel Lillo es un bosque marítimo de coníferas plantadas sobre la duna, con arboledas exóticas donde también aparecen eucaliptos; desde 1979 es reserva. Tiene sectores quemados con planes de replantación. [PENDIENTE: especies de pino con fuente.]
 
 ### Fauna
 - **Aves acuáticas:** se ven en el Lago de los Cisnes, un lago artificial entre la playa y el parque. [PENDIENTE: especies puntuales con fuente.]
+- **Aves de bosque:** los senderos internos del parque son buenos para avistar muchas especies. [PENDIENTE: especies puntuales con fuente.]
 
 ### Imperdible
 Perderte en bici o caminando por los senderos del Parque Miguel Lillo y salir a la playa entre los pinos.
