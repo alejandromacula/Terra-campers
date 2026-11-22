@@ -4,7 +4,7 @@
 
 ## Índice (en orden de recorrido)
 
-Recorrido sugerido entrando desde Buenos Aires por el este (San Francisco), siguiendo hacia el norte jesuítico, bajando por el Valle de Punilla, y después Calamuchita, las Altas Cumbres y Traslasierra.
+Recorrido sugerido: empieza por la laguna de Ansenuza, en el este de la provincia, sigue por el norte jesuítico y el Valle de Punilla, baja a Alta Gracia y Calamuchita, y termina cruzando las Altas Cumbres hacia Traslasierra.
 
 1. COR-01 · Parque Nacional Ansenuza (Miramar de Ansenuza)
 2. COR-02 · Jesús María, Colonia Caroya y Santa Catalina
@@ -55,7 +55,7 @@ Miramar tiene uno de los primeros puntos de asistencia de la Ruta del Motorhome 
 - **Bajada:** Tres estancias jesuíticas en pocos kilómetros: en una se hizo el lagrimilla, el vino de misa que, dice la tradición, llegó a la mesa del rey Felipe V.
 
 ### Cómo llegar
-Jesús María queda ~50 km al norte de Córdoba por la RN 9, asfaltada (~1 h). La Estancia de Caroya está en Colonia Caroya, ~4 km antes por la misma ruta. A Santa Catalina se llega desde la ruta Jesús María–Ascochinga y después ~13 km de camino de tierra (E53). Calculá un día entero para las tres.
+Jesús María queda ~50 km al norte de Córdoba por la RN 9. La Estancia de Caroya está en Colonia Caroya, ~4 km antes por la misma ruta. A Santa Catalina se llega desde la ruta Jesús María–Ascochinga y después ~13 km de camino de tierra (E53). Calculá un día entero para las tres.
 
 ### Historia
 En Jesús María los jesuitas hacían el lagrimilla, usado para la misa y también vendido; hoy la casa es el Museo Jesuítico Nacional. Tras la expulsión de la orden, Francisco Antonio Díaz compró Santa Catalina en un remate y sigue en manos de sus descendientes, que la usan como casa de fin de semana. En Caroya, el Estado alojó en 1878 a inmigrantes friulanos, que fundaron la colonia y todavía hacen vino.
@@ -80,20 +80,20 @@ Asfalto hasta Jesús María y Caroya, sin problemas para un vehículo grande. El
 - **Bajada:** Entre 3.000 y 5.000 pinturas rupestres en aleros de piedra, y la casa donde Atahualpa Yupanqui eligió quedarse para siempre.
 
 ### Cómo llegar
-Cerro Colorado queda a ~160 km al norte de Córdoba: RN 9 hasta la zona de Santa Elena y después un desvío de ~11 km [VERIFICAR calzada del desvío]. Hay notas que indican otra opción por Jesús María y la RP 21. Para los aleros con pinturas se va con guía, que se contrata en el Museo Arqueológico Provincial del pueblo. Calculá un día: medio para las pinturas y medio para la casa de Yupanqui.
+Cerro Colorado queda a ~160 km al norte de Córdoba: RN 9 hasta Santa Elena y ahí la RP 21, ~12 km hacia el oeste [VERIFICAR calzada de la RP 21]. Para los aleros con pinturas se va con guía, que se contrata en el Museo Arqueológico Provincial del pueblo. Calculá un día: medio para las pinturas y medio para la casa de Yupanqui.
 
 ### Historia
 La reserva abarca ~3.000 hectáreas entre los cerros Colorado, Veladero e Intihuasi. Las pinturas se atribuyen sobre todo a comechingones y sanavirones, y algunas notas les dan más de 1.500 años. Es Monumento Histórico Nacional desde 1961. Atahualpa Yupanqui armó acá su refugio, Agua Escondida; murió en Francia en 1992 y sus restos descansan en Cerro Colorado, al pie de un roble.
 
 ### Imperdible
 - **Casa Museo Atahualpa Yupanqui (Agua Escondida):** sus objetos, guitarras y el roble. Una nota de 2024 publica horario de 10 a 20 en verano y hasta las 18 en invierno [VERIFICAR antes de ir].
-- **Aleros pintados:** figuras de animales, personas y, según las crónicas, escenas que muestran la llegada de los españoles a caballo [VERIFICAR].
+- **Aleros pintados:** recorrido con guía por los abrigos rocosos de los cerros Colorado, Veladero e Intihuasi.
 
 ### En la camper
 Hay zona de camping junto al río, al pie del cerro, cerca de la casa de Yupanqui; preguntá en el pueblo si admite vehículos grandes [VERIFICAR]. El punto de la Ruta del Motorhome más cercano en el norte provincial está en Villa Tulumba (Balneario Municipal): agua y descarga de grises y negras sin cargo. Cargá combustible sobre la RN 9 antes del desvío [VERIFICAR última estación].
 
 **Fotos necesarias:** principal: el Cerro Colorado rojizo al atardecer desde el río; chicas: alero con pinturas rupestres (sin flash), Casa Museo Atahualpa Yupanqui y su roble, Museo Arqueológico Provincial
-**Fuentes:** https://www.c5n.com/lifestyle/viajar-cordoba-el-cerro-que-conserva-pictografias-pueblos-originarios-y-ofrece-un-paisaje-unico-n214164 · https://www.c5n.com/lifestyle/turismo-argentina-el-entorno-natural-mas-1500-anos-donde-las-piedras-cuentan-historias-del-pasado-n229330 · https://www.canal26.com/turismo/2024/11/15/historia-y-arqueologia-donde-esta-ubicada-la-reserva-natural-con-pinturas-rupestres-de-mas-de-1500-anos/ · https://billiken.lat/mi-pais/cerro-colorado-la-majestuosa-montana-de-cordoba-que-tiene-una-casa-historica-y-arte-rupestre-centenario/ · https://www.cronica.com.ar/sociedad/Un-cerro-ancestral-que-protege-un-pueblo-detenido-en-el-tiempo-y-antiguas-pinturas-rupestres-20260105-0087.html · https://www.cadena3.com/noticia/cordoba/la-casa-de-atahualpa-en-el-cerro-colorado_292881 · https://www.pagina12.com.ar/imprimir/diario/suplementos/turismo/9-2235-2012-01-08.html · https://www.argentina.gob.ar/noticias/atahualpa-yupanqui-voz-de-la-tierra · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
+**Fuentes:** https://www.c5n.com/lifestyle/viajar-cordoba-el-cerro-que-conserva-pictografias-pueblos-originarios-y-ofrece-un-paisaje-unico-n214164 · https://www.c5n.com/lifestyle/turismo-argentina-el-entorno-natural-mas-1500-anos-donde-las-piedras-cuentan-historias-del-pasado-n229330 · https://www.canal26.com/turismo/2024/11/15/historia-y-arqueologia-donde-esta-ubicada-la-reserva-natural-con-pinturas-rupestres-de-mas-de-1500-anos/ · https://billiken.lat/mi-pais/cerro-colorado-la-majestuosa-montana-de-cordoba-que-tiene-una-casa-historica-y-arte-rupestre-centenario/ · https://www.cronica.com.ar/sociedad/Un-cerro-ancestral-que-protege-un-pueblo-detenido-en-el-tiempo-y-antiguas-pinturas-rupestres-20260105-0087.html · https://www.cadena3.com/noticia/cordoba/la-casa-de-atahualpa-en-el-cerro-colorado_292881 · https://hoydia.com.ar/turismo/81534-cerro-colorado-una-parte-de-la-historia-pintada-en-las-rocas.html · https://www.pagina12.com.ar/imprimir/diario/suplementos/turismo/9-2235-2012-01-08.html · https://www.argentina.gob.ar/noticias/atahualpa-yupanqui-voz-de-la-tierra · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
 
 ## COR-04 · Ongamira y Los Terrones
 - **Dónde:** Córdoba · Capilla del Monte · Grutas de Ongamira y Reserva Natural Los Terrones (privada)
@@ -169,7 +169,7 @@ Carlos Paz no figura entre los primeros puntos de la Ruta del Motorhome.
 - **Bajada:** Torres de granito a más de 2.000 metros donde vuelan cóndores, a ~80 km de la capital y con los últimos 27 de ripio.
 
 ### Cómo llegar
-Desde Córdoba, RN 20 hasta Villa Carlos Paz y después RP 28 por Tanti: ~80 a 85 km en total, de los cuales los últimos ~27 km son de ripio. Viajeros lo reportan en buen estado, con máquinas trabajando, pero preguntá antes si llovió [VERIFICAR]. Se sugieren de 1 a 3 días de visita.
+Desde Córdoba, RN 20 hasta Villa Carlos Paz y después RP 28 por Tanti: ~80 a 85 km en total, de los cuales los últimos ~27 km son de ripio. Viajeros lo reportan en buen estado, con máquinas trabajando, pero preguntá antes si llovió. Se sugieren de 1 a 3 días de visita.
 
 ### Paisaje
 Cumbres escarpadas de roca granítica, con alturas que según la fuente van de los ~2.000 a 2.374 msnm [VERIFICAR altura]. El clima es templado húmedo y de noche hace frío.
@@ -347,7 +347,7 @@ Pernocte de vehículos en La Pampilla: no informado [VERIFICAR]. Se puede acampa
 - **Bajada:** Un río frío y transparente que baja de las Sierras Grandes y arma ollas y toboganes de piedra en plena ciudad, y a pocos kilómetros, un museo con decenas de miles de objetos juntados por un solo hombre.
 
 ### Cómo llegar
-Mina Clavero está al pie del Camino de las Altas Cumbres (COR-13), del lado de Traslasierra [VERIFICAR distancia y tiempo desde Córdoba]. El Museo Rocsen queda a ~5 km de Nono y ~12 km de Mina Clavero (las fuentes van de 8 a 13 km). Calculá un día para los balnearios y medio día para el museo.
+Mina Clavero está al pie del Camino de las Altas Cumbres (COR-13), del lado de Traslasierra: las notas dan entre ~120 y ~160 km desde Córdoba (hasta ~3 h por la montaña) [VERIFICAR]. El Museo Rocsen queda a ~5 km de Nono y ~12 km de Mina Clavero (las fuentes van de 8 a 13 km). Calculá un día para los balnearios y medio día para el museo.
 
 ### Paisaje
 El río Mina Clavero, de aguas frías, baja de las Sierras Grandes y forma balnearios naturales de arena dorada; a la altura del Nido del Águila corre encajonado entre rocas. En el límite con Villa Cura Brochero se junta con el Panaholma, de aguas templadas (su nombre quechua significa "aguas taciturnas"), y juntos forman el río de los Sauces, que termina en el Dique La Viña.
@@ -362,7 +362,7 @@ El río Mina Clavero, de aguas frías, baja de las Sierras Grandes y forma balne
 Descarga de grises y negras en Mina Clavero: [VERIFICAR]; consultá a la Municipalidad (tel. 3544-559410). El punto de la Ruta del Motorhome más cercano está en Salsacate (Camping Municipal), al norte del valle (ver COR-16).
 
 **Fotos necesarias:** principal: río Mina Clavero entre rocas con una olla de agua transparente; chicas: balneario Nido del Águila, confluencia con el Panaholma, fachada y salas del Museo Rocsen
-**Fuentes:** https://www.welcomeargentina.com/minaclavero/historia.html · https://www.welcomeargentina.com/minaclavero/balnearios-mina-clavero.html · https://www.welcomeargentina.com/minaclavero/citytour-mina-clavero.html · https://www.welcomeargentina.com/minaclavero/paseos.html · https://en.wikipedia.org/wiki/Mina_Clavero · https://www2.hum.unrc.edu.ar/ojs/index.php/CR/article/view/1122/1215 · https://www.ellitoral.com/opinion/60-000-piezas-afianzar-identidad-cultural-servicio-comunidad_0_whvltWRr5Y.html · https://www.lanacion.com.ar/otros/museo-rocsen-la-eclectica-coleccion-de-toda-una-vida-nid15122013/ · https://www.welcomeargentina.com/minaclavero/museo-rocsen.html · https://whichmuseum.co.uk/museum/rocsen-museum-nono-21318 · https://atlasobscura.com/places/rocsen-museum · https://automuseums.info/argentina/rocsen-museum · https://www.ioverlander.com/places/126537-camping-playa-mansa · https://www.welcomeargentina.com/minaclavero/complejo-san-sebastian.html · https://www.minaclavero.gov.ar/alojamientodetalle.php?id=3667 · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
+**Fuentes:** https://www.welcomeargentina.com/minaclavero/historia.html · https://www.c5n.com/lifestyle/viajar-cordoba-tiene-balnearios-naturales-y-es-un-pueblo-magico-descansar-n220859 · https://www.turismocity.com.ar/promociones_aereas/p-que_hacer_en_mina_clavero_las_mejores_actividades-8712.html · https://www.welcomeargentina.com/minaclavero/balnearios-mina-clavero.html · https://www.welcomeargentina.com/minaclavero/citytour-mina-clavero.html · https://www.welcomeargentina.com/minaclavero/paseos.html · https://en.wikipedia.org/wiki/Mina_Clavero · https://www2.hum.unrc.edu.ar/ojs/index.php/CR/article/view/1122/1215 · https://www.ellitoral.com/opinion/60-000-piezas-afianzar-identidad-cultural-servicio-comunidad_0_whvltWRr5Y.html · https://www.lanacion.com.ar/otros/museo-rocsen-la-eclectica-coleccion-de-toda-una-vida-nid15122013/ · https://www.welcomeargentina.com/minaclavero/museo-rocsen.html · https://whichmuseum.co.uk/museum/rocsen-museum-nono-21318 · https://atlasobscura.com/places/rocsen-museum · https://automuseums.info/argentina/rocsen-museum · https://www.ioverlander.com/places/126537-camping-playa-mansa · https://www.welcomeargentina.com/minaclavero/complejo-san-sebastian.html · https://www.minaclavero.gov.ar/alojamientodetalle.php?id=3667 · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
 
 ## COR-16 · Parque Nacional Traslasierra
 - **Dónde:** Córdoba · Salsacate / Chancaní · Parque Nacional Traslasierra
@@ -391,3 +391,22 @@ Las visitas son por cuenta propia: según la información oficial de 2024 no hab
 **Fotos necesarias:** principal: guanacos en el pastizal con las sierras de Guasapampa de fondo; chicas: casco de la ex Estancia Pinas, águila coronada, boa chaqueña, bosque de Chaco Serrano
 **Fuentes:** https://argentina.gob.ar/sites/default/files/2022/07/informacion_para_la_visita_pntr_2024_0.pdf · https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-traslasierra/como-llegar · https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-traslasierra/biodiversidad · https://www.argentina.gob.ar/noticias/el-parque-nacional-traslasierra-cumple-seis-anos · https://www.argentina.gob.ar/noticias/descubren-una-nueva-especie-de-roedor-y-la-nombran-en-honor-parques-nacionales-y-conicet · https://argentina.gob.ar/sites/default/files/2019/06/ficha_-_pn_traslasierra.pdf · https://www.argentina.gob.ar/node/164354 · https://www4.hcdn.gob.ar/dependencias/dcomisiones/periodo-140/140-14.pdf · https://grupoclarin-la-voz-prod.cdn.arcpublishing.com/ciudadanos/parque-nacional-traslasierra-suma-17-mil-hectareas · https://www.lavozdesanjusto.com.ar/el-parque-nacional-traslasierra-abrio-sus-puertas-al-turismo-124284 · https://www.cronica.com.ar/sociedad/el-area-natural-que-tiene-senderos-bosques-y-una-increible-historia/ · https://www.canal26.com/turismo/2025/12/15/la-iconica-provincia-que-esconde-la-primera-ruta-del-motorhome-de-argentina-un-recorrido-de-ensueno-ideal-para-estas-vacaciones/
 
+## Pendientes de verificar
+
+- **Encabezado:** color de región (definir con diseño).
+- **COR-01 Ansenuza:** tramos de ripio y estado de la RP 10 / RP 17; si el Gran Hotel Viena se sigue visitando tras el fallo de diciembre de 2025; campings en Miramar que acepten motorhome.
+- **COR-02 Jesús María / Caroya / Santa Catalina:** campings en Jesús María.
+- **COR-03 Cerro Colorado:** calzada de la RP 21 desde Santa Elena; horario vigente de la Casa Museo Atahualpa Yupanqui; si la zona de camping junto al río admite vehículos grandes; última estación de servicio antes del desvío.
+- **COR-04 Ongamira y Los Terrones:** calzada del camino a Ongamira; origen geológico de las rocas; estado del camino para vehículo grande; horarios de Los Terrones y de las grutas.
+- **COR-05 Capilla del Monte:** servicios para motorhome del Camping Municipal Calabalumba; nombre del camping al pie del Uritorco que admite rodantes.
+- **COR-06 Villa Carlos Paz:** distancia y tiempo desde Córdoba; servicios para motorhome y descarga del Camping Sol y Río; si el camping del ACA admite no socios.
+- **COR-07 Los Gigantes:** altura del macizo (2.000 vs. 2.374 msnm); servicios y acceso del camping Casas Nuevas; última estación de servicio.
+- **COR-08 La Candelaria:** si la entrada es paga o gratuita; pernocte; horarios.
+- **COR-09 Alta Gracia:** ruta desde Córdoba; si el Camping Municipal admite motorhomes y qué servicios tiene.
+- **COR-10 Villa General Belgrano:** ruta y tiempo desde Córdoba; distancia a Los Reartes y si el punto "Las Acacias" permite pernoctar.
+- **COR-11 La Cumbrecita:** vigencia y dirección de Cucu Haus y Bier Bär; estado actual de los dos caminos de acceso.
+- **COR-12 Champaquí:** estado del camino a Villa Alpina y si es apto motorhome; electricidad en Villa Alpina.
+- **COR-13 Altas Cumbres:** estado del camino viejo por Copina para vehículos; altura máxima de la ruta; estaciones de servicio en el trayecto.
+- **COR-14 Quebrada del Condorito:** si se puede pernoctar con vehículo en La Pampilla.
+- **COR-15 Mina Clavero / Nono / Rocsen:** distancia desde Córdoba (las fuentes dicen 122, 145 o 160 km); horario vigente del Museo Rocsen; servicios para motorhome del Complejo San Sebastián; dónde hay descarga de grises y negras.
+- **COR-16 Traslasierra:** calzada de cada acceso; días y horarios vigentes; especies de flora destacadas; si hay área de acampe dentro del parque.

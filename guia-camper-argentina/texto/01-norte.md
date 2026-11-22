@@ -484,54 +484,55 @@ Selva de montaña en laderas muy empinadas y húmedas. En las partes bajas apare
 ---
 
 ## NOR-18 · Parque Nacional El Rey
-- **Dónde:** Salta · [VERIFICAR pueblo base] · Parque Nacional El Rey
-- **Bajada:** [PENDIENTE DE INVESTIGACIÓN]
-
-> **Página pendiente.** Se agotó el cupo de búsquedas web de esta sesión antes de investigar este parque, y no hay datos previos en `guia-fuente.md`. Por la regla de "nada inventado", la página queda sin cuerpo hasta completar la investigación. Lo que hay que buscar: acceso desde Salta (ruta, kilómetros de ripio, vados y si es apto para motorhome), horario y registro en la intendencia, historia de la creación del parque, pisos de selva de yungas, fauna (el tucán grande es su emblema [VERIFICAR]), camping del parque y servicios, combustible más cercano.
+- **Dónde:** Salta · Lumbreras (sobre la RN 9/34) · Parque Nacional El Rey
+- **Bajada:** Una antigua estancia ganadera de yungas, la Finca El Rey, convertida en parque nacional en 1948, donde la selva de montaña escalona cinco pisos de vegetación entre los 750 y los 2.000 metros.
 
 ### Cómo llegar
-[PENDIENTE]
+Desde Lumbreras, sobre la RN 9/34, se sigue por la RP 5 hasta Paso de la Cruz y después por la RP 20 hasta el parque. Los últimos ~47 km son de ripio, con varios cruces de ríos, y no hay transporte público. En vehículo propio solo se entra fuera de la temporada de lluvias, de abril a noviembre, cuando los ríos están bajos. Parques Nacionales pide consultar el estado del camino antes de ir. Calculá al menos dos días: uno para llegar y otro para los senderos.
 
 ### Historia
-[PENDIENTE]
+El parque se creó en 1948, durante el gobierno de Juan Domingo Perón, sobre la vieja Finca El Rey, una gran estancia ganadera de la que heredó el nombre. Las fuentes no coinciden en la fecha exacta del decreto (junio u octubre de 1948). Protege unas 44.000 hectáreas en el centro-este de Salta.
 
 ### Paisaje y flora
-[PENDIENTE]
+Protege yungas, la selva nublada de montaña de las sierras salteñas. La flora cambia en cinco pisos según la altura, entre los 750 y los 2.000 metros.
 
 ### Fauna
-[PENDIENTE]
+- **Tapir (anta):** vive en el parque; es esquivo y se lo ve muy poco.
+- **Pecarí labiado:** anda en tropas por la selva; verlo depende de la suerte.
+- **Pava de monte y charata:** aves grandes de la selva que viven en el parque; atento a sus llamados.
+
+### Senderos
+La Laguna Los Patitos está a 1,5 a 2 km de la sede del parque, por un sendero fácil, y es buena para ver aves acuáticas. Al Pozo Verde se sube en 3 a 4 horas por un sendero largo. El Chorro de los Loros, a 11 km del centro operativo, es de dificultad moderada a alta.
 
 ### En la camper
-[PENDIENTE]
+Junto a la sede del parque hay un camping gratuito con césped, baños, agua potable, duchas frías y luz de noche, abierto las 24 horas; no hay proveeduría, así que entrá con comida y combustible para la ida y la vuelta. [VERIFICAR: si el ripio y los vados son aptos para motorhome grande, y última estación de servicio antes del parque]. No intentes cruzar los ríos crecidos: con lluvia, esperá o volvé.
 
-**Fotos necesarias:** principal: selva de yungas del parque [VERIFICAR encuadre]; chicas: tucán grande [VERIFICAR]
-**Fuentes:** [PENDIENTE]
+**Fotos necesarias:** principal: sierras cubiertas de selva de yungas con niebla en las laderas; chicas: Laguna Los Patitos, tapir, pecarí labiado, pava de monte, charata, cruce de río en el camino de acceso
+**Fuentes:** [APN – El Rey: horarios y cómo llegar](https://www.argentina.gob.ar/parquesnacionales/region-noroeste/parque-nacional-el-rey/horarios-como-llegar) · [APN – Ficha PN El Rey](https://argentina.gob.ar/sites/default/files/ficha_-_pn_el_rey.pdf) · [APN – PN El Rey](https://www.argentina.gob.ar/node/149157) · [Argentina.travel – PN El Rey](https://www.argentina.travel/actividades/parque-nacional-el-rey) · [Todo Jujuy – Ni Calilegua ni Baritú](https://www.todojujuy.com/pais/ni-calilegua-ni-baritu-el-parque-nacional-que-no-podes-dejar-visitar-el-norte-n278026/amp) · [La Capital – PN El Rey](https://www.lacapital.com.ar/turismo/el-parque-nacional-el-rey-una-joya-natural-y-silenciosa-el-corazon-salta-n10204138.html/amp) · [Crónica – Noches de campamento en El Rey](https://www.cronica.com.ar/sociedad/un-bosque-remoto-senderos-y-noches-de-campamento-una-escapada-ideal-para-los-mas-aventureros-3575/) · [Lonely Planet – PN El Rey](https://www.lonelyplanet.com/points-of-interest/parque-nacional-el-rey/1274486) · [Wikipedia – El Rey National Park](https://en.wikipedia.org/wiki/El_Rey_National_Park) · [Cronista – El parque nacional con nombre de rey](https://www.cronista.com/informacion-gral/el-paraiso-norteno-que-pocos-conocen-donde-queda-el-parque-nacional-con-nombre-de-rey-y-fauna-salvaje)
 
 ---
 
 ## NOR-19 · Campo de Piedra Pómez
-- **Dónde:** Catamarca · El Peñón [VERIFICAR] · Reserva provincial [VERIFICAR nombre y categoría]
-- **Bajada:** [PENDIENTE DE INVESTIGACIÓN]
-
-> **Página pendiente.** Se agotó el cupo de búsquedas web de esta sesión antes de investigar este lugar, y no hay datos previos en `guia-fuente.md`. Lo que hay que buscar: acceso desde Belén por la RN 40 y la RP 43 hasta El Peñón (asfalto y ripio), si al campo se entra solo con 4x4 y guía, origen volcánico de la piedra pómez, altura, fauna de la Puna catamarqueña, dónde pernoctar en El Peñón o Antofagasta de la Sierra, combustible y señal.
+- **Dónde:** Catamarca · El Peñón · Área natural protegida provincial Campo de Piedra Pómez
+- **Bajada:** Unos 160 km² de piedra pómez blanca tallada por el viento a 3.300 metros de altura, que muchos comparan con la superficie de la Luna.
 
 ### Cómo llegar
-[PENDIENTE]
+Se llega por El Peñón, en la Puna catamarqueña, desde Belén por la RN 40 y la RP 43 hacia Antofagasta de la Sierra; la provincia informó que la RP 43 quedó asfaltada, aunque viajeros reportan tramos deteriorados [VERIFICAR estado actual con Vialidad de Catamarca]. El campo está a ~35 km de El Peñón y se recorre con guía de la zona en 4x4: las excursiones salen del pueblo y duran ~3 horas, o ~4 h 30 si suman el volcán Carachi Pampa. Calculá dos días con la noche en El Peñón.
 
 ### Historia
-[PENDIENTE]
+Es un área natural protegida de la provincia de Catamarca, con unas 75.000 hectáreas; su marco legal se consolidó con el Decreto 1490/2012. Fue seleccionado para integrar el patrimonio geológico por su valor científico.
 
-### Paisaje y geología
-[PENDIENTE]
+### Por qué es blanco y tiene esas formas
+Todo el campo es un enorme manto de material volcánico (ignimbrita) que expulsó la caldera del Cerro Blanco, unos 2 km³ de roca porosa y liviana. Después el viento de la Puna, cargado de arena, la fue limando en filas de crestas y canales llamadas yardangs; algunas superficies se oscurecen con una pátina. Las fuentes de divulgación hablan de una formación de unos cien mil años [VERIFICAR edad con fuente geológica].
 
 ### Fauna
-[PENDIENTE]
+- **Flamencos:** se los puede ver en las lagunas de la zona, según las excursiones que salen de El Peñón. [VERIFICAR otras especies]
 
 ### En la camper
-[PENDIENTE]
+**No entres al campo con la camper:** es un camino de montaña de altura, para 4x4, con combustible de reserva, agua y nunca solo. En El Peñón no hay estación de servicio según viajeros: la siguiente está en Antofagasta de la Sierra, así que llená el tanque en Belén [VERIFICAR]. En el pueblo hay una hostería y casas que se alquilan; no encontramos camping [VERIFICAR lugar para dejar o pernoctar con la camper]. A 3.300 metros y más, cuidá el apunamiento (ver NOR-09) y llevá abrigo: las noches de la Puna son muy frías.
 
-**Fotos necesarias:** principal: formaciones blancas de piedra pómez esculpidas por el viento, con luz baja [VERIFICAR]; chicas: [PENDIENTE]
-**Fuentes:** [PENDIENTE]
+**Fotos necesarias:** principal: crestas blancas de piedra pómez en filas, con el cielo azul intenso de la Puna, a la luz baja de la tarde; chicas: detalle de la roca porosa, volcán Carachi Pampa, flamencos en una laguna de la zona, caserío de adobe de El Peñón
+**Fuentes:** [Ámbito – El tesoro oculto de Catamarca](https://www.ambito.com/lifestyle/el-tesoro-oculto-catamarca-que-parece-otro-planeta-y-es-perfecto-visitar-otono-n6266934) · [Universitat de Barcelona – Yardangs del Campo de Piedra Pómez](https://diposit.ub.edu/dspace/bitstream/2445/161217/1/563390.pdf) · [Contexto Tucumán – Patrimonio geológico](https://www.contextotucuman.com/nota/428267/un-area-natural-protegida-de-catamarca-fue-seleccionada-para-integrar-el-patrimonio-geologico.html) · [Senado de Catamarca – Proyecto 176/2021](https://sitiosenado.catamarca.gob.ar/media/legislativo/proyecto/2021/00000176C.pdf) · [Billiken – Campo de Piedra Pómez](https://billiken.lat/mi-pais/campo-de-piedra-pomez-una-joya-oculta-en-catamarca-que-se-formo-hace-millones-de-anos/) · [Cadena 3 – Campo de Piedra Pómez](https://www.cadena3.com/noticia/argentina/campo-de-piedra-pomez-una-belleza-natural-de-otro-planeta_248942) · [Cronista – Desierto a 3.000 metros](https://www.cronista.com/clase/break/es-uno-de-los-pocos-desiertos-a-3000-metros-sobre-el-nivel-del-mar-se-lo-compara-con-la-luna-y-queda-en-argentina) · [Civitatis – Excursión desde El Peñón](https://civitatis.com/en/el-penon/campo-piedra-pomez-excursion) · [El Ancasti – Ruta Belén–Antofagasta asfaltada](https://www.elancasti.com.ar/politica-y-economia/la-ruta-belen-antofagasta-la-sierra-quedo-totalmente-asfaltada-n562803/amp) · [Ruta0 – Camino a El Peñón y Campo de Piedra Pómez](https://www.ruta0.com/novedades/camino-chuquisaca-fiambala-el-penon-campo-de-piedra-pomez/) · [Ruta0 – Estado RP 43](https://www.ruta0.com/estado-de-rutas/rp-43/) · [iOverlander – Campos de Piedra Pómez](https://app.ioverlander.com/places/11953-campos-de-piedra-pomez)
 
 ---
 
