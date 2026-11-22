@@ -1,6 +1,6 @@
 # Pueblitos de Buenos Aires — Norte y Oeste
 
-Región: Pueblitos de Buenos Aires · código BSA-P (norte y oeste: BSA-P01 a BSA-P12)
+Región: Pueblitos de Buenos Aires · código BSA-P (norte y oeste: BSA-P01 a BSA-P14)
 
 Escapadas de 1 a 3 días saliendo de CABA. Los pueblos están agrupados en recorridos que se pueden hacer en un mismo fin de semana, girando en el sentido de las agujas del reloj desde el norte.
 
@@ -24,11 +24,11 @@ Escapadas de 1 a 3 días saliendo de CABA. Los pueblos están agrupados en recor
 9. BSA-P09 · Mercedes
 10. BSA-P10 · Tomás Jofré
 
-*Recorrido 5 — Rutas 47, 41 y 205: las lagunas del oeste*
+*Recorrido 5 — Rutas 47, 41 y 205: lagunas y pueblos del sudoeste, de vuelta a CABA por Cañuelas*
 11. BSA-P11 · Navarro
 12. BSA-P12 · Lobos
-
-*Pendientes (no investigados en esta etapa, ver al final): Uribelarrea y Cañuelas.*
+13. BSA-P13 · Uribelarrea
+14. BSA-P14 · Cañuelas
 
 ---
 
@@ -340,14 +340,66 @@ En la laguna, el **camping del Club de Pesca** es un predio grande a la orilla, 
 **Fotos necesarias:** principal: laguna de Lobos al atardecer con veleros o kitesurf; chicas: casa natal de Perón frente a la plaza 1810, paracaidistas en el cielo de Lobos, muelle del Club de Pesca, retrato o monumento de Juan Moreira
 **Fuentes:** https://en.wikipedia.org/wiki/Lobos · https://wikipedia.com/wiki/History_of_Lobos · https://www.canal26.com/historia/2026/05/19/por-que-lobos-se-llama-lobos-la-respuesta-esta-en-una-laguna-y-un-mapa-de-1772/ · https://www.canal26.com/historia/2026/04/01/una-escapada-para-conocer-los-origenes-de-peron-la-salida-que-une-dos-pueblos-a-2-horas-de-caba/ · https://gba.gob.ar/node/52352 · https://www.lanacion.com.ar/revista-lugares/laguna-buena-cocina-y-aire-de-campo-a-1-hora-de-la-ciudad-nid17112023/ · https://www.ambito.com/lifestyle/a-menos-2-horas-caba-el-destino-ideal-hacer-paracaidismo-pasear-kayak-o-hacer-kitesurf-n6063812 · https://www.iprofesional.com/turismo/451313-a-2-horas-de-caba-y-con-laguna-el-pueblo-ideal-para-hacer-paracaidismo-y-turismo-aventura · https://www.c5n.com/lifestyle/lobos-vibra-la-historia-y-el-llamado-la-naturaleza-n86466 · https://www.canal26.com/historia/2026/05/09/la-pulperia-bonaerense-que-nacio-en-tiempos-de-juan-manuel-de-rosas-y-aun-guarda-la-memoria-del-campo-argentino/ · https://app.ioverlander.com/places/1786-camp-laguna-lobos
 
+## BSA-P13 · Uribelarrea
+- **Dónde:** Partido de Cañuelas · ~90 km de CABA por Autopista Riccheri, Autopista Ezeiza–Cañuelas y RN 205; también en tren Cañuelas–Lobos
+- **Bajada:** Tiene menos de 2.000 habitantes y recibe unos 4.000 turistas por fin de semana, atraídos por las pastas, la cerveza y la primera escuela agrotécnica del país.
+
+### Por qué ir
+Iglesia neogótica, una escuela que vende lo que producen sus alumnos y restaurantes de campo muy conocidos, de paso entre Lobos y Cañuelas.
+
+### Historia
+Lo fundó en 1890 el estanciero Miguel Nemesio de Uribelarrea, que donó tierras para una colonia agrícola. La iglesia, de 1890 y vinculada a Pedro Benoit, honra a su esposa, Manuela Olaguer Feliú y Azcuénaga. En 1894 abrió la Escuela Agrotécnica Salesiana Don Bosco, considerada la primera del país.
+
+### Qué hacer
+- **Iglesia Nuestra Señora de Luján** — templo neogótico frente a la plaza.
+- **Escuela Agrotécnica Salesiana Don Bosco** — los alumnos elaboran productos regionales que se compran en el lugar. Av. V. de Crotto 2001. Facebook /EASDBUribe. Horario de venta: [VERIFICAR].
+- **La Uribeña** — fábrica de cerveza artesanal con restaurante de campo; mesas por orden de llegada. Av. Valeria V. de Crotto 901. Instagram @lauribenia1.
+- **Tambo de cabras Valle de Goñi** — tambo con quesos de cabra. RN 205 km 80,5. Facebook "Tambo De Cabras Valle De Goñi". Visitas: [VERIFICAR].
+
+### Fiesta
+**Fiesta Nacional de la Picada y la Cerveza** desde 2009, en el predio de la Sociedad de Fomento, en marzo [VERIFICAR mes].
+
+### Dónde comer
+- **El Palenque** — ex pulpería; tallarines de rúcula. Nuestra Señora de Luján esq. Belgrano. WhatsApp +54 9 11 3557-4935, reserva imprescindible. Miércoles a domingos y feriados, solo mediodía.
+- **Pueblo Escondido** — pastas y panes caseros de receta italiana desde 2003. Don Bosco 499. WhatsApp 11 5625-5080. Sábados de 9 a 24; domingos y feriados de 9 a 18.
+
+### En la camper
+No encontramos camping ni área de pernocte publicada en el pueblo: [VERIFICAR] con la Municipalidad de Cañuelas. La opción con servicios más cercana que relevamos es el camping del Club de Pesca de la laguna de Lobos (BSA-P12).
+
+**Fotos necesarias:** principal: iglesia neogótica Nuestra Señora de Luján desde la plaza; chicas: edificio de la Escuela Don Bosco, tallarines de rúcula de El Palenque, cerveza artesanal de La Uribeña, cabras del tambo, estación de Uribelarrea
+**Fuentes:** https://www.canal26.com/turismo/2026/04/12/uribelarrea-donde-comer-las-mejores-pastas-caseras-y-el-asado-mas-abundante-del-pueblo-con-precios-y-direcciones/ · https://www.canal26.com/turismo/2026/04/11/como-llegar-a-uribelarrea-el-pueblo-cerca-de-caba-donde-se-comen-las-mejores-pastas-y-el-mejor-asado/ · https://www.cronista.com/clase/break/escapada-cerca-de-buenos-aires-el-pueblo-con-los-restaurantes-de-campo-para-comer-hasta-explotar/ · https://www.cronista.com/informacion-gral/tiene-menos-de-2000-habitantes-pero-recibe-4000-turistas-por-fin-de-semana-el-pueblo-de-encanto-que-esta-a-solo-90-km-de-buenos-aires/ · https://www.lanacion.com.ar/revista-lugares/uribelarrea-el-palenque-la-pulperia-que-se-reconvirtio-en-restaurante-de-campo-nid31052021/ · https://www.canal26.com/turismo/2026/08/17/la-ruta-del-asado-en-canuelas-parrillas-de-ruta-precios-y-paradas-historicas-para-una-escapada-perfecta/ · https://www.c5n.com/lifestyle/uribelarrea-un-pueblo-pelicula-aire-campo-y-mucha-gastronomia-n24846 · https://www.ambito.com/lifestyle/el-pequeno-pueblo-buenos-aires-que-enamora-su-belleza-y-es-ideal-una-escapada-rapida-n6234743 · https://visite-uribelarrea-eng.blogspot.com/2008/08/uribelarrea-oasis-close-by-city.html · https://bichosdecampo.com/horacio-martinez-ensena-a-querer-al-campo-desde-su-tambo-de-cabras-de-uribelarrea/ · https://www.facebook.com/EASDBUribe/ · https://www.facebook.com/profile.php?id=275245336145775 · https://www.instagram.com/lauribenia1/ · https://www.iprofesional.com/turismo/422406-fiesta-de-picada-cerveza-artesanal-uribelarrea-argentina · https://www.cronista.com/clase/trendy/fiesta-de-la-picada-y-la-cerveza-artesanal-2025-donde-se-celebra-y-cuanto-sale-la-entrada · https://www.lacapitalmdp.com/buscan-que-la-fiesta-de-la-cerveza-y-la-picada-sea-incluida-en-el-calendario-oficial/
+
+## BSA-P14 · Cañuelas
+- **Dónde:** Partido de Cañuelas · ~55 km de CABA (~1 h) por Autopista Ezeiza–Cañuelas y RN 205; también en tren desde Constitución
+- **Bajada:** La leyenda dice que el dulce de leche nació acá por casualidad, el 24 de junio de 1829, en la estancia La Caledonia.
+
+### Por qué ir
+Es la puerta del recorrido del sudoeste y la última parada antes de volver a CABA: estancias para pasar el día, parrillas de ruta famosas y la historia de la lechería argentina. Desde acá salen Uribelarrea y Lobos por la RN 205.
+
+### Historia
+En 1889 Vicente Lorenzo Casares fundó La Martona, la primera empresa láctea del país, con una planta frente a la estación de Cañuelas; la marca, bautizada por su hija Marta, cerró en 1978. Por eso, en el centenario de la empresa, la Cámara de Diputados de la Nación declaró a Cañuelas "cuna de la industria lechera". La estancia San Martín, en Vicente Casares, perteneció al Libertador y luego a La Martona.
+
+### Qué hacer
+- **Estancia Villa María** — casco de 1927 con aire de castillo inglés; ofrece día de campo con almuerzo y merienda, y alojamiento. RN 205 km 47,5, Máximo Paz. Web estanciavillamaria.com. Tel. +54 9 11 3245-2125 [VERIFICAR, publicado por guía turística]. Con reserva.
+- **Estancia Puesto Viejo** — estancia con un gran laberinto de pinos, caballerizas, cabalgatas y día de campo. RP 6 km 83. Tel. +54 11 3221-7503 [VERIFICAR, dato de 2022] · web puestoviejo.com.
+- **Centro histórico** — iglesia Nuestra Señora del Carmen, plaza San Martín y el Museo y Archivo Histórico de Cañuelas (dirección y horario: [VERIFICAR]).
+
+### Dónde comer
+- **Lo de Beto** — parrilla de ruta con fama de carne tierna. RN 205 km 64. Contacto: [VERIFICAR].
+- **La Parrilla** — parrilla familiar desde 1998, con pastas y empanadas. RN 205 km 65,7. Contacto: [VERIFICAR].
+
+### En la camper
+Las parrillas de ruta están sobre la misma RN 205; estacionamiento para vehículo grande: [VERIFICAR]. No encontramos camping municipal ni área de pernocte publicada: [VERIFICAR] con la Municipalidad.
+
+**Fotos necesarias:** principal: casco de la Estancia Villa María con su parque; chicas: laberinto de pinos de Puesto Viejo, frasco de dulce de leche, antigua planta de La Martona frente a la estación, iglesia Nuestra Señora del Carmen, parrilla de Lo de Beto
+**Fuentes:** https://www.tiempoar.com.ar/ta_article/canuelas-un-destino-que-combina-historia-y-gastronomia-ahi-nomas-de-la-ciudad-de-buenos-aires/ · https://en.wikipedia.org/wiki/Ca%C3%B1uelas,_Buenos_Aires · https://en.wikipedia.org/wiki/La_Martona · https://www.cronista.com/apertura/empresas/fue-la-marca-de-leche-mas-popular-del-pais-pero-se-vendio-por-1-que-paso-con-la-martona · https://catalogo.comisionporlamemoria.org/wp-content/uploads/2022/12/Nosotros-y-la-Identidad_archivo_860.pdf · https://billiken.lat/historia/estancia-san-martin-conoce-la-historia-de-la-casona-que-pertenecio-al-procer-argentino-y-formo-parte-de-la-martona-la-primera-empresa-lactea-de-latinoamerica/ · https://www.canal26.com/turismo/2026/06/10/el-pueblito-ferroviario-de-buenos-aires-que-esconde-un-majestuoso-castillo-ingles-precios-reservas-y-como-llegar/ · https://www.welcomeargentina.com/buenosaires/estancia-villa-maria.html · https://billiken.lat/interesante/villa-maria-una-estancia-con-mas-de-140-anos-historia/ · https://www.iprofesional.com/turismo/465271-canuelas-la-escapada-a-1-hora-de-caba-con-un-laberinto-de-pinos · https://www.canal26.com/turismo/2026/05/18/a-una-hora-de-buenos-aires-el-laberinto-de-pinos-gigante-que-te-hace-olvidar-la-ciudad-y-esta-dentro-de-una-estancia-de-220-hectareas/ · https://www.lanacion.com.ar/salud/escapadas-seis-lugares-de-ensueno-para-visitar-y-desconectarse-nid11112022/ · https://www.canal26.com/turismo/2026/08/16/al-costado-de-la-ruta-y-como-un-refugio-patagonico-lo-del-beto-la-parrilla-de-canuelas-donde-la-carne-se-corta-con-cuchara/ · https://www.canal26.com/turismo/2026/08/17/la-ruta-del-asado-en-canuelas-parrillas-de-ruta-precios-y-paradas-historicas-para-una-escapada-perfecta/
+
 ---
 
 ## Pendientes de verificar
 
-**Pueblos que quedaron sin página** (se cortó la investigación por el límite de búsquedas web; no se escribió nada sin fuente):
-- **Uribelarrea** (Cañuelas): Escuela Agrotécnica Don Bosco, iglesia, restaurantes y pernocte. Pista de fuente para retomar: https://www.canal26.com/turismo/2026/04/12/uribelarrea-donde-comer-las-mejores-pastas-caseras-y-el-asado-mas-abundante-del-pueblo-con-precios-y-direcciones/
-- **Cañuelas**: evaluar si justifica página propia o se fusiona con Uribelarrea.
-- **Los Cardales** (Exaltación de la Cruz): se descartó como página propia; datos sueltos (vuelos en globo, fiesta La Fogata en noviembre) sin fuente vigente.
+**Pueblo descartado**
+- **Los Cardales** (Exaltación de la Cruz): sin página propia; solo aparecieron vuelos en globo y la fiesta La Fogata (noviembre) sin fuente vigente.
 
 **BSA-P01 · Capilla del Señor**
 - Dirección y horario del Museo del Periodismo Bonaerense.
@@ -425,3 +477,17 @@ En la laguna, el **camping del Club de Pesca** es un predio grande a la orilla, 
 - Dirección y horario del Museo Pago de los Lobos.
 - Si el sitio de la pulpería La Estrella es visitable.
 - Teléfono y condiciones para motorhome del camping del Club de Pesca.
+
+**BSA-P13 · Uribelarrea**
+- Horario de venta de productos de la Escuela Agrotécnica Don Bosco.
+- Visitas y contacto directo del Tambo de cabras Valle de Goñi.
+- Mes de la Fiesta Nacional de la Picada y la Cerveza (marzo según la mayoría de las fuentes; una dice octubre).
+- Camping o pernocte en el pueblo.
+
+**BSA-P14 · Cañuelas**
+- Tel. +54 9 11 3245-2125 de la Estancia Villa María (publicado por guía turística).
+- Tel. +54 11 3221-7503 de Estancia Puesto Viejo (dato de 2022).
+- Dirección y horario del Museo y Archivo Histórico de Cañuelas.
+- Contacto de Lo de Beto y de La Parrilla.
+- Estacionamiento para vehículo grande en las parrillas de ruta.
+- Camping o pernocte en el partido.
