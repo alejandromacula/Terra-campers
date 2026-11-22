@@ -567,7 +567,7 @@ Selva de montaña en laderas muy empinadas y húmedas. En las partes bajas apare
 
 **Datos marcados [VERIFICAR] en las páginas escritas (44):**
 
-- NOR-01: «con lluvias de verano el camino puede complicarse.» [VERIFICAR: apto para motorhome grande en el tramo de ripio]
+- NOR-01: «Consultá el estado del ripio con la intendencia en Concepción» [VERIFICAR: apto para motorhome grande en el tramo de ripio]
 - NOR-02: «El Camping Municipal Los Sauzales, cerca del centro, tiene espacio para vehículos grandes según viajeros» [VERIFICAR servicios y vigencia con el municipio]
 - NOR-03: «…ves: el entorno de las ruinas está registrado como Área Clave para la Biodiversidad (KBA "Ruinas de Quilmes").» [VERIFICAR: especies destacadas]
 - NOR-04: «Desde Quilmes, ~50 km al norte por la RN 40» [VERIFICAR distancia exacta]

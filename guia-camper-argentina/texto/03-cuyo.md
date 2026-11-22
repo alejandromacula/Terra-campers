@@ -120,3 +120,32 @@ Hay camping detrás del centro de informes (el estacionamiento no es zona de per
 **Fuentes:** https://www.ruta0.com/novedades/ischigualasto-un-viaje-a-la-prehistoria/ · https://www.meteored.com.ar/noticias/actualidad/un-viaje-a-otro-mundo-descubre-el-parque-prehistorico-argentino-que-parece-terreno-lunar.html · https://www.tiempodesanjuan.com/san-juan/cambian-las-tarifas-y-horarios-recorrer-ischigualasto-el-detalle-las-novedades-n426169 · https://www.ruta0.com/ruta/argentina/valle-de-la-luna-ischigualas-a-san-agustin-del-valle-fertil/ · https://ioverlander.com/places/383-parque-ischigualasto · https://en.wikipedia.org/wiki/Ischigualasto_Provincial_Park · https://en.wikipedia.org/wiki/Eoraptor · https://www.diariodecuyo.com.ar/noticias/la-historia-de-ischigualasto-la-tierra-sanjuanina-que-es-testigo-del-paso-de-las-eras-112467.html · https://exactas.unsj.edu.ar/wp-content/uploads/2024/03/2021GiannonietalBiodiversidadIchigualasto-1.pdf · https://promociones-aereas.com.ar/?p=29844 · https://diariodecuyo.com.ar/sanjuan/ischigualasto-y-una-actividad-imperdible-bajo-la-luna-llena-durante-4-dias-1702638.html · https://www.diariodecuyo.com.ar/noticias/ischigualasto-tiran-sales-para-compactar-el-camino-913961.html
 
 ---
+
+## CUY-04 · Parque Nacional Talampaya
+- **Dónde:** La Rioja · Villa Unión / Pagancillo · Parque Nacional Talampaya (Patrimonio Mundial)
+- **Bajada:** Un cañón de paredes rojas de casi 150 metros de alto, en el único lugar del mundo donde se ve completa la secuencia de rocas del Triásico.
+
+### Cómo llegar
+Está a ~70 km de Ischigualasto. La RN 76 nace en el cruce de Los Baldecitos (RN 150) y atraviesa el parque: a 28 km está el acceso a Caminos al Sol, a 45 km el de Cañón Arco Iris y Ciudad Perdida, y a 59 km el del Cañón de Talampaya. Al cañón no se entra con vehículo propio: se recorre en excursión con guías habilitados. Reservá en fines de semana largos y Semana Santa. Calculá medio día.
+
+### Historia
+Fue parque provincial desde 1975 y es Parque Nacional desde 1997 (Ley 24.846); en 2000 la UNESCO lo declaró Patrimonio Mundial junto con Ischigualasto. El nombre viene de la extinta lengua cacán y se interpreta como "río seco del tala". En la entrada del cañón hay uno de los conjuntos de arte rupestre más importantes del país: petroglifos grabados en paredones, rocas y aleros.
+
+### Paisaje y geología
+Las areniscas rojas se depositaron en el Triásico (hace entre 252 y 201 millones de años) y después una falla geológica las levantó y partió; el río, hoy casi siempre seco, abrió el cañón. La caminata del cañón pasa por la Puerta, los Petroglifos, la Falla Geológica y el Jardín Botánico.
+
+### Flora
+Ambiente de Monte. En el punto más angosto del cañón crece un "jardín botánico" natural de flora local, a la sombra de los paredones.
+
+### Fauna
+- **Cóndor andino:** anida y planea en los paredones, junto al águila mora y el halcón peregrino.
+- **Guanaco:** se ve desde la ruta y en los bajos del parque.
+- **Mara:** frecuente en el área de la base, junto con zorros y el suri o ñandú petiso.
+
+### En la camper
+El parque tiene área de acampe abierta las 24 horas con baños, duchas, asadores, merenderos y estacionamiento. Combustible: Patquía, Pagancillo y Villa Unión. Villa Unión es el pueblo con más servicios.
+
+**Fotos necesarias:** principal: los paredones rojos del Cañón de Talampaya desde el fondo del cañón, con vehículos de excursión para escala; chicas: petroglifos, Jardín Botánico del cañón, cóndor andino, mara, guanaco
+**Fuentes:** https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-talampaya/horarios-como-llegar · https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-talampaya/servicios · https://argentina.gob.ar/sites/default/files/informacion_general_pnt-_actualizada_2023-_pdf.pdf · https://www.argentina.travel/actividades/parque-nacional-talampaya · https://www.argentina.gob.ar/node/284314 · https://www.argentina.gob.ar/node/284107 · https://www.argentina.gob.ar/node/138516 · https://en.wikipedia.org/wiki/Talampaya_National_Park · https://www.lanacion.com.ar/revista-lugares/la-rioja-y-san-juan-nid16112023/ · https://www.lanacion.com.ar/sociedad/talampaya-el-parque-nacional-de-la-rioja-que-sorprende-a-los-turistas-con-su-belleza-nid2155872/ · https://www.welcomeargentina.com/villa-union/parque-nacional-talampaya.html
+
+---
