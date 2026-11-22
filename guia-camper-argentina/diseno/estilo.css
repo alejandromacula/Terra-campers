@@ -1,0 +1,118 @@
+/* Terra Campers · Guía de Ruta · página 160 × 240 mm */
+:root{
+  --bg:#f7f4ee; --ink:#1f1c18; --muted:#6b655c; --rule:#d9d3c8; --orange:#c45c1a;
+  --mx:12mm; --mr:15mm;             /* margen izquierdo / derecho (deja lugar a la pestaña) */
+  --rail:23mm;
+}
+@page{size:170mm 255mm;margin:0;}
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{background:var(--bg);}
+body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-height:11.4pt;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact;}
+.page{width:170mm;height:255mm;position:relative;overflow:hidden;background:var(--bg);page-break-after:always;}
+.page:last-child{page-break-after:auto;}
+
+/* ---------- imágenes ---------- */
+.img{background-size:cover;background-position:center;background-color:#e4ddd1;}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;
+  background:repeating-linear-gradient(135deg,#e7e0d4 0 6px,#e1d9cc 6px 12px);}
+.ph span{font-size:5.8pt;line-height:7.2pt;letter-spacing:.06em;text-transform:uppercase;color:#7b746a;}
+.ph b{font-weight:600;letter-spacing:.02em;text-transform:none;font-size:6.4pt;color:#5f594f;}
+
+/* ---------- elementos comunes ---------- */
+.kick{font-family:'Montserrat',sans-serif;font-weight:600;font-size:6.6pt;line-height:8pt;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);}
+.kick i{font-style:normal;margin:0 1.6mm;}
+.rule{width:11mm;height:1.3mm;margin:3.2mm 0 3.4mm;}
+.lab{font-family:'Montserrat',sans-serif;font-weight:700;font-size:7pt;line-height:8.6pt;letter-spacing:.14em;text-transform:uppercase;}
+.lab i{display:block;width:6.5mm;height:.9mm;margin-top:1.8mm;}
+.lab.plain{font-size:7.4pt;letter-spacing:.18em;margin-bottom:2.2mm;}
+.tab{position:absolute;right:0;width:6mm;height:30mm;display:flex;align-items:center;justify-content:center;z-index:3;}
+.tab span{writing-mode:vertical-rl;font-family:'Montserrat',sans-serif;font-weight:700;font-size:5.4pt;letter-spacing:.16em;text-transform:uppercase;color:#fff;white-space:nowrap;}
+.foot{position:absolute;left:var(--mx);right:var(--mr);bottom:7mm;display:flex;justify-content:space-between;align-items:baseline;
+  border-top:.5pt solid var(--rule);padding-top:2.6mm;font-family:'Montserrat',sans-serif;font-weight:600;font-size:6.4pt;letter-spacing:.22em;text-transform:uppercase;}
+.foot .folio i{font-style:normal;margin:0 1.4mm;}
+.foot .folio b{font-weight:800;}
+.hero-fade{position:absolute;left:0;right:0;z-index:1;pointer-events:none;
+  background:linear-gradient(180deg,rgba(247,244,238,0) 0%,rgba(247,244,238,.85) 70%,var(--bg) 100%);}
+
+/* ---------- página de lugar ---------- */
+.lugar .hero{position:absolute;top:0;left:0;width:100%;height:62mm;}
+.lugar .hero-fade{top:44mm;height:19mm;}
+.lugar .head{position:relative;z-index:2;margin:49mm var(--mr) 0 var(--mx);display:grid;grid-template-columns:1fr 54mm;column-gap:6mm;
+  padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
+.lugar h1{font-family:'Montserrat',sans-serif;font-weight:800;font-size:21pt;line-height:20pt;letter-spacing:-.01em;text-transform:uppercase;margin-top:2.4mm;}
+.dek{font-style:italic;font-size:9.4pt;line-height:12.2pt;color:var(--ink);max-width:76mm;}
+.head-r{border-left:.8pt solid;padding-left:4.5mm;align-self:start;margin-top:.6mm;}
+.datos{width:100%;border-collapse:collapse;}
+.datos th,.datos td{border-top:.4pt solid var(--rule);padding:1mm 0;vertical-align:top;}
+.datos tr:first-child th,.datos tr:first-child td{border-top:none;}
+.datos th{font-family:'Montserrat',sans-serif;font-weight:600;font-size:5.4pt;line-height:7pt;letter-spacing:.1em;text-transform:uppercase;text-align:left;padding-right:2mm;width:36%;}
+.datos td{font-size:7.2pt;line-height:8.6pt;text-align:right;}
+.iconos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:2mm;margin-top:2.2mm;padding-top:2.4mm;border-top:.4pt solid var(--rule);}
+.ic{display:flex;flex-direction:column;align-items:flex-start;gap:1.2mm;font-size:6.2pt;line-height:7.4pt;font-weight:500;}
+.ic svg{flex:none;width:5.2mm;height:5.2mm;}
+
+.mid{display:grid;grid-template-columns:1fr 47mm;column-gap:6mm;margin:4.6mm var(--mr) 0 var(--mx);padding-bottom:4.4mm;border-bottom:.5pt solid var(--rule);}
+.blk{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;}
+.blk + .blk{margin-top:3.4mm;}
+.blk p,.cl p{font-size:8.3pt;line-height:11pt;}
+.feat{position:relative;margin:0;min-height:46mm;}
+.feat .feat-img{position:absolute;inset:0;}
+.feat figcaption{position:absolute;left:0;right:0;bottom:0;padding:9mm 4mm 3.4mm;color:#fff;
+  background:linear-gradient(180deg,rgba(0,0,0,0),rgba(0,0,0,.6));}
+.feat figcaption i{display:block;width:6mm;height:.9mm;margin-bottom:2mm;}
+.feat figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:7.4pt;letter-spacing:.16em;text-transform:uppercase;}
+.feat figcaption span{display:block;font-size:6.6pt;letter-spacing:.06em;text-transform:uppercase;margin-top:.6mm;opacity:.92;}
+.feat .ph + figcaption{background:none;color:var(--ink);}
+
+.fila{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;margin:4.4mm var(--mr) 0 var(--mx);padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
+.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:3.4mm;}
+.fila.n2 .cards{grid-template-columns:repeat(2,minmax(0,1fr));}
+.fila.n2 .card .thumb{aspect-ratio:2.6/1;}
+.card{margin:0;}
+.card .thumb{width:100%;aspect-ratio:16/9;}
+.card figcaption{padding-top:2mm;}
+.card figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.6pt;letter-spacing:.14em;text-transform:uppercase;margin-bottom:.8mm;}
+.card figcaption span{display:block;font-size:7.4pt;line-height:9.6pt;}
+
+.cierre{display:grid;grid-template-columns:1fr 1fr;column-gap:0;margin:4.2mm var(--mr) 0 var(--mx);}
+.cl{padding-right:5mm;}
+.cl + .cl{padding:0 0 0 5mm;border-left:.6pt solid var(--orange);}
+.cl .lab{margin-bottom:2.2mm;}
+.cl .lab i{margin-top:1.4mm;}
+
+/* ---------- portada ---------- */
+.portada .hero-full{position:absolute;inset:0;}
+.portada-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,0) 45%,rgba(0,0,0,.72) 100%);}
+.portada-top{position:absolute;top:12mm;left:12mm;}
+.logo{font-family:'Montserrat',sans-serif;font-weight:600;font-size:9pt;line-height:11pt;letter-spacing:.32em;text-transform:uppercase;color:#fff;}
+.portada-text{position:absolute;left:12mm;right:14mm;bottom:16mm;color:#fff;}
+.portada h1{font-family:'Montserrat',sans-serif;font-weight:800;font-size:40pt;line-height:37pt;letter-spacing:-.015em;text-transform:uppercase;margin-top:2mm;}
+.portada .sub{font-style:italic;font-size:15pt;line-height:18pt;margin-top:2.4mm;}
+.portada .linea{font-size:8.6pt;line-height:11.4pt;max-width:110mm;opacity:.95;}
+
+/* ---------- interior / cómo usar ---------- */
+.interior{padding:20mm var(--mr) 0 var(--mx);}
+.big{font-family:'Montserrat',sans-serif;font-weight:800;font-size:28pt;line-height:26pt;letter-spacing:-.012em;text-transform:uppercase;margin-top:2.4mm;}
+.lead{font-size:9.6pt;line-height:13pt;max-width:120mm;}
+.cols2{display:grid;grid-template-columns:1fr 1fr;column-gap:9mm;margin-top:9mm;padding-top:5mm;border-top:.5pt solid var(--rule);}
+.cols2 .lab{margin-bottom:3mm;}
+.swatches{list-style:none;}
+.swatches li{display:grid;grid-template-columns:7mm 1fr auto;align-items:center;column-gap:3mm;padding:1.7mm 0;border-top:.4pt solid var(--rule);font-size:8.4pt;}
+.swatches li:first-child{border-top:none;}
+.sw{width:7mm;height:7mm;display:block;}
+.cod{font-family:'Montserrat',sans-serif;font-weight:600;font-size:6pt;letter-spacing:.12em;color:var(--muted);}
+.legend{list-style:none;}
+.legend li{display:flex;align-items:center;gap:3mm;padding:1.4mm 0;font-size:8pt;line-height:10pt;}
+.legend svg{flex:none;width:6mm;height:6mm;}
+.note,.small{font-size:7.6pt;line-height:10pt;margin-top:2.4mm;color:var(--ink);}
+.credit-ia{position:absolute;left:var(--mx);right:var(--mr);bottom:19mm;font-size:6.6pt;line-height:8.6pt;color:var(--muted);}
+
+/* ---------- apertura de región ---------- */
+.apertura .hero-open{position:absolute;top:0;left:0;width:100%;height:112mm;}
+.apertura .hero-fade{top:88mm;height:25mm;}
+.ap-body{position:relative;z-index:2;margin:96mm var(--mr) 0 var(--mx);}
+.apertura .big{font-size:32pt;line-height:30pt;}
+.indice{list-style:none;columns:2;column-gap:8mm;margin-top:6mm;padding-top:4mm;border-top:.5pt solid var(--rule);}
+.indice li{break-inside:avoid;display:grid;grid-template-columns:13mm 1fr;font-size:8.2pt;line-height:10.4pt;padding:1mm 0;}
+.indice li span{font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.4pt;letter-spacing:.1em;}

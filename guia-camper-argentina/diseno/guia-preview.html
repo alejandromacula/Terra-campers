@@ -1,0 +1,245 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Guía de Ruta Terra Campers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Inter:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>/* Terra Campers · Guía de Ruta · página 160 × 240 mm */
+:root{
+  --bg:#f7f4ee; --ink:#1f1c18; --muted:#6b655c; --rule:#d9d3c8; --orange:#c45c1a;
+  --mx:12mm; --mr:15mm;             /* margen izquierdo / derecho (deja lugar a la pestaña) */
+  --rail:23mm;
+}
+@page{size:170mm 255mm;margin:0;}
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{background:var(--bg);}
+body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-height:11.4pt;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact;}
+.page{width:170mm;height:255mm;position:relative;overflow:hidden;background:var(--bg);page-break-after:always;}
+.page:last-child{page-break-after:auto;}
+
+/* ---------- imágenes ---------- */
+.img{background-size:cover;background-position:center;background-color:#e4ddd1;}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;
+  background:repeating-linear-gradient(135deg,#e7e0d4 0 6px,#e1d9cc 6px 12px);}
+.ph span{font-size:5.8pt;line-height:7.2pt;letter-spacing:.06em;text-transform:uppercase;color:#7b746a;}
+.ph b{font-weight:600;letter-spacing:.02em;text-transform:none;font-size:6.4pt;color:#5f594f;}
+
+/* ---------- elementos comunes ---------- */
+.kick{font-family:'Montserrat',sans-serif;font-weight:600;font-size:6.6pt;line-height:8pt;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);}
+.kick i{font-style:normal;margin:0 1.6mm;}
+.rule{width:11mm;height:1.3mm;margin:3.2mm 0 3.4mm;}
+.lab{font-family:'Montserrat',sans-serif;font-weight:700;font-size:7pt;line-height:8.6pt;letter-spacing:.14em;text-transform:uppercase;}
+.lab i{display:block;width:6.5mm;height:.9mm;margin-top:1.8mm;}
+.lab.plain{font-size:7.4pt;letter-spacing:.18em;margin-bottom:2.2mm;}
+.tab{position:absolute;right:0;width:6mm;height:30mm;display:flex;align-items:center;justify-content:center;z-index:3;}
+.tab span{writing-mode:vertical-rl;font-family:'Montserrat',sans-serif;font-weight:700;font-size:5.4pt;letter-spacing:.16em;text-transform:uppercase;color:#fff;white-space:nowrap;}
+.foot{position:absolute;left:var(--mx);right:var(--mr);bottom:7mm;display:flex;justify-content:space-between;align-items:baseline;
+  border-top:.5pt solid var(--rule);padding-top:2.6mm;font-family:'Montserrat',sans-serif;font-weight:600;font-size:6.4pt;letter-spacing:.22em;text-transform:uppercase;}
+.foot .folio i{font-style:normal;margin:0 1.4mm;}
+.foot .folio b{font-weight:800;}
+.hero-fade{position:absolute;left:0;right:0;z-index:1;pointer-events:none;
+  background:linear-gradient(180deg,rgba(247,244,238,0) 0%,rgba(247,244,238,.85) 70%,var(--bg) 100%);}
+
+/* ---------- página de lugar ---------- */
+.lugar .hero{position:absolute;top:0;left:0;width:100%;height:62mm;}
+.lugar .hero-fade{top:44mm;height:19mm;}
+.lugar .head{position:relative;z-index:2;margin:49mm var(--mr) 0 var(--mx);display:grid;grid-template-columns:1fr 54mm;column-gap:6mm;
+  padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
+.lugar h1{font-family:'Montserrat',sans-serif;font-weight:800;font-size:21pt;line-height:20pt;letter-spacing:-.01em;text-transform:uppercase;margin-top:2.4mm;}
+.dek{font-style:italic;font-size:9.4pt;line-height:12.2pt;color:var(--ink);max-width:76mm;}
+.head-r{border-left:.8pt solid;padding-left:4.5mm;align-self:start;margin-top:.6mm;}
+.datos{width:100%;border-collapse:collapse;}
+.datos th,.datos td{border-top:.4pt solid var(--rule);padding:1mm 0;vertical-align:top;}
+.datos tr:first-child th,.datos tr:first-child td{border-top:none;}
+.datos th{font-family:'Montserrat',sans-serif;font-weight:600;font-size:5.4pt;line-height:7pt;letter-spacing:.1em;text-transform:uppercase;text-align:left;padding-right:2mm;width:36%;}
+.datos td{font-size:7.2pt;line-height:8.6pt;text-align:right;}
+.iconos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:2mm;margin-top:2.2mm;padding-top:2.4mm;border-top:.4pt solid var(--rule);}
+.ic{display:flex;flex-direction:column;align-items:flex-start;gap:1.2mm;font-size:6.2pt;line-height:7.4pt;font-weight:500;}
+.ic svg{flex:none;width:5.2mm;height:5.2mm;}
+
+.mid{display:grid;grid-template-columns:1fr 47mm;column-gap:6mm;margin:4.6mm var(--mr) 0 var(--mx);padding-bottom:4.4mm;border-bottom:.5pt solid var(--rule);}
+.blk{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;}
+.blk + .blk{margin-top:3.4mm;}
+.blk p,.cl p{font-size:8.3pt;line-height:11pt;}
+.feat{position:relative;margin:0;min-height:46mm;}
+.feat .feat-img{position:absolute;inset:0;}
+.feat figcaption{position:absolute;left:0;right:0;bottom:0;padding:9mm 4mm 3.4mm;color:#fff;
+  background:linear-gradient(180deg,rgba(0,0,0,0),rgba(0,0,0,.6));}
+.feat figcaption i{display:block;width:6mm;height:.9mm;margin-bottom:2mm;}
+.feat figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:7.4pt;letter-spacing:.16em;text-transform:uppercase;}
+.feat figcaption span{display:block;font-size:6.6pt;letter-spacing:.06em;text-transform:uppercase;margin-top:.6mm;opacity:.92;}
+.feat .ph + figcaption{background:none;color:var(--ink);}
+
+.fila{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;margin:4.4mm var(--mr) 0 var(--mx);padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
+.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:3.4mm;}
+.fila.n2 .cards{grid-template-columns:repeat(2,minmax(0,1fr));}
+.fila.n2 .card .thumb{aspect-ratio:2.6/1;}
+.card{margin:0;}
+.card .thumb{width:100%;aspect-ratio:16/9;}
+.card figcaption{padding-top:2mm;}
+.card figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.6pt;letter-spacing:.14em;text-transform:uppercase;margin-bottom:.8mm;}
+.card figcaption span{display:block;font-size:7.4pt;line-height:9.6pt;}
+
+.cierre{display:grid;grid-template-columns:1fr 1fr;column-gap:0;margin:4.2mm var(--mr) 0 var(--mx);}
+.cl{padding-right:5mm;}
+.cl + .cl{padding:0 0 0 5mm;border-left:.6pt solid var(--orange);}
+.cl .lab{margin-bottom:2.2mm;}
+.cl .lab i{margin-top:1.4mm;}
+
+/* ---------- portada ---------- */
+.portada .hero-full{position:absolute;inset:0;}
+.portada-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,0) 45%,rgba(0,0,0,.72) 100%);}
+.portada-top{position:absolute;top:12mm;left:12mm;}
+.logo{font-family:'Montserrat',sans-serif;font-weight:600;font-size:9pt;line-height:11pt;letter-spacing:.32em;text-transform:uppercase;color:#fff;}
+.portada-text{position:absolute;left:12mm;right:14mm;bottom:16mm;color:#fff;}
+.portada h1{font-family:'Montserrat',sans-serif;font-weight:800;font-size:40pt;line-height:37pt;letter-spacing:-.015em;text-transform:uppercase;margin-top:2mm;}
+.portada .sub{font-style:italic;font-size:15pt;line-height:18pt;margin-top:2.4mm;}
+.portada .linea{font-size:8.6pt;line-height:11.4pt;max-width:110mm;opacity:.95;}
+
+/* ---------- interior / cómo usar ---------- */
+.interior{padding:20mm var(--mr) 0 var(--mx);}
+.big{font-family:'Montserrat',sans-serif;font-weight:800;font-size:28pt;line-height:26pt;letter-spacing:-.012em;text-transform:uppercase;margin-top:2.4mm;}
+.lead{font-size:9.6pt;line-height:13pt;max-width:120mm;}
+.cols2{display:grid;grid-template-columns:1fr 1fr;column-gap:9mm;margin-top:9mm;padding-top:5mm;border-top:.5pt solid var(--rule);}
+.cols2 .lab{margin-bottom:3mm;}
+.swatches{list-style:none;}
+.swatches li{display:grid;grid-template-columns:7mm 1fr auto;align-items:center;column-gap:3mm;padding:1.7mm 0;border-top:.4pt solid var(--rule);font-size:8.4pt;}
+.swatches li:first-child{border-top:none;}
+.sw{width:7mm;height:7mm;display:block;}
+.cod{font-family:'Montserrat',sans-serif;font-weight:600;font-size:6pt;letter-spacing:.12em;color:var(--muted);}
+.legend{list-style:none;}
+.legend li{display:flex;align-items:center;gap:3mm;padding:1.4mm 0;font-size:8pt;line-height:10pt;}
+.legend svg{flex:none;width:6mm;height:6mm;}
+.note,.small{font-size:7.6pt;line-height:10pt;margin-top:2.4mm;color:var(--ink);}
+.credit-ia{position:absolute;left:var(--mx);right:var(--mr);bottom:19mm;font-size:6.6pt;line-height:8.6pt;color:var(--muted);}
+
+/* ---------- apertura de región ---------- */
+.apertura .hero-open{position:absolute;top:0;left:0;width:100%;height:112mm;}
+.apertura .hero-fade{top:88mm;height:25mm;}
+.ap-body{position:relative;z-index:2;margin:96mm var(--mr) 0 var(--mx);}
+.apertura .big{font-size:32pt;line-height:30pt;}
+.indice{list-style:none;columns:2;column-gap:8mm;margin-top:6mm;padding-top:4mm;border-top:.5pt solid var(--rule);}
+.indice li{break-inside:avoid;display:grid;grid-template-columns:13mm 1fr;font-size:8.2pt;line-height:10.4pt;padding:1mm 0;}
+.indice li span{font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.4pt;letter-spacing:.1em;}
+</style></head><body><section class="page portada">
+  <div class="img ph hero-full"><span>Imagen<br><b>portada</b></span></div>
+  <div class="portada-shade"></div>
+  <div class="portada-top"><span class="logo">Terra<br>Campers</span></div>
+  <div class="portada-text">
+    <h1>Guía de Ruta</h1>
+    <p class="sub">Argentina en camper</p>
+    <div class="rule" style="background:#c45c1a"></div>
+    <p class="linea">154 lugares · 8 regiones · campings, historia, naturaleza y todo lo que necesitás para dormir con la camper</p>
+  </div>
+</section><section class="page interior como">
+  <p class="kick" style="color:#c45c1a">Antes de salir</p>
+  <h2 class="big">Cómo usar<br>esta guía</h2>
+  <div class="rule" style="background:#c45c1a"></div>
+  <p class="lead">Cada página es un lugar. Las regiones tienen un color y una pestaña en el borde del libro: con la guía cerrada, buscás el color y abrís directo en esa parte del país. Los números siguen un recorrido lógico en camper, así que los lugares consecutivos arman un viaje.</p>
+  <div class="cols2">
+    <div>
+      <h3 class="lab">Regiones</h3>
+      <ul class="swatches"><li><span class="sw" style="background:#a8441f"></span><b>Norte argentino</b><span class="cod">NOR</span></li><li><span class="sw" style="background:#2e6b45"></span><b>Litoral</b><span class="cod">LIT</span></li><li><span class="sw" style="background:#7a2340"></span><b>Cuyo</b><span class="cod">CUY</span></li><li><span class="sw" style="background:#8a5d12"></span><b>Córdoba</b><span class="cod">COR</span></li><li><span class="sw" style="background:#1f6670"></span><b>Patagonia Andina</b><span class="cod">AND</span></li><li><span class="sw" style="background:#2a5591"></span><b>Patagonia Austral</b><span class="cod">AUS</span></li><li><span class="sw" style="background:#4f6b22"></span><b>Buenos Aires</b><span class="cod">BSA</span></li><li><span class="sw" style="background:#5b4a8a"></span><b>Pueblitos de Buenos Aires</b><span class="cod">BSA-P</span></li></ul>
+    </div>
+    <div>
+      <h3 class="lab">Íconos</h3>
+      <ul class="legend"><li><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#a8441f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="15" height="9" rx="1.5"/><path d="M17 10h3l2 3v3h-5"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="18" cy="17.5" r="1.8"/></svg><span><b>Pernocte</b> dónde se puede dormir con la camper</span></li><li><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="10" height="16" rx="1.5"/><path d="M4 10h10"/><path d="M14 8l4 3v7a1.5 1.5 0 0 0 3 0v-8l-3-3"/></svg><span><b>Combustible</b> última carga antes del lugar</span></li><li><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21 10 3"/><path d="M16 21 14 3"/><path d="M12 6v2M12 11v2M12 16v2"/></svg><span><b>Camino</b> asfalto, ripio, curvas, cortes</span></li><li><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 20 9 8l4 6 3-4 6 10z"/><path d="M7.5 10.5 9 8l1.5 2.3"/></svg><span><b>Altura</b> metros sobre el nivel del mar</span></li></ul>
+      <p class="note">Color de la región: todo bien. <span style="color:#c45c1a">Naranja</span>: prestá atención. Tachado: no se puede.</p>
+      <h3 class="lab" style="margin-top:7mm">En cada página</h3>
+      <p class="small">Datos para el viaje, historia, paisaje, flora y fauna, y al final lo que tenés que saber para llegar y dormir con la camper. Los consejos (fotografía, cielo, dónde comer) aparecen solo donde hay algo realmente propio del lugar.</p>
+    </div>
+  </div>
+  <p class="credit-ia">Imágenes ilustrativas generadas con inteligencia artificial. Datos relevados en 2026: confirmá horarios y estado de caminos antes de viajar.</p>
+  <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Guía de ruta</span></footer>
+</section><section class="page apertura">
+  <div class="img ph hero-open"><span>Imagen<br><b>NOR-apertura</b></span></div>
+  <div class="hero-fade"></div>
+  <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
+  <div class="ap-body">
+    <p class="kick" style="color:#a8441f">Tucumán · Salta · Jujuy · Catamarca</p>
+    <h2 class="big">Norte argentino</h2>
+    <div class="rule" style="background:#a8441f"></div>
+    <p class="lead">Se sube desde Buenos Aires por Tucumán, se cruza a los Valles Calchaquíes, se sigue a Salta, la Puna y la Quebrada de Humahuaca, se baja a las yungas de Jujuy y Salta, y se vuelve hacia el sur por la Ruta 40 catamarqueña.</p>
+    <ol class="indice"><li><span style="color:#a8441f">NOR 01</span>Parque Nacional Aconquija</li><li><span style="color:#a8441f">NOR 02</span>Tafí del Valle y los menhires</li><li><span style="color:#a8441f">NOR 03</span>Ciudad Sagrada de los Quilmes</li><li><span style="color:#a8441f">NOR 04</span>Cafayate y los vinos de altura</li><li><span style="color:#a8441f">NOR 05</span>Quebrada de las Conchas</li><li><span style="color:#a8441f">NOR 06</span>Salta</li><li><span style="color:#a8441f">NOR 07</span>Cuesta del Obispo y Los Cardones</li><li><span style="color:#a8441f">NOR 08</span>Cachi</li><li><span style="color:#a8441f">NOR 09</span>San Antonio de los Cobres y La Polvorilla</li><li><span style="color:#a8441f">NOR 10</span>Salinas Grandes</li><li><span style="color:#a8441f">NOR 11</span>Purmamarca</li><li><span style="color:#a8441f">NOR 12</span>Tilcara y el Pucará</li><li><span style="color:#a8441f">NOR 13</span>Humahuaca y el Hornocal</li><li><span style="color:#a8441f">NOR 14</span>Iruya</li><li><span style="color:#a8441f">NOR 15</span>Laguna de los Pozuelos</li><li><span style="color:#a8441f">NOR 16</span>Parque Nacional Calilegua</li><li><span style="color:#a8441f">NOR 17</span>Parque Nacional Baritú</li><li><span style="color:#a8441f">NOR 18</span>Parque Nacional El Rey</li><li><span style="color:#a8441f">NOR 19</span>Campo de Piedra Pómez</li><li><span style="color:#a8441f">NOR 20</span>Fiambalá y la Ruta de los Seismiles</li></ol>
+  </div>
+  <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino</span></footer>
+</section><section class="page lugar">
+  <div class="img ph hero"><span>Imagen<br><b>NOR-01-principal</b></span></div>
+  <div class="hero-fade"></div>
+  <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
+  <header class="head">
+    <div class="head-l">
+      <p class="kick"><b style="color:#a8441f">NOR 01</b> <i style="color:#a8441f">/</i> Concepción · Tucumán</p>
+      <h1>Parque Nacional Aconquija</h1>
+      <div class="rule" style="background:#a8441f"></div>
+      <p class="dek">Selva de montaña y cumbres de más de 4.000 metros, donde vive más de la mitad de las aves de Tucumán.</p>
+    </div>
+    <aside class="head-r" style="border-color:#a8441f">
+      <h3 class="lab plain">Datos para el viaje</h3>
+      <table class="datos"><tr><th>Acceso</th><td>RN 38 y RN 65 desde Concepción</td></tr><tr><th>Camino</th><td>Asfalto y luego ripio</td></tr><tr><th>Entrada</th><td>Gratuita, antes de las 19 h</td></tr><tr><th>Tiempo de visita</th><td>Medio día</td></tr></table>
+      <div class="iconos"><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#a8441f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="15" height="9" rx="1.5"/><path d="M17 10h3l2 3v3h-5"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="18" cy="17.5" r="1.8"/></svg><span>Camping en el portal</span></div><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="10" height="16" rx="1.5"/><path d="M4 10h10"/><path d="M14 8l4 3v7a1.5 1.5 0 0 0 3 0v-8l-3-3"/></svg><span>Cargá en Concepción</span></div><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21 10 3"/><path d="M16 21 14 3"/><path d="M12 6v2M12 11v2M12 16v2"/></svg><span>Último tramo de ripio</span></div></div>
+    </aside>
+  </header>
+  <div class="mid">
+    <div class="mid-text"><div class="blk"><h3 class="lab">Historia<i style="background:#a8441f"></i></h3><p>Nació en 1995 como Campo de los Alisos y en 2018 se amplió como Parque Nacional Aconquija. Arriba, a más de 4.000 m, está La Ciudacita, un sitio inca del Qhapaq Ñan, Patrimonio Mundial.</p></div><div class="blk"><h3 class="lab">Selva y altura<i style="background:#a8441f"></i></h3><p>Protege yungas y altos Andes en la ladera oriental del Aconquija. El nombre viene de los bosques de aliso del cerro; más abajo crecen el pino del cerro y el nogal criollo.</p></div><div class="blk"><h3 class="lab">Senderos<i style="background:#a8441f"></i></h3><p>Junto al centro operativo Santa Rosa sale un circuito fácil de unos 800 m (~40 min). A La Ciudacita, solo con guía y avisando al parque con días de anticipación.</p></div></div>
+    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-01-ciudacita</b></span></div><figcaption><i style="background:#a8441f"></i><b>La Ciudacita</b><span>Sitio inca a más de 4.000 m</span></figcaption></figure>
+  </div>
+  <div class="fila n3">
+    <h3 class="lab">Flora y fauna<i style="background:#a8441f"></i></h3>
+    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-taruca</b></span></div><figcaption><b>Taruca</b><span>Ciervo andino en peligro. Verlo exige caminar alto.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-aliso</b></span></div><figcaption><b>Aliso del cerro</b><span>Le daba nombre al viejo parque. Bosques en las laderas medias.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-amancay</b></span></div><figcaption><b>Amancay</b><span>Flor del bosque bajo, cerca de los 1.400 m.</span></figcaption></figure></div>
+  </div>
+  <div class="cierre"><div class="cl"><h3 class="lab">Para pajarear<i style="background:#a8441f"></i></h3><p>Unas 260 especies registradas: el sendero corto del portal ya da buenas chances. Llevá binoculares.</p></div><div class="cl"><h3 class="lab">En la camper<i style="background:#a8441f"></i></h3><p>El portal tiene camping con baños y parrillas. Salí de Concepción con tanque lleno y agua, y consultá el ripio en aconquija@apn.gob.ar.</p></div></div>
+  <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino <i style="color:#a8441f">/</i> <b>01</b></span></footer>
+</section><section class="page lugar">
+  <div class="img ph hero"><span>Imagen<br><b>NOR-02-principal</b></span></div>
+  <div class="hero-fade"></div>
+  <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
+  <header class="head">
+    <div class="head-l">
+      <p class="kick"><b style="color:#a8441f">NOR 02</b> <i style="color:#a8441f">/</i> El Mollar · Tafí del Valle · Tucumán</p>
+      <h1>Tafí del Valle y los menhires</h1>
+      <div class="rule" style="background:#a8441f"></div>
+      <p class="dek">Piedras talladas hace más de 2.000 años, en un valle a 2.000 metros al que se sube atravesando la selva.</p>
+    </div>
+    <aside class="head-r" style="border-color:#a8441f">
+      <h3 class="lab plain">Datos para el viaje</h3>
+      <table class="datos"><tr><th>Desde S. M. de Tucumán</th><td>~110–120 km · ~2 h</td></tr><tr><th>Camino</th><td>Asfalto de cornisa (RP 307)</td></tr><tr><th>Altura</th><td>~2.000 msnm</td></tr><tr><th>Tiempo de visita</th><td>1 h menhires · 1 día el valle</td></tr></table>
+      <div class="iconos"><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#a8441f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="15" height="9" rx="1.5"/><path d="M17 10h3l2 3v3h-5"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="18" cy="17.5" r="1.8"/></svg><span>Camping municipal</span></div><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21 10 3"/><path d="M16 21 14 3"/><path d="M12 6v2M12 11v2M12 16v2"/></svg><span>Curvas; hielo en invierno</span></div><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 20 9 8l4 6 3-4 6 10z"/><path d="M7.5 10.5 9 8l1.5 2.3"/></svg><span>2.000 a 3.042 m</span></div></div>
+    </aside>
+  </header>
+  <div class="mid">
+    <div class="mid-text"><div class="blk"><h3 class="lab">Historia<i style="background:#a8441f"></i></h3><p>Son monolitos de la cultura Tafí, que habitó el valle entre el 800 a.C. y el 800 d.C. En 1977, durante la dictadura, los arrancaron de sus sitios y los juntaron frente al dique La Angostura.</p></div><div class="blk"><h3 class="lab">La subida<i style="background:#a8441f"></i></h3><p>La RP 307 trepa por la Quebrada de Los Sosa, reserva de selva nublada con helechos y orquídeas. Arriba se abre el valle, de prados y bosquecillos de montaña.</p></div><div class="blk"><h3 class="lab">El nombre<i style="background:#a8441f"></i></h3><p>&quot;Menhir&quot; se los pusieron los investigadores del siglo XIX, por su parecido con los monolitos celtas. Sus creadores los llamaban huancas.</p></div></div>
+    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-02-menhir</b></span></div><figcaption><i style="background:#a8441f"></i><b>Menhir</b><span>Cultura Tafí, 800 a.C.–800 d.C.</span></figcaption></figure>
+  </div>
+  <div class="fila n3">
+    <h3 class="lab">En el camino<i style="background:#a8441f"></i></h3>
+    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-los-sosa</b></span></div><figcaption><b>Selva de Los Sosa</b><span>Selva nublada entre los km 20 y 38 de la RP 307.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-condor</b></span></div><figcaption><b>Cóndor andino</b><span>Hubo liberaciones en Tafí: buscalo sobre los cerros.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-infiernillo</b></span></div><figcaption><b>Abra del Infiernillo</b><span>3.042 m: el punto más alto de las rutas tucumanas.</span></figcaption></figure></div>
+  </div>
+  <div class="cierre"><div class="cl"><h3 class="lab">Si tenés un día más<i style="background:#a8441f"></i></h3><p>Seguí 22 km hasta el Abra del Infiernillo y bajá a Amaicha: es la puerta a Quilmes, la página siguiente.</p></div><div class="cl"><h3 class="lab">En la camper<i style="background:#a8441f"></i></h3><p>RP 307 de curvas: sin apuro. En invierno se corta por hielo en El Infiernillo. Para dormir, el Camping Municipal Los Sauzales.</p></div></div>
+  <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino <i style="color:#a8441f">/</i> <b>02</b></span></footer>
+</section><section class="page lugar">
+  <div class="img ph hero"><span>Imagen<br><b>NOR-03-principal</b></span></div>
+  <div class="hero-fade"></div>
+  <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
+  <header class="head">
+    <div class="head-l">
+      <p class="kick"><b style="color:#a8441f">NOR 03</b> <i style="color:#a8441f">/</i> Amaicha del Valle · Tucumán</p>
+      <h1>Ciudad Sagrada de los Quilmes</h1>
+      <div class="rule" style="background:#a8441f"></div>
+      <p class="dek">El pueblo que levantó esta ciudad de piedra resistió a los españoles durante unos 130 años.</p>
+    </div>
+    <aside class="head-r" style="border-color:#a8441f">
+      <h3 class="lab plain">Datos para el viaje</h3>
+      <table class="datos"><tr><th>Desde Amaicha</th><td>~17 km</td></tr><tr><th>Camino</th><td>RN 40 y ~5 km de ripio</td></tr><tr><th>Horario</th><td>Todos los días, 8–18 h</td></tr><tr><th>Tiempo de visita</th><td>2 a 3 h</td></tr></table>
+      <div class="iconos"><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#8a847a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="15" height="9" rx="1.5"/><path d="M17 10h3l2 3v3h-5"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="18" cy="17.5" r="1.8"/><path d="M3 3 21 21" stroke-width="2"/></svg><span>No en el sitio</span></div><div class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#c45c1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21 10 3"/><path d="M16 21 14 3"/><path d="M12 6v2M12 11v2M12 16v2"/></svg><span>Ripio en mal estado</span></div></div>
+    </aside>
+  </header>
+  <div class="mid">
+    <div class="mid-text"><div class="blk"><h3 class="lab">Historia<i style="background:#a8441f"></i></h3><p>Los quilmes, un pueblo diaguita-calchaquí, levantaron la ciudad en la Sierra del Cajón. Tras la derrota de 1665, cerca de mil personas fueron desterradas a pie hasta Buenos Aires: ahí nació la actual ciudad de Quilmes.</p></div><div class="blk"><h3 class="lab">Hoy<i style="background:#a8441f"></i></h3><p>El sitio se gestiona junto con la Comunidad India Quilmes, descendiente de aquel pueblo.</p></div><div class="blk"><h3 class="lab">Paisaje<i style="background:#a8441f"></i></h3><p>Desde los miradores se ven las terrazas de piedra, la ladera cubierta de cardones y el fondo seco del Valle Calchaquí.</p></div></div>
+    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-03-pirca</b></span></div><figcaption><i style="background:#a8441f"></i><b>Muros de pirca</b><span>Piedra sin argamasa, a 1.850 msnm</span></figcaption></figure>
+  </div>
+  <div class="fila n2">
+    <h3 class="lab">Para ver<i style="background:#a8441f"></i></h3>
+    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-03-cardon</b></span></div><figcaption><b>Cardón</b><span>El cactus columnar que marca los Valles Calchaquíes.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-03-centro</b></span></div><figcaption><b>Centro de Interpretación</b><span>Empezá por acá: sin contexto, las ruinas son piedras.</span></figcaption></figure></div>
+  </div>
+  <div class="cierre"><div class="cl"><h3 class="lab">Antes de ir<i style="background:#a8441f"></i></h3><p>Empezá por la visita guiada del Centro de Interpretación. Llevá agua, sombrero y protector para los miradores.</p></div><div class="cl"><h3 class="lab">En la camper<i style="background:#a8441f"></i></h3><p>No hay camping en el sitio: dormí en Amaicha del Valle o seguí a Cafayate. El ripio de acceso está en mal estado.</p></div></div>
+  <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino <i style="color:#a8441f">/</i> <b>03</b></span></footer>
+</section></body></html>
