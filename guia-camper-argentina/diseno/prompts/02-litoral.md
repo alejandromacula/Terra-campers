@@ -149,3 +149,80 @@ Photorealistic editorial travel photograph of a wooden boardwalk trail winding t
 ### `LIT-08-cuna-piru`
 **Formato:** horizontal 3:2 (se recorta a muy horizontal ~2,6:1, fila de 2)
 Photorealistic editorial travel photograph of the Cuñá Pirú creek in Misiones, Argentina: clear amber water running over flat dark basalt slabs and small cascades in a valley of dense subtropical forest, ferns and overhanging branches along the banks. Soft morning light, gentle mist. Wide shot at water level, creek leading through the central band. Natural greens and amber water. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-09-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a tall yatay palm grove (Butia yatay) at the edge of the Santa Lucía marsh in Mburucuyá National Park, Corrientes, Argentina: scattered slender palms with round crowns of arching blue-green fronds standing in golden grassland, a wide shallow marsh of reeds and still water beyond, a low line of dark forest on the horizon. Warm early-morning light, thin mist over the water. Wide-angle panoramic view, palms and marsh in the central horizontal band. Warm natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-09-aguara-guazu`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a maned wolf (aguará guazú, Chrysocyon brachyurus) standing in tall golden grassland in Corrientes, Argentina: fox-like face on a tall slim body with extremely long thin black legs, reddish-orange coat, black mane on the nape and shoulders, large upright ears, white throat and white tail tip — not a red fox, much taller legs. Warm low dusk light. Vertical composition, telephoto lens, animal in sharp focus, grass softly blurred. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-09-yacare-overo`
+**Formato:** horizontal 3:2 (se recorta a muy horizontal ~2,6:1, fila de 2)
+Photorealistic wildlife photograph of a broad-snouted caiman (yacaré overo, Caiman latirostris) basking on a grassy bank of a marsh lagoon in Corrientes, Argentina: very broad, short, rounded snout, olive-green to pale greyish armored body with darker mottling, heavy bony scutes on the back. Calm water and floating plants nearby, soft morning light. Telephoto lens at ground level, animal stretched across the central band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-09-lobito-rio`
+**Formato:** horizontal 3:2 (se recorta a muy horizontal ~2,6:1, fila de 2)
+Photorealistic wildlife photograph of a Neotropical otter (lobito de río, Lontra longicaudis) on a log at the edge of a quiet stream in Corrientes, Argentina: sleek dark-brown fur, paler silvery throat and chest, flat head with small ears, long thick tapering tail, wet whiskers — not a giant otter, no cream throat blotches. Soft early light, dark water with reflections. Telephoto lens, low angle, animal in the central band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-10-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Panza de Cabra lagoon in Chaco National Park, Argentina, at sunset: a wide calm lagoon fringed by reeds, surrounded by dense dry forest of tall quebracho colorado trees and scattered caranday palms with fan-shaped fronds, the sky orange and pink reflected in the water. Warm low sun, long reflections, a few waterbirds as silhouettes. Wide-angle panoramic view, shoreline and palms in the central horizontal band. Warm natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-10-abuelo`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial nature photograph of a huge, very old quebracho colorado tree (Schinopsis balansae) in the Chaco forest, Argentina: a massive, thick, slightly twisted trunk with deeply furrowed dark grey-brown bark, heavy irregular branches and a sparse crown of small glossy leaves, dense thorny forest around it. Soft filtered morning light. Vertical composition from the base looking up, emphasizing age and size. Natural earthy palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `LIT-10-caraya`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a black-and-gold howler monkey (Alouatta caraya) male calling from a high branch in the Chaco forest, Argentina: all-black long fur, bearded face, throat swollen while howling, long prehensile tail wrapped around the branch. Soft early-morning light, green leaves around. Telephoto lens from below, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-10-guazuncho`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a gray brocket deer (guazuncho, Mazama gouazoubira) standing alert at the edge of a dry Chaco forest clearing, Argentina: small, slender deer with greyish-brown coat, white belly and white underside of the short tail, large ears, a male with short simple unbranched spike antlers. Soft dappled morning light. Telephoto lens, deer sharp, background blurred. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-10-carpincho`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a group of capybaras (Hydrochoerus hydrochaeris) grazing on the edge of a lagoon in the Chaco forest, Argentina: large barrel-shaped rodents with coarse reddish-brown fur and blunt square muzzles, caranday palms and quebracho forest behind. Warm late-afternoon light. Telephoto lens at low angle, animals in the central band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-11-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Bermejo River in El Impenetrable National Park, Chaco, Argentina: a wide, winding, reddish-brown muddy river with sandbanks, its banks lined by dense dry Chaco forest of quebracho trees and thorny scrub. Warm golden late-afternoon light, a few clouds, soft reflections on the water. Wide-angle panoramic view from a high bank, river curving through the central horizontal band. Warm natural palette of ochre water and olive-green forest. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-11-tapir`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a South American tapir (Tapirus terrestris) walking out of the dry Chaco forest to a muddy riverbank in El Impenetrable, Argentina: heavy dark grey-brown body, short flexible proboscis-like snout, small rounded ears with white tips, a short bristly mane along the neck — solid color, not the black-and-white Malayan tapir. Soft dawn light. Vertical composition, telephoto lens, animal in sharp focus. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-11-yaguarete`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a jaguar (yaguareté, Panthera onca) walking along a sandy riverbank in the Chaco forest, Argentina: powerful stocky body, broad head, golden-yellow coat covered with large black rosettes that have small black spots inside — not a leopard, not a cheetah. Soft early-morning light, dry forest behind. Telephoto lens, animal in sharp focus, background blurred. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-11-palo-santo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial nature photograph of a palo santo forest (Bulnesia sarmientoi) in the low lands of the dry Chaco, Argentina: medium-sized trees with smooth greenish-grey trunks, small paired rounded leaflets and a few pale yellow-white flowers, growing close together on a flat clay floor. Soft late-afternoon light. Wide shot among the trunks, central band composition. Natural muted greens and greys. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-11-kayak`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of two people paddling sit-on-top kayaks on the calm, narrow, brown Bermejito River in El Impenetrable, Chaco, Argentina, seen from behind at a distance: dense dry Chaco forest on both banks, a yacaré caiman resting on a muddy bank in the foreground. Soft early-morning light, mist on the water. Wide shot at water level. People: two kayakers seen from behind, small in frame, no faces. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-12-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the champales of Bañado La Estrella, Formosa, Argentina, at sunrise: a long flat-bottomed wooden canoe gliding on still dark water between hundreds of dead grey tree trunks standing in the flooded wetland, trunks without bark draped with green vines and moss, perfect reflections in the water, floating aquatic plants. Soft pink and gold dawn light, light mist. Wide-angle panoramic view at water level, canoe and trunks in the central horizontal band. Natural, calm palette. People: one boatman seen small and from behind, no face. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-12-jabiru`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a jabiru stork (Jabiru mycteria) standing in shallow water in Bañado La Estrella, Formosa, Argentina: very large white stork with a bare black head and neck, a broad red band at the base of the neck, and a massive black slightly upturned bill — not a wood stork, no white neck. Calm reflective water and dead tree trunks behind. Soft morning light. Vertical composition, telephoto lens, bird sharp. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-12-yacare`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a yacare caiman (Caiman yacare) floating in a still channel of Bañado La Estrella, Formosa, Argentina: dark olive-black armored body, a bony ridge between the eyes like spectacles, dark spots on the lower jaw, eyes and snout above the water, duckweed and floating plants around it, a dead tree trunk reflected behind. Soft morning light. Telephoto lens at water level, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-12-carpincho`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a capybara (Hydrochoerus hydrochaeris) standing in shallow water among floating plants in Bañado La Estrella, Formosa, Argentina: large barrel-shaped rodent with coarse reddish-brown fur, blunt square muzzle, small rounded ears, dead grey tree trunks in the background. Soft golden light. Telephoto lens, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-12-curiyu`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a yellow anaconda (boa curiyú, Eunectes notaeus) partly coiled on a mat of floating water plants in a wetland in Formosa, Argentina: thick heavy-bodied snake, yellowish-olive skin covered with irregular black blotches and spots, eyes and nostrils on top of the head. Soft diffuse light, dark water around. Telephoto lens, close framing on the coils and head, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.

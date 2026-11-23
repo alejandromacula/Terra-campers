@@ -274,7 +274,7 @@
     "destacada": {"img": "LIT-12-jabiru", "titulo": "Jabirú", "sub": "La cigüeña emblema del bañado"},
     "fila": {"titulo": "Fauna", "items": [
       {"img": "LIT-12-yacare", "nombre": "Yacaré", "texto": "Habita los canales y lagunas del bañado."},
-      {"img": "LIT-12-carpincho", "nombre": "Carpincho", "texto": "Otro habitante fácil de cruzar en el agua."},
+      {"img": "LIT-12-carpincho", "nombre": "Carpincho", "texto": "También habita el bañado, entre canales y lagunas."},
       {"img": "LIT-12-curiyu", "nombre": "Boa curiyú", "texto": "Vive en el bañado, pero es difícil de ver."}
     ]},
     "cierre": [

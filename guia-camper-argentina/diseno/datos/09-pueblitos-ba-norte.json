@@ -705,5 +705,529 @@
         "No encontramos camping municipal publicado. El Parque Lillia (15 ha, parrillas y senderos) sirve para pasar el día. Cargá combustible acá antes de los caminos rurales."
       ]
     ]
+  },
+  {
+    "codigo": "BSA-P09",
+    "region": "BSA-P",
+    "ubicacion": "Mercedes · Buenos Aires",
+    "titulo": "Mercedes",
+    "bajada": "Nació como fortín de frontera, es la cuna del salame quintero y tiene una pulpería de 1830 sobre el río Luján.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~100 km · ~1 h 20"
+      ],
+      [
+        "Rutas",
+        "Acceso Oeste, RN 7 y RN 5"
+      ],
+      [
+        "Ideal para",
+        "Pulpería y salame quintero"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "ok",
+        "Ciudad con servicios"
+      ],
+      [
+        "pernocte",
+        "aviso",
+        "Consultá en el parque"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Ciudad con servicios y buena escala para el oeste: catedral monumental, bares de almacén y el Parque Independencia, 54 ha de bosque sobre el río Luján. A Tomás Jofré, 15 minutos."
+      ],
+      [
+        "Historia",
+        "La fundación oficial es el 25 de junio de 1752, aunque el fuerte de la Guardia de Luján, puesto de frontera, empezó antes. Pasó a llamarse Mercedes en el siglo XIX. Su Catedral Basílica, de 1904, es Monumento Histórico Nacional."
+      ],
+      [
+        "La pulpería",
+        "La de Cacho Di Catarina abrió en 1830 a orillas del río Luján: paredes de ladrillo muy gruesas, pisos antiguos y palenque. Su pulpero hizo de pulpero en la película Don Segundo Sombra."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P09-salame",
+      "titulo": "Salame quintero",
+      "sub": "De chacra, con fiesta nacional propia"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P09-catedral",
+          "nombre": "Catedral Basílica",
+          "texto": "Templo monumental de 1904, Monumento Histórico Nacional."
+        },
+        {
+          "img": "BSA-P09-laurino",
+          "nombre": "Almacén Bar Laurino",
+          "texto": "Ramos generales de 1953, hoy bar de esquina. Calle 29 nº 751."
+        },
+        {
+          "img": "BSA-P09-rio-lujan",
+          "nombre": "Parque Independencia",
+          "texto": "54 ha de bosque sobre el río Luján, con parrillas y baños."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "En la pulpería de Cacho, el fuerte son las empanadas de carne fritas. Queda en calle 29 y el río; consultá el horario antes de ir."
+      ],
+      [
+        "En la camper",
+        "Una guía menciona acampe en el Parque Independencia: confirmá con el municipio si admite motorhome. El río crece con lluvias fuertes: no estaciones junto a la orilla."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P10",
+    "region": "BSA-P",
+    "ubicacion": "Tomás Jofré · Buenos Aires",
+    "titulo": "Tomás Jofré",
+    "bajada": "Unos 200 habitantes y, algunos fines de semana, hasta 5.000 visitantes: casi todos vienen con hambre de parrilla de campo.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~100 km · ~1 h 15"
+      ],
+      [
+        "Rutas",
+        "Acceso Oeste, RN 5 y RP 42"
+      ],
+      [
+        "Ideal para",
+        "Parrilla de campo"
+      ],
+      [
+        "Tiempo sugerido",
+        "Un mediodía"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en Mercedes"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Calles de tierra"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Calles de tierra, la vieja estación y media docena de restaurantes con mesas bajo los árboles. Es plan de mediodía de fin de semana, y combina con Mercedes, a 15 minutos."
+      ],
+      [
+        "Historia",
+        "Oficialmente se llama Jorge Born, pero todos lo conocen por su estación, que honra al abogado y político que gestionó la parada de la línea Luján–Pergamino. Cuando el tren dejó de parar casi se vacía; lo rescataron los restaurantes."
+      ],
+      [
+        "La estación",
+        "La vieja estación hoy funciona como museo y es el punto de encuentro del pueblo. Enfrente, la casona de Santa Victoria pone mesas al aire libre y juegos para chicos."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P10-parrilla",
+      "titulo": "Parrilla de campo",
+      "sub": "Costillar, achuras y fiambres"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P10-antenor",
+          "nombre": "Antenor",
+          "texto": "El pionero: parrilla libre con fiambres y achuras. Solo mensajes.",
+          "contacto": "WhatsApp 2324 558667"
+        },
+        {
+          "img": "BSA-P10-silvano",
+          "nombre": "Silvano",
+          "texto": "Uno de los más emblemáticos; se llena, así que reservá.",
+          "contacto": "WhatsApp +54 9 2324 45-3130"
+        },
+        {
+          "img": "BSA-P10-fronteras",
+          "nombre": "Almacén Fronteras",
+          "texto": "Restaurante en un almacén que conserva sus muebles de época."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Antenor abre viernes, sábados, domingos y feriados al mediodía; Santa Victoria, fines de semana y feriados de 10 a 20. Los fines de semana se llena: reservá."
+      ],
+      [
+        "En la camper",
+        "Calles de tierra: andá despacio y evitá entrar después de lluvias fuertes. No encontramos camping ni pernocte publicado: buscá dónde dormir en Mercedes, a ~15 min."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P11",
+    "region": "BSA-P",
+    "ubicacion": "Navarro · Buenos Aires",
+    "titulo": "Navarro y su laguna",
+    "bajada": "Junto a esta laguna fusilaron a Manuel Dorrego en 1828; hoy tiene camping con lugar para motorhome y un almacén-museo.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~125 km · ~1 h 30 a 1 h 45"
+      ],
+      [
+        "Rutas",
+        "Acceso Oeste y RP 47"
+      ],
+      [
+        "Ideal para",
+        "Laguna, pesca y camping"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping de la laguna"
+      ],
+      [
+        "camino",
+        "ok",
+        "Camping sobre la RP 41"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Laguna con camping completo, fortín colonial, historia patria y restaurantes de campo muy queridos. Queda entre Mercedes y Lobos: armá un recorrido de dos o tres días."
+      ],
+      [
+        "Historia",
+        "En 1767 se propuso levantar junto a la laguna la Guardia de San Lorenzo de Navarro, un puesto de frontera. Tras la batalla de Navarro, el gobernador Manuel Dorrego fue fusilado el 13 de diciembre de 1828 cerca de la laguna."
+      ],
+      [
+        "La laguna",
+        "Se puede pescar, hacer deportes náuticos, mirar aves y también nadar. El camping alquila botes, y el circuito histórico suma el Fortín San Lorenzo y el Museo Alfredo Sabaté."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P11-fortin",
+      "titulo": "Fortín San Lorenzo",
+      "sub": "La vieja guardia de frontera"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P11-la-protegida",
+          "nombre": "La Protegida",
+          "texto": "Almacén-museo con minutas entre latas antiguas. Boulevard 19 y 30.",
+          "contacto": "@laprotegidanavarro"
+        },
+        {
+          "img": "BSA-P11-horno-barro",
+          "nombre": "La Lechuza",
+          "texto": "Desde 1994: pollo al horno de barro y ravioles. Llamá antes.",
+          "contacto": "Tel. +54 9 2227 41-1397"
+        },
+        {
+          "img": "BSA-P11-dorrego",
+          "nombre": "Parque Manuel Dorrego",
+          "texto": "Recuerda al gobernador fusilado en 1828, en el circuito histórico."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "En Las Marianas, frente a la estación, Doña Irma es famosa por sus ravioles (@saloncomedor_irma). La Lechuza abre sábados y domingos de 11 a 18."
+      ],
+      [
+        "En la camper",
+        "El camping de la laguna, sobre la RP 41, abre todos los días y tiene sector para motorhome, baños, duchas, parrillas y proveeduría. Consultá si hay toma eléctrica."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P12",
+    "region": "BSA-P",
+    "ubicacion": "Lobos · Buenos Aires",
+    "titulo": "Lobos, la laguna y Perón",
+    "bajada": "Acá nació Juan Domingo Perón en 1895 y cayó el gaucho Juan Moreira en 1874, con una laguna enorme a 15 km.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~1 h 30 a 2 h"
+      ],
+      [
+        "Rutas",
+        "RN 205 (también tren Roca)"
+      ],
+      [
+        "Ideal para",
+        "Laguna, kayak y paracaidismo"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Club de Pesca"
+      ],
+      [
+        "camino",
+        "ok",
+        "Fácil: RN 205 y RP 41"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Historia política, una de las lagunas más grandes y cercanas a CABA y cielo de paracaidistas: es la Capital Nacional del Paracaidismo. La RN 205 y la RP 41 se cruzan frente al pueblo."
+      ],
+      [
+        "Historia",
+        "El fortín de San Pedro de los Lobos se terminó en 1779 junto a la laguna; la fundación se fecha el 2 de junio de 1802. Perón nació acá el 8 de octubre de 1895, aunque Roque Pérez también reclama el honor."
+      ],
+      [
+        "La laguna",
+        "Queda a 15 km del centro y es para pesca deportiva, kayak y kitesurf. En la orilla, el Club de Pesca tiene un camping grande con parcelas de pasto bajo los árboles."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P12-casa-peron",
+      "titulo": "Casa natal de Perón",
+      "sub": "Museo frente a la plaza 1810"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P12-paracaidistas",
+          "nombre": "Paracaidismo",
+          "texto": "Lobos es la Capital Nacional del Paracaidismo."
+        },
+        {
+          "img": "BSA-P12-muelle",
+          "nombre": "Club de Pesca",
+          "texto": "Muelle y camping sobre la laguna, a 15 km del centro."
+        },
+        {
+          "img": "BSA-P12-moreira",
+          "nombre": "Juan Moreira",
+          "texto": "El gaucho de leyenda cayó en Lobos en 1874."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Seguí por la RN 205 a Uribelarrea y Cañuelas, de vuelta a CABA, o subí por la RP 41 hasta la laguna de Navarro."
+      ],
+      [
+        "En la camper",
+        "Camping del Club de Pesca, a orillas de la laguna: parcelas bajo árboles, electricidad, baños limpios y duchas calientes, según viajeros; sin internet. Consultá antes por motorhome."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P13",
+    "region": "BSA-P",
+    "ubicacion": "Uribelarrea · Buenos Aires",
+    "titulo": "Uribelarrea",
+    "bajada": "Menos de 2.000 habitantes y ~4.000 turistas por fin de semana: pastas, cerveza y la primera escuela agrotécnica del país.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~90 km"
+      ],
+      [
+        "Rutas",
+        "Au. Ezeiza–Cañuelas y RN 205"
+      ],
+      [
+        "Ideal para",
+        "Pastas y cerveza de campo"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en laguna de Lobos"
+      ],
+      [
+        "camino",
+        "ok",
+        "Acceso por la RN 205"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Iglesia neogótica, una escuela que vende lo que producen sus alumnos y restaurantes de campo muy conocidos, de paso entre Lobos y Cañuelas. Los fines de semana se llena."
+      ],
+      [
+        "Historia",
+        "Lo fundó en 1890 el estanciero Miguel Nemesio de Uribelarrea, que donó tierras para una colonia agrícola. La iglesia, de ese año y vinculada a Pedro Benoit, honra a su esposa, Manuela Olaguer Feliú y Azcuénaga."
+      ],
+      [
+        "La escuela",
+        "En 1894 abrió la Escuela Agrotécnica Salesiana Don Bosco, considerada la primera del país. Sus alumnos elaboran productos regionales que se compran en el lugar, en Av. V. de Crotto 2001."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P13-escuela",
+      "titulo": "Escuela Don Bosco",
+      "sub": "La primera agrotécnica del país"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P13-tallarines",
+          "nombre": "El Palenque",
+          "texto": "Ex pulpería con tallarines de rúcula. Solo mediodía, con reserva.",
+          "contacto": "WhatsApp +54 9 11 3557-4935"
+        },
+        {
+          "img": "BSA-P13-pan-casero",
+          "nombre": "Pueblo Escondido",
+          "texto": "Pastas y panes caseros de receta italiana desde 2003.",
+          "contacto": "WhatsApp 11 5625-5080"
+        },
+        {
+          "img": "BSA-P13-cerveza",
+          "nombre": "La Uribeña",
+          "texto": "Cerveza artesanal y restaurante de campo; mesas por orden de llegada.",
+          "contacto": "@lauribenia1"
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El tambo Valle de Goñi (RN 205 km 80,5) hace quesos de cabra. Desde 2009, Fiesta Nacional de la Picada y la Cerveza: consultá la fecha."
+      ],
+      [
+        "En la camper",
+        "No encontramos camping ni pernocte publicado en el pueblo. Lo más cercano con servicios que relevamos: el camping del Club de Pesca, en la laguna de Lobos."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P14",
+    "region": "BSA-P",
+    "ubicacion": "Cañuelas · Buenos Aires",
+    "titulo": "Cañuelas y el dulce de leche",
+    "bajada": "Según la leyenda, el dulce de leche nació acá el 24 de junio de 1829, en la estancia La Caledonia.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~55 km · ~1 h"
+      ],
+      [
+        "Rutas",
+        "Au. Ezeiza–Cañuelas y RN 205"
+      ],
+      [
+        "Ideal para",
+        "Día de campo en estancia"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin camping confirmado"
+      ],
+      [
+        "camino",
+        "ok",
+        "Autopista y RN 205"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la puerta del recorrido del sudoeste y la última parada antes de volver a CABA: estancias para pasar el día, parrillas de ruta famosas y la historia de la lechería argentina."
+      ],
+      [
+        "Historia",
+        "En 1889 Vicente Lorenzo Casares fundó La Martona, la primera empresa láctea del país, con planta frente a la estación. Por eso Diputados declaró a Cañuelas «cuna de la industria lechera». La marca cerró en 1978."
+      ],
+      [
+        "Las estancias",
+        "Villa María, de 1927, parece un castillo inglés y ofrece día de campo con almuerzo, merienda y alojamiento, con reserva. Puesto Viejo tiene caballerizas, cabalgatas y un gran laberinto de pinos."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P14-dulce-de-leche",
+      "titulo": "Dulce de leche",
+      "sub": "Nació en La Caledonia, dice la leyenda"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P14-laberinto",
+          "nombre": "Estancia Puesto Viejo",
+          "texto": "Laberinto de pinos, cabalgatas y día de campo. RP 6 km 83.",
+          "contacto": "puestoviejo.com"
+        },
+        {
+          "img": "BSA-P14-lo-de-beto",
+          "nombre": "Lo de Beto",
+          "texto": "Parrilla de ruta con fama de carne tierna. RN 205 km 64."
+        },
+        {
+          "img": "BSA-P14-iglesia-carmen",
+          "nombre": "Iglesia del Carmen",
+          "texto": "Frente a la plaza San Martín, en el centro histórico."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Villa María se reserva en estanciavillamaria.com (RN 205 km 47,5, Máximo Paz). Otra parrilla de ruta: La Parrilla, familiar desde 1998, en el km 65,7."
+      ],
+      [
+        "En la camper",
+        "Las parrillas de ruta están sobre la RN 205: consultá si hay lugar para estacionar un vehículo grande. No encontramos camping ni pernocte publicado en el partido."
+      ]
+    ]
   }
 ]

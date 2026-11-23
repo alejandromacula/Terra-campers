@@ -81,3 +81,85 @@ Photorealistic editorial travel photograph of the Salto del Agrio waterfall near
 ### `AND-04-hualcupen`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of Laguna Hualcupén near Caviahue, Neuquén, Argentina, at sunset: a calm mountain lagoon reflecting a warm orange and pink sky, silhouettes of monkey puzzle trees on the shore, gentle volcanic hills around. Golden hour fading into dusk, wide-angle, horizon in the middle of the frame. Warm, natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-05-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Lake Aluminé at Villa Pehuenia, Neuquén, Argentina, at sunset: a pure forest of monkey puzzle trees (Araucaria araucana) with tall straight trunks and flat umbrella-shaped crowns silhouetted against a calm lake glowing orange and violet, volcanic mountains on the far shore. Golden hour, wide-angle panoramic composition with the araucaria silhouettes and the lake in the central band. Warm, natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-05-pinon`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Close-up botanical photograph of the seeds and cone of the pehuén (Araucaria araucana): a large round cone partly broken open on mossy ground, revealing dozens of elongated pale brown pine nuts (piñones) about 4 cm long, with spiky triangular araucaria leaves nearby. Soft diffuse forest light, vertical framing from above at an angle, shallow depth of field. Warm brown and green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-05-laguna-crater`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the crater lake on the summit of the Batea Mahuida volcano (about 1,970 m), Villa Pehuenia, Neuquén, Argentina: a small blue lagoon inside a bare rocky crater of reddish and grey volcanic scree, and on the horizon a line of snow-capped volcanoes along the Andes. Clear summer morning light, wide-angle from the crater rim. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-05-moquehue`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Lake Moquehue in Neuquén, Argentina: a quiet deep-blue mountain lake with a pebble shore, forested slopes dotted with monkey puzzle trees (Araucaria araucana), gentle mountains behind. Soft morning light, calm water with reflections, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-05-monito`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a monito del monte (Dromiciops gliroides): a tiny mouse-sized marsupial with soft grey-brown fur, large dark eyes ringed with black, small rounded ears, and a thick furry prehensile tail — not a mouse, not a monkey. Clinging to a mossy branch in a dense temperate forest at night, lit by soft natural-looking light, macro telephoto, dark blurred background. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-06-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph from the Cerro de la Cruz above Junín de los Andes, Neuquén, Argentina: a large white cross on the hilltop in the foreground, the wide open valley of the Chimehuín river with the small town below, and the snow-capped cone of the Lanín volcano rising on the western horizon. Late afternoon golden light, wide-angle panoramic composition with the cross, valley and volcano in the central band. Warm, natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-06-via-christi`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a contemporary outdoor religious sculpture on a wooded hillside trail in Patagonia: a life-size white figurative sculpture group depicting a scene from the life of Jesus, among native shrubs and rocks, with a wide valley in the background. Soft morning light, vertical framing, sculpture in sharp focus, background gently blurred. Natural, calm palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-06-boca-chimehuin`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Boca del Chimehuín, Neuquén, Argentina: the point where the clear turquoise Chimehuín river flows out of Lake Huechulafquen, fast water over rounded stones, low shrubby banks, and the snow-capped Lanín volcano in the distance. Soft early morning light, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-06-pesca-mosca`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a fly fisherman in waders casting a long looping line on the Chimehuín river near Junín de los Andes, Patagonia: clear fast water over stones, low steppe banks, golden backlight catching the line. Seen from behind at a distance, telephoto, warm evening light. Natural palette. natural colors, high detail, one person from behind, no text, no watermark, no logos.
+
+### `AND-06-santuario`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a modern Patagonian church built with stone and wood, with a tall pitched roof, standing in a small Andean town square with poplar trees, mountains in the background. Clear afternoon light, three-quarter view, medium shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-07-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the south face of the Lanín volcano (3,776 m) seen from Puerto Canoa on Lake Huechulafquen, Lanín National Park, Neuquén, Argentina: a perfect, steep snow-covered conical volcano rising above a long deep-blue lake, forested shores with native trees, a pebble beach in the foreground. Clear morning light, calm water with reflection, wide-angle panoramic framing with the volcano and lake in the central band. Natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-07-rauli`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph inside a raulí forest (Nothofagus alpina) in Lanín National Park, Argentina: tall straight trunks with dark fissured bark, large oblong leaves with many parallel veins and finely toothed edges, a few monkey puzzle trees among them, ferns and bamboo-like caña colihue in the understory. Soft light filtering through the canopy, vertical framing looking up the trunks. Fresh green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-07-huemul`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a south Andean deer or huemul (Hippocamelus bisulcus): stocky, short-legged deer with thick grey-brown coat, large ears, a dark Y-shaped mark on the forehead and muzzle, male with short simple forked antlers. Standing on a rocky slope at the edge of a southern beech forest in the Patagonian Andes. Soft overcast light, telephoto lens, eye-level. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-07-pudu`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern pudú (Pudu puda): a tiny deer about 40 cm tall, round compact body, short legs, dense reddish-brown coat, small rounded ears, male with very short spike antlers. Peeking out among ferns and bamboo in a dense, humid Patagonian forest. Soft diffuse light, telephoto lens, shallow depth of field. Natural green and brown palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-07-huillin`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern river otter or huillín (Lontra provocax): sleek dark-brown otter with paler throat, long thick tapering tail, small ears and webbed feet. Resting on a mossy rock at the edge of a clear Patagonian lake with fallen logs. Soft morning light, telephoto lens, eye-level close to the water. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-08-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Lake Lácar and the town of San Martín de los Andes, Neuquén, Argentina, seen from the Bandurrias viewpoint: the small town spread at the eastern head of a long deep-blue lake, enclosed by steep mountains covered in dense green forest, a beach and pier along the waterfront. Golden late afternoon light, wide-angle panoramic composition with town and lake in the central band. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-08-chachin`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the Chachín waterfall near San Martín de los Andes, Neuquén, Argentina: a slender white waterfall about 30 m high falling into a rocky pool, framed by lush temperate rainforest (Valdivian forest) with moss, ferns and bamboo-like caña colihue. Soft diffuse light, slow shutter for silky water, vertical framing. Deep green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-08-quila-quina`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small white tourist catamaran crossing the blue waters of Lake Lácar toward the beach of Quila Quina, Neuquén, Argentina, forested mountains around, a light wake behind the boat. Bright summer morning light, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-08-hua-hum`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Hua Hum river in Neuquén, Argentina: a clear green river flowing west through dense temperate forest toward Chile, rounded stones, overhanging trees, misty forested mountains. Soft overcast light, medium shot. Natural green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-08-nonthue`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Lake Nonthué, the narrow western arm of Lake Lácar, Neuquén, Argentina: a slim, calm blue lake squeezed between steep mountain slopes covered with dense green forest, layers of ridges fading into haze. Soft morning light, wide-angle. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.

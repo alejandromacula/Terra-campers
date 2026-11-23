@@ -184,3 +184,71 @@ Photorealistic editorial travel photograph of a thermal spa using hypersaline la
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of the interior of a small regional history museum in the Argentine pampas: display cases with frontier-era objects — rifles, spurs, indigenous ceramics and silverwork — and old black-and-white photographs of a 1920s lakeside spa town on the walls, wooden floor. Soft warm museum lighting, medium shot, shallow depth of field. Warm, muted palette. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
 **Mejor foto real del lugar.**
+
+### `BSA-P23-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a giant omelette festival in a tree-lined municipal park in a small town of the Buenos Aires pampas, Argentina: an enormous round iron frying pan, several metres wide, set over a wood fire, with a huge golden omelette cooking inside and wisps of smoke, cooks with long wooden paddles around it and a festive crowd in the background softly out of focus (people allowed in this image), tall eucalyptus trees behind. Warm early-summer morning light. Wide-angle shot, the pan centered in the central horizontal band. Warm, festive, natural palette, not oversaturated. Natural colors, high detail, no text, no watermark, no logos.
+
+### `BSA-P23-aligot`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial food photograph of aligot, the French Aveyron dish: a smooth, glossy, very stretchy purée of mashed potatoes with melted cheese and garlic, lifted with a wooden spoon so it forms long elastic ribbons above a rustic earthenware bowl, on a wooden farmhouse table with a garlic bulb and bread blurred behind. Soft natural window light from the side, close-up, shallow depth of field. Warm creamy whites and wood tones. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P23-cerro-cruz`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a low grassy hill on the edge of a pampas town in Buenos Aires province with a path of Stations of the Cross (small white shrines) climbing to a large white cross on the top, the small town with its trees and the flat, patchwork farmland spreading to the horizon below. Soft golden late-afternoon light, wide shot from the slope. Warm greens and golds. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P23-museo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a modest late-19th-century house turned into a local history museum in a small Argentine pampas town of French immigrant origin: brick façade with tall wooden shuttered windows and a small front garden; inside view through the open door of old photographs of immigrant families, a trunk and antique kitchenware. Soft morning light, frontal medium shot. Warm, muted palette. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P23-curamalal`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Sierras de Curamalal in southwestern Buenos Aires province, Argentina: rounded, rocky quartzite ridges with grey and ochre outcrops rising above golden tussock grassland, the highest summit (about 1,015 m) on the skyline, a dirt track winding toward the hills, wide pampas below. Early-morning side light with long shadows, clear sky. Wide shot. Natural ochres, golds and soft greens. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P24-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the main square of Tornquist, Buenos Aires province, Argentina: a calm artificial pond with a small arched wooden footbridge, and a stone-built church with a pointed bell tower reflected in the still water, tall trees and lawns around, ducks on the water, low sierras faintly on the horizon. Soft early-morning light with mirror-like reflections. Wide-angle shot, church and its reflection in the central horizontal band. Fresh greens and warm stone tones, not oversaturated. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P24-cerro-ventana`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of Cerro Ventana in the Sierra de la Ventana range, Buenos Aires province, Argentina: a rugged grey-ochre quartzite ridge whose crest has a natural rock arch — a rectangular hole through the rock wall near the summit, the "window" through which the sky is visible — above steep slopes of golden grassland and rock. Clear morning light, deep blue sky seen through the opening. Vertical composition from below, telephoto, the arch clearly visible in the upper third. Natural ochres, golds and blues. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P24-puente-plaza`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of an arched wooden footbridge over a small pond in a leafy town square in the Buenos Aires sierras: rustic wooden railings, weeping willows and tall trees, ducks swimming, autumn leaves floating on calm water. Soft warm afternoon light, medium-wide shot. Warm greens and browns. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P24-sendero-parque`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a hiking trail in Parque Provincial Ernesto Tornquist, Sierra de la Ventana, Buenos Aires province: a narrow stony path climbing through golden native tussock grassland toward rocky grey quartzite ridges, a clear stream with small pools crossing the trail. Early-morning light, wide shot from the trail. Natural golds, greys and soft greens. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P24-teatro-funke`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small early-20th-century theatre and history-museum building in a quiet sierra town of German immigrant origin in Buenos Aires province: modest plastered façade with simple classical details, tall wooden doors and windows, trees on the sidewalk. Soft late-afternoon light, frontal medium-wide shot. Warm cream and ochre palette. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P25-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the art deco cemetery portal of Saldungaray, Buenos Aires province, Argentina, by Francisco Salamone: a monumental white concrete gateway with a huge stark geometric composition — a large circular opening and sharp angular vertical blades and a cross shape — standing on open ground with low sierras on the horizon. Low angle at golden hour, warm light on the concrete against a deep blue sky with a few clouds. Wide-angle shot, the portal in the central horizontal band. Clean whites, blues and warm golds. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P25-fortin-pavon`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a reconstructed 19th-century Argentine frontier fort (fortín) beside a river: a wooden palisade of vertical rough logs, a simple mud-and-straw ranch hut and a tall wooden lookout tower (mangrullo), willows and tall trees along the riverbank. Soft golden late-afternoon light, vertical composition with the lookout tower rising in the frame, 35 mm lens. Warm, earthy palette. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P25-vinedo-sierras`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small vineyard at the foot of the Sierra de la Ventana hills, Buenos Aires province: neat rows of grapevines on trellises in the foreground and rocky grey-ochre sierras rising behind under a wide sky. Golden late-afternoon light along the rows, wide shot. Warm greens, golds and soft blues. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P25-rio-sauce-grande`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Sauce Grande river at a riverside municipal park in southern Buenos Aires province: a clear, shallow river running over pebbles, tall willows and poplars on the banks, green lawns with picnic tables and barbecue grills under the trees, low sierras in the distance. Soft warm morning light, wide shot. Fresh greens and clear water tones. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P25-museo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the interior of a small-town history museum and archive in the Argentine pampas: wooden shelves with old ledgers and bound documents, framed black-and-white photographs of early 1900s settlers, an antique typewriter and farm tools on display. Soft warm light from a window, medium shot, shallow depth of field. Warm, muted palette. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**

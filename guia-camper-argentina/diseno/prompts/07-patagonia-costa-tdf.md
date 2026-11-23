@@ -170,3 +170,120 @@ Photorealistic wildlife photograph of a group of Magellanic penguins (Spheniscus
 ### `AUS-20-circuito-costero`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of a gravel coastal road along the bay of Puerto San Julián, Patagonia: low pale cliffs, small pebble beaches and the wide blue bay, a camper van-sized pullout with a viewpoint, open sky. Golden hour light. Wide horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-21-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the coast of Monte León National Park, Santa Cruz, Argentina, at very low tide: tall pale beige and ochre sedimentary cliffs with caves and arches, a wide exposed intertidal platform of dark rocks, gravel and tide pools stretching toward the Atlantic, the flat steppe edge on top of the cliffs. Late afternoon golden light raking across the cliffs, long shadows. Wide-angle composition with the cliffs and exposed beach in the central horizontal band. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-21-pinguinera`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a dense Magellanic penguin colony in Monte León National Park, Patagonia: many Magellanic penguins (Spheniscus magellanicus) — black backs, white fronts with two black bands across the chest, white stripe from above the eye down to the throat — standing among low shrubs and burrows on a slope above the sea, one penguin sharp in the foreground. Soft morning light. Telephoto, vertical composition with depth. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-21-lobos-elefantes`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of South American sea lions (Otaria flavescens) — maned tawny males with blunt upturned snouts, smaller light-brown females — and a few southern elephant seals (Mirounga leonina) — massive grey-brown bodies, no external ears — resting on a rocky beach at the foot of pale cliffs in Monte León, Santa Cruz. Soft overcast light. Telephoto from the clifftop. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-21-guanaco`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a small herd of guanacos (Lama guanicoe) — reddish-brown backs, white bellies, grey-black faces — walking across golden grass steppe on the edge of the coastal cliffs of Monte León, Santa Cruz, the Atlantic visible behind. Warm late afternoon light. Telephoto. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-21-galpon`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of an old Patagonian sheep-shearing shed converted into a visitor center: a long building with corrugated metal walls and roof, painted in faded tones, wooden doors, gravel yard, open steppe and big sky around. Soft morning light. Horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AUS-22-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Lago Fagnano from the shore at Tolhuin, Tierra del Fuego, Argentina: a vast elongated lake of steel-blue water stretching to the horizon between dark forested mountains with snow on the peaks, a pebble beach, and grey bleached dead trees standing in the shallow water in the foreground (trees drowned after the 1949 earthquake). Soft late afternoon light, dramatic clouds. Wide-angle composition with lake and mountains in the central horizontal band. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-22-panaderia`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the inside of a busy, rustic roadside bakery in Tierra del Fuego: a long wooden counter and glass display cases full of bread, medialunas, pastries and alfajores, warm interior lights, wooden walls. Warm cozy light. Vertical composition, shallow depth of field. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AUS-22-balsa`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a car ferry crossing the Strait of Magellan at Primera Angostura, Chile: a medium-size roll-on roll-off ferry with an open deck loaded with cars, a truck and a white camper van, choppy grey-green water, low flat Patagonian shore on the horizon. Bright, windy day with fast clouds. Horizontal composition, ferry in the center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-22-faro-virgenes`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a tall historic lighthouse standing on a windswept grassy cliff top at Cabo Vírgenes, the southern tip of mainland Argentina, the Atlantic Ocean behind, a gravel road leading to it. Late afternoon golden light, big sky. Horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AUS-22-pinguinos-virgenes`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of Magellanic penguins (Spheniscus magellanicus) — black backs, white fronts with two black chest bands, white stripe from the eye to the throat — among low shrubs and burrows on the flat coastal steppe of Cabo Vírgenes, Santa Cruz, with a distant lighthouse on the horizon. Soft light. Telephoto. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-23-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph from the Paso Garibaldi viewpoint on Ruta 3, Tierra del Fuego, Argentina: Lago Escondido below, a dark blue lake tucked between steep mountains covered in dense southern beech (lenga) forest, the paved road descending in wide curves toward the lake, more distant ridges and Lago Fagnano faintly visible further away. Early autumn colors with some red and gold in the forest, soft afternoon light, scattered clouds. Wide-angle composition with the lake and the winding road in the central horizontal band. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-23-castor`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a beaver dam in Tierra del Fuego: a wall of gnawed sticks and mud across a forest stream, a still pond behind it, grey dead flooded southern beech trees standing in the water, a North American beaver (Castor canadensis) — brown fur, flat scaly tail — swimming near the dam. Soft overcast light. Vertical composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-23-tierra-mayor`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo centrado)
+Photorealistic landscape photograph of the Valle de Tierra Mayor near Ushuaia, Tierra del Fuego: a wide flat valley floor of peat bogs and meadows, rugged snow-capped peaks on both sides, lenga forest on the lower slopes, Ruta 3 running along the valley. Clear morning light. Panoramic horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-23-zorro-gris`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo centrado)
+Photorealistic wildlife photograph of a South American grey fox (Lycalopex griseus): a small slender fox with grizzled grey back, pale rufous legs and ears, white throat, a black spot on the chin and a bushy grey tail with a dark tip — smaller and greyer than the culpeo — standing at the edge of a southern beech forest in Tierra del Fuego. Soft light. Telephoto, eye level. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-24-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the bay of Ushuaia, Tierra del Fuego, Argentina, seen from the waterfront: the colorful city climbing the hillside, the port with a couple of expedition ships, calm water of the bay, and the jagged snow-covered Martial mountains rising directly behind the town. Early morning soft light with pink tones on the snow. Wide-angle composition with the city and mountains in the central horizontal band. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-24-presidio`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a long corridor inside an early-20th-century stone and concrete prison wing turned museum: rows of small cell doors on both sides, two levels with a gallery, a skylight letting cold daylight fall into the hall. Moody, soft natural light. Vertical symmetrical composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AUS-24-glaciar-martial`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo centrado)
+Photorealistic landscape photograph of the Martial Glacier above Ushuaia, Tierra del Fuego: a small cirque glacier with snow and ice cradled in a bowl of dark rocky peaks, scree slopes and stunted lenga forest below, and the Beagle Channel glimpsed far below. Bright clear light. Panoramic horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-24-canal-beagle`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo centrado)
+Photorealistic editorial travel photograph of the Beagle Channel from the Ushuaia tourist pier: a small excursion catamaran leaving the dock, calm dark water, the snow-capped mountains of Navarino Island on the far shore. Late afternoon golden light. Panoramic horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-25-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Bahía Lapataia, Tierra del Fuego National Park, Argentina, where Ruta 3 ends: a calm fjord of deep blue water with small forested islets, steep mountains covered in southern beech forest and snow on the summits reflected on the water, a gravel road ending at a wooden boardwalk on the shore. Soft early morning light, mist on the water. Wide-angle composition with the bay and mountains in the central horizontal band. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-25-lenga-otono`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Close-up botanical photograph of lenga (Nothofagus pumilio) in autumn in Tierra del Fuego: small oval leaves about 2–3 cm long with rounded, double-scalloped edges, turning deep red, orange and gold on thin dark branches, a blurred forest of red and golden lengas behind. Soft diffuse light. Vertical composition, shallow depth of field. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-25-cauquen`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a pair of upland geese (Chloephaga picta), called cauquén, walking in a grassy clearing of Tierra del Fuego National Park: the male with white head and breast and black-barred white flanks, the female rufous-brown with fine black barring and yellow-orange legs. Soft morning light, lenga forest behind. Telephoto, low angle. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-25-zorro-colorado`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a Fuegian culpeo fox (Lycalopex culpaeus lycoides), called zorro colorado: a fairly large fox with a reddish-tawny head, ears and legs, grizzled grey back, white throat and a long bushy tail with a black tip, standing alert on a pebble shore at the edge of a lenga forest in Tierra del Fuego National Park. Soft light. Telephoto, eye level. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-25-conchero`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of an ancient shell midden on the shore of Bahía Lapataia, Tierra del Fuego: a low grassy mound with layers of white and blue-black mussel shells visible where it is eroded, the calm bay and forested mountains behind. Soft overcast light. Horizontal composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-26-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic wildlife and travel photograph of Magellanic penguins (Spheniscus magellanicus) — black backs, white fronts with two black bands across the chest, white stripe from above the eye down to the throat — walking along a pebble beach on Isla Martillo, Tierra del Fuego, Argentina, with the calm Beagle Channel and snow-capped mountains behind. Soft morning light, low clouds on the peaks. Low wide-angle composition at penguin level, penguins in the central horizontal band. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-26-pinguino-papua`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a gentoo penguin (Pygoscelis papua) on a pebble beach of Isla Martillo, Beagle Channel: a white band across the top of the head connecting the eyes, bright orange-red bill, bright orange feet, black back and white belly, long brush-like tail — clearly different from the Magellanic penguins blurred in the background. Soft light. Telephoto portrait at eye level. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-26-isla-lobos`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of sea lions and fur seals on Isla de los Lobos, Beagle Channel: South American sea lions (Otaria flavescens) — maned tawny males with blunt snouts — and South American fur seals (Arctocephalus australis) — smaller, darker grey-brown, pointed snouts and visible ears — resting on a dark rocky islet, cold green-grey water, snowy mountains far behind. Overcast soft light. Telephoto from a boat. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-26-cormoran-imperial`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a dense colony of imperial shags (Leucocarbo atriceps) on Isla de los Pájaros, Beagle Channel: black backs, white fronts, a bright blue ring around the eye, small orange knobs at the base of the bill, a short crest, standing packed on a rocky islet streaked with guano. Soft overcast light. Telephoto from a boat. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AUS-26-faro-eclaireurs`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Les Éclaireurs lighthouse in the Beagle Channel near Ushuaia: a short cylindrical tower painted red with a white band, on a small dark rocky islet with cormorants, cold blue water and snow-capped mountains of the channel behind. Clear golden afternoon light. Horizontal composition, lighthouse slightly off center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
