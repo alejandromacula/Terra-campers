@@ -310,3 +310,93 @@ Photorealistic editorial travel photograph of El Submarino, a rock formation eme
 ### `CUY-16-rafting`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of a rafting boat with a small group of people wearing helmets and life jackets paddling through white-water rapids on the Atuel River at Valle Grande, Mendoza, Argentina: splashing water, willows on the banks, reddish canyon walls behind. Bright sunny light, fast shutter freezing the spray. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-17-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the main avenue of Malargüe, a small town on Ruta 40 in southern Mendoza, Argentina: a wide straight avenue lined with tall poplars and low buildings, leading toward the snow-capped Andes cordillera that closes the horizon, dry steppe light. Clear early-morning light, crisp air, eye-level view down the avenue with the mountains in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-17-detector`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a single surface detector of the Pierre Auger cosmic-ray observatory on the open pampa near Malargüe, Mendoza, Argentina: a squat beige-white cylindrical water tank about 3.6 m wide and 1.2 m high, with a small solar panel on a pole and a slim antenna mast on top, standing alone on flat dry steppe with yellow bunchgrass, the Andes faint on the horizon. Golden late-afternoon light, big sky, vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-17-auger`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small modern science visitor center interior: interactive exhibits about cosmic rays and particle detectors, illuminated panels, a scale model of a cylindrical water-tank detector, clean contemporary design in warm light. Wide view, no readable text on the panels. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-17-planetario`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a modern planetarium building in a small Andean town of southern Mendoza, Argentina: a striking contemporary building with a dome, set against a twilight sky with the first stars appearing and dark mountains on the horizon, soft exterior lights. Blue-hour light, wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-18-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Castillos de Pincheira near Malargüe, Mendoza, Argentina: a massive rock formation of layered sedimentary and volcanic rock eroded into towers, needles, battlements and caves that look like a fairy-tale castle, rising above the clear Río Malargüe, whose calm water reflects it, with willows and green riverbank grass. Warm late-afternoon light on the cream, ochre and grey towers, clear sky. Wide-angle composition with the castle and its reflection in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-18-torres`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the eroded rock towers of the Castillos de Pincheira, Mendoza, Argentina: close view of tall pinnacles and battlement-like ridges in layered cream, ochre and grey rock, with small cave openings and fluted erosion grooves, against a deep-blue sky. Warm side light from the low sun revealing textures, low-angle vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-18-cuevas`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of shallow caves and rock shelters eroded into the base of the layered rock towers of Castillos de Pincheira, Mendoza, Argentina: dark rounded openings in cream and ochre rock, scree and dry shrubs at the foot, soft warm light with deep shadows inside the caves. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-18-puntas`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic close-up photograph of several ancient stone arrowheads (projectile points) knapped from obsidian, basalt and flint, displayed on a neutral linen surface in a small regional museum of Patagonian-Andean Argentina: triangular and leaf-shaped points with visible flake scars, warm museum light, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-19-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial wildlife-landscape photograph of Laguna Llancanelo, Malargüe, Mendoza, Argentina: a large shallow salty lagoon in the open steppe with a long flock of Chilean flamingos (Phoenicopterus chilensis: pale pink body, greyish legs with pink "knees" and feet, bill pale at the base with a black tip bent downward) wading along the shore, low saltbush vegetation, and the snow-capped Andes on the far horizon. Soft golden early-morning light, calm water with reflections. Wide telephoto panoramic view with birds and mountains in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-19-cisne`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a black-necked swan (Cygnus melancoryphus) swimming on calm water at Laguna Llancanelo, Mendoza, Argentina: pure white body, velvety black neck and head, a thin white stripe behind the eye, a large bright red knob (caruncle) at the base of the blue-grey bill. Soft morning light, clean reflection, telephoto lens, vertical framing with reeds blurred behind. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-19-coscoroba`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a coscoroba swan (Coscoroba coscoroba) on a shallow steppe lagoon in Mendoza, Argentina: all-white plumage except black wingtips (visible in flight or partly when folded), bright pinkish-red bill without a knob, pink legs, smaller and more goose-like than other swans. Soft early light, telephoto lens, reflections in calm water. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-19-maca`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a white-tufted grebe (Rollandia rolland, macá común) swimming among aquatic vegetation in a steppe wetland of Mendoza, Argentina: small dark grebe with black head and neck, a conspicuous white fan-shaped tuft on the side of the head, bright red eye, rufous-chestnut underparts in breeding plumage, short pointed dark bill. Soft morning light, telephoto lens, low angle at water level. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-19-monjita`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a rusty-backed monjita (Neoxolmis rubetra, monjita castaña / salinera) perched on a low saltbush in the Patagonian-Andean steppe of southern Mendoza, Argentina: slim tyrant flycatcher with rufous-brown back, white underparts with fine dark streaks on the breast, a white eyebrow, black wings with white edges and a black tail. Soft early-morning light, telephoto lens, dry steppe blurred behind. Check the species name with a local birding guide before using. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-20-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph inside the Caverna de las Brujas, Malargüe, Mendoza, Argentina: a limestone cave chamber full of stalactites hanging from the ceiling and stalagmites rising from the floor, flowstone curtains in cream, ochre and pale orange, lit by the warm beams of helmet lamps and flashlights from the side, deep darkness behind. Rich textures, wide-angle lens, formations in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-20-estalagmitas`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic close-up photograph of stalagmites rising from the floor of a limestone cave in the Caverna de las Brujas, Mendoza, Argentina: several cream and ochre calcite columns with wet, glistening rippled surfaces, small drops falling from stalactites above, lit by a single warm headlamp beam from the side, dark background. Vertical composition, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-20-boca`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the entrance of the Caverna de las Brujas in Cerro Moncol, Mendoza, Argentina: a dark cave mouth opening in a steep grey limestone hillside with nearly vertical rock layers, sparse steppe shrubs and a short footpath leading to it, clear blue sky. Bright clear morning light, wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-20-estalactitas`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic photograph of a cluster of slender stalactites hanging from the ceiling of a limestone cave in the Caverna de las Brujas, Mendoza, Argentina: thin soda-straw and cone-shaped formations in white, cream and amber, a drop of water at each tip catching the light, lit by warm flashlight beams, dark background. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-21-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Pampas Negras in La Payunia Reserve, Malargüe, Mendoza, Argentina: a vast plain of jet-black volcanic lapilli dotted with bright golden tufts of coirón amarillo grass like brush strokes, rounded reddish-brown and black volcanic cones scattered across the landscape, and the large smooth cone of the Payún Liso volcano rising behind. Warm low late-afternoon light, deep-blue sky. Wide-angle panoramic composition with the black plain, cones and volcano in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-21-payun-matru`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the Payún Matrú shield volcano in La Payunia, Mendoza, Argentina: a broad, low-angled shield volcano with a large summit caldera, its flanks streaked with dark lava flows and reddish scoria, black volcanic plain with yellow grass tufts in the foreground. Clear crisp morning light, big sky, vertical composition with the volcano in the lower half. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-21-guanaco`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a herd of guanacos (Lama guanicoe) crossing a black volcanic plain in La Payunia, Mendoza, Argentina: slender camelids with cinnamon-brown backs, white bellies, grey-black faces and upright ears, walking in single file among golden coirón grass tufts, volcanic cones behind. Golden late-afternoon light, telephoto lens. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-21-choique`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a lesser rhea or choique (Rhea pennata) walking across the volcanic steppe of La Payunia, Mendoza, Argentina: large flightless bird, smaller than the greater rhea, grey-brown plumage with distinctive white spots and speckles on the back, long neck, feathered upper legs, among yellow grass tufts on dark volcanic soil. Warm morning light, telephoto lens. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-21-lagarto`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a lagarto cola de piche (Phymaturus sp., a stout endemic Patagonian rock lizard) basking on dark volcanic rock in La Payunia, Mendoza, Argentina: flattened robust body, short thick tail with whorls of large spiny scales (like a little armadillo tail), grey-brown mottled skin. Warm midday light, macro-telephoto, rock texture sharp. Check the exact species with the reserve before using. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
