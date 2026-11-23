@@ -1,0 +1,1343 @@
+[
+  {
+    "codigo": "COR-01",
+    "region": "COR",
+    "ubicacion": "Miramar de Ansenuza · Córdoba",
+    "titulo": "Parque Nacional Ansenuza",
+    "bajada": "El lago salado más grande de Sudamérica es también el principal sitio de cría del flamenco austral.",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~197 km · ~2 h 30 a 3 h"
+      ],
+      [
+        "Rutas",
+        "RN 19, RP 10 y RP 17"
+      ],
+      [
+        "Superficie",
+        "Más de 661.000 ha"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá campings"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá el estado"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Tierra de sanavirones y de colonos piamonteses, Miramar se fundó en 1924 y fue balneario: sus aguas se usaban contra la artrosis. Desde 1977 la laguna creció y se tragó buena parte del pueblo viejo."
+      ],
+      [
+        "Una laguna viva",
+        "Es una cuenca endorreica: el agua llega sobre todo del río Dulce y solo se va por evaporación. Por eso crece y se achica con las lluvias, y en las bajantes reaparecen las ruinas del viejo Miramar."
+      ],
+      [
+        "Flamencos",
+        "El flamenco austral está todo el año y esta laguna es su principal sitio de cría. También llegan las otras dos especies sudamericanas. El Parque Nacional se creó por ley en 2022."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-01-flamenco-austral",
+      "titulo": "Flamenco austral",
+      "sub": "Su principal sitio de cría"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-01-aves-playeras",
+          "nombre": "Aves playeras",
+          "texto": "Acá se registró el 66 % de las migratorias del país."
+        },
+        {
+          "img": "COR-01-aguara-guazu",
+          "nombre": "Aguará guazú",
+          "texto": "Zorro de patas largas de los bañados del Dulce. Tímido."
+        },
+        {
+          "img": "COR-01-hotel-viena",
+          "nombre": "Gran Hotel Viena",
+          "texto": "De 1942, tragado por la laguna. Consultá si se visita."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Andá a la costanera al atardecer: con la luz baja, las bandadas de flamencos sobre el agua dan la mejor foto del día. Llevá binoculares."
+      ],
+      [
+        "En la camper",
+        "Frente a la Plaza Marchiquitos hay un punto de la Ruta del Motorhome: agua potable y descarga de grises y negras, sin cargo. Consultá campings en el pueblo."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-02",
+    "region": "COR",
+    "ubicacion": "Jesús María · Córdoba",
+    "titulo": "Jesús María y las estancias",
+    "bajada": "Tres estancias jesuíticas en pocos kilómetros; en una se hacía el lagrimilla, vino de misa que habría llegado al rey Felipe V.",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~50 km por la RN 9"
+      ],
+      [
+        "Santa Catalina",
+        "~13 km de tierra"
+      ],
+      [
+        "Patrimonio",
+        "UNESCO, desde 2000"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día para las tres"
+      ]
+    ],
+    "iconos": [
+      [
+        "camino",
+        "ok",
+        "Asfalto por la RN 9"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra a Santa Catalina"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "En Jesús María los jesuitas hacían el lagrimilla, para la misa y para vender; hoy la casa es el Museo Jesuítico Nacional. Santa Catalina, de 1622, la compró en remate Francisco Antonio Díaz, y sigue en manos de sus descendientes."
+      ],
+      [
+        "Los friulanos",
+        "En 1878 el Estado alojó en Caroya a inmigrantes friulanos, que fundaron la colonia y todavía hacen vino. El Museo de la Friulanidad Casa Copetti muestra cómo vivían aquellos primeros colonos."
+      ],
+      [
+        "Doma y folklore",
+        "Desde 1966, durante unos diez días de enero, el Anfiteatro José Hernández de Jesús María recibe el Festival Nacional de Doma y Folklore, con jineteadas y música."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-02-bodega-jesuitica",
+      "titulo": "Bodega jesuítica",
+      "sub": "Donde se hacía el lagrimilla"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-02-estancia-caroya",
+          "nombre": "Estancia de Caroya",
+          "texto": "Muebles de influencia friulana y la vieja prensa de vino."
+        },
+        {
+          "img": "COR-02-platanos",
+          "nombre": "Avenida de plátanos",
+          "texto": "~9 km de plátanos centenarios en Colonia Caroya."
+        },
+        {
+          "img": "COR-02-doma",
+          "nombre": "Festival de Doma",
+          "texto": "Jineteada y folklore en enero, en el Anfiteatro José Hernández."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Santa Catalina es propiedad privada y solo se visita con guía; los fines de semana a veces abre solo la iglesia. Consultá antes de ir."
+      ],
+      [
+        "En la camper",
+        "Asfalto hasta Jesús María; la tierra a Santa Catalina se complica con lluvia. Agua y descarga gratis en el Camping La Toma, en La Granja."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-03",
+    "region": "COR",
+    "ubicacion": "Cerro Colorado · Córdoba",
+    "titulo": "Cerro Colorado y sus pinturas",
+    "bajada": "Entre 3.000 y 5.000 pinturas rupestres en aleros de piedra, y la casa donde Atahualpa Yupanqui eligió quedarse para siempre.",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~160 km al norte"
+      ],
+      [
+        "Acceso",
+        "RN 9 y RP 21 por Santa Elena"
+      ],
+      [
+        "Reserva",
+        "~3.000 ha"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Camping junto al río"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá sobre la RN 9"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Las pinturas se atribuyen sobre todo a comechingones y sanavirones. La reserva, de unas 3.000 hectáreas entre los cerros Colorado, Veladero e Intihuasi, es Monumento Histórico Nacional desde 1961."
+      ],
+      [
+        "Los aleros",
+        "Las pinturas están en abrigos rocosos de los tres cerros y se recorren solo con guía, que se contrata en el Museo Arqueológico Provincial del pueblo. Calculá medio día para verlas."
+      ],
+      [
+        "Agua Escondida",
+        "Así llamó Atahualpa Yupanqui a su refugio. Murió en Francia en 1992 y sus restos descansan en Cerro Colorado, al pie de un roble. Su casa es museo, con objetos y guitarras."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-03-pintura-rupestre",
+      "titulo": "Arte rupestre",
+      "sub": "Entre 3.000 y 5.000 pinturas"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-03-casa-yupanqui",
+          "nombre": "Casa de Yupanqui",
+          "texto": "Sus guitarras, sus objetos y el roble donde descansa."
+        },
+        {
+          "img": "COR-03-museo-arqueologico",
+          "nombre": "Museo Arqueológico",
+          "texto": "Empezá acá: es donde se contratan los guías."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Medio día para los aleros y medio para Agua Escondida. Consultá el horario de la Casa Museo antes de salir y no uses flash con las pinturas."
+      ],
+      [
+        "En la camper",
+        "Hay zona de camping junto al río: preguntá en el pueblo si entra un vehículo grande. Cargá combustible en la RN 9. Agua y descarga: Villa Tulumba."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-04",
+    "region": "COR",
+    "ubicacion": "Capilla del Monte · Córdoba",
+    "titulo": "Ongamira y Los Terrones",
+    "bajada": "Paredones rojizos con cuevas, y el cerro desde donde, según la tradición, los comechingones prefirieron saltar antes que ser esclavizados.",
+    "datos": [
+      [
+        "Desde la RN 38",
+        "~10 km al ingreso"
+      ],
+      [
+        "Los Terrones",
+        "~14 km de Capilla del Monte"
+      ],
+      [
+        "Grutas",
+        "Con entrada"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día cada uno"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Dormí en Capilla"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Caminos rurales angostos"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Blas de Rosales entró al valle en 1573 y murió a manos de los comechingones, que después fueron acorralados. Según la tradición se arrojaron desde el cerro Charalqueta, hoy Colchiquí; fechas y cifras varían entre fuentes."
+      ],
+      [
+        "Paisaje",
+        "En el extremo norte del Valle de Punilla, lomas suaves y quebradas profundas van del rojizo al verde intenso. Las grutas son cavidades formadas por la erosión entre enormes paredes rojizas."
+      ],
+      [
+        "La subida",
+        "Al Charalqueta sube un sendero de dificultad media, de ~4 km y unas 3 h, por una pendiente bien marcada. La recompensa es la vista de todo el valle desde arriba."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-04-grutas",
+      "titulo": "Grutas de Ongamira",
+      "sub": "Cuevas abiertas por la erosión"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-04-charalqueta",
+          "nombre": "Cerro Charalqueta",
+          "texto": "Hoy Colchiquí. Desde la cima se ve todo el valle."
+        },
+        {
+          "img": "COR-04-los-terrones",
+          "nombre": "Los Terrones",
+          "texto": "Senderos entre rocas, con baños, agua y préstamo de bastones."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los Terrones, también llamada Quebrada de la Luna, es reserva privada: consultá horarios de la reserva y de las grutas antes de salir."
+      ],
+      [
+        "En la camper",
+        "Caminos rurales angostos: preguntá su estado en Capilla del Monte antes de entrar con un vehículo grande. Para dormir y cargar servicios, volvé a Capilla."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-05",
+    "region": "COR",
+    "ubicacion": "Capilla del Monte · Córdoba",
+    "titulo": "Capilla del Monte y el Uritorco",
+    "bajada": "Al pie del Uritorco, techo de las Sierras Chicas con 1.979 metros, está el pueblo famoso como la \"ciudad de los ovnis\".",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~92 km · ~1 h 05"
+      ],
+      [
+        "Ruta",
+        "RN 38, Valle de Punilla"
+      ],
+      [
+        "Uritorco",
+        "1.979 msnm · con entrada"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día para la cumbre"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Subida exigente: ~7 h"
+      ]
+    ],
+    "bloques": [
+      [
+        "Los ovnis",
+        "El 9 de enero de 1986 apareció en el cerro El Pajarillo una mancha gigante de unos 120 por 70 metros. Los vecinos la atribuyeron a un ovni: no hay evidencia científica, pero el pueblo adoptó el misterio."
+      ],
+      [
+        "La subida",
+        "El cerro es privado y se paga entrada. Se sube de 7 a 12 y hay que empezar a bajar antes de las 15:30: son ~4 h de subida y ~3 de bajada. Confirmá horarios en la base."
+      ],
+      [
+        "Para quién",
+        "Es una subida exigente y constante, sin tramos planos: no conviene para chicos muy chicos ni para quien nunca caminó en montaña. Salí temprano, porque el que llega tarde no sube."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-05-cumbre-uritorco",
+      "titulo": "Cumbre del Uritorco",
+      "sub": "1.979 m, techo de las Sierras Chicas"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-05-calle-techada",
+          "nombre": "Calle techada",
+          "texto": "En el centro, presentada como la única del país."
+        },
+        {
+          "img": "COR-05-dique-el-cajon",
+          "nombre": "Dique El Cajón",
+          "texto": "A ~2,4 km: pesca y deportes náuticos sin motor."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Ojo con el fuego",
+        "De junio a diciembre hay riesgo de incendios; con alerta ambiental está prohibido cualquier fuego. Si ves humo, llamá al 0800-888-38346 o al 100."
+      ],
+      [
+        "En la camper",
+        "Dormí en el Camping Municipal Calabalumba y consultá servicios para motorhome. Agua y descarga gratis en el Camping La Toma, en La Granja."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-06",
+    "region": "COR",
+    "ubicacion": "Villa Carlos Paz · Córdoba",
+    "titulo": "Carlos Paz y el Lago San Roque",
+    "bajada": "Bajo el lago duerme el primer dique San Roque: llevó a juicio a sus constructores y todavía sigue en pie.",
+    "datos": [
+      [
+        "Ubicación",
+        "Puerta del Valle de Punilla"
+      ],
+      [
+        "Lago",
+        "~1.600 ha"
+      ],
+      [
+        "Ideal como",
+        "Base para las Altas Cumbres"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Sol y Río"
+      ],
+      [
+        "camino",
+        "ok",
+        "Autopista desde Córdoba"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El primer dique lo levantaron hacia 1890 Carlos Cassaffousth y Juan Bialet Massé. Los acusaron de haberlo hecho mal y fueron a juicio; en 1895 los absolvieron, y el dique nunca cayó."
+      ],
+      [
+        "Dos paredones",
+        "El paredón actual se inauguró en 1944 y el viejo quedó bajo el agua: en las bajantes vuelve a asomar. El embalse, de unas 1.600 hectáreas, da agua potable a la ciudad de Córdoba."
+      ],
+      [
+        "En el lago",
+        "Hay catamarán, kayak, windsurf, vela y pesca, y la Aerosilla sube a un mirador sobre el Valle de Punilla y el San Roque. Es mejor base que destino: medio día alcanza."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-06-cola-de-la-novia",
+      "titulo": "Cola de la novia",
+      "sub": "Cortina de agua al abrir las válvulas"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-06-aerosilla",
+          "nombre": "Aerosilla",
+          "texto": "Sube a un mirador sobre el valle y el lago."
+        },
+        {
+          "img": "COR-06-viejo-paredon",
+          "nombre": "Viejo paredón",
+          "texto": "De 1890: asoma cuando baja el nivel del lago."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Subí a Los Gigantes por Tanti, en la página siguiente: torres de granito, cóndores y los últimos ~27 km de ripio."
+      ],
+      [
+        "En la camper",
+        "Dormí en el Camping Sol y Río, a orillas del río San Antonio (tel. +54 3541-495312); consultá servicios para motorhome. No hay punto de la Ruta del Motorhome."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-07",
+    "region": "COR",
+    "ubicacion": "Tanti · Córdoba",
+    "titulo": "Los Gigantes",
+    "bajada": "Torres de granito de las Sierras Grandes donde vuelan cóndores, a ~80 km de Córdoba y con los últimos 27 de ripio.",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~80 a 85 km"
+      ],
+      [
+        "Camino",
+        "RP 28; ~27 km de ripio"
+      ],
+      [
+        "Clima",
+        "Frío de noche"
+      ],
+      [
+        "Tiempo de visita",
+        "1 a 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Camping Casas Nuevas"
+      ],
+      [
+        "camino",
+        "aviso",
+        "~27 km de ripio"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Tanti"
+      ]
+    ],
+    "bloques": [
+      [
+        "Paisaje",
+        "Son cumbres escarpadas de roca granítica en las Sierras Grandes, terreno de montañismo y escalada. El clima es templado húmedo, y de noche hace frío: llevá abrigo aunque el día sea lindo."
+      ],
+      [
+        "El camino",
+        "Desde Carlos Paz, la RP 28 pasa por Tanti y los últimos ~27 km son de ripio. Viajeros lo reportan en buen estado, con máquinas trabajando, pero preguntá antes si llovió."
+      ],
+      [
+        "Cóndores",
+        "El cóndor andino es habitante propio de esta sierra y hay buena probabilidad de verlo planear. Uno de los cóndores liberados en las Sierras Grandes se llama Taba, por el tabaquillo."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-07-condor",
+      "titulo": "Cóndor andino",
+      "sub": "Planea sobre las torres de granito"
+    },
+    "fila": {
+      "titulo": "Flora y más",
+      "items": [
+        {
+          "img": "COR-07-tabaquillo",
+          "nombre": "Tabaquillo",
+          "texto": "El árbol típico de la sierra. Le dio nombre a Taba."
+        },
+        {
+          "img": "COR-07-escalada",
+          "nombre": "Escalada",
+          "texto": "Terreno de montañismo: fuera de los senderos, con guía."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Es un área con riesgos: para salir de los senderos más transitados, contratá un guía habilitado."
+      ],
+      [
+        "En la camper",
+        "El camping Casas Nuevas queda sobre el mismo ripio: consultá servicios y acceso para vehículos grandes. Cargá combustible, agua y comida en Tanti o Carlos Paz."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-08",
+    "region": "COR",
+    "ubicacion": "Cruz del Eje · Córdoba",
+    "titulo": "Estancia La Candelaria",
+    "bajada": "La estancia jesuítica más aislada del circuito: sobre la puerta del cuarto del cura todavía se lee grabado el año 1683.",
+    "datos": [
+      [
+        "Desde Cruz del Eje",
+        "~74 km"
+      ],
+      [
+        "Camino",
+        "Ripio angosto, sin servicios"
+      ],
+      [
+        "Patrimonio",
+        "UNESCO, desde 2000"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día, ida y vuelta"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin pernocte informado"
+      ],
+      [
+        "camino",
+        "no",
+        "No apto motorhome grande"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Entrá con tanque lleno"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Los descendientes del capitán García de Vera y Mujica donaron las tierras a la Compañía de Jesús en 1673, y hacia 1683 la estancia quedó en manos jesuitas. La Provincia la compró recién en 1982."
+      ],
+      [
+        "Patrimonio",
+        "Desde el 29 de noviembre de 2000 es Patrimonio de la Humanidad, junto con la Manzana Jesuítica de Córdoba y las estancias de Caroya, Jesús María, Santa Catalina y Alta Gracia."
+      ],
+      [
+        "Tres caminos",
+        "Todos tienen ripio o tierra: por Tanti, ~130 km desde Córdoba con casi la mitad de tierra; desde La Falda, ~55 km angostos y con curvas; o por Villa de Soto y La Higuera."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-08-puerta-1683",
+      "titulo": "La puerta de 1683",
+      "sub": "Año grabado sobre el cuarto del cura"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "COR-08-camino-ripio",
+          "nombre": "Camino de ripio",
+          "texto": "Angosto, con piedras y curvas cerradas. Con lluvia, empeora."
+        },
+        {
+          "img": "COR-08-capilla",
+          "nombre": "La capilla",
+          "texto": "Una sola fiesta al año: la Candelaria, cada 2 de febrero."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Consultá el estado del camino y los horarios antes de salir: en verano, con lluvia, el ripio se deteriora. No hay servicios en el trayecto."
+      ],
+      [
+        "En la camper",
+        "No recomendable para una motorhome grande. Con una camper chica y buen clima, entrá con tanque lleno, agua y comida. No hay pernocte informado."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-09",
+    "region": "COR",
+    "ubicacion": "Alta Gracia · Córdoba",
+    "titulo": "Alta Gracia y su estancia",
+    "bajada": "Una estancia jesuítica que compró un virrey, la casa donde se crió el Che y el refugio final de Manuel de Falla.",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~35 km · ~25 min"
+      ],
+      [
+        "Tajamar",
+        "Lago artificial de ~1659"
+      ],
+      [
+        "Patrimonio",
+        "UNESCO, desde 2000"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping en La Serranita"
+      ],
+      [
+        "camino",
+        "ok",
+        "~35 km de Córdoba"
+      ]
+    ],
+    "bloques": [
+      [
+        "La estancia",
+        "Los jesuitas levantaron acá la iglesia de Nuestra Señora de la Merced, la residencia y el Tajamar, un lago artificial que se fecha hacia 1659. Tras la expulsión, en 1810, la compró el ex virrey Santiago de Liniers."
+      ],
+      [
+        "El museo",
+        "Por eso el museo nacional que funciona en la residencia se llama Casa del Virrey Liniers. Guarda objetos de los siglos XVII al XIX; al salir, caminá alrededor del Tajamar, frente a la iglesia."
+      ],
+      [
+        "El Che y Falla",
+        "Entre 1932 y 1943 la familia Guevara vivió en Villa Nydia con el pequeño Ernesto: hoy es el Museo Casa del Che. El compositor Manuel de Falla eligió Alta Gracia para sus últimos años."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-09-residencia-liniers",
+      "titulo": "Residencia jesuítica",
+      "sub": "Hoy, Museo Casa del Virrey Liniers"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-09-villa-nydia",
+          "nombre": "Villa Nydia",
+          "texto": "La casa donde se crió el Che, hoy museo."
+        },
+        {
+          "img": "COR-09-museo-falla",
+          "nombre": "Museo Manuel de Falla",
+          "texto": "El refugio final del compositor español."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Seguí al sur, al Valle de Calamuchita: Villa General Belgrano y La Cumbrecita están en las páginas siguientes."
+      ],
+      [
+        "En la camper",
+        "Camping Familia Franchini (RP 5 km 42,5, La Serranita): duchas calientes y electricidad. El municipal, junto a la pileta, está renovado: consultá si admite motorhomes."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-10",
+    "region": "COR",
+    "ubicacion": "Villa General Belgrano · Córdoba",
+    "titulo": "Villa General Belgrano",
+    "bajada": "Fundada por alemanes en los años 30, con 130 marinos del Graf Spee entre sus vecinos y la mayor Oktoberfest de Latinoamérica.",
+    "datos": [
+      [
+        "Desde Córdoba",
+        "~89 km"
+      ],
+      [
+        "Valle",
+        "Calamuchita"
+      ],
+      [
+        "Fiesta",
+        "Oktoberfest, en octubre"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día a 1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en Los Reartes"
+      ],
+      [
+        "combustible",
+        "ok",
+        "En el pueblo"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lo fundaron colonos alemanes en los años 30, entre ellos Jorge Kappuhn y Paul Heintze; la fecha local es el 11 de octubre de 1932. En los años 40 llegaron marinos del acorazado Graf Spee, y unos 130 se quedaron."
+      ],
+      [
+        "El nombre",
+        "En 1937 el pueblo se llamaba Villa Calamuchita. Después la Legislatura le dio el nombre actual, en homenaje a Manuel Belgrano, el creador de la bandera argentina."
+      ],
+      [
+        "Oktoberfest",
+        "La Fiesta Nacional de la Cerveza se hace cada octubre desde 1963 y es considerada la más grande de Latinoamérica. Si vas en esas fechas, asegurá el lugar para la camper con anticipación."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-10-oktoberfest",
+      "titulo": "Oktoberfest",
+      "sub": "Cada octubre desde 1963"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "COR-10-cerveceria",
+          "nombre": "Cervecerías",
+          "texto": "Sumalas al paseo y la visita pasa a ser de un día."
+        },
+        {
+          "img": "COR-10-las-acacias",
+          "nombre": "Camping Las Acacias",
+          "texto": "En Los Reartes: agua y descarga gratis para motorhomes."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Subí a La Cumbrecita, el pueblo peatonal, a ~30 km por Athos Pampa: es la página siguiente."
+      ],
+      [
+        "En la camper",
+        "En Los Reartes, a pocos km: Las Acacias (agua y descarga gratis; consultá pernocte) y el Camping Tannenwald, que admite casas rodantes, con electricidad y agua caliente."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-11",
+    "region": "COR",
+    "ubicacion": "La Cumbrecita · Córdoba",
+    "titulo": "La Cumbrecita",
+    "bajada": "El único pueblo peatonal del país: desde 1996 los autos quedan en la entrada y se camina entre bosques y arroyos.",
+    "datos": [
+      [
+        "Desde V. G. Belgrano",
+        "~30 km por Athos Pampa"
+      ],
+      [
+        "Altura",
+        "~1.450 msnm"
+      ],
+      [
+        "Vehículos",
+        "Quedan en la entrada"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día entero"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Dormí en Los Reartes"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Curvas por Villa Berna"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El pueblo nació con la familia del doctor Helmut Cabjolsky, que llegó desde Alemania en los años 30. En 1996 se cerró al tránsito de vehículos y desde entonces se recorre solo a pie."
+      ],
+      [
+        "Senderos",
+        "Caminatas cortas llevan a la Cascada Grande, a La Olla y al Cerro Cristal, los rincones clásicos. Otros senderos siguen el Río del Medio y el Río Subterráneo, entre bosques de montaña."
+      ],
+      [
+        "Los caminos",
+        "Desde Villa General Belgrano hay dos: ~30 km por Athos Pampa, asfaltado en gran parte, o ~23 km de ripio por Los Reartes. El último tramo, por Villa Berna, es serrano y con curvas."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-11-cascada-grande",
+      "titulo": "Cascada Grande",
+      "sub": "El paseo clásico del pueblo"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "COR-11-la-olla",
+          "nombre": "La Olla",
+          "texto": "Pileta natural del río, a una caminata corta."
+        },
+        {
+          "img": "COR-11-goulash",
+          "nombre": "Goulash con spätzle",
+          "texto": "La cocina centroeuropea es parte de la visita."
+        },
+        {
+          "img": "COR-11-penon-del-aguila",
+          "nombre": "Peñón del Águila",
+          "texto": "Senderismo, tirolesa y palestra, en las afueras."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "La cocina centroeuropea es un clásico del pueblo: goulash con spätzle, cerveza y repostería. Consultá qué lugares están abiertos antes de ir."
+      ],
+      [
+        "En la camper",
+        "Estacioná en las playas de acceso: el centro no admite vehículos. Preferí Athos Pampa; el ripio, solo con buen tiempo. Dormí en Los Reartes o Villa General Belgrano."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-12",
+    "region": "COR",
+    "ubicacion": "Villa Alpina · Córdoba",
+    "titulo": "Cerro Champaquí",
+    "bajada": "El techo de Córdoba, a 2.790 metros, con una laguna cerca de la cumbre que en invierno queda congelada por semanas.",
+    "datos": [
+      [
+        "Desde V. G. Belgrano",
+        "~30 a 40 km de tierra"
+      ],
+      [
+        "Trekking",
+        "~30 a 42 km ida y vuelta"
+      ],
+      [
+        "Desnivel",
+        "~1.450 m"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días a pie"
+      ]
+    ],
+    "iconos": [
+      [
+        "altura",
+        "aviso",
+        "Cumbre a 2.790 m"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra a Villa Alpina"
+      ],
+      [
+        "pernocte",
+        "ok",
+        "Campings agrestes"
+      ]
+    ],
+    "bloques": [
+      [
+        "La ruta clásica",
+        "Sale de Villa Alpina y pasa por puestos serranos. El primer día suele terminar junto al río Tabaquillo, en carpa o en refugios; el segundo se hace cumbre y se vuelve a la base; el tercero, el regreso."
+      ],
+      [
+        "Por San Javier",
+        "Del lado de Traslasierra, desde San Javier, el sendero es más corto, de ~21 km, pero difícil: tiene una pendiente muy empinada. Es la opción para quien ya tiene experiencia en montaña."
+      ],
+      [
+        "Alta montaña",
+        "La subida tiene condiciones de alta montaña y es zona de riesgo: hubo accidentes fatales y en invierno puede nevar. Sin experiencia, contratá un guía habilitado y matriculado por Turismo de Córdoba."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-12-laguna",
+      "titulo": "Laguna de altura",
+      "sub": "Se congela por semanas en invierno"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "COR-12-rio-tabaquillo",
+          "nombre": "Río Tabaquillo",
+          "texto": "Fin del primer día: campamento o refugio."
+        },
+        {
+          "img": "COR-12-refugio",
+          "nombre": "Refugios",
+          "texto": "Como el de Marcos Domínguez, para pasar la noche."
+        },
+        {
+          "img": "COR-12-villa-alpina",
+          "nombre": "Villa Alpina",
+          "texto": "Aldea entre ríos y coníferas, punto de partida."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Con auto se llega solo hasta lo de Nelio Escalante; desde ahí, a pie. Cargá combustible y víveres en Villa General Belgrano."
+      ],
+      [
+        "En la camper",
+        "Preguntá el estado del camino de tierra antes de entrar con un vehículo grande. En Villa Alpina hay campings agrestes: dejá la camper ahí mientras subís."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-13",
+    "region": "COR",
+    "ubicacion": "Villa Carlos Paz · Córdoba",
+    "titulo": "Camino de las Altas Cumbres",
+    "bajada": "Casi 100 km de asfalto que cruzan el corazón de las Sierras Grandes; en invierno, a veces, la nieve lo cierra.",
+    "datos": [
+      [
+        "Ruta",
+        "RP E-34"
+      ],
+      [
+        "Recorrido",
+        "Carlos Paz a Mina Clavero"
+      ],
+      [
+        "Camino",
+        "~100 km de asfalto"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día con paradas"
+      ]
+    ],
+    "iconos": [
+      [
+        "camino",
+        "aviso",
+        "Cortes por nieve o hielo"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá antes de subir"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El primer camino se inauguró en 1918, con puentes colgantes y pircas, y lo llamaron la \"tercera maravilla artificial de Córdoba\". En 1965 empezaron las obras de un trazado nuevo, menos sinuoso y asfaltado, terminado en 1988."
+      ],
+      [
+        "Paisaje",
+        "La ruta trepa a la Pampa de Achala, la altiplanicie de las Sierras Grandes, pasa junto al acceso al Parque Nacional Quebrada del Condorito y después baja hacia el valle de Traslasierra."
+      ],
+      [
+        "Nieve y hielo",
+        "Entre junio y septiembre hubo cortes: la Policía Caminera cierra la ruta con nieve o hielo, a veces entre los km 65 y 75. Suele reabrir cuando sale el sol y el asfalto se descongela."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-13-pampa-de-achala",
+      "titulo": "Pampa de Achala",
+      "sub": "La altiplanicie de las Sierras Grandes"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "COR-13-ruta-nevada",
+          "nombre": "Ruta nevada",
+          "texto": "En invierno, la Caminera corta cuando hay hielo."
+        },
+        {
+          "img": "COR-13-puente-colgante",
+          "nombre": "Camino viejo",
+          "texto": "Por Copina y los puentes colgantes; clásico de ciclistas."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de salir",
+        "Consultá el estado del camino con la Policía Caminera o Vialidad. Si está cortado, la alternativa es la RP 15 por Cruz del Eje."
+      ],
+      [
+        "En la camper",
+        "Ruta de montaña con curvas y pendientes: bajá en marcha corta para no recalentar los frenos. Cargá combustible antes de subir."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-14",
+    "region": "COR",
+    "ubicacion": "Pampa de Achala · Córdoba",
+    "titulo": "Quebrada del Condorito",
+    "bajada": "Una grieta de 800 metros de profundidad en la Pampa de Achala, donde los cóndores andinos duermen y crían en las paredes.",
+    "datos": [
+      [
+        "Acceso",
+        "La Pampilla, RP E-34 km 59,5"
+      ],
+      [
+        "Camino",
+        "2 km de ripio al centro"
+      ],
+      [
+        "Entrada",
+        "Gratuita, con registro"
+      ],
+      [
+        "Ingresá antes de",
+        "15 h verano · 11 h invierno"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Acampe solo a pie"
+      ],
+      [
+        "camino",
+        "aviso",
+        "2 km de ripio"
+      ],
+      [
+        "altura",
+        "aviso",
+        "1.900 a 2.300 m"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó el 28 de noviembre de 1996 por la Ley 24.749, para proteger el hábitat de reproducción del cóndor andino. Con la vecina Reserva Hídrica Pampa de Achala forma un Área Importante para la Conservación de las Aves."
+      ],
+      [
+        "Geología",
+        "La Pampa de Achala, de 1.900 a 2.300 metros, es de rocas metamórficas muy antiguas atravesadas por grandes cuerpos de granito. Su aislamiento explica que haya especies que no existen en otro lugar."
+      ],
+      [
+        "Balcón Norte",
+        "Desde el estacionamiento 2 son ~5 km y ~2 h de ida hasta el mirador sobre el fondo de la quebrada, donde es muy probable ver cóndores. El Balcón Sur, de ~8 h, exige guía habilitado."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-14-tabaquillo",
+      "titulo": "Tabaquillo",
+      "sub": "Árbol que solo existe en la Argentina"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "COR-14-lagarto-achala",
+          "nombre": "Lagarto de Achala",
+          "texto": "Emblema del parque: solo vive acá y en el Champaquí."
+        },
+        {
+          "img": "COR-14-zorro-colorado",
+          "nombre": "Zorro colorado",
+          "texto": "El parque protege una raza propia de las sierras."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Si vas sin guía, el registro es obligatorio y se puede hacer online. Los únicos baños están junto al estacionamiento 1. Llevá agua y abrigo."
+      ],
+      [
+        "En la camper",
+        "Consultá al parque si se puede pernoctar en La Pampilla (+54 9 3541 532153). Se acampa sin servicios en Cañada, Pampa Pajosa y La Trinidad, llegando a pie."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-15",
+    "region": "COR",
+    "ubicacion": "Mina Clavero · Córdoba",
+    "titulo": "Mina Clavero, Nono y Rocsen",
+    "bajada": "Un río transparente que arma ollas y toboganes de piedra en plena ciudad y, muy cerca, un museo armado por un solo hombre.",
+    "datos": [
+      [
+        "Acceso",
+        "Al pie de las Altas Cumbres"
+      ],
+      [
+        "Museo Rocsen",
+        "~5 km de Nono"
+      ],
+      [
+        "Río",
+        "Aguas frías, ollas naturales"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día y medio"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Playa Mansa"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Llegada por la montaña"
+      ]
+    ],
+    "bloques": [
+      [
+        "El río",
+        "El río Mina Clavero baja frío de las Sierras Grandes y forma balnearios de arena dorada. En el límite con Villa Cura Brochero se junta con el templado Panaholma, y juntos forman el río de los Sauces."
+      ],
+      [
+        "Balnearios",
+        "Nido del Águila, donde el río corre encajonado entre rocas, Los Elefantes y Baño de los Dioses tienen ollas y toboganes naturales. Ojo: algunas ollas son profundas."
+      ],
+      [
+        "Museo Rocsen",
+        "Juan Santiago Bouchon lo inauguró el 6 de enero de 1969 y lo armó durante toda su vida. Las cifras van de 18.000 a 60.000 piezas: hay de todo, de antigüedades a autos."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-15-museo-rocsen",
+      "titulo": "Museo Rocsen",
+      "sub": "La colección de toda una vida"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "COR-15-nido-del-aguila",
+          "nombre": "Nido del Águila",
+          "texto": "El río encajonado entre rocas, con ollas profundas."
+        },
+        {
+          "img": "COR-15-panaholma",
+          "nombre": "Río Panaholma",
+          "texto": "Aguas templadas; en quechua, \"aguas taciturnas\"."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El Rocsen queda entre Nono y Mina Clavero: consultá el horario vigente antes de ir. Calculá un día para los balnearios y medio para el museo."
+      ],
+      [
+        "En la camper",
+        "Camping Playa Mansa, junto al río de los Sauces: parcelas grandes y 220 V, algo ruidoso. Para descargar, consultá a la Municipalidad (3544-559410) o andá a Salsacate."
+      ]
+    ]
+  },
+  {
+    "codigo": "COR-16",
+    "region": "COR",
+    "ubicacion": "Salsacate · Córdoba",
+    "titulo": "Parque Nacional Traslasierra",
+    "bajada": "Sobre la vieja Estancia Pinas, protege una de las últimas poblaciones de guanacos de la provincia.",
+    "datos": [
+      [
+        "Ingreso",
+        "Solo por la Portada Sur"
+      ],
+      [
+        "Al área de visitantes",
+        "~18 km desde la portada"
+      ],
+      [
+        "Superficie",
+        "~44.000 ha"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día entero"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en Salsacate"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio largo"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Entrá con tanque lleno"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó por la Ley 27.435 en 2018 sobre la histórica Estancia Pinas, en el oeste de Córdoba. Además del casco de la ex estancia, guarda rastros de un antiguo asentamiento comechingón."
+      ],
+      [
+        "Chaco Seco",
+        "Bosques, arbustales, pastizales naturales y zonas salinas. En los bosques serranos de la sierra de Guasapampa se descubrió un roedor nuevo para la ciencia, Apnoctomys conicetorum."
+      ],
+      [
+        "Por tu cuenta",
+        "Las visitas son autoguiadas: en 2024 no había guías habilitados. Cerca del casco se permiten caminatas, avistaje de fauna, fotografía, visita a sitios históricos y picnic."
+      ]
+    ],
+    "destacada": {
+      "img": "COR-16-estancia-pinas",
+      "titulo": "Estancia Pinas",
+      "sub": "El casco de la vieja estancia"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "COR-16-aguila-coronada",
+          "nombre": "Águila coronada",
+          "texto": "Rapaz amenazada: verla es raro."
+        },
+        {
+          "img": "COR-16-boa-chaquena",
+          "nombre": "Boa chaqueña",
+          "texto": "Exclusiva del Chaco Seco."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Confirmá días, horarios y estado del camino en traslasierra@apn.gob.ar. Los Túneles de Taninga estaban cerrados por mantenimiento en 2024."
+      ],
+      [
+        "En la camper",
+        "Ripio largo y sin servicios: entrá con tanque lleno, agua y comida. Agua y descarga gratis en el Camping Municipal de Salsacate, de la Ruta del Motorhome."
+      ]
+    ]
+  }
+]

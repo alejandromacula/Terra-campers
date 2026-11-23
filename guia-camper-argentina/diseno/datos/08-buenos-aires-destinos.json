@@ -1,0 +1,680 @@
+[
+  {
+    "codigo": "BSA-01",
+    "region": "BSA",
+    "ubicacion": "Tigre · Buenos Aires",
+    "titulo": "El Delta del Paraná y Tigre",
+    "bajada": "A media hora del Obelisco empieza un laberinto de islas que sigue creciendo: avanza unos 50 metros por año sobre el río.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~30 km · ~30 min"
+      ],
+      [
+        "Acceso a las islas",
+        "Lancha colectiva (SUBE)"
+      ],
+      [
+        "Salida",
+        "Estación Fluvial, Mitre 305"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Mejor dormir fuera"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto; luego lancha"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Antes se llamaba Las Conchas, por las conchillas del lecho del río; por ahí desembarcó Liniers en 1806 para la Reconquista. Tigre alude a los cazadores de yaguareté, el \"tigre\" de los españoles."
+      ],
+      [
+        "Islas nuevas",
+        "El Paraná baja cargado de sedimentos y en la desembocadura los deja en bancos que se unen y se vuelven islas: casi todas las que están frente a San Fernando aparecieron en el siglo XX."
+      ],
+      [
+        "Monte de isla",
+        "En los albardones, las orillas altas de cada isla, crece monte de sauce criollo, aliso de río, timbó y ceibo; en los bajos, pajonales. En 2000 la UNESCO declaró Reserva de Biosfera unas 10.500 ha."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-01-ceibo",
+      "titulo": "Ceibo",
+      "sub": "Florece en los albardones de las islas"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-01-estacion-fluvial",
+          "nombre": "Estación Fluvial",
+          "texto": "De acá salen las lanchas, junto a la estación de tren."
+        },
+        {
+          "img": "BSA-01-lobito-de-rio",
+          "nombre": "Lobito de río",
+          "texto": "Nutria nativa amenazada, especie paraguas del Delta. Verlo es raro."
+        },
+        {
+          "img": "BSA-01-carpincho",
+          "nombre": "Carpincho",
+          "texto": "Clásico de los humedales: con suerte, en la orilla de los arroyos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Subite a una lancha colectiva como un isleño más: es el transporte público de las islas y la forma más barata de meterse en los arroyos."
+      ],
+      [
+        "En la camper",
+        "La camper se queda en tierra: dejala cerca de la Estación Fluvial y dormí en otro lado. Hay campings sobre los ríos: consultá si se llega por tierra."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-02",
+    "region": "BSA",
+    "ubicacion": "Isla Martín García · Buenos Aires",
+    "titulo": "Isla Martín García",
+    "bajada": "Una isla argentina a 3,5 km de Uruguay donde estuvieron presos tres presidentes: Yrigoyen, Perón y Frondizi.",
+    "datos": [
+      [
+        "Salida",
+        "Estación Fluvial de Tigre"
+      ],
+      [
+        "Navegación",
+        "~2 h por el Delta y el río"
+      ],
+      [
+        "Excursión",
+        "Zarpe 9 h · vuelta ~17 h"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "La camper queda en Tigre"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Solo se llega en barco"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lleva el nombre del despensero de Solís, enterrado allí en 1516. Fue presidio: pasaron hasta 3.000 indígenas prisioneros y estuvieron detenidos Yrigoyen (1930), Perón (1945) y Frondizi (1962). Es Monumento Histórico Nacional desde 1983."
+      ],
+      [
+        "Roca y selva",
+        "A diferencia de las islas de barro del Delta, tiene roca, viejas canteras y relieve. En sus orillas crece selva en galería con timbó, lapacho, ibirá pitá, ceibo y laurel criollo."
+      ],
+      [
+        "Aves",
+        "Es Área Importante para la Conservación de las Aves, con más de un centenar de especies, de picaflores y cardenales a garzas y caburés. Con suerte, también carpinchos en los bañados."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-02-presidio",
+      "titulo": "Barrio histórico",
+      "sub": "Fue presidio de tres presidentes"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-02-lapacho",
+          "nombre": "Lapacho",
+          "texto": "Uno de los árboles de la selva en galería."
+        },
+        {
+          "img": "BSA-02-cardenal",
+          "nombre": "Cardenal",
+          "texto": "Una de las más de cien aves de la isla."
+        },
+        {
+          "img": "BSA-02-pan-dulce",
+          "nombre": "Pan dulce de la isla",
+          "texto": "Tiene fama propia: buen recuerdo para llevar de vuelta."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Llevá abrigo y protector solar para la navegación. Es reserva natural desde 1998 y en la isla viven entre 150 y 200 personas."
+      ],
+      [
+        "En la camper",
+        "La camper se queda todo el día en Tigre: buscá estacionamiento cerca de la Estación Fluvial y consultá antes si hay lugar para un vehículo grande."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-03",
+    "region": "BSA",
+    "ubicacion": "Otamendi · Campana · Buenos Aires",
+    "titulo": "Ciervo de los Pantanos",
+    "bajada": "El parque nacional más cercano a CABA protege, entre fábricas y autopistas, al ciervo más grande de Sudamérica.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~66 km por RN 9 (asfalto)"
+      ],
+      [
+        "Horario",
+        "Todos los días, 10–18 h"
+      ],
+      [
+        "Entrada",
+        "Gratuita, con registro"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Solo visita de día"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Sobre la Panamericana"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 2018 por la Ley 27.456, sobre la base de la vieja Reserva Natural Otamendi, que ya tenía 28 años. Desde 2008 es sitio Ramsar, humedal de importancia internacional."
+      ],
+      [
+        "Paisaje",
+        "Desde la barranca, el terreno cae a los bajos inundables del Paraná de las Palmas: pastizales nativos, bañados y bosquecitos. Es uno de los pocos ambientes naturales sanos de la región más poblada del país."
+      ],
+      [
+        "El sendero",
+        "Historias del Pastizal tiene 1 km: se hace en 20 minutos solo o en una hora con guía. Termina en miradores sobre el bajo, el mejor lugar para buscar al ciervo, sin garantías."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-03-ciervo",
+      "titulo": "Ciervo de los pantanos",
+      "sub": "El mayor cérvido de Sudamérica"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-03-pajonalera",
+          "nombre": "Pajonalera de pico recto",
+          "texto": "Pajarito amenazado de los pajonales: para observadores pacientes."
+        },
+        {
+          "img": "BSA-03-sendero",
+          "nombre": "Historias del Pastizal",
+          "texto": "1 km de pastizal nativo hasta los miradores."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los senderos se habilitan de 10:30 a 17 h y hay que registrarse al llegar. La intendencia está en Rómulo Otamendi 1127. Llevá binoculares."
+      ],
+      [
+        "En la camper",
+        "No hay camping en el parque: es visita de día. Dormí en un camping de la zona o seguí viaje. Sobre la Panamericana tenés servicios de sobra."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-04",
+    "region": "BSA",
+    "ubicacion": "General Lavalle · Buenos Aires",
+    "titulo": "Parque Nacional Campos del Tuyú",
+    "bajada": "El primer parque nacional bonaerense cuida a uno de los últimos grupos de venado de las pampas: apenas unos 150 animales.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~293 km"
+      ],
+      [
+        "Desde La Plata",
+        "~233 km"
+      ],
+      [
+        "Rutas",
+        "Autovía 2, RP 63 y RP 11"
+      ],
+      [
+        "Mejor época",
+        "Primavera y verano"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Base en Gral. Lavalle"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá antes de la tierra"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra: no tras lluvias"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Desde 1979 fue reserva privada de la Fundación Vida Silvestre Argentina. En 2006 la Fundación acordó donar las tierras y en 2009 la Ley 26.499 creó el parque nacional, de unas 3.040 ha."
+      ],
+      [
+        "La bahía",
+        "Ocupa la costa sur de la Bahía Samborombón, gran zona intermareal del Río de la Plata y sitio Ramsar. En los bajos, marismas y cangrejales; en las lomas de viejos cordones costeros, talares."
+      ],
+      [
+        "Aves",
+        "La bahía suma más de 360 especies y es parte de la Red Hemisférica de Reservas de Aves Playeras, con el playerito canela, migrador amenazado. En el pastizal anda el ñandú."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-04-venado",
+      "titulo": "Venado de las pampas",
+      "sub": "Quedan unos 150 en la zona"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-04-playerito-canela",
+          "nombre": "Playerito canela",
+          "texto": "Migrador amenazado que usa la bahía para descansar y comer."
+        },
+        {
+          "img": "BSA-04-nandu",
+          "nombre": "Ñandú",
+          "texto": "El ave grande del pastizal pampeano."
+        },
+        {
+          "img": "BSA-04-faro-san-antonio",
+          "nombre": "Faro San Antonio",
+          "texto": "En Punta Rasa, a 30 km, donde termina la bahía."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Coordiná la visita con la intendencia del parque en General Lavalle (02252-491-085). Con lluvias, sobre todo en invierno, el acceso de tierra se complica."
+      ],
+      [
+        "En la camper",
+        "No hay camping confirmado en el parque: hacé base en General Lavalle o San Clemente del Tuyú. Cargá combustible y agua antes de dejar el asfalto."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-05",
+    "region": "BSA",
+    "ubicacion": "Pinamar · Buenos Aires",
+    "titulo": "Pinamar y Cariló",
+    "bajada": "Donde hoy hay pinares hubo médanos móviles: la empresa fundadora de Pinamar plantó unos 6 millones de árboles, la mayoría pinos.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~350–360 km · ~4 h"
+      ],
+      [
+        "Rutas",
+        "Autovía 2, RP 11, 56 y 74"
+      ],
+      [
+        "Cariló",
+        "Pegado, hacia Villa Gesell"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Quimey Lemú"
+      ],
+      [
+        "camino",
+        "no",
+        "No entres a los médanos"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "En los años 20, Héctor Guerrero empezó a forestar los médanos de su campo y en 1935 lo llamó Cariló, \"médano verde\". Al lado, Jorge Bunge inauguró Pinamar en 1943: fijó los médanos en vez de aplanarlos."
+      ],
+      [
+        "Bosque plantado",
+        "Antes, los médanos solo tenían pastos. Para fijarlos se plantaron pinos, eucaliptos, acacias y tamariscos, todos exóticos, y bajo esos bosques el sotobosque es muy pobre."
+      ],
+      [
+        "Calles de arena",
+        "Cariló conserva el bosque como norma: calles de arena, porque el pavimento dañaría raíces y drenaje, y sin alumbrado público. Está pegado a Pinamar, camino a Villa Gesell."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-05-carilo",
+      "titulo": "Cariló",
+      "sub": "\"Médano verde\": arena y pinos"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-05-lagartija-dunas",
+          "nombre": "Lagartija de las dunas",
+          "texto": "Amenazada: vive en los médanos que quedan sin forestar."
+        },
+        {
+          "img": "BSA-05-medano",
+          "nombre": "Médano costero",
+          "texto": "Así era toda esta costa antes de los pinos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Enero es temporada alta: reservá con tiempo. La RP 11 es de un carril por mano, así que paciencia con los sobrepasos."
+      ],
+      [
+        "En la camper",
+        "El Camping Quimey Lemú tiene sector para motorhomes y acepta mascotas. No entres a los médanos: Pinamar multa fuerte y secuestra vehículos en zonas prohibidas."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-06",
+    "region": "BSA",
+    "ubicacion": "Villa Gesell · Buenos Aires",
+    "titulo": "Villa Gesell y Mar de las Pampas",
+    "bajada": "En 1931 Gesell compró 1.648 hectáreas de médanos que nadie quería y levantó su casa sobre una duna de 9 metros.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~4 h, vía Pinamar"
+      ],
+      [
+        "Desde Mar del Plata",
+        "~107 km"
+      ],
+      [
+        "Faro Querandí",
+        "~30 km al sur, por playa"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Mar Dorado"
+      ],
+      [
+        "camino",
+        "no",
+        "Al faro, nunca en camper"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Gesell compró las tierras en 1931 para producir madera. Fijó la arena con pastos resistentes y plantó acacias como cortina para proteger a los pinos del viento. Su casa sobre la duna es hoy el museo histórico."
+      ],
+      [
+        "Dunas vivas",
+        "Un cordón de médanos corre paralelo al mar. Al norte, la mano de Gesell: pinos y acacias sobre la arena. Al sur sigue vivo: la Reserva Faro Querandí protege unas 5.500 ha de dunas y pastizales."
+      ],
+      [
+        "El faro",
+        "El Faro Querandí mide 54 metros y tiene 276 escalones en caracol, con vista a las dunas vírgenes. Se llega por la playa desde la calle 47, en excursión: hay paseos en cuatriciclo."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-06-casa-gesell",
+      "titulo": "Casa de Gesell",
+      "sub": "Sobre una duna, hoy museo"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-06-mar-de-las-pampas",
+          "nombre": "Mar de las Pampas",
+          "texto": "Bosque y calles de arena, al sur de la villa."
+        },
+        {
+          "img": "BSA-06-ostrero",
+          "nombre": "Ostrero",
+          "texto": "Una de las aves playeras fáciles de ver en la reserva."
+        },
+        {
+          "img": "BSA-06-monjita-dominica",
+          "nombre": "Monjita dominica",
+          "texto": "Pájaro blanco y negro de los pastizales del Querandí."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El municipio multa el acampe en el Faro Querandí y secuestró casi 50 vehículos en los médanos del norte: a la reserva, solo en excursión."
+      ],
+      [
+        "En la camper",
+        "Dormí en camping: Mar Dorado tiene 5 ha de bosque con bajada a la playa (tel. 2255-470963). Ingreso hasta las 20 h, salida antes de las 10 h."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-07",
+    "region": "BSA",
+    "ubicacion": "Mar Chiquita · Buenos Aires",
+    "titulo": "La albufera de Mar Chiquita",
+    "bajada": "La única albufera del país: 25 a 27 km de laguna, separada del mar por arena, que mezcla agua dulce y salada.",
+    "datos": [
+      [
+        "Desde Mar del Plata",
+        "~20–30 km · ~30 min"
+      ],
+      [
+        "Acceso",
+        "RP 11, km 483"
+      ],
+      [
+        "Camino",
+        "Asfalto"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Base en Mar del Plata"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (RP 11)"
+      ]
+    ],
+    "bloques": [
+      [
+        "La albufera",
+        "Es una laguna costera cerrada por bancos de arena que formó el viento. Esta sigue conectada al mar y a la vez recibe agua dulce de arroyos y canales. Su fondo de barro está lleno de cangrejos."
+      ],
+      [
+        "Protección",
+        "Reserva natural desde 1989, la UNESCO la declaró Reserva de Biosfera en 1996: 26.488 ha de laguna, playas, médanos, pastizales y arroyos. También es Área Importante para la Conservación de las Aves."
+      ],
+      [
+        "Plantas de sal",
+        "Alrededor de la laguna domina una estepa de plantas que toleran la sal: espartillares, juncales y hunquillares. Un poco más adentro aparecen talares de tala y cortaderales."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-07-cangrejo",
+      "titulo": "Cangrejo cavador",
+      "sub": "Llena de cuevas el barro de la orilla"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "BSA-07-gaviota-cangrejera",
+          "nombre": "Gaviota cangrejera",
+          "texto": "Vulnerable: una razón clave para proteger la laguna."
+        },
+        {
+          "img": "BSA-07-rayador",
+          "nombre": "Rayador",
+          "texto": "Registrado en la laguna: buscalo con binoculares."
+        },
+        {
+          "img": "BSA-07-flamenco",
+          "nombre": "Flamenco austral",
+          "texto": "También anda por la laguna, con suerte."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Para pajarear",
+        "Andá con binoculares a la desembocadura, donde el agua de la laguna se encuentra con el mar. Enero es temporada alta en toda la costa."
+      ],
+      [
+        "En la camper",
+        "No hay campings confirmados para camper en el balneario: hacé base en Mar del Plata y vení de día. Entrada: km 483 de la RP 11."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-08",
+    "region": "BSA",
+    "ubicacion": "Mar del Plata · Buenos Aires",
+    "titulo": "Mar del Plata y la lobería",
+    "bajada": "Antes que los turistas llegaron los lobos marinos: en 1873 se los describía amontonados en la costa, y siguen en el puerto.",
+    "datos": [
+      [
+        "Desde Mar Chiquita",
+        "~30 km por RP 11"
+      ],
+      [
+        "Lobería",
+        "Escollera Sur, en el puerto"
+      ],
+      [
+        "Entrada",
+        "Espacio público, gratis"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en las afueras"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (Autovía 2)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El lugar se conocía como Puerto de la Laguna de los Padres. Patricio Peralta Ramos compró las tierras de un saladero fracasado, las loteó y en 1873 pidió el nombre Mar del Plata. El pueblo se reconoció en 1874."
+      ],
+      [
+        "Costa de roca",
+        "Acá termina Tandilia, un cordón de unos 350 km que nace tierra adentro y se hunde en el mar en Cabo Corrientes. Sus ortocuarcitas son la \"piedra Mar del Plata\", de canteras de Batán y Chapadmalal."
+      ],
+      [
+        "La lobería",
+        "La colonia de lobos marinos de un pelo de la Escollera Sur rondaba los 500 animales en 2023, echados en la banquina. No te acerques: ese año se cerró el acceso por gripe aviar."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-08-cabo-corrientes",
+      "titulo": "Cabo Corrientes",
+      "sub": "Donde Tandilia se hunde en el mar"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-08-lobo-marino",
+          "nombre": "Lobo marino de un pelo",
+          "texto": "Miralo de lejos: es un animal salvaje."
+        },
+        {
+          "img": "BSA-08-laguna-de-los-padres",
+          "nombre": "Laguna de los Padres",
+          "texto": "Le dio el primer nombre al lugar. Se puede acampar."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Hay un plan para mudar la lobería dentro del puerto: preguntá dónde está ese día. En enero los campings rozan el 80 % de ocupación: reservá."
+      ],
+      [
+        "En la camper",
+        "Hay campings sobre la RP 226; en la Laguna de los Padres, el centro Crecim permite acampar varios días. Consultá la norma antes de dormir en la calle."
+      ]
+    ]
+  }
+]

@@ -1,0 +1,983 @@
+[
+  {
+    "codigo": "AUS-01",
+    "region": "AUS",
+    "ubicacion": "Los Antiguos · Santa Cruz",
+    "titulo": "Los Antiguos · Lago Buenos Aires",
+    "bajada": "Las cerezas más australes del país: en abril de 2025 fueron las primeras frutas frescas argentinas con Denominación de Origen.",
+    "datos": [
+      [
+        "Desde Perito Moreno",
+        "~60 km · RP 43"
+      ],
+      [
+        "Camino",
+        "Asfalto, apto camper"
+      ],
+      [
+        "Lago",
+        "Hasta ~590 m de profundidad"
+      ],
+      [
+        "Tiempo de visita",
+        "1 tarde · 1 día en cosecha"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Perito Moreno"
+      ],
+      [
+        "camino",
+        "ok",
+        "RP 43 asfaltada"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El nombre traduce una voz tehuelche que suele explicarse como \"sitio de los ancianos\": según la leyenda, los mayores elegían este rincón templado para sus últimos años. En 1991 la ceniza del volcán Hudson tapó las chacras: hubo que recomenzar."
+      ],
+      [
+        "Microclima",
+        "El lago, de origen glaciar y compartido con Chile (allá se llama General Carrera), llega a unos 590 m de profundidad y suaviza el clima de la costa: un oasis en plena estepa."
+      ],
+      [
+        "Cerezas",
+        "Se cultivan desde los años 70. Hoy conviven variedades tempranas con tardías como Sweetheart, Kordia y Regina, y la cosecha se estira hasta principios de febrero."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-01-cerezas",
+      "titulo": "Cerezas australes",
+      "sub": "Con Denominación de Origen desde 2025"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AUS-01-choique",
+          "nombre": "Choique",
+          "texto": "Ñandú patagónico: cruza los campos de la costa hacia La Ascensión."
+        },
+        {
+          "img": "AUS-01-martineta",
+          "nombre": "Martineta",
+          "texto": "Perdiz copetona de la estepa: camina al costado de los caminos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Fiesta de la Cereza",
+        "La Fiesta Nacional de la Cereza se hace desde 1991, en pleno verano: confirmá la fecha de cada año. Llegan miles de visitantes, así que reservá lugar."
+      ],
+      [
+        "En la camper",
+        "Camping municipal en el acceso al pueblo, o el acampe de La Ascensión, a 20 km. Cargá en Perito Moreno y estacioná de culata al viento: sopla fuerte."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-02",
+    "region": "AUS",
+    "ubicacion": "Perito Moreno · Santa Cruz",
+    "titulo": "Parque Nacional Patagonia",
+    "bajada": "Último refugio del macá tobiano, un ave que solo anida en lagunas de Santa Cruz y que la ciencia conoció en 1974.",
+    "datos": [
+      [
+        "Portal La Ascensión",
+        "20 km de Los Antiguos"
+      ],
+      [
+        "Cañadón Pinturas",
+        "RN 40 · ~54 km de P. Moreno"
+      ],
+      [
+        "Horario Pinturas",
+        "Oct. a mar., 8 a 20 h"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día por portal"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe en La Ascensión"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Perito Moreno"
+      ],
+      [
+        "camino",
+        "ok",
+        "RP 43 asfaltada"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lo creó la Ley 27.081 en diciembre de 2014, sobre tierras que cedió Santa Cruz. El centro de visitantes de La Ascensión es el casco de una estancia de 1912: galpón de esquila, corrales y matera siguen en pie."
+      ],
+      [
+        "Paisaje",
+        "Conos volcánicos, mesetas escalonadas y cañadones como el del río Pinturas. Arriba, la Meseta del Lago Buenos Aires guarda las lagunas donde anida el macá, lejos de cualquier camino."
+      ],
+      [
+        "Senderos",
+        "Desde La Ascensión, un sendero de ~25 km sube por un arroyo hasta el borde de la meseta. En Cañadón Pinturas, el Mirador El Cóndor se visita solo con guía."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-02-maca-tobiano",
+      "titulo": "Macá tobiano",
+      "sub": "Endémico y en peligro crítico"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-02-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Habitual en el cañadón y en la estepa."
+        },
+        {
+          "img": "AUS-02-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Planea sobre los paredones del Cañadón Pinturas."
+        },
+        {
+          "img": "AUS-02-galpon-esquila",
+          "nombre": "Galpón de esquila",
+          "texto": "Parte del casco de estancia de 1912, en La Ascensión."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Para pajarear",
+        "Choiques y martinetas cruzan seguido los caminos de La Ascensión. El macá anida en la meseta, lejos del auto: verlo es muy raro."
+      ],
+      [
+        "En la camper",
+        "En La Ascensión, acampe junto al lago con asadores y baños: registrate con los guardaparques. En Pinturas hay campings; consultá cómo se reservan. Cargá en Perito Moreno."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-03",
+    "region": "AUS",
+    "ubicacion": "Bajo Caracoles · Santa Cruz",
+    "titulo": "Cueva de las Manos",
+    "bajada": "Cientos de manos estampadas en la roca por cazadores que pintaron este alero desde hace unos 9.300 años.",
+    "datos": [
+      [
+        "Desde la RN 40",
+        "~47 km de ripio"
+      ],
+      [
+        "Pasarelas",
+        "~1,5 km hasta el alero"
+      ],
+      [
+        "Visita",
+        "Solo con guía y reserva"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No en la cueva"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Entrá con tanque lleno"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio y viento cruzado"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "La UNESCO la declaró Patrimonio de la Humanidad en 1999. Hay tres momentos de pintura: escenas de caza de guanacos, cientos de manos en negativo y, al final, diseños abstractos."
+      ],
+      [
+        "Manos izquierdas",
+        "En un conteo hubo 829 izquierdas contra 31 derechas. Se cree que la mano derecha sostenía el tubo de hueso o caña con que se soplaba el pigmento."
+      ],
+      [
+        "Los colores",
+        "Óxidos de hierro para los rojos, caolín para el blanco y manganeso para el negro: minerales de la zona que aguantaron milenios al reparo del alero y del aire seco de la estepa."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-03-caza-guanacos",
+      "titulo": "Escena de caza",
+      "sub": "Guanacos pintados sobre la roca"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-03-canadon-pinturas",
+          "nombre": "Cañadón del Pinturas",
+          "texto": "El alero se abre en la pared de este cañadón."
+        },
+        {
+          "img": "AUS-03-guanaco",
+          "nombre": "Guanaco",
+          "texto": "El protagonista de las pinturas sigue pastando en el cañadón."
+        },
+        {
+          "img": "AUS-03-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Planea sobre los paredones del río Pinturas."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "La visita es solo con guía: reservá en cuevadelasmanos.org y confirmá los horarios. Desde Cañadón Pinturas también se llega a pie: consultá el sendero a los guardaparques."
+      ],
+      [
+        "En la camper",
+        "No hay camping en la cueva: dormí en Cañadón Pinturas o en Bajo Caracoles. Entrá con tanque lleno y andá despacio: ripio, viento cruzado y bajadas al cañadón."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-04",
+    "region": "AUS",
+    "ubicacion": "Gobernador Gregores · Santa Cruz",
+    "titulo": "La Cuarenta más solitaria",
+    "bajada": "De Bajo Caracoles a Tres Lagos: en 2024 La Nación llamó a su gran escala \"el paraje de dos habitantes\".",
+    "datos": [
+      [
+        "Desde Perito Moreno",
+        "~127 km a Bajo Caracoles"
+      ],
+      [
+        "B. Caracoles–Gregores",
+        "~228 km sin estaciones"
+      ],
+      [
+        "Camino",
+        "Asfalto y ripio (RN 40)"
+      ],
+      [
+        "Tiempo de manejo",
+        "Un día largo, de día"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "aviso",
+        "Llevá bidón de reserva"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Viento: cortes de ruta"
+      ],
+      [
+        "pernocte",
+        "aviso",
+        "Hotel de Bajo Caracoles"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Los hoteles-almacén de esta ruta (Riera, Las Horquetas, Olnie, Bajo Caracoles) fueron, entre 1880 y 1950, los boliches de parada del Territorio de Santa Cruz. El de Bajo Caracoles, de bloques de piedra, sigue atendiendo."
+      ],
+      [
+        "Paisaje",
+        "Estepa abierta de mesetas, bajos y lagunas, con los Andes a la derecha. Los reportes no coinciden en cuánto ripio queda: consultá a Vialidad Nacional antes de salir."
+      ],
+      [
+        "El viento",
+        "Santa Cruz corta la RN 40 por ráfagas fuertes, como en diciembre de 2025. Con viento cruzado bajá la velocidad; con ráfagas muy fuertes, pará de espaldas al viento, nunca de costado, y esperá."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-04-hotel-bajo-caracoles",
+      "titulo": "Bajo Caracoles",
+      "sub": "Hotel de piedra y surtidor sobre la 40"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "AUS-04-guanacos",
+          "nombre": "Guanacos",
+          "texto": "En manadas al costado de la ruta; cruzan sin aviso."
+        },
+        {
+          "img": "AUS-04-choique",
+          "nombre": "Choique",
+          "texto": "Corre paralelo a la ruta: bajá la velocidad."
+        },
+        {
+          "img": "AUS-04-lago-cardiel",
+          "nombre": "Lago Cardiel",
+          "texto": "Desvío de ~12 km por la RP 29, antes de Tres Lagos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Cargá en cada surtidor: Bajo Caracoles suele quedarse sin combustible y la carga más confiable es la YPF de Gobernador Gregores. Llevá un bidón de reserva."
+      ],
+      [
+        "En la camper",
+        "Para dormir, el hotel de Bajo Caracoles. Salí con agua, gas y batería llenos, no manejes de noche y evitá el ripio con lluvia."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-05",
+    "region": "AUS",
+    "ubicacion": "Gobernador Gregores · Santa Cruz",
+    "titulo": "Parque Nacional Perito Moreno",
+    "bajada": "Uno de los parques nacionales más antiguos del país (1937) y de los menos visitados: lagos sin un solo negocio.",
+    "datos": [
+      [
+        "Desde Gob. Gregores",
+        "~220 km"
+      ],
+      [
+        "Camino",
+        "RP 37: 90 km de ripio"
+      ],
+      [
+        "Temporada",
+        "1 de octubre a 30 de abril"
+      ],
+      [
+        "Tiempo de visita",
+        "Dos días o más"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo con reserva previa"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Gob. Gregores"
+      ],
+      [
+        "camino",
+        "aviso",
+        "90 km de ripio"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1937 y lleva el nombre de Francisco P. Moreno, pionero de las áreas protegidas argentinas. Es también un yacimiento arqueológico de primer nivel: hay rastros de grupos que vivieron aquí hace más de nueve mil años."
+      ],
+      [
+        "Paisaje",
+        "Unas 127.000 ha donde la estepa patagónica se encuentra con bosques andinos y ocho lagos grandes, como el Belgrano y el Burmeister. También guarda yacimientos fósiles."
+      ],
+      [
+        "Al Burmeister",
+        "Entre el puesto de guardaparques y el Lago Burmeister, el camino pasa por lagunas llenas de aves y guanacos. Al llegar, avisá en la Oficina de Informes del Destacamento Onelli."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-05-aguila-mora",
+      "titulo": "Águila mora",
+      "sub": "Anida en el parque, como el cóndor"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AUS-05-guanacos-laguna",
+          "nombre": "Guanaco",
+          "texto": "En las lagunas camino al Burmeister; muy probable."
+        },
+        {
+          "img": "AUS-05-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Anida en los paredones del parque."
+        },
+        {
+          "img": "AUS-05-nacurutu",
+          "nombre": "Ñacurutú",
+          "texto": "La lechuza más grande de la zona; difícil de día."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Reservá el pernocte con un mes de anticipación. La apertura depende del estado de los caminos: consultá a la intendencia en Gobernador Gregores, tel. 02962-409358."
+      ],
+      [
+        "En la camper",
+        "En el Lago Burmeister hay lugar para 3 motorhomes, hasta dos noches. Prohibido hacer fuego. Sin combustible ni proveeduría: salí de Gregores con tanque, agua y comida."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-06",
+    "region": "AUS",
+    "ubicacion": "El Chaltén · Santa Cruz",
+    "titulo": "Laguna de los Tres y el Fitz Roy",
+    "bajada": "La caminata más famosa de la Capital Nacional del Trekking termina a los pies del Fitz Roy: 3.405 metros de granito.",
+    "datos": [
+      [
+        "Desde la RN 40",
+        "~90 km · RP 23 asfaltada"
+      ],
+      [
+        "Sendero",
+        "~20 km ida y vuelta"
+      ],
+      [
+        "Desnivel",
+        "700 a 900 m"
+      ],
+      [
+        "Tiempo de visita",
+        "Día entero (8 a 10 h)"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en el pueblo"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Cargá en el pueblo"
+      ],
+      [
+        "camino",
+        "ok",
+        "RP 23 asfaltada"
+      ]
+    ],
+    "bloques": [
+      [
+        "El nombre",
+        "Chaltén viene del aonikenk y suele traducirse \"montaña que humea\", por las nubes que le cubren la cumbre. Moreno la rebautizó Fitz Roy, por el capitán del Beagle. Terray y Magnone hicieron cumbre en 1952."
+      ],
+      [
+        "Ríos y bosque",
+        "El pueblo, fundado en 1985, nace donde se juntan los ríos De las Vueltas y Fitz Roy. El sendero cruza bosque de lenga y ñire; en los sitios húmedos aparece el guindo, siempreverde."
+      ],
+      [
+        "La subida",
+        "Desde el campamento Poincenot, el último tramo trepa ~400 m en una hora. La temporada va de octubre a mayo: consultá el estado del sendero en el Centro de Visitantes."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-06-laguna-de-los-tres",
+      "titulo": "Laguna de los Tres",
+      "sub": "El Fitz Roy reflejado, al final"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "AUS-06-carpintero-gigante",
+          "nombre": "Carpintero gigante",
+          "texto": "Se lo oye golpear las lengas antes de verlo."
+        },
+        {
+          "img": "AUS-06-huemul",
+          "nombre": "Huemul",
+          "texto": "El parque guarda su población más austral. Muy raro."
+        },
+        {
+          "img": "AUS-06-lenga-otono",
+          "nombre": "Lenga",
+          "texto": "El árbol más abundante del sendero; roja en otoño."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "La postal: el Fitz Roy al fondo de la RP 23. Al amanecer el granito se enciende de rojo unos minutos. Pará solo en banquina ancha, con balizas."
+      ],
+      [
+        "En la camper",
+        "Campings El Relincho, El Mochilero, La Torcida y El Refugio. Hay tasa para quien visita sin pernoctar. Cargá acá: al norte, el próximo surtidor es Tres Lagos."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-07",
+    "region": "AUS",
+    "ubicacion": "El Chaltén · Santa Cruz",
+    "titulo": "Laguna Torre y el Cerro Torre",
+    "bajada": "Una laguna glaciar frente a la aguja más discutida del montañismo: la cumbre que Cesare Maestri dijo haber pisado en 1959.",
+    "datos": [
+      [
+        "Sendero",
+        "~19 km ida y vuelta"
+      ],
+      [
+        "Al Mirador Maestri",
+        "~2 km más por la morena"
+      ],
+      [
+        "Cerro Torre",
+        "~3.130 m"
+      ],
+      [
+        "Tiempo de visita",
+        "Día entero"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en el pueblo"
+      ],
+      [
+        "combustible",
+        "ok",
+        "En El Chaltén"
+      ]
+    ],
+    "bloques": [
+      [
+        "La polémica",
+        "En 1959 el italiano Cesare Maestri aseguró haber llegado a la cumbre con Toni Egger, que murió en el descenso arrastrado por una avalancha. Investigaciones posteriores concluyeron que ni siquiera estuvieron cerca."
+      ],
+      [
+        "Primera cumbre",
+        "La primera ascensión indiscutida fue en 1974: Daniele Chiappa, Mario Conti, Casimiro Ferrari y Pino Negri, de los Ragni di Lecco, subieron por la cara oeste."
+      ],
+      [
+        "La morena",
+        "El Torre se levanta al oeste del Fitz Roy, sobre el límite con Chile. La laguna ocupa el lugar que dejó el hielo, y la morena que la rodea es hoy el balcón para mirarlo."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-07-mirador-maestri",
+      "titulo": "Mirador Maestri",
+      "sub": "El Torre desde la cresta de la morena"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AUS-07-pato-torrentes",
+          "nombre": "Pato de los torrentes",
+          "texto": "En los arroyos rápidos; verlo pide paciencia."
+        },
+        {
+          "img": "AUS-07-carpintero",
+          "nombre": "Carpintero gigante",
+          "texto": "En el bosque de lenga del primer tramo."
+        },
+        {
+          "img": "AUS-07-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Planea sobre los paredones del valle."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Consultá el estado del sendero en el Centro de Visitantes y salí temprano: sumando el Mirador Maestri son ~22 km en el día."
+      ],
+      [
+        "En la camper",
+        "Pernocte y servicios: mirá la página anterior. Dejá la camper en el camping o en un lugar habilitado del pueblo: el sendero sale a pie."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-08",
+    "region": "AUS",
+    "ubicacion": "El Chaltén · Santa Cruz",
+    "titulo": "Lago del Desierto y Glaciar Huemul",
+    "bajada": "Un lago verde esmeralda que Argentina y Chile se disputaron hasta 1994, con un glaciar colgante a una hora de caminata.",
+    "datos": [
+      [
+        "Desde El Chaltén",
+        "~37 km de ripio"
+      ],
+      [
+        "Sendero al glaciar",
+        "~2 km · ~1 h 30 ida y vuelta"
+      ],
+      [
+        "Temporada",
+        "Octubre a abril"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en El Chaltén"
+      ],
+      [
+        "combustible",
+        "no",
+        "Sin combustible"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio: despacio y de día"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Chile lo llama Laguna del Desierto. En 1965, un choque entre gendarmes argentinos y carabineros chilenos cerca del Puesto Arbilla dejó muerto al teniente Hernán Merino. Un arbitraje internacional le dio la zona a la Argentina en 1994."
+      ],
+      [
+        "Paisaje",
+        "El lago se encajona entre montañas cubiertas de lenga y ñire. De su Punta Sur nace el río De las Vueltas, el mismo que después pasa por El Chaltén."
+      ],
+      [
+        "El glaciar",
+        "El sendero cruza la Reserva Huemul, privada, y por eso se cobra un ingreso. Tras ~2 km con algo de pendiente, el glaciar aparece colgado sobre una laguna de deshielo."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-08-glaciar-huemul",
+      "titulo": "Glaciar Huemul",
+      "sub": "Colgado sobre su laguna de deshielo"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "AUS-08-chorrillo-del-salto",
+          "nombre": "Chorrillo del Salto",
+          "texto": "Cascada a pocos km del pueblo; se visita por libre."
+        },
+        {
+          "img": "AUS-08-huemul",
+          "nombre": "Huemul",
+          "texto": "El ciervo que nombra al glaciar. Verlo es muy raro."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Desde la Punta Sur salen navegaciones por el lago, con reserva en agencias de El Chaltén. Fuera de temporada, la nieve complica el acceso."
+      ],
+      [
+        "En la camper",
+        "No hay combustible ni comercios: salí de El Chaltén con todo y volvé a dormir allá. Son ~37 km de ripio: andá despacio y con luz de día."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-09",
+    "region": "AUS",
+    "ubicacion": "El Calafate · Santa Cruz",
+    "titulo": "El Calafate y la Laguna Nimez",
+    "bajada": "A un kilómetro del centro, una laguna con flamencos donde se registraron unas 80 especies de aves.",
+    "datos": [
+      [
+        "Laguna Nimez",
+        "~1 km del centro"
+      ],
+      [
+        "Glaciarium",
+        "~8 km por la RP 11"
+      ],
+      [
+        "Camino",
+        "Asfalto, apto camper"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Sector camper en la YPF"
+      ],
+      [
+        "combustible",
+        "ok",
+        "YPF en el pueblo"
+      ],
+      [
+        "camino",
+        "ok",
+        "Todo asfalto"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Los aonikenk llamaban a la zona Kehek Aike. El pueblo se fundó el 7 de diciembre de 1927, y el nombre viene de un calafate grande junto al arroyo donde paraban los carreteros que llevaban la lana."
+      ],
+      [
+        "Laguna Nimez",
+        "Reserva municipal de 35 ha a orillas del Lago Argentino, con un circuito autoguiado de ~2,5 a 3 km (~1 h 30). El gran atractivo son los flamencos australes."
+      ],
+      [
+        "Glaciarium",
+        "Museo dedicado a los glaciares, a ~8 km sobre la RP 11, camino al Perito Moreno. Abrió en 2011 y en el subsuelo tiene un bar de hielo. Los horarios cambian según la temporada."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-09-flamenco-austral",
+      "titulo": "Flamenco austral",
+      "sub": "En la Nimez, de primavera a otoño"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-09-calafate-flor",
+          "nombre": "Calafate",
+          "texto": "Flores amarillas y bayas azul oscuro: el arbusto del nombre."
+        },
+        {
+          "img": "AUS-09-pico-de-plata",
+          "nombre": "Pico de plata",
+          "texto": "Pajarito negro de pico claro, en los senderos de la Nimez."
+        },
+        {
+          "img": "AUS-09-bar-de-hielo",
+          "nombre": "Bar de hielo",
+          "texto": "En el subsuelo del Glaciarium."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Para pajarear",
+        "Unas 80 especies registradas en la Laguna Nimez, a pasos del centro. Recorré el circuito autoguiado con binoculares. Tel. de la reserva: +54 2902 49-5536."
+      ],
+      [
+        "En la camper",
+        "La YPF tiene sector para motorhomes con agua y luz, que no siempre funcionan. En el parque, campings Lago Roca y El Huala. Cargá todo antes del glaciar."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-10",
+    "region": "AUS",
+    "ubicacion": "El Calafate · Santa Cruz",
+    "titulo": "Glaciar Perito Moreno",
+    "bajada": "Una pared de hielo de 60 metros que cruje, se parte y cae al lago, a la vista desde las pasarelas.",
+    "datos": [
+      [
+        "Desde El Calafate",
+        "78 km · ~1 h 15"
+      ],
+      [
+        "Camino",
+        "RP 11, asfalto"
+      ],
+      [
+        "Horario",
+        "8–18 h · may. a ago. 9–16 h"
+      ],
+      [
+        "Tiempo de visita",
+        "2 a 3 h en pasarelas"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No en el glaciar"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en El Calafate"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto hasta el final"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lleva el nombre de Francisco \"Perito\" Moreno, que como perito argentino defendió la frontera con Chile a fines del siglo XIX. Nunca llegó a verlo: un marino chileno lo había registrado antes con otro nombre."
+      ],
+      [
+        "Por qué se rompe",
+        "El frente avanza hasta chocar con la Península de Magallanes y cierra el Brazo Rico. El agua represada sube, cava un túnel bajo el hielo y el arco se derrumba: cada pocos años, sin fecha fija."
+      ],
+      [
+        "Paisaje",
+        "Una lengua del Campo de Hielo Patagónico Sur baja al lago entre bosque de lenga y ñire. Fue de los pocos glaciares patagónicos estables durante un siglo; hoy también adelgaza."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-10-ruptura",
+      "titulo": "La ruptura",
+      "sub": "El arco cae cada pocos años"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "AUS-10-calafate-fruto",
+          "nombre": "Calafate",
+          "texto": "Dicen que quien come su fruto, vuelve."
+        },
+        {
+          "img": "AUS-10-zorro-colorado",
+          "nombre": "Zorro colorado",
+          "texto": "Ronda senderos y estacionamientos. No lo alimentes."
+        },
+        {
+          "img": "AUS-10-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Planea sobre los paredones del Brazo Rico."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Llegá temprano: menos gente y luz baja que marca las grietas. Con nubes, el hielo se ve más azul. Para las rupturas, filmá: se escuchan antes de verse."
+      ],
+      [
+        "En la camper",
+        "No se puede pernoctar junto al glaciar. Salí de El Calafate con agua, gas y batería: no hay estaciones en el camino. Llevá abrigo aunque sea verano."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-11",
+    "region": "AUS",
+    "ubicacion": "Puerto Bandera · Santa Cruz",
+    "titulo": "Navegación a Upsala y Spegazzini",
+    "bajada": "Un día entre témpanos hasta el Spegazzini, el glaciar de frente más alto del parque: entre 120 y 135 metros de pared.",
+    "datos": [
+      [
+        "Desde El Calafate",
+        "~47 km · RP 11"
+      ],
+      [
+        "Excursión",
+        "~7 a 9 h"
+      ],
+      [
+        "Reserva",
+        "Con operador habilitado"
+      ],
+      [
+        "Glaciar Upsala",
+        "~54 km de largo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en El Calafate"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Sin carga en la RP 11"
+      ]
+    ],
+    "bloques": [
+      [
+        "El nombre",
+        "El Upsala recuerda, con la vieja grafía de una sola \"p\", a la Universidad de Uppsala, en Suecia: sus científicos hicieron los primeros estudios glaciológicos de la zona a principios del siglo XX."
+      ],
+      [
+        "La navegación",
+        "El barco remonta el Brazo Norte, pasa la Boca del Diablo y entra al canal Upsala entre témpanos. Algunas salidas desembarcan en la Base Spegazzini, con caminata a un mirador nuevo, de 2024."
+      ],
+      [
+        "Retroceso",
+        "El Upsala cubre unos 765 km², pero es de los que más retroceden: perdió ~9,4 km de frente en 50 años. Por los témpanos, hoy suele verse desde ~8 km."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-11-tempanos",
+      "titulo": "Témpanos",
+      "sub": "Desprendidos del Upsala, en el canal"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-11-glaciar-upsala",
+          "nombre": "Glaciar Upsala",
+          "texto": "Hoy se lo ve de lejos, entre témpanos."
+        },
+        {
+          "img": "AUS-11-base-spegazzini",
+          "nombre": "Base Spegazzini",
+          "texto": "Desembarco y caminata a un mirador, en algunas salidas."
+        },
+        {
+          "img": "AUS-11-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Sobre los paredones de los canales; bastante probable."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Para el Spegazzini usá gran angular y buscá un pasajero o la baranda en primer plano: sin escala, 120 m de hielo parecen poca cosa."
+      ],
+      [
+        "En la camper",
+        "Dormí en El Calafate y salí temprano: las excursiones arrancan a la mañana. Consultá al operador dónde dejar la camper. En cubierta hace frío: abrigo, gorro y guantes."
+      ]
+    ]
+  }
+]

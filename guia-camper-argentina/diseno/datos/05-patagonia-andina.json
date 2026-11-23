@@ -1,0 +1,356 @@
+[
+  {
+    "codigo": "AND-01",
+    "region": "AND",
+    "ubicacion": "Villa El Chocón · Neuquén",
+    "titulo": "Villa El Chocón y los dinosaurios",
+    "bajada": "Acá apareció en 1993 el Giganotosaurus, uno de los mayores carnívoros que caminaron la Tierra: sus huesos originales están en el museo.",
+    "datos": [
+      [
+        "Desde Neuquén",
+        "~80 km por la RN 237"
+      ],
+      [
+        "Camino",
+        "Asfalto, apto camper"
+      ],
+      [
+        "Museo",
+        "Consultá el horario antes"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Las Huellas"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto desde Neuquén"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Rubén Carolini, aficionado a los fósiles, encontró una tibia gigante mientras recorría las bardas en buggy. El dinosaurio lleva su apellido, y el buggy se exhibe en el museo Ernesto Bachmann, que él impulsó y dirigió hasta 2008."
+      ],
+      [
+        "Las huellas",
+        "Los fósiles salen de la Formación Candeleros, sedimentos de ríos de hace unos 100 millones de años. Cuando baja el embalse Ezequiel Ramos Mexía, quedan a la vista huellas en la costa oeste, junto al barrio Llequén."
+      ],
+      [
+        "Paisaje",
+        "Bardas de areniscas rojizas frente a un lago azul artificial. Es estepa arbustiva del Monte, el ambiente que protege el Área Natural El Mangrullo, donde viven la mara y el choique."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-01-giganotosaurus",
+      "titulo": "Giganotosaurus",
+      "sub": "Terópodo de ~14 m de largo"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-01-buggy",
+          "nombre": "El buggy de Carolini",
+          "texto": "Con él recorría las bardas cuando halló la tibia."
+        },
+        {
+          "img": "AND-01-mara",
+          "nombre": "Mara",
+          "texto": "Emblema de El Mangrullo: buscala al amanecer o al atardecer."
+        },
+        {
+          "img": "AND-01-choique",
+          "nombre": "Choique",
+          "texto": "El ñandú petiso, protegido en la estepa abierta."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los horarios del museo cambiaron en los últimos años: confirmalos antes. Para ver las huellas, tomá la RN 237 hacia Bariloche 3 km y usá la pasarela."
+      ],
+      [
+        "En la camper",
+        "Camping Las Huellas, en la villa, recibe motorhomes. Camping Los Viejos, pasando el puente, sobre el Limay: sin reserva. En verano, mucho calor y nada de sombra."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-02",
+    "region": "AND",
+    "ubicacion": "Zapala · Neuquén",
+    "titulo": "Parque Nacional Laguna Blanca",
+    "bajada": "Una laguna en plena estepa, rodeada de conos volcánicos, protegida desde 1940 para que nidifique el cisne de cuello negro.",
+    "datos": [
+      [
+        "Desde Zapala",
+        "~36 km (RN 40 y RP 46)"
+      ],
+      [
+        "Centro de visitantes",
+        "Nómades, de 9 a 19 h"
+      ],
+      [
+        "Mejor época",
+        "Noviembre a marzo"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe El Chimango"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Zapala"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El parque se creó en 1940 y la laguna es Sitio Ramsar desde 1992, por la importancia de sus humedales. También es reserva de biosfera de la UNESCO y conserva vestigios de la vida mapuche."
+      ],
+      [
+        "Origen volcánico",
+        "Coladas volcánicas dejaron depósitos de basalto que aislaron la laguna, que hoy alimenta el arroyo Ñireco. El sendero El Escorial (680 m ida y vuelta, ~50 min, fácil) explica su origen entre pequeños conos."
+      ],
+      [
+        "La cumbre",
+        "Desde el Centro Nómades, un sendero pasa por el observatorio de aves y sube a una cumbre de 1.723 m, con vista a toda la laguna, la estepa y, a lo lejos, Zapala."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-02-cisne",
+      "titulo": "Cisne de cuello negro",
+      "sub": "Se ve desde el observatorio de aves"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-02-flamenco",
+          "nombre": "Flamenco austral",
+          "texto": "Frecuente en las orillas bajas de la laguna."
+        },
+        {
+          "img": "AND-02-escorial",
+          "nombre": "Sendero El Escorial",
+          "texto": "Pasa por los conos volcánicos Mellizo Sur y Laguna."
+        },
+        {
+          "img": "AND-02-estepa",
+          "nombre": "Estepa patagónica",
+          "texto": "11.250 ha de arbustos bajos y pastos duros."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Para pajarear",
+        "Andá de noviembre a marzo: en primavera y verano es más fácil ver al cisne de cuello negro desde el observatorio. Llevá binoculares y abrigo para el viento."
+      ],
+      [
+        "En la camper",
+        "Acampe El Chimango, sobre la RP 46 a 2 km del centro: mesas y fogones, sin baños ni luz. Combustible y agua, en Zapala. Viento fuerte casi siempre."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-03",
+    "region": "AND",
+    "ubicacion": "Varvarco · Neuquén",
+    "titulo": "Varvarco y el Volcán Domuyo",
+    "bajada": "Al pie del Domuyo, el techo de la Patagonia (~4.700 m), brotan los únicos géiseres de la Argentina.",
+    "datos": [
+      [
+        "Desde Neuquén",
+        "~520 km · ~7 h"
+      ],
+      [
+        "Camino",
+        "RP 43; ripio al final"
+      ],
+      [
+        "Varvarco–termas",
+        "~35 a 38 km de ripio"
+      ],
+      [
+        "Tiempo de visita",
+        "Al menos 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Agreste, sin servicios"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Chos Malal"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio; a veces solo 4x4"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El área protegida provincial se creó en 1989 y abarca ~92.000 ha. Varvarco, de unos 750 habitantes, se asoma a la confluencia del río Neuquén, de aguas claras, con el Varvarco, más turbio y caudaloso."
+      ],
+      [
+        "Por qué hierve",
+        "El Domuyo es un enorme sistema geotérmico: La Bramadora, El Humazo, Los Tachos, Las Olletas, Aguas Calientes. El Humazo lanza una columna de vapor permanente y en el géiser mayor el agua brota a ~70 °C."
+      ],
+      [
+        "Baños y estepa",
+        "En Aguas Calientes, un arroyo permite bañarse en aguas termales al aire libre. Alrededor, estepa de altura de coirones y pastos duros; junto a los arroyos crecen ñires, radales y maitenes."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-03-olletas",
+      "titulo": "Las Olletas",
+      "sub": "Agua hirviendo que sale de la tierra"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "AND-03-confluencia",
+          "nombre": "La confluencia",
+          "texto": "Ríos Neuquén y Varvarco, desde el mirador junto a la hostería."
+        },
+        {
+          "img": "AND-03-aguas-calientes",
+          "nombre": "Aguas Calientes",
+          "texto": "Arroyo apto para baños termales al aire libre."
+        },
+        {
+          "img": "AND-03-nire",
+          "nombre": "Ñire",
+          "texto": "Crece junto a los arroyos de la estepa de altura."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Avisá a los guardaparques antes de entrar. El ascenso al volcán tiene temporada (noviembre a abril) y registro, y en 2024 se prohibió por grietas: consultá si sigue."
+      ],
+      [
+        "En la camper",
+        "Con lluvia, el ripio puede volverse intransitable y hay sectores solo 4x4: consultá en Varvarco o Las Ovejas. Tanque lleno en Chos Malal. Acampe agreste en Vaca Lauquen."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-04",
+    "region": "AND",
+    "ubicacion": "Caviahue · Neuquén",
+    "titulo": "Copahue y Caviahue",
+    "bajada": "Un pueblo dentro de la caldera de un volcán activo y, 18 km más arriba, termas de agua caliente cargada de minerales.",
+    "datos": [
+      [
+        "Desde Neuquén",
+        "~360 km · 4 a 5 h"
+      ],
+      [
+        "Camino",
+        "Asfalto hasta Caviahue"
+      ],
+      [
+        "Caviahue–Copahue",
+        "~18 km de ripio (RP 27)"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping en Copahue"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Loncopué"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Se cierra por nieve"
+      ]
+    ],
+    "bloques": [
+      [
+        "El nombre",
+        "Para el misionero Valdivia, Copahue significaba \"azufre\"; otros lo traducen como \"lugar de curación\". Nadie vive allí todo el año: en invierno la nieve tapa todo y el centro termal revive desde noviembre."
+      ],
+      [
+        "La caldera",
+        "Caviahue y las termas están dentro de la caldera del complejo volcánico Copahue-Caviahue. El lago recibe agua muy azufrada que nace en el volcán, y por eso no tiene peces."
+      ],
+      [
+        "Pehuenes",
+        "Bosques de araucaria rodean el pueblo y el lago, con senderos entre ejemplares centenarios. Cerca: el Mirador del Volcán (1 km), las cascadas del río Agrio (1,5 km) y el Salto del Agrio (18 km)."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-04-pehuen",
+      "titulo": "Pehuén",
+      "sub": "Araucaria araucana, con sus piñas"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-04-termas",
+          "nombre": "Termas de Copahue",
+          "texto": "Piletas con vapor; el centro termal abre desde noviembre."
+        },
+        {
+          "img": "AND-04-salto-agrio",
+          "nombre": "Salto del Agrio",
+          "texto": "A 18 km de Caviahue."
+        },
+        {
+          "img": "AND-04-hualcupen",
+          "nombre": "Laguna Hualcupén",
+          "texto": "Para el atardecer: 5 km de asfalto y 11 de ripio."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "En verano, hacé el trekking guiado hasta el cráter del volcán Copahue. Y desviate 2 km de la RP 26 para ver el Puente de Piedra."
+      ],
+      [
+        "En la camper",
+        "En Copahue, según viajeros, el único lugar habilitado es el camping El Viento Blanco: duchas calientes, sin sombra. Prohibido estacionar en la calle. Cargá en Loncopué."
+      ]
+    ]
+  }
+]

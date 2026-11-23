@@ -1,0 +1,1049 @@
+[
+  {
+    "codigo": "CUY-01",
+    "region": "CUY",
+    "ubicacion": "Villa de Merlo · San Luis",
+    "titulo": "Merlo y los Comechingones",
+    "bajada": "Al pie de las sierras, Merlo presume de microclima y de un algarrobo al que le calculan más de 800 años.",
+    "datos": [
+      [
+        "Desde Buenos Aires",
+        "~780 km · RN 8 y RP 1"
+      ],
+      [
+        "Camino",
+        "Asfalto; cornisa en RP 5"
+      ],
+      [
+        "Mirador del Sol",
+        "~1.470 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Cerro de Oro"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Cornisa en la RP 5"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se fundó el 1 de enero de 1797, por orden del marqués de Sobremonte. En Piedra Blanca sigue en pie el Algarrobo Abuelo, al que las fuentes le dan entre 800 y 1.200 años."
+      ],
+      [
+        "El Filo Serrano",
+        "A ~20 km del pueblo, la RP 5 sube la Sierra de los Comechingones hasta el Mirador del Sol y el de los Cóndores, con vista a los valles del Conlara y de Calamuchita."
+      ],
+      [
+        "Monte serrano",
+        "Abajo crece el bosque de algarrobo y quebracho; arriba, el tabaquillo, árbol de altura. Entre las aromáticas está la peperina, y en las sierras se cuentan más de 200 especies de aves."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-01-algarrobo",
+      "titulo": "Algarrobo Abuelo",
+      "sub": "800 a 1.200 años, en Piedra Blanca"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "CUY-01-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Se liberaron ejemplares rehabilitados: buscalo desde el Mirador de los Cóndores."
+        },
+        {
+          "img": "CUY-01-tabaquillo",
+          "nombre": "Tabaquillo",
+          "texto": "El árbol de altura de las sierras, arriba del bosque serrano."
+        },
+        {
+          "img": "CUY-01-peperina",
+          "nombre": "Peperina",
+          "texto": "Aromática del monte serrano, entre algarrobos y quebrachos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Subí al Mirador del Sol al atardecer, con el valle del Conlara en luz baja. Llevá binoculares: desde el de los Cóndores puede pasar alguno."
+      ],
+      [
+        "En la camper",
+        "El Complejo Cerro de Oro, a ~10 min, tiene sector para motorhomes con agua y desagote. En la cornisa de la RP 5, bajá con freno motor."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-02",
+    "region": "CUY",
+    "ubicacion": "Hualtarán · San Luis",
+    "titulo": "Sierra de las Quijadas",
+    "bajada": "Un anfiteatro de paredones rojos donde los paleontólogos sacaron cientos de restos de reptiles voladores del Cretácico.",
+    "datos": [
+      [
+        "Desde San Luis",
+        "~120 km por RN 147"
+      ],
+      [
+        "Camino",
+        "Asfalto y ~6 km de tierra"
+      ],
+      [
+        "Horario",
+        "8–19 h; ingreso hasta 17 h"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe agreste"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en San Luis"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra hasta el mirador"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1991. El nombre viene de una leyenda: unos cuatreros comían primero las quijadas de las vacas robadas, y los carteles de recompensa los llamaban \"Gauchos de las Quijadas\"."
+      ],
+      [
+        "Pterosaurios",
+        "José Bonaparte identificó acá huesos de pterosaurios. La estrella es el Pterodaustro, que filtraba alimento con mandíbulas curvadas hacia arriba. Bajando al Potrero hay una huella de saurópodo."
+      ],
+      [
+        "Paisaje",
+        "Cañadones y barrancos de areniscas rojas que cambian de color con la luz del día. Es ambiente de Chaco Árido y Monte, donde manda la jarilla; antes fue territorio huarpe."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-02-pterodaustro",
+      "titulo": "Pterodaustro",
+      "sub": "Reptil volador del Cretácico"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "CUY-02-guanaco",
+          "nombre": "Guanaco",
+          "texto": "El animal que más se ve, en los llanos y las laderas."
+        },
+        {
+          "img": "CUY-02-tortuga",
+          "nombre": "Tortuga terrestre",
+          "texto": "Emblema del parque; en verano se refugia en cuevas."
+        },
+        {
+          "img": "CUY-02-mara",
+          "nombre": "Mara",
+          "texto": "Comparte el monte con zorros grises, pecaríes y pumas."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "La mejor época va de abril a noviembre. Junto al camino de acceso están los Hornillos de Hualtarán, rastros de la ocupación huarpe."
+      ],
+      [
+        "En la camper",
+        "Hay un área de acampe agreste junto a la entrada: consultá sus servicios. Cargá combustible y agua en San Luis. En verano, caminá temprano."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-03",
+    "region": "CUY",
+    "ubicacion": "Valle Fértil · San Juan",
+    "titulo": "Ischigualasto, Valle de la Luna",
+    "bajada": "Acá se encontró el Eoraptor, uno de los dinosaurios más antiguos conocidos, en rocas de unos 230 millones de años.",
+    "datos": [
+      [
+        "Desde Valle Fértil",
+        "~72 km de asfalto"
+      ],
+      [
+        "Circuito",
+        "~40 km de tierra en caravana"
+      ],
+      [
+        "Horario",
+        "Por temporada: consultá"
+      ],
+      [
+        "Tiempo de visita",
+        "3 a 4 h"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping junto a informes"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Valle Fértil"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Circuito de tierra"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Es parque provincial desde 1971 y, desde 2000, Patrimonio de la Humanidad junto con Talampaya. Ricardo Martínez halló el Eoraptor en 1991; su apellido, lunensis, homenajea al valle."
+      ],
+      [
+        "Paisaje",
+        "Las rocas son sedimentos de ríos del Triásico tardío, cuando aparecían los primeros dinosaurios. El viento talló las figuras del circuito: el Gusano, el Valle Pintado, el Submarino y el Hongo."
+      ],
+      [
+        "El nombre",
+        "Hay dos versiones: \"lugar donde se posa la luna\", en quechua, o \"lugar sin vida\", de origen diaguita. Lo de Valle de la Luna se popularizó a mediados del siglo XX."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-03-bochas",
+      "titulo": "Cancha de Bochas",
+      "sub": "Esferas de piedra del circuito"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "CUY-03-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Se lo ve desde el vehículo durante el circuito."
+        },
+        {
+          "img": "CUY-03-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Planea sobre las barrancas; el parque estudia su población."
+        },
+        {
+          "img": "CUY-03-zorro",
+          "nombre": "Zorro",
+          "texto": "Frecuente cerca del centro de visitantes."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Con luna llena",
+        "Algunos días al mes el parque hace recorridas nocturnas: el paisaje lunar bajo la luna llena. Consultá las fechas antes de ir."
+      ],
+      [
+        "En la camper",
+        "Hay camping detrás del centro de informes; el estacionamiento no es zona de pernocte. Llevá agua propia y tanque lleno desde Valle Fértil: en verano hace mucho calor."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-04",
+    "region": "CUY",
+    "ubicacion": "Villa Unión · La Rioja",
+    "titulo": "Parque Nacional Talampaya",
+    "bajada": "Un cañón de paredes rojas de casi 150 metros, donde se ve completa la secuencia de rocas del Triásico.",
+    "datos": [
+      [
+        "Desde Ischigualasto",
+        "~70 km"
+      ],
+      [
+        "Camino",
+        "Asfalto (RN 76)"
+      ],
+      [
+        "Cañón",
+        "Solo en excursión guiada"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe 24 h con duchas"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Pagancillo y Villa Unión"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Es Parque Nacional desde 1997 y Patrimonio Mundial desde 2000. El nombre, en la extinta lengua cacán, se interpreta como \"río seco del tala\". En la entrada del cañón hay petroglifos grabados en paredones y aleros."
+      ],
+      [
+        "Paisaje",
+        "Las capas rojas son sedimentos del Triásico, de hace entre 252 y 201 millones de años. El río que talló el cañón pasa casi todo el año seco."
+      ],
+      [
+        "La caminata",
+        "La excursión pasa por la Puerta, los Petroglifos y la Falla Geológica hasta el Jardín Botánico: en el punto más angosto, la flora del Monte crece a la sombra de los paredones."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-04-petroglifos",
+      "titulo": "Petroglifos",
+      "sub": "Arte rupestre en la entrada del cañón"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "CUY-04-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Anida en los paredones, con el águila mora y el halcón peregrino."
+        },
+        {
+          "img": "CUY-04-mara",
+          "nombre": "Mara",
+          "texto": "Frecuente en la base, junto con zorros y el suri."
+        },
+        {
+          "img": "CUY-04-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Se ve desde la ruta y en los bajos del parque."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Al cañón no se entra con vehículo propio: reservá la excursión con guías habilitados, sobre todo en fines de semana largos y Semana Santa."
+      ],
+      [
+        "En la camper",
+        "El área de acampe del parque abre las 24 h, con baños, duchas y asadores. Cargá en Patquía, Pagancillo o Villa Unión, el pueblo con más servicios."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-05",
+    "region": "CUY",
+    "ubicacion": "Villa Unión y Chilecito · La Rioja",
+    "titulo": "Cuesta de Miranda",
+    "bajada": "La Ruta 40 trepa entre farallones rojos hasta los 2.020 metros del Bordo Atravesado, sobre precipicios de más de 300 metros.",
+    "datos": [
+      [
+        "Entre",
+        "Villa Unión y Chilecito"
+      ],
+      [
+        "Camino",
+        "Cornisa asfaltada (RN 40)"
+      ],
+      [
+        "Altura máxima",
+        "2.020 m (Bordo Atravesado)"
+      ],
+      [
+        "Tiempo de visita",
+        "2 a 3 h con paradas"
+      ]
+    ],
+    "iconos": [
+      [
+        "camino",
+        "aviso",
+        "Curvas y precipicios"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Villa Unión o Chilecito"
+      ]
+    ],
+    "bloques": [
+      [
+        "La obra",
+        "El tramo de 19 km entre Los Tambillos y Río Miranda se pavimentó en 2015: hoy es una cornisa asfaltada de cientos de curvas. Desde arriba se ve el trazado viejo, de ripio, junto al nuevo."
+      ],
+      [
+        "Paisaje",
+        "La ruta cruza el punto más bajo entre la Sierra de Famatina, al oeste, y la de Sañogasta, al este. Al sur del río Miranda el paisaje se vuelve más árido y casi no hay agua permanente."
+      ],
+      [
+        "Rojo y verde",
+        "Las paredes rojas contrastan con el verde oscuro del monte: jarillas y cardones adaptados al clima árido cubren las laderas erosionadas. Desde el Bordo Atravesado se ve planear al cóndor."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-05-cardon",
+      "titulo": "Cardón",
+      "sub": "Verde oscuro sobre las laderas rojas"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "CUY-05-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Planea frente al mirador del Bordo Atravesado."
+        },
+        {
+          "img": "CUY-05-jarilla",
+          "nombre": "Jarilla",
+          "texto": "El arbusto del monte árido que tiñe las laderas."
+        },
+        {
+          "img": "CUY-05-camino-viejo",
+          "nombre": "El trazado viejo",
+          "texto": "El ripio de antes se ve desde arriba, junto al asfalto."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Pará solo en los paradores y playones, nunca en la banquina. Desde el Bordo Atravesado entran en el cuadro la cornisa nueva y el camino viejo."
+      ],
+      [
+        "En la camper",
+        "Se hace en el día desde Villa Unión o de paso a Chilecito: dormí y cargá en esos pueblos. Curvas cerradas y precipicios: despacio y con freno motor."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-06",
+    "region": "CUY",
+    "ubicacion": "Vinchina · La Rioja",
+    "titulo": "Laguna Brava",
+    "bajada": "Una laguna salada a más de 4.200 metros, con flamencos, vicuñas y refugios de piedra de los arrieros que cruzaban a Chile.",
+    "datos": [
+      [
+        "Salida",
+        "Villa Unión o Vinchina"
+      ],
+      [
+        "Acceso",
+        "Solo excursión en 4x4"
+      ],
+      [
+        "Ingreso",
+        "Entre las 9 y las 14 h"
+      ],
+      [
+        "Tiempo de visita",
+        "Día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Camper en Villa Unión"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Más de 4.000 m"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Nieve en invierno"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Es reserva desde 1980 y Sitio Ramsar desde 2003. En el camino quedan refugios de piedra levantados desde la década de 1860 para los arrieros que cruzaban ganado por el Paso de Pircas Negras."
+      ],
+      [
+        "Paisaje",
+        "La reserva va de 2.500 a 4.500 metros: lagunas saladas, desierto de altura y volcanes. Entre diciembre y abril se llega con guía al cráter Corona del Inca, con una laguna de deshielo adentro."
+      ],
+      [
+        "La altura",
+        "Es el riesgo principal: en pocas horas pasás del valle a más de 4.000 metros. Tomá mucha agua, evitá el alcohol y comé liviano. Con dolor de cabeza fuerte, mareo o falta de aire, bajá."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-06-refugio",
+      "titulo": "Refugio de arrieros",
+      "sub": "Piedra, desde la década de 1860"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-06-vicuna",
+          "nombre": "Vicuña",
+          "texto": "Se ve en grupos en la planicie de altura."
+        },
+        {
+          "img": "CUY-06-parina",
+          "nombre": "Parina chica",
+          "texto": "Uno de los tres flamencos de la laguna; más probable en verano."
+        },
+        {
+          "img": "CUY-06-corona-del-inca",
+          "nombre": "Corona del Inca",
+          "texto": "Cráter de ~5.500 m al pie del Pissis, solo con guía."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Otoño y primavera son las épocas seguras: en invierno la nieve corta el acceso. Dormí la noche anterior en Villa Unión o Vinchina para aclimatarte."
+      ],
+      [
+        "En la camper",
+        "No es destino para la camper: dejala en Villa Unión o Vinchina y subí en la 4x4. Cargá en Villa Unión y consultá Vialidad por el tramo Vinchina–Jagüé."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-07",
+    "region": "CUY",
+    "ubicacion": "Rodeo · San Juan",
+    "titulo": "Parque Nacional San Guillermo",
+    "bajada": "Se creó para proteger la mayor población de vicuñas de la Argentina, en uno de los parques más aislados del país.",
+    "datos": [
+      [
+        "Desde San Juan",
+        "~195 km hasta Rodeo"
+      ],
+      [
+        "Desde Rodeo",
+        "~5 h en todo terreno"
+      ],
+      [
+        "Ingreso",
+        "Solo con guía habilitado"
+      ],
+      [
+        "Tiempo de visita",
+        "Mínimo 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Camper: dejala en Rodeo"
+      ],
+      [
+        "camino",
+        "no",
+        "Solo todo terreno"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Rodeo o Jáchal"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó a fines de los noventa y ocupa unos 1.660 km². Con la reserva provincial vecina forma la Reserva de Biosfera San Guillermo, del programa El Hombre y la Biosfera de la UNESCO."
+      ],
+      [
+        "Paisaje",
+        "Altiplanicies donde se juntan Altos Andes, Puna y Monte. El frío y la falta de oxígeno mandan: plantas bajas y compactas, cortadas por vegas verdes a más de 3.700 metros."
+      ],
+      [
+        "Camélidos",
+        "Vicuñas y guanacos forman acá la población de camélidos silvestres más importante de Sudamérica. Con guía, ver vicuñas es casi seguro; al puma, su gran depredador, se lo ve muy poco."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-07-huarpea",
+      "titulo": "Huarpea andina",
+      "sub": "Margarita que solo crece acá"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "CUY-07-yareta",
+          "nombre": "Yareta",
+          "texto": "Planta en cojín, compacta, hecha para el viento y el frío."
+        },
+        {
+          "img": "CUY-07-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Comparte la altiplanicie con la vicuña."
+        },
+        {
+          "img": "CUY-07-puma",
+          "nombre": "Puma",
+          "texto": "El gran depredador de los camélidos; verlo es raro."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Contratá guía habilitado y consultá en usopublicosanguillermo@apn.gob.ar. En verano conviene el acceso sur, por Angualasto; las crecidas pueden dejar aislado el parque."
+      ],
+      [
+        "En la camper",
+        "No apto para camper ni motorhome: dejala en Rodeo y entrá en 4x4 con el guía. Adentro no hay servicios: cargá todo en Rodeo o Jáchal."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-08",
+    "region": "CUY",
+    "ubicacion": "Calingasta · San Juan",
+    "titulo": "Calingasta y el Cerro Alcázar",
+    "bajada": "Un valle de altura sobre el río de los Patos, con un cerro de capas de colores cuya silueta parece una fortaleza.",
+    "datos": [
+      [
+        "Desde San Juan",
+        "~217 km (RN 40 y RP 436)"
+      ],
+      [
+        "Cerro Alcázar",
+        "~22 km al norte de Barreal"
+      ],
+      [
+        "Vista",
+        "Cerro Mercedario, 6.770 m"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá el camping"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Escasea en temporada"
+      ]
+    ],
+    "bloques": [
+      [
+        "La fortaleza",
+        "\"Alcázar\" viene del árabe y significa \"el castillo\": su silueta recuerda a una fortaleza. Es Monumento Natural provincial desde 1993, a orillas del río de los Patos, al pie de la Sierra del Tontal."
+      ],
+      [
+        "Geología",
+        "Sus capas de colores cuentan la historia del valle: son rocas de la Formación Calingasta, del Triásico, que afloran en la falda oeste de la sierra."
+      ],
+      [
+        "Historia",
+        "En el Cerro El Calvario, a unos 7 km del pueblo, se hallaron momias de unos 500 años en un cementerio indígena. En Calingasta está la antigua capilla Nuestra Señora del Carmen."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-08-capilla",
+      "titulo": "Capilla del Carmen",
+      "sub": "Antigua capilla de Calingasta"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-08-mercedario",
+          "nombre": "Cerro Mercedario",
+          "texto": "6.770 m: uno de los gigantes de la cordillera."
+        },
+        {
+          "img": "CUY-08-rio-de-los-patos",
+          "nombre": "Río de los Patos",
+          "texto": "Recorre el valle a los pies del Alcázar."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Andá al Cerro Alcázar al atardecer, cuando la luz baja enciende sus capas de colores sobre el río de los Patos."
+      ],
+      [
+        "En la camper",
+        "El camping municipal tiene sombra, duchas y baños; consultá si permiten pernoctar. En temporada alta escasea el combustible: cargá en San Juan y completá en Barreal o Tamberías."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-09",
+    "region": "CUY",
+    "ubicacion": "Barreal · San Juan",
+    "titulo": "Barreal y la Pampa del Leoncito",
+    "bajada": "Una laguna seca tan plana y ventosa que desde 1975 se corren carreras de autos a vela sobre su barro agrietado.",
+    "datos": [
+      [
+        "Desde San Juan",
+        "~230 km"
+      ],
+      [
+        "Desde Uspallata",
+        "~80 km (RN 149)"
+      ],
+      [
+        "Pampa del Leoncito",
+        "~20–30 km al sur"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Falta en temporada alta"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio hacia Uspallata"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Barreal está sobre el río de los Patos, el valle por donde en enero de 1817 cruzó a Chile la columna principal del Ejército de los Andes de San Martín."
+      ],
+      [
+        "La pampa",
+        "La Pampa del Leoncito es una planicie de barro agrietado, a más de 1.700 metros, que alguna vez fue una laguna. Al oeste se levanta la cordillera, con el Mercedario de 6.770 m."
+      ],
+      [
+        "Carrovelismo",
+        "Plana, sin obstáculos y ventosa, la pampa es el escenario de los carros a vela. Se los puede ver cruzar empujados por el viento, o probarlos con los prestadores habilitados."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-09-barro",
+      "titulo": "Barro agrietado",
+      "sub": "El fondo de una antigua laguna"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-09-barreal",
+          "nombre": "Barreal",
+          "texto": "Pueblo base, con camping y estaciones de servicio."
+        },
+        {
+          "img": "CUY-09-rio",
+          "nombre": "Río de los Patos",
+          "texto": "Por este valle cruzó a Chile el Ejército de los Andes."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Cuidá la pampa",
+        "Es área protegida y hubo causas judiciales por daños hechos con 4x4. Mirala desde el borde o entrá con los prestadores habilitados."
+      ],
+      [
+        "En la camper",
+        "El camping municipal tiene duchas, sombra y lugar para motorhomes. No entres a la pampa con la camper. A Uspallata, ~37 km de ripio que se corta con nieve."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-10",
+    "region": "CUY",
+    "ubicacion": "Barreal · San Juan",
+    "titulo": "Parque Nacional El Leoncito",
+    "bajada": "Al menos 300 noches despejadas por año y aire muy seco: por eso acá se instalaron dos grandes observatorios del país.",
+    "datos": [
+      [
+        "Desde Barreal",
+        "~22–35 km (RP 412)"
+      ],
+      [
+        "Horario",
+        "8–19 h; verano hasta 20 h"
+      ],
+      [
+        "Cerro El Leoncito",
+        "Subida de 8 a 15 h"
+      ],
+      [
+        "Tiempo de visita",
+        "Un día y una noche"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campamento El Jarillar"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Barreal"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 2002 sobre una antigua estancia, de la que quedan restos del casco. Adentro funcionan el CASLEO, inaugurado en 1986 a más de 2.550 metros, y la Estación de Altura Carlos U. Cesco."
+      ],
+      [
+        "Paisaje",
+        "En los valles bajos dominan las jarillas resinosas del Monte, y hay dos plantas que crecen solo acá. El sendero Paisaje de Agua (1 km) lleva a la Cascada El Rincón, un salto de 5 metros."
+      ],
+      [
+        "Fauna",
+        "El suri cordillerano es el emblema del parque y se ve en las planicies; el guanaco anda entre las rocas. En sus aguas vive el bagrecito del Leoncito, un pez que solo existe acá."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-10-suri",
+      "titulo": "Suri cordillerano",
+      "sub": "El emblema del parque"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-10-cascada",
+          "nombre": "Cascada El Rincón",
+          "texto": "Salto de 5 m en pleno desierto, a 1 km del sendero."
+        },
+        {
+          "img": "CUY-10-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Frecuente entre las rocas y el arbustal."
+        },
+        {
+          "img": "CUY-10-casco",
+          "nombre": "Casco de la estancia",
+          "texto": "Restos de la estancia sobre la que nació el parque."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Cielo nocturno",
+        "El CASLEO ofrece visitas nocturnas con telescopio o a simple vista: reservá en su web. Desde el campamento, la Vía Láctea se ve sin linterna."
+      ],
+      [
+        "En la camper",
+        "El Jarillar es gratuito: 4 parcelas para motorhome, fogones y duchas calientes en horario restringido. Registrate en el centro de informes y cargá combustible en Barreal."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-11",
+    "region": "CUY",
+    "ubicacion": "Uspallata · Mendoza",
+    "titulo": "Uspallata y Potrerillos",
+    "bajada": "En las Bóvedas de Uspallata, hornos de fundición del siglo XVIII, funcionó un cuartel del Ejército de los Andes antes del cruce.",
+    "datos": [
+      [
+        "Desde Mendoza",
+        "~105 km por RN 7"
+      ],
+      [
+        "Camino",
+        "Asfalto"
+      ],
+      [
+        "Altura",
+        "~1.800–2.000 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Último pueblo con todo"
+      ],
+      [
+        "camino",
+        "aviso",
+        "~10 km de ripio al cerro"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Las Bóvedas son hornos de fundición de fines del siglo XVIII, tradicionalmente atribuidos a los jesuitas. Durante la preparación del Cruce de los Andes se usaron como cuartel; hoy son museo."
+      ],
+      [
+        "Potrerillos",
+        "El dique, de 116 metros de alto, se inauguró en 2003 para controlar crecidas, regar el oasis norte y generar energía. Su lago, de unos 12 km, queda al costado de la RN 7."
+      ],
+      [
+        "El valle",
+        "Uspallata es un valle ancho entre la precordillera y la cordillera. En el Cerro de los Siete Colores, a ~10 km del pueblo, los minerales tiñen la ladera de franjas, y se recorre en una caminata corta."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-11-bovedas",
+      "titulo": "Las Bóvedas",
+      "sub": "Hornos del siglo XVIII, hoy museo"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "CUY-11-siete-colores",
+          "nombre": "Cerro Siete Colores",
+          "texto": "Franjas minerales a ~10 km del pueblo, por ripio."
+        },
+        {
+          "img": "CUY-11-potrerillos",
+          "nombre": "Embalse Potrerillos",
+          "texto": "Un lago de ~12 km junto a la RN 7."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Caminá el Cerro de los Siete Colores al atardecer, cuando la luz baja marca las franjas de la ladera."
+      ],
+      [
+        "En la camper",
+        "El Camping Municipal Apuyam tiene sombra, agua potable, electricidad y duchas calientes. Es el último pueblo con todo antes de la alta montaña: llená tanque, agua y gas."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-12",
+    "region": "CUY",
+    "ubicacion": "Puente del Inca · Mendoza",
+    "titulo": "Puente del Inca",
+    "bajada": "Un arco natural de 48 metros, teñido de amarillo y naranja por aguas termales, que Darwin dibujó en 1835.",
+    "datos": [
+      [
+        "Desde Mendoza",
+        "183 km por RN 7"
+      ],
+      [
+        "Altura",
+        "~2.700 msnm"
+      ],
+      [
+        "Paso a Chile",
+        "A 20 km"
+      ],
+      [
+        "Tiempo de visita",
+        "1 h"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No hay camping"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Nieve y cierres en RN 7"
+      ],
+      [
+        "altura",
+        "aviso",
+        "~2.700 m"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Darwin lo visitó en marzo de 1835 y dibujó el arco con sus estalactitas. Al lado funcionó desde 1904 el Hotel Termas de Puente del Inca, que un aluvión destruyó en 1965: sus ruinas son parte de la postal."
+      ],
+      [
+        "El arco",
+        "Cruza el río Las Cuevas a 27 metros de altura y tiene unos 28 de ancho y 8 de espesor. Lo formaron aguas termales cargadas de minerales, las mismas que pintan las rocas."
+      ],
+      [
+        "Por qué cerró",
+        "Desde principios del siglo XX se registra un deterioro continuo por erosión y desprendimientos: la parte de abajo es de un material menos resistente. Por eso está prohibido cruzarlo; se mira desde la orilla."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-12-estalactitas",
+      "titulo": "Estalactitas",
+      "sub": "Minerales de las aguas termales"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-12-hotel",
+          "nombre": "Ruinas del hotel",
+          "texto": "Termas de 1904, arrasadas por un aluvión en 1965."
+        },
+        {
+          "img": "CUY-12-cementerio",
+          "nombre": "Cementerio del Andinista",
+          "texto": "Está muy cerca del puente: vale la parada."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de subir",
+        "Mirá el estado de la RN 7 y del Paso Cristo Redentor en los canales oficiales: en invierno se cierra cada vez que se pronostica nieve."
+      ],
+      [
+        "En la camper",
+        "No hay camping: dormí en Uspallata y subí de día. Entre mayo y noviembre sopla el zonda, con ráfagas de más de 90 km/h: con alerta, no manejes."
+      ]
+    ]
+  }
+]

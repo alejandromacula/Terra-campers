@@ -1,0 +1,697 @@
+[
+  {
+    "codigo": "BSA-P15",
+    "region": "BSA-P",
+    "ubicacion": "Chascomús · Buenos Aires",
+    "titulo": "Chascomús y su laguna",
+    "bajada": "Una capilla de adobe que la comunidad afrodescendiente levantó en 1862 sigue en pie a pocas cuadras de la laguna.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~120 km · ~1 h 30"
+      ],
+      [
+        "Rutas",
+        "RN 2 (autovía)"
+      ],
+      [
+        "Ideal para",
+        "Laguna, bici e historia"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping La Puerta"
+      ],
+      [
+        "camino",
+        "ok",
+        "Autovía hasta el pueblo"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la primera parada natural camino a la costa: costanera para caminar o pedalear frente a la laguna, un casco histórico chico y fácil de recorrer, y un palacio de Salamone para arrancar la ruta del art déco."
+      ],
+      [
+        "Historia",
+        "El capitán de Blandengues Pedro Nicolás Escribano fundó el Fuerte San Juan Bautista el 30 de mayo de 1779. En 1862 la comunidad negra, formada en buena parte por esclavos liberados, levantó su propia capilla."
+      ],
+      [
+        "Salamone",
+        "En 1939 Francisco Salamone construyó el Palacio Municipal frente a la plaza Independencia, donde estuvo el fuerte. Es neocolonial: el Salamone menos “Salamone” y la primera parada de su ruta (BSA-P21)."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P15-capilla-negros",
+      "titulo": "Capilla de los Negros",
+      "sub": "Adobe de 1862; se visita por dentro"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P15-museo-pampeano",
+          "nombre": "Museo Pampeano",
+          "texto": "Historia de la ciudad y de la frontera. Lunes, cerrado."
+        },
+        {
+          "img": "BSA-P15-palacio-municipal",
+          "nombre": "Palacio Municipal",
+          "texto": "Salamone, 1939, frente a la plaza donde estuvo el fuerte."
+        },
+        {
+          "img": "BSA-P15-pejerrey",
+          "nombre": "Estación Hidrobiológica",
+          "texto": "El criadero de pejerrey de la laguna. Consultá si hay visitas."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "Camilo Parrilla funciona en un viejo almacén de ramos generales frente a la laguna, en Av. Costanera España 442."
+      ],
+      [
+        "En la camper",
+        "Camping La Puerta, sobre la Costanera Urruti, tiene tarifa para motorhome: tel. (2241) 42-5522. Consultá electricidad y descarga. La RN 2 es autovía hasta acá."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P16",
+    "region": "BSA-P",
+    "ubicacion": "Dolores · Buenos Aires",
+    "titulo": "Dolores, Primer Pueblo Patrio",
+    "bajada": "Fue el primer pueblo fundado después de la Independencia, en 1817, y en 1839 se levantó acá contra Rosas.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~210 km · ~2 h 30"
+      ],
+      [
+        "Rutas",
+        "RN 2 (autovía)"
+      ],
+      [
+        "Ideal para",
+        "Termas, museo y lago"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin camping confirmado"
+      ],
+      [
+        "camino",
+        "ok",
+        "Autovía RN 2"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la parada clásica a mitad de camino a la costa, pero da para quedarse: un museo provincial en un parque evocativo, un lago para caminar o remar y un parque termal a pocas cuadras de la ruta."
+      ],
+      [
+        "Historia",
+        "Se fundó en agosto de 1817, al sur del Salado, como avanzada de frontera: por eso le dicen Primer Pueblo Patrio. Para el centenario de la revolución, en 1939, se inauguró el parque que rodea al museo."
+      ],
+      [
+        "Libres del Sur",
+        "En la madrugada del 29 de octubre de 1839 estalló la revolución de los Libres del Sur contra el gobierno de Rosas. El Grito de Dolores se dio en la actual plaza Castelli."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P16-plaza-castelli",
+      "titulo": "Plaza Castelli",
+      "sub": "Escenario del Grito de 1839"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P16-museo-libres-sur",
+          "nombre": "Museo Libres del Sur",
+          "texto": "Revolución, gauchos y pueblos originarios. Miércoles a domingo, entrada libre.",
+          "contacto": "IG @museolibresdelsurpba"
+        },
+        {
+          "img": "BSA-P16-parque-termal",
+          "nombre": "Parque Termal Dolores",
+          "texto": "44 hectáreas de piletas, algunas bajo cúpulas vidriadas.",
+          "contacto": "WhatsApp (2245) 40-5692"
+        },
+        {
+          "img": "BSA-P16-lago",
+          "nombre": "Lago Libres del Sur",
+          "texto": "Circuito aeróbico, kayak y vela en el acceso a la ciudad."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los días de apertura del Parque Termal publicados no coinciden: escribí por WhatsApp antes de salir. El museo abre de miércoles a domingo, de 10 a 16."
+      ],
+      [
+        "En la camper",
+        "No hay camping para motorhome confirmado: preguntá en el Parque Termal o seguí viaje. La RN 2 es autovía; de acá sale la RP 63 al sur."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P17",
+    "region": "BSA-P",
+    "ubicacion": "General Belgrano · Buenos Aires",
+    "titulo": "General Belgrano y sus termas",
+    "bajada": "Las termas más cercanas a la Capital: agua a unos 41 °C que sube desde más de 900 metros, junto al Salado.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~160 km · ~2 h"
+      ],
+      [
+        "Rutas",
+        "RN 2 y RP 29 (o RP 41)"
+      ],
+      [
+        "Ideal para",
+        "Termas y río"
+      ],
+      [
+        "Tiempo sugerido",
+        "Un fin de semana"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "camino",
+        "aviso",
+        "RP 29: revisá obras"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es un fin de semana completo sin manejar mucho: termas con piletas cubierta y semicubierta, costanera sobre el Salado con dos balnearios, un bosque de más de 85 especies de árboles y camping junto al río."
+      ],
+      [
+        "Historia",
+        "El partido se creó el 1 de agosto de 1891 y lleva el nombre de Manuel Belgrano. El circuito histórico pasa por el Museo Histórico Municipal, la parroquia Inmaculada Concepción y el Cine-Teatro Español."
+      ],
+      [
+        "El Salado",
+        "Desde la costanera y los balnearios Viejo y Nuevo salen kayaks, canoas e hidropedales, y se pesca pejerrey y carpa. Después, a la mesa: el plato típico del pueblo son los ravioles de cordero."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P17-ravioles-cordero",
+      "titulo": "Ravioles de cordero",
+      "sub": "El plato típico del pueblo"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P17-bosque-encantado",
+          "nombre": "Bosque Encantado",
+          "texto": "23 ha de árboles centenarios, a ~13 km, por la RP 41."
+        },
+        {
+          "img": "BSA-P17-balneario-salado",
+          "nombre": "Balnearios del Salado",
+          "texto": "Kayak, canoa, hidropedales y pesca de pejerrey y carpa."
+        },
+        {
+          "img": "BSA-P17-cine-teatro",
+          "nombre": "Cine-Teatro Español",
+          "texto": "Parte del circuito histórico, con el museo y la parroquia."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Confirmá días y horarios de las Termas del Salado en la Dirección de Turismo, tel. (02243) 45-4221. El Bosque Encantado suma el Museo de las Estancias."
+      ],
+      [
+        "En la camper",
+        "Camping Municipal a orillas del Salado: proveeduría, duchas calientes y vigilancia 24 h. Consultá electricidad y descarga. La RP 29 tuvo obras: revisá su estado antes de salir."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P18",
+    "region": "BSA-P",
+    "ubicacion": "Las Flores · Buenos Aires",
+    "titulo": "Las Flores y el vino de la pampa",
+    "bajada": "En plena pampa del Salado hay viñedo propio: en La Blanqueada recorrés las hileras y terminás con vino y quesos.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~187 km · ~2 h 30"
+      ],
+      [
+        "Rutas",
+        "RN 3"
+      ],
+      [
+        "Ideal para",
+        "Vino, quesos y literatura"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Camping: consultá"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tramos rurales"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es una escapada corta y completa: bodega con visita guiada, una laguna con reserva natural en plena ciudad y fama de quesos, cervezas artesanales y helados. A pocos kilómetros, el pueblito de Pardo."
+      ],
+      [
+        "Historia",
+        "La ciudad se fundó el 25 de mayo de 1856. Pardo, el paraje de la estación, dentro del partido, cumplió 150 años en 2026 y guarda la memoria de sus veraneantes más famosos."
+      ],
+      [
+        "Pardo y Bioy",
+        "Adolfo Bioy Casares pasaba los veranos en el campo familiar, y por ahí andaban Silvina Ocampo y Borges. La vieja estación es hoy su museo, y el Almacén de Lámaro guarda anécdotas de los tres."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P18-laguna-difunto-manuel",
+      "titulo": "Laguna Difunto Manuel",
+      "sub": "Reserva con más de 90 especies de aves"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P18-copa-quesos",
+          "nombre": "Bodega La Blanqueada",
+          "texto": "Viñedo, cava y quesos. Solo con reserva; si llueve, no hay visita.",
+          "contacto": "WhatsApp +54 9 11 3351-0606"
+        },
+        {
+          "img": "BSA-P18-estacion-pardo",
+          "nombre": "Museo Bioy Casares",
+          "texto": "En la vieja estación de Pardo. Fines de semana y feriados, gratis.",
+          "contacto": "Tel. (02244) 50-6981"
+        },
+        {
+          "img": "BSA-P18-almacen-lamaro",
+          "nombre": "Almacén de Lámaro",
+          "texto": "Ramos generales donde Bioy y Borges dejaron sus anécdotas."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "En Pardo, las paradas más nombradas son el comedor de campo Ayres de Pardo y el Almacén La Terminal: consultá días de apertura antes de ir."
+      ],
+      [
+        "En la camper",
+        "El Parque Plaza Montero tiene camping junto a la laguna; preguntá en Turismo si recibe motorhomes. A la bodega y a Pardo hay tramos rurales: consultá si llovió."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P19",
+    "region": "BSA-P",
+    "ubicacion": "Azul · Buenos Aires",
+    "titulo": "Azul, Salamone y Cervantes",
+    "bajada": "Un pórtico de unos 22 metros, con un ángel cubista, custodia el cementerio: es la obra cumbre de Francisco Salamone.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~300 km"
+      ],
+      [
+        "Rutas",
+        "RN 3"
+      ],
+      [
+        "Ideal para",
+        "Art déco y cultura"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "camino",
+        "ok",
+        "Todo por RN 3"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Azul junta la mejor obra de Salamone con una identidad cultural propia. Suma un balneario de seis hectáreas sobre el arroyo Azul, con camping al lado, y un monasterio trapense en las sierras cercanas."
+      ],
+      [
+        "Historia",
+        "Nació el 16 de diciembre de 1832 como Fuerte Azul de San Serapio Mártir, por orden de Rosas: el coronel Pedro Burgos llegó con familias y carretas desde una estancia de Chascomús."
+      ],
+      [
+        "Cervantina",
+        "Es la única ciudad argentina distinguida así por el Centro UNESCO de Castilla-La Mancha. Cada fin de octubre, el Festival Cervantino trae diez días de teatro y gastronomía, con la ciudad vestida de Quijote."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P19-cervantino",
+      "titulo": "Festival Cervantino",
+      "sub": "Diez días, cada fin de octubre"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P19-monasterio-trapense",
+          "nombre": "Monasterio Trapense",
+          "texto": "Cistercienses a ~45 km; venden miel, turrones y mermeladas.",
+          "contacto": "Tel. (02281) 49-8005"
+        },
+        {
+          "img": "BSA-P19-balneario",
+          "nombre": "Balneario Alte. Brown",
+          "texto": "Seis hectáreas sobre el arroyo Azul, al sur de la ciudad."
+        },
+        {
+          "img": "BSA-P19-teatro-espanol",
+          "nombre": "Teatro Español",
+          "texto": "Monumento Histórico provincial, en pleno centro."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Frente al cementerio hay un centro de interpretación de Salamone: consultá su estado y horario. Las fechas del Festival Cervantino cambian cada año."
+      ],
+      [
+        "En la camper",
+        "El Camping Municipal, a ~100 m del balneario (De Paula 2350), tenía parcelas con electricidad y duchas calientes, y aceptaba motorhomes: confirmá antes. Sin dato de descarga."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P20",
+    "region": "BSA-P",
+    "ubicacion": "Tapalqué · Buenos Aires",
+    "titulo": "Tapalqué y la torta negra",
+    "bajada": "La capital de la torta negra tiene termas, balneario sobre el arroyo y una pulpería que despacha desde el siglo XIX.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~250–270 km · ~3 a 4 h"
+      ],
+      [
+        "Rutas",
+        "RN 205 y RP 51, o RN 3"
+      ],
+      [
+        "Ideal para",
+        "Termas y pulpería"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Camping: consultá"
+      ],
+      [
+        "camino",
+        "aviso",
+        "RP 50: ojo si llovió"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es el pueblo para bajar un cambio: termas con reserva previa, un balneario municipal a orillas del arroyo con bicisenda por la costanera y, a pocos kilómetros, una pulpería-museo para almorzar el fin de semana."
+      ],
+      [
+        "Historia",
+        "Se fundó el 7 de noviembre de 1863 y toma el nombre del arroyo. En el partido se conserva el sitio del Cantón Tapalqué Viejo, un fortín que fue escenario de enfrentamientos entre indígenas y criollos."
+      ],
+      [
+        "Torta negra",
+        "Es el emblema del pueblo: cada enero, en la Fiesta de la Torta Negra, se reparte una torta gigante en el balneario. En temporada, la costanera suma patio gastronómico y de artesanos."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P20-torta-negra",
+      "titulo": "Torta negra",
+      "sub": "Su fiesta, cada enero en el balneario"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P20-pulperia-mostrador",
+          "nombre": "Pulpería San Gervasio",
+          "texto": "Pulpería-museo del siglo XIX, a ~25 km. Sábados y domingos, al mediodía.",
+          "contacto": "WhatsApp +54 9 2281 56-9902"
+        },
+        {
+          "img": "BSA-P20-termas",
+          "nombre": "Termas de Tapalqué",
+          "texto": "Sobre la RP 50, en el acceso. Solo con reserva previa.",
+          "contacto": "Tel. (2281) 58-5125"
+        },
+        {
+          "img": "BSA-P20-arroyo-kayak",
+          "nombre": "Balneario y costanera",
+          "texto": "Kayak, pesca y bicisenda a orillas del arroyo Tapalqué."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Las termas solo reciben con reserva y la pulpería abre sábados y domingos: armá el viaje para el fin de semana. El museo está en la vieja estación."
+      ],
+      [
+        "En la camper",
+        "Para dormir, el Balneario y Camping Municipal junto al arroyo; no hay servicios para motorhome publicados: consultá en la Municipalidad. Si llovió, preguntá por la RP 50."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P21",
+    "region": "BSA-P",
+    "ubicacion": "Centro y oeste · Buenos Aires",
+    "titulo": "La Ruta de Salamone",
+    "bajada": "Entre 1936 y 1940, un ingeniero siciliano llenó la pampa de palacios, mataderos y cementerios art déco que parecen de ciencia ficción.",
+    "datos": [
+      [
+        "Desde CABA",
+        "Desde ~120 km (Chascomús)"
+      ],
+      [
+        "Rutas",
+        "RN 2, RN 3 y RN 33"
+      ],
+      [
+        "Ideal para",
+        "Fans del art déco"
+      ],
+      [
+        "Tiempo sugerido",
+        "Por tramos, varios días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "En cada pueblo base"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Distancias largas"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Ninguna otra ruta de la provincia se arma alrededor de un solo autor. Cada pueblo esconde una torre, un portal o un matadero monumental entre el campo y los silos, donde casi no llega el turismo."
+      ],
+      [
+        "Historia",
+        "Salamone nació en Leonforte, Sicilia, en 1897 y se recibió de ingeniero arquitecto en Córdoba. Con el gobernador Manuel Fresco (1936–1940) dirigió más de sesenta obras en unos veinticinco municipios. Murió en 1959."
+      ],
+      [
+        "Su estilo",
+        "Mezcló art déco, futurismo y monumentalismo en palacios municipales, mataderos, cementerios, plazas y hasta mobiliario urbano. La Ley provincial 12.854 declaró su obra patrimonio cultural de la provincia."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P21-cruz-laprida",
+      "titulo": "Cruz de Laprida",
+      "sub": "33 m sobre la avenida Diagonal, 1936"
+    },
+    "fila": {
+      "titulo": "En la ruta",
+      "items": [
+        {
+          "img": "BSA-P21-guamini-torre",
+          "nombre": "Guaminí",
+          "texto": "Matadero y torre municipal, en el circuito oeste."
+        },
+        {
+          "img": "BSA-P21-saldungaray-matadero",
+          "nombre": "Saldungaray",
+          "texto": "Pórtico del cementerio, matadero y plaza: el cierre (BSA-P25)."
+        },
+        {
+          "img": "BSA-P21-azul-angel",
+          "nombre": "Azul",
+          "texto": "El ángel cubista del cementerio, su obra cumbre (BSA-P19)."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los palacios municipales siguen en uso: la visita por dentro depende del horario de cada municipio. Las cifras de obras varían según la fuente."
+      ],
+      [
+        "En la camper",
+        "Armá la ruta por tramos, oeste y sur, y dormí en los campings de los pueblos base: Azul (BSA-P19), Carhué (BSA-P22) y Saldungaray (BSA-P25)."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P22",
+    "region": "BSA-P",
+    "ubicacion": "Carhué · Buenos Aires",
+    "titulo": "Carhué y las ruinas de Epecuén",
+    "bajada": "Un balneario quedó bajo el agua salada en 1985 y hoy sus calles reaparecen blancas de sal, a 7 km de Carhué.",
+    "datos": [
+      [
+        "Desde Bahía Blanca",
+        "~200 km"
+      ],
+      [
+        "Rutas",
+        "RN 33 en el último tramo"
+      ],
+      [
+        "Ideal para",
+        "Fotografía y termas"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping La Chacra"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Sal: lavá los bajos"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Las ruinas de Epecuén son uno de los paisajes más extraños del país: árboles secos blanqueados por la sal y restos del viejo balneario. En Carhué hay termas con agua del lago, que te hace flotar."
+      ],
+      [
+        "Historia",
+        "Carhué fue el bastión de la Zanja de Alsina y se fundó en 1877. Villa Epecuén nació en 1921 y fue un balneario termal de moda hasta noviembre de 1985, cuando el lago rompió el terraplén y la tapó."
+      ],
+      [
+        "Bajo el agua",
+        "Estuvo sumergida más de veinte años. Pablo Novak, su último habitante, vivió entre las ruinas hasta su muerte, en enero de 2024. El lago tiene unas diez veces más sal que el mar."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P22-lago-sal",
+      "titulo": "Lago Epecuén",
+      "sub": "Diez veces más salado que el mar"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P22-matadero",
+          "nombre": "Matadero de Salamone",
+          "texto": "Torre art déco camino a las ruinas; estuvo bajo el agua."
+        },
+        {
+          "img": "BSA-P22-termas",
+          "nombre": "Complejo Termal Levalle",
+          "texto": "Piletas con agua del lago, en Moreno y Loma Valentina."
+        },
+        {
+          "img": "BSA-P22-museo-regional",
+          "nombre": "Museo Regional",
+          "texto": "Historia de la frontera y de Epecuén. Rivadavia y Laprida."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Las ruinas abren todos los días, solo de día: consultá el horario en la Secretaría de Turismo (Colón y Belgrano) o en termasdecarhue.gov.ar."
+      ],
+      [
+        "En la camper",
+        "Camping Municipal La Chacra, a 5 km por la RN 33: baños, duchas, electricidad y sereno. Tel. (02936) 43-0660. Con la sal, lavá bajos y llantas."
+      ]
+    ]
+  }
+]

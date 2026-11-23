@@ -1,0 +1,1317 @@
+[
+  {
+    "codigo": "AUS-12",
+    "region": "AUS",
+    "ubicacion": "Las Grutas · Río Negro",
+    "titulo": "Las Grutas y el Golfo San Matías",
+    "bajada": "La marea sube y baja hasta 9 metros por día, y por eso su mar es de los más templados del país.",
+    "datos": [
+      [
+        "Desde S. Antonio Oeste",
+        "~14 km · ~10 min"
+      ],
+      [
+        "Camino",
+        "Asfalto (RN 3 y RP 2)"
+      ],
+      [
+        "Desde Viedma",
+        "~172 km a S. Antonio Oeste"
+      ],
+      [
+        "Tiempo de visita",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en el pueblo"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en S. A. Oeste"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Las grutas son cuevas que el mar excavó en los acantilados que separan el pueblo de la playa. Todo empezó en 1939, con un bungalow de vecinos de San Antonio Oeste: durante años fue la única construcción."
+      ],
+      [
+        "Agua tibia",
+        "En bajamar el mar se retira lejos y el sol calienta rocas y arena; cuando la marea vuelve, el agua absorbe ese calor. El golfo es casi cerrado, así que en verano el calor se queda."
+      ],
+      [
+        "Las grutas",
+        "Los acantilados son sedimentos marinos antiguos, en capas finas. Las más blandas son las que el oleaje vacía primero: así se forman las cuevas que le dan nombre al balneario."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-12-playero-rojizo",
+      "titulo": "Playero rojizo",
+      "sub": "Migrante, estrella de la bahía"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-12-pozones",
+          "nombre": "Pozones de bajamar",
+          "texto": "Con marea baja la playa se vuelve enorme y aparecen piletones."
+        },
+        {
+          "img": "AUS-12-lobos-villarino",
+          "nombre": "Lobos marinos",
+          "texto": "Apostadero en Punta Villarino, en excursión desde San Antonio Este."
+        },
+        {
+          "img": "AUS-12-chorlos",
+          "nombre": "Chorlos y playeros",
+          "texto": "Aves migratorias en las playas de marea de la bahía."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Mirá la tabla de mareas del día: con bajamar aparecen pozones y la playa se agranda; con pleamar, el agua llega al pie del acantilado."
+      ],
+      [
+        "En la camper",
+        "El Complejo Golfo Azul recibe casillas y tráileres; también hay Camping Sosunc e ISSN. Cargá en San Antonio Oeste: hacia el norte no hay servicios hasta Viedma."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-13",
+    "region": "AUS",
+    "ubicacion": "Puerto Madryn · Chubut",
+    "titulo": "Puerto Madryn y El Doradillo",
+    "bajada": "En invierno las ballenas francas se acercan tanto a El Doradillo que se las ve gratis, desde la orilla, a pocos metros.",
+    "datos": [
+      [
+        "Desde el centro",
+        "~15–18 km a El Doradillo"
+      ],
+      [
+        "A Punta Loma",
+        "~17 km de ripio · ~30 min"
+      ],
+      [
+        "Ballenas",
+        "Junio a diciembre"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo en campings"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Todos los servicios"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio a Punta Loma"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lewis Jones y Love Jones-Parry la bautizaron Porth Madryn en 1862–63. El 28 de julio de 1865 desembarcaron 153 galeses del velero Mimosa frente a Punta Cuevas: así nació la colonia galesa del Chubut."
+      ],
+      [
+        "Fondo de mar",
+        "Las barrancas del golfo son sedimentos marinos con bancos de invertebrados fósiles: hace millones de años esto era fondo de mar. La arena de las playas sale de esas mismas barrancas."
+      ],
+      [
+        "Ballenas gratis",
+        "El Doradillo es área protegida municipal desde 2001 y el avistaje desde la costa es libre. Lo mejor es de junio a septiembre; hay quienes van de noche, con luna llena."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-13-lobo-un-pelo",
+      "titulo": "Lobo marino de un pelo",
+      "sub": "Colonia permanente en Punta Loma"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-13-cormoranes",
+          "nombre": "Cormoranes",
+          "texto": "Nidifican en los acantilados de Punta Loma."
+        },
+        {
+          "img": "AUS-13-punta-cuevas",
+          "nombre": "Punta Cuevas",
+          "texto": "Donde desembarcaron los galeses del Mimosa en 1865."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Preguntá en turismo cómo está el acceso a El Doradillo, que tuvo obras. A Punta Loma andá con marea baja: el mirador queda a unos 15 m."
+      ],
+      [
+        "En la camper",
+        "Camping ACA (Bv. Brown km 4), con lugar para motorhomes; no duermas en la costanera ni en la ruta costera. Es la última ciudad grande antes de Valdés."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-14",
+    "region": "AUS",
+    "ubicacion": "Puerto Pirámides · Chubut",
+    "titulo": "Península Valdés",
+    "bajada": "Uno de los pocos lugares del mundo donde las orcas se varan a propósito para cazar crías de lobo marino.",
+    "datos": [
+      [
+        "Desde Puerto Madryn",
+        "~95 km de asfalto"
+      ],
+      [
+        "Camino interno",
+        "Ripio (RP 3)"
+      ],
+      [
+        "Pirámides–Punta Norte",
+        "~67 km"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días como mínimo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo camping Pirámides"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Llená en Puerto Madryn"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio; cierra con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lleva el nombre de Antonio Valdés, secretario de Marina de España. En 1779 se fundó el Fuerte San José, que funcionó hasta un ataque indígena en 1810. Es Patrimonio Mundial desde 1999."
+      ],
+      [
+        "La estepa",
+        "Unas 360.000 hectáreas de estepa plana, unidas al continente por el angosto Istmo Carlos Ameghino, entre los golfos San José y Nuevo. Al norte, arbustos a la altura de la rodilla; al sur, pastizales."
+      ],
+      [
+        "Las orcas",
+        "Cazan en Punta Norte de marzo a mayo, cuando las crías de lobo marino entran al mar, y en Caleta Valdés en octubre y noviembre. Verlas vararse es cuestión de suerte y paciencia."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-14-elefante-marino",
+      "titulo": "Elefante marino",
+      "sub": "Más de mil en Punta Norte en los picos"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AUS-14-ballena-franca",
+          "nombre": "Ballena franca",
+          "texto": "De junio a diciembre; el avistaje embarcado sale de Pirámides."
+        },
+        {
+          "img": "AUS-14-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Habita la estepa: es común cruzarlo desde el camino."
+        },
+        {
+          "img": "AUS-14-mara",
+          "nombre": "Mara",
+          "texto": "Otra vecina de la estepa que se ve desde el ripio."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "En el istmo se para a pagar la entrada al área protegida. Preguntá ahí por el ripio: los caminos internos se cierran después de lluvias fuertes."
+      ],
+      [
+        "En la camper",
+        "Solo se duerme en el Camping Municipal de Puerto Pirámides: en el resto de la península está prohibido. Reservá en temporada alta y llená el tanque en Madryn."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-15",
+    "region": "AUS",
+    "ubicacion": "Trelew · Gaiman · Chubut",
+    "titulo": "Trelew y Gaiman",
+    "bajada": "En Trelew está la réplica del dinosaurio más grande conocido; en Gaiman, los nietos de los colonos galeses todavía sirven el té.",
+    "datos": [
+      [
+        "Ubicación",
+        "Trelew, sobre la RN 3"
+      ],
+      [
+        "A Gaiman",
+        "Al oeste por la RN 25"
+      ],
+      [
+        "Camino",
+        "Todo asfalto"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día y una tarde"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping en Gaiman"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Cargá en Trelew"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Los galeses del Mimosa fundaron Rawson, Gaiman y Trelew a orillas del río Chubut. Trelew nació en la punta de rieles del ferrocarril de Lewis Jones: «Tre» es pueblo y «Lew», Luis."
+      ],
+      [
+        "Valle regado",
+        "Un valle verde en medio de la meseta seca. El primer problema de los colonos fue el agua: cavaron canales para llevar el río a las chacras, y esa red todavía dibuja el valle."
+      ],
+      [
+        "El gigante",
+        "El Museo Egidio Feruglio exhibe la réplica del Patagotitan mayorum, un titanosaurio hallado en Chubut de unos 37 a 40 metros. Otra copia está en el Field Museum de Chicago desde 2018."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-15-te-gales",
+      "titulo": "Té galés",
+      "sub": "Con bara brith, la torta de frutas"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-15-casa-de-te",
+          "nombre": "Casas de té",
+          "texto": "Muchas las atienden galeses de tercera y cuarta generación."
+        },
+        {
+          "img": "AUS-15-canal-riego",
+          "nombre": "Canales de riego",
+          "texto": "La red que cavaron los colonos todavía riega el valle."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los horarios del museo cambian según la temporada: confirmalos en mef.org.ar. Dejá la tarde para Gaiman, donde Diana de Gales tomó el té en 1995."
+      ],
+      [
+        "En la camper",
+        "Camping Bomberos Voluntarios de Gaiman, junto al río: simple, con duchas calientes y electricidad. Trelew es ciudad grande: cargá combustible y hacé compras antes de seguir al sur."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-16",
+    "region": "AUS",
+    "ubicacion": "Trelew · Chubut",
+    "titulo": "Punta Tombo",
+    "bajada": "La mayor de las 139 colonias conocidas de pingüino de Magallanes: cerca de medio millón vuelve cada año a esta costa.",
+    "datos": [
+      [
+        "Desde Trelew",
+        "~110–125 km · ~2 h"
+      ],
+      [
+        "Camino",
+        "RN 3 y tramo final de ripio"
+      ],
+      [
+        "Temporada",
+        "Sep. a marzo/abril · 8–18 h"
+      ],
+      [
+        "Sendero",
+        "~3,5 km · 2 a 3 h"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Ida y vuelta en el día"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Salí con tanque lleno"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio; ojo con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Chubut la protege como reserva desde 1979. También es un laboratorio: la WCS monitorea la colonia desde 1982, y en 2022 la investigadora Dee Boersma cumplió cuarenta años estudiando a estos pingüinos."
+      ],
+      [
+        "Entre nidos",
+        "Una punta baja y pedregosa que entra al mar, rodeada de estepa arbustiva. Los pingüinos cavan sus cuevas bajo los arbustos y en el suelo blando: caminás literalmente entre nidos."
+      ],
+      [
+        "Cuándo ir",
+        "Abre de septiembre a marzo o abril; el resto del año está cerrada. En enero ya hay pichones. Al principio y al final de la temporada hay muchos menos ejemplares."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-16-pichon",
+      "titulo": "Pareja con pichón",
+      "sub": "En enero ya hay crías en las cuevas"
+    },
+    "fila": {
+      "titulo": "En la reserva",
+      "items": [
+        {
+          "img": "AUS-16-guanaco",
+          "nombre": "Guanaco",
+          "texto": "A veces pasta muy cerca del sendero."
+        },
+        {
+          "img": "AUS-16-sendero",
+          "nombre": "Sendero entre nidos",
+          "texto": "~3,5 km entre cuevas y arbustos, con el mar al fondo."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los pingüinos tienen prioridad: no salgas del sendero ni los toques, aunque se crucen a tus pies. La entrada se paga en el centro de interpretación."
+      ],
+      [
+        "En la camper",
+        "No contés con camping cerca: lo práctico es ir y volver en el día desde Trelew o Gaiman. Sin servicios en el camino; con lluvia, consultá el ripio."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-17",
+    "region": "AUS",
+    "ubicacion": "Camarones · Chubut",
+    "titulo": "Camarones y Cabo Dos Bahías",
+    "bajada": "Un pueblo de pescadores sin señal de celular, donde Perón pasó parte de su infancia, y a 28 km, una pingüinera.",
+    "datos": [
+      [
+        "Desde la RN 3",
+        "72 km por la RP 30"
+      ],
+      [
+        "A Cabo Dos Bahías",
+        "~28 km de ripio (RP 1)"
+      ],
+      [
+        "Pingüinos",
+        "Septiembre a abril"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping frente al mar"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Garayalde, a ~83 km"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio y fauna en la RP 1"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El nombre viene de los camarones de su bahía. Hacia 1899 llegó como juez de paz Mario Tomás Perón, con su familia, que se quedó hasta 1901: la casa es hoy el Museo de la Familia Perón."
+      ],
+      [
+        "Costa e islas",
+        "Costa rocosa de bahías y caletas, con decenas de islas e islotes. Es parte del Parque Interjurisdiccional Marino Costero Patagonia Austral, ratificado por ley en 2009, con intendencia en Camarones."
+      ],
+      [
+        "El cabo",
+        "En Cabo Dos Bahías hay una colonia grande de pingüino de Magallanes, de septiembre a abril, y lobos marinos en la costa y las islas. En la estepa andan guanacos y choiques."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-17-museo-peron",
+      "titulo": "Museo Familia Perón",
+      "sub": "La casa familiar, de 1899 a 1901"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AUS-17-lobos-marinos",
+          "nombre": "Lobos marinos",
+          "texto": "En la costa y las islas del cabo."
+        },
+        {
+          "img": "AUS-17-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Vive en la estepa y se cruza en la RP 1."
+        },
+        {
+          "img": "AUS-17-choique",
+          "nombre": "Choique",
+          "texto": "Corre por la estepa y cruza la ruta: manejá despacio."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Bahía Bustamante, sobre el Golfo San Jorge, fue un pueblo alguero de los años 50 que llegó a 500 habitantes. Hoy es un lodge rodeado de fauna marina."
+      ],
+      [
+        "En la camper",
+        "Camping frente al mar: preguntá en turismo, a la entrada del pueblo. Sin señal ni internet. Cargá en Trelew o Comodoro: lo seguro es Garayalde, a ~83 km."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-18",
+    "region": "AUS",
+    "ubicacion": "Fitz Roy · Santa Cruz",
+    "titulo": "Bosques Petrificados de Jaramillo",
+    "bajada": "Troncos de araucaria de casi 30 metros de largo, convertidos en piedra después de que un volcán los sepultara bajo cenizas.",
+    "datos": [
+      [
+        "Acceso",
+        "RN 3 km 2063 y RP 49"
+      ],
+      [
+        "Camino",
+        "~50 km de ripio"
+      ],
+      [
+        "Desde Caleta Olivia",
+        "~150 km al sur"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No en el parque"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Sin servicios en 50 km"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio y viento fuerte"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se declaró Monumento Natural en 1954 para proteger uno de los mejores bosques petrificados del país, también conocido como «Madre e Hija». Es Parque Nacional desde una ley de diciembre de 2012."
+      ],
+      [
+        "Madera de piedra",
+        "Las araucarias crecieron hace unos 150 millones de años. Las erupciones las sepultaron bajo lava y ceniza, y los minerales reemplazaron la madera. Algunos troncos tienen 2 metros de diámetro."
+      ],
+      [
+        "El contraste",
+        "Estepa fría, árida y ventosa, con grandes saltos de temperatura entre el día y la noche. Lo impactante es eso: un bosque fósil donde hoy casi no crece un árbol."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-18-corteza",
+      "titulo": "Corteza fosilizada",
+      "sub": "Cada anillo, convertido en mineral"
+    },
+    "fila": {
+      "titulo": "En el parque",
+      "items": [
+        {
+          "img": "AUS-18-seccional",
+          "nombre": "Seccional",
+          "texto": "Punto de partida de la visita, al final del ripio."
+        },
+        {
+          "img": "AUS-18-meseta",
+          "nombre": "Meseta",
+          "texto": "Fría y ventosa: llevá abrigo aunque haya sol."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Está prohibido levantar cualquier cosa del suelo, aunque sea una astilla petrificada: los guardaparques controlan. Consultá el estado del ripio y el horario antes de salir."
+      ],
+      [
+        "En la camper",
+        "Prohibido acampar o pernoctar en el parque. Salí de la RN 3 con tanque lleno, agua y comida: en el ripio no hay servicios. Ojo con el viento."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-19",
+    "region": "AUS",
+    "ubicacion": "Puerto Deseado · Santa Cruz",
+    "titulo": "Puerto Deseado y la Ría",
+    "bajada": "A 25 km de navegación está la única colonia de pingüino de penacho amarillo que se puede visitar en todo el continente.",
+    "datos": [
+      [
+        "Desde Fitz Roy",
+        "~140 km · ~1 h 45 (RN 281)"
+      ],
+      [
+        "Desde Comodoro",
+        "~285 km"
+      ],
+      [
+        "Excursiones",
+        "Náuticas, desde el puerto"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping en la costanera"
+      ],
+      [
+        "combustible",
+        "ok",
+        "En Puerto Deseado"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá la RN 281"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Thomas Cavendish llegó el 17 de diciembre de 1586 y bautizó el lugar Port Desire, por su barco. Después la recorrió Darwin. La colonia de penacho amarillo se descubrió recién en 1985, en una travesía en kayak."
+      ],
+      [
+        "La ría",
+        "Es un valle de río invadido por el mar: el agua salada entra kilómetros tierra adentro entre paredones de roca, con islas, cañadones y apostaderos de aves. Es reserva natural intangible desde 1977."
+      ],
+      [
+        "Isla Pingüino",
+        "Unas 1.100 parejas de esta especie amenazada anidan en la isla, de primavera a otoño. Se llega solo en excursión náutica, igual que a la ría: son las dos salidas de la ciudad."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-19-penacho-amarillo",
+      "titulo": "Penacho amarillo",
+      "sub": "Especie amenazada, en Isla Pingüino"
+    },
+    "fila": {
+      "titulo": "Fauna de la ría",
+      "items": [
+        {
+          "img": "AUS-19-tonina-overa",
+          "nombre": "Tonina overa",
+          "texto": "Delfín blanco y negro, de los más frecuentes de la ría."
+        },
+        {
+          "img": "AUS-19-cormoran-roquero",
+          "nombre": "Cormorán roquero",
+          "texto": "Anida en las islas y paredones de la ría."
+        },
+        {
+          "img": "AUS-19-pinguino-magallanes",
+          "nombre": "Pingüino de Magallanes",
+          "texto": "También anida en las islas de la ría."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Reservá las excursiones con tiempo y dejá un día de margen: la salida a Isla Pingüino depende del mar y del clima."
+      ],
+      [
+        "En la camper",
+        "Camping municipal en la costanera, frente al mar, con duchas (de noche se oye la calle). Consultá cómo está la RN 281. Cargá en Deseado o Fitz Roy."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-20",
+    "region": "AUS",
+    "ubicacion": "Puerto San Julián · Santa Cruz",
+    "titulo": "Puerto San Julián",
+    "bajada": "Acá invernó Magallanes en 1520, y el 1 de abril se celebró la misa recordada como la primera en territorio argentino.",
+    "datos": [
+      [
+        "Ubicación",
+        "Sobre la RN 3"
+      ],
+      [
+        "A Piedra Buena",
+        "~121 km · ~1 h 30"
+      ],
+      [
+        "Desde Río Gallegos",
+        "~360 km"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Sin carga hasta Fitz Roy"
+      ],
+      [
+        "camino",
+        "aviso",
+        "RN 3 con deformaciones"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "La expedición de Magallanes llegó el 31 de marzo de 1520 y pasó el invierno en la bahía. El 1 de abril, el sacerdote Pedro de Valderrama celebró la misa; en 2020 se cumplieron 500 años."
+      ],
+      [
+        "La nao",
+        "El Museo Temático Nao Victoria está armado dentro de una réplica en tamaño real de la Victoria, el único barco de la flota de Magallanes que completó la primera vuelta al mundo."
+      ],
+      [
+        "Parque marino",
+        "Desde 2012 la bahía es parte del Parque Interjurisdiccional Marino Makenke: unas 71.000 hectáreas de mar alrededor de la bahía y la península de San Julián."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-20-mapa-pigafetta",
+      "titulo": "Mapa de Pigafetta",
+      "sub": "En bronce, frente al museo"
+    },
+    "fila": {
+      "titulo": "En la bahía",
+      "items": [
+        {
+          "img": "AUS-20-delfin-austral",
+          "nombre": "Delfín austral",
+          "texto": "Se busca en las salidas en lancha por la bahía."
+        },
+        {
+          "img": "AUS-20-pinguinos",
+          "nombre": "Pingüino de Magallanes",
+          "texto": "Colonias en la bahía, visibles desde la lancha."
+        },
+        {
+          "img": "AUS-20-circuito-costero",
+          "nombre": "Circuito Costero",
+          "texto": "Sale del pueblo y está señalizado."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Plan de un día",
+        "A la mañana, el museo y la costanera; después, el Circuito Costero; y a la tarde, una salida en lancha por la bahía para buscar delfines."
+      ],
+      [
+        "En la camper",
+        "Camping municipal con parrillas y duchas calientes hasta las 21 h, según viajeros. Cargá antes de ir al norte: hay ~270 km sin estaciones hasta Fitz Roy."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-21",
+    "region": "AUS",
+    "ubicacion": "Cte. Luis Piedra Buena · Santa Cruz",
+    "titulo": "Parque Nacional Monte León",
+    "bajada": "El primer parque nacional costero continental del país: 36 km de acantilados y una pingüinera de más de sesenta mil parejas.",
+    "datos": [
+      [
+        "Acceso",
+        "RN 3, km 2.400"
+      ],
+      [
+        "Desde Río Gallegos",
+        "~210 km al norte"
+      ],
+      [
+        "Registro",
+        "Obligatorio al entrar"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No dentro del parque"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Entrá con tanque lleno"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá la RP 63"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Fue una estancia ovejera, vendida en 1920 a la familia Braun. En 2001 se compró con una donación de Kristine Tompkins y en 2004 una ley creó el parque. El viejo galpón de esquila es hoy centro de interpretación."
+      ],
+      [
+        "Paisaje",
+        "62.169 hectáreas de estepa que terminan en acantilados, cuevas y restingas. Con las bajantes fuertes queda al descubierto la franja intermareal y se camina por la playa del área Juan Quiñonez."
+      ],
+      [
+        "La pingüinera",
+        "Más de 60.000 parejas de pingüino de Magallanes. Se llega por un sendero de ~2,5 km por la estepa, que sale del km 15 de la RP 63."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-21-pinguinera",
+      "titulo": "Pingüinera",
+      "sub": "Más de 60.000 parejas de Magallanes"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-21-lobos-elefantes",
+          "nombre": "Lobos y elefantes",
+          "texto": "Lobos y elefantes marinos sobre la costa del parque."
+        },
+        {
+          "img": "AUS-21-guanaco",
+          "nombre": "Guanaco",
+          "texto": "En la estepa, muy probable."
+        },
+        {
+          "img": "AUS-21-galpon",
+          "nombre": "Galpón de esquila",
+          "texto": "Hoy es el centro de interpretación del parque."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Mirá la tabla de mareas: la playa de Juan Quiñonez solo se recorre con marea bien baja, y vuelve rápido. Consultá horarios: en invierno abre menos horas."
+      ],
+      [
+        "En la camper",
+        "No se puede acampar ni pernoctar en el parque: dormí en Piedra Buena o Río Gallegos. Consultá el camino interno antes de entrar con un vehículo grande."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-22",
+    "region": "AUS",
+    "ubicacion": "Tolhuin · Tierra del Fuego",
+    "titulo": "Tolhuin y el Lago Fagnano",
+    "bajada": "El lago llena la fosa de una falla entre dos placas tectónicas: en 1949, dos terremotos de magnitud 7,8 sacudieron sus orillas.",
+    "datos": [
+      [
+        "Desde Río Grande",
+        "~105–109 km · ~1 h 15"
+      ],
+      [
+        "Desde Ushuaia",
+        "~103–111 km · ~1 h 15"
+      ],
+      [
+        "Cruce a la isla",
+        "Por Chile, con balsa"
+      ],
+      [
+        "Tiempo de visita",
+        "Una tarde o una noche"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping junto al lago"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Tolhuin o Río Grande"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Baches y tramos en obra"
+      ]
+    ],
+    "bloques": [
+      [
+        "El nombre",
+        "Tolhuin viene del selk'nam Tol-wen, «como corazón»: el pueblo, fundado en 1972, está en el centro de la isla. Los selk'nam llamaban al lago Khami, «agua grande»; hoy recuerda a monseñor José Fagnano."
+      ],
+      [
+        "La falla",
+        "El lago ocupa una depresión sobre la falla Magallanes-Fagnano, límite entre las placas de Scotia y Sudamericana. Los sismos de 1949 dejaron una escarpa al oeste y árboles secos donde el agua inundó."
+      ],
+      [
+        "El cruce",
+        "Desde Río Gallegos se entra a Chile por Monte Aymond, se cruza el Estrecho de Magallanes en balsa por Primera Angostura y se vuelve a Argentina por San Sebastián."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-22-panaderia",
+      "titulo": "Panadería La Unión",
+      "sub": "Parada obligada de la RN 3 desde 1985"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "AUS-22-balsa",
+          "nombre": "Primera Angostura",
+          "texto": "La balsa cruza el Estrecho de Magallanes en ~20 min."
+        },
+        {
+          "img": "AUS-22-faro-virgenes",
+          "nombre": "Faro Cabo Vírgenes",
+          "texto": "De 1904, donde nace la Ruta 40. Ripio, sin servicios."
+        },
+        {
+          "img": "AUS-22-pinguinos-virgenes",
+          "nombre": "Pingüinera Vírgenes",
+          "texto": "Colonia grande de Magallanes en la reserva provincial."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de cruzar",
+        "Llevá DNI o pasaporte vigentes. Completá online la declaración jurada del SAG y llegá sin frutas, verduras, carnes ni lácteos frescos: hay rayos X y perros."
+      ],
+      [
+        "En la camper",
+        "Pedí a Terra Campers papeles y permiso para salir del país; el viento puede demorar la balsa. Dormí en el Camping Hain, junto al lago: confirmá que abra."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-23",
+    "region": "AUS",
+    "ubicacion": "Tolhuin · Ushuaia · Tierra del Fuego",
+    "titulo": "Lago Escondido y Paso Garibaldi",
+    "bajada": "A 450 metros sobre el mar, el punto más alto de la Ruta 3 se asoma al Lago Escondido y al Fagnano.",
+    "datos": [
+      [
+        "Ubicación",
+        "RN 3, km 3.007"
+      ],
+      [
+        "Desde Tolhuin",
+        "~40 km al sur"
+      ],
+      [
+        "Altura",
+        "~450 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "30 min o una tarde"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "En Tolhuin o Ushuaia"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Curvas; nieve invernal"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Lleva el nombre de Luis Garibaldi Honte, que en 1935 encontró una pasada natural desde el Lago Escondido a través de la cordillera. La ruta por el paso es de alrededor de 1956."
+      ],
+      [
+        "Paisaje",
+        "Acá la RN 3 cruza la cordillera que separa el centro de la isla del Canal Beagle. El Lago Escondido aparece encajonado entre montañas y rodeado de bosque patagónico."
+      ],
+      [
+        "La subida",
+        "Desde Ushuaia, la ruta sube por el Valle de Tierra Mayor. Existe también un camino viejo de bajada, hoy usado sobre todo por 4x4. Y en el lago hay excursiones para ver castores."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-23-castor",
+      "titulo": "Castor",
+      "sub": "Diques en los arroyos del lago"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "AUS-23-tierra-mayor",
+          "nombre": "Valle de Tierra Mayor",
+          "texto": "Por acá sube la ruta desde Ushuaia."
+        },
+        {
+          "img": "AUS-23-zorro-gris",
+          "nombre": "Zorro gris",
+          "texto": "Con suerte, en los bordes del bosque."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Para muchos es el mejor mirador de Tierra del Fuego: en un mismo encuadre entran el Lago Escondido y, al fondo, el Fagnano."
+      ],
+      [
+        "En la camper",
+        "Subí y bajá despacio, con cambios bajos. En invierno hay nieve y cortes, y se exigen cubiertas de invierno o cadenas: consultá Vialidad. Dormí en Tolhuin o Ushuaia."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-24",
+    "region": "AUS",
+    "ubicacion": "Ushuaia · Tierra del Fuego",
+    "titulo": "Ushuaia",
+    "bajada": "Nació como subprefectura en 1884 y creció alrededor de una cárcel de reincidentes que funcionó hasta 1947: hoy es museo.",
+    "datos": [
+      [
+        "Desde Tolhuin",
+        "~103–111 km (RN 3)"
+      ],
+      [
+        "Paso de montaña",
+        "Garibaldi, ~450 msnm"
+      ],
+      [
+        "Glaciar Martial",
+        "A pocos km del centro"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings para motorhome"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Todos los servicios"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El 12 de octubre de 1884 el comodoro Augusto Lasserre izó la bandera y fundó una subprefectura junto a la misión anglicana de Thomas Bridges. El presidio se empezó en 1902 y cerró en 1947, por orden de Perón."
+      ],
+      [
+        "Hielo y canal",
+        "El Canal Beagle es un valle excavado por glaciares en una zona tectónicamente activa. Detrás de la ciudad, los Montes Martial guardan el Glaciar Martial, un glaciar de circo."
+      ],
+      [
+        "La vieja cárcel",
+        "En el edificio del presidio, hoy de la Armada, funciona el Museo Marítimo y del Presidio. Ahí mismo está el Museo Antártico José María Sobral."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-24-presidio",
+      "titulo": "Ex presidio",
+      "sub": "Hoy Museo Marítimo y del Presidio"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-24-glaciar-martial",
+          "nombre": "Glaciar Martial",
+          "texto": "Glaciar de circo sobre la ciudad, a unos 1.000 m."
+        },
+        {
+          "img": "AUS-24-canal-beagle",
+          "nombre": "Canal Beagle",
+          "texto": "Las navegaciones salen del muelle turístico del puerto."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Subí al Glaciar Martial: el acceso arranca a pocos kilómetros del centro y desde arriba se ve toda la bahía y el canal."
+      ],
+      [
+        "En la camper",
+        "Camping Río Pipo (24 h, duchas, electricidad) o La Pista del Andino, ~3 km del centro. Hay puntos oficiales de descarga de grises y negras: preguntá en Turismo."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-25",
+    "region": "AUS",
+    "ubicacion": "Ushuaia · Tierra del Fuego",
+    "titulo": "Parque Nacional Tierra del Fuego",
+    "bajada": "La Ruta 3 termina acá, en Bahía Lapataia, frente a montículos de conchillas que dejaron los yaganes durante miles de años.",
+    "datos": [
+      [
+        "Desde Ushuaia",
+        "~12 km por la RN 3"
+      ],
+      [
+        "Caminos internos",
+        "Sin asfalto"
+      ],
+      [
+        "Horario",
+        "8:30–20 h (consultá)"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe agreste"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Ushuaia"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Caminos sin asfalto"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Creado en 1960, fue el primer parque nacional argentino con costa marina. Lo habitaron yaganes canoeros y selk'nam; sus concheros, montículos de valvas de mejillón, muestran miles de años de ocupación."
+      ],
+      [
+        "El bosque",
+        "Lenga, que en otoño se pone roja y dorada; guindo, siempreverde; y ñire, más bajo. Bahía Lapataia es el único fiordo del sector argentino de la isla, y en los valles abundan las turberas."
+      ],
+      [
+        "El castor",
+        "Llegó en 1946 desde Canadá: 20 ejemplares para la industria peletera. Hoy se lo controla porque sus diques inundan y matan el bosque de lenga junto a los ríos."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-25-lenga-otono",
+      "titulo": "Lenga en otoño",
+      "sub": "Roja y dorada antes de perder la hoja"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AUS-25-cauquen",
+          "nombre": "Cauquén",
+          "texto": "Ganso patagónico que camina por los claros del parque."
+        },
+        {
+          "img": "AUS-25-zorro-colorado",
+          "nombre": "Zorro colorado",
+          "texto": "Habita el parque. Si lo cruzás, no lo alimentes."
+        },
+        {
+          "img": "AUS-25-conchero",
+          "nombre": "Conchero",
+          "texto": "Restos de comida yagán: un sitio arqueológico, no se toca."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Se paga entrada en el portal; no conviene entrar de noche. Con permiso de acampe, el ticket vale 48 horas. Las restricciones de fuego cambian según la temporada."
+      ],
+      [
+        "En la camper",
+        "Acampe agreste sin servicios en Río Pipo, Ensenada y Laguna Verde. Llevá agua y tu basura de vuelta. Para servicios completos, dormí en los campings de Ushuaia."
+      ]
+    ]
+  },
+  {
+    "codigo": "AUS-26",
+    "region": "AUS",
+    "ubicacion": "Ushuaia · Tierra del Fuego",
+    "titulo": "Canal Beagle, Martillo y Harberton",
+    "bajada": "En Isla Martillo se baja a caminar entre pingüinos, y enfrente sigue en pie la estancia que Thomas Bridges fundó en 1886.",
+    "datos": [
+      [
+        "Navegación",
+        "~3 a 5 h desde el muelle"
+      ],
+      [
+        "A Harberton",
+        "~85 km (RN 3 y RP 33)"
+      ],
+      [
+        "Pingüinos",
+        "Noviembre a abril"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Agreste en la estancia"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Ushuaia"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio en la RP 33"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El canal lleva el nombre del HMS Beagle, del relevamiento británico de 1826–1830, al mando de Robert FitzRoy, que volvió con Darwin. Harberton nació en 1886, cuando Bridges dejó la misión de Ushuaia."
+      ],
+      [
+        "El canal",
+        "Un canal angosto entre montañas, con islotes rocosos donde se apiñan aves y lobos. Las salidas pasan por las islas de los Lobos y de los Pájaros hasta el faro Les Éclaireurs."
+      ],
+      [
+        "Isla Martillo",
+        "Piratour es la única empresa autorizada a desembarcar visitantes cerca de los pingüinos, y su salida incluye Harberton. Con suerte, entre los de Magallanes aparece algún pingüino papúa."
+      ]
+    ],
+    "destacada": {
+      "img": "AUS-26-pinguino-papua",
+      "titulo": "Pingüino papúa",
+      "sub": "Unos pocos, entre los de Magallanes"
+    },
+    "fila": {
+      "titulo": "Desde el barco",
+      "items": [
+        {
+          "img": "AUS-26-isla-lobos",
+          "nombre": "Isla de los Lobos",
+          "texto": "Lobos marinos de uno y dos pelos."
+        },
+        {
+          "img": "AUS-26-cormoran-imperial",
+          "nombre": "Isla de los Pájaros",
+          "texto": "Colonias de cormorán imperial y magallánico."
+        },
+        {
+          "img": "AUS-26-faro-eclaireurs",
+          "nombre": "Faro Les Éclaireurs",
+          "texto": "El «falso» faro del Fin del Mundo, de hacia 1920."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Museo Acatushún",
+        "En Harberton, museo de aves y mamíferos marinos australes creado por Natalie Prosser Goodall. Abre de mediados de octubre a mediados de abril."
+      ],
+      [
+        "En la camper",
+        "En temporada, la estancia permite acampe agreste gratuito junto a los ríos: consultá en la entrada. Sin servicios y con terreno irregular: buscá sitios planos. Tanque lleno."
+      ]
+    ]
+  }
+]

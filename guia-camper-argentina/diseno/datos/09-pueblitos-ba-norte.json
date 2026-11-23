@@ -1,0 +1,709 @@
+[
+  {
+    "codigo": "BSA-P01",
+    "region": "BSA-P",
+    "ubicacion": "Capilla del Señor · Buenos Aires",
+    "titulo": "Capilla del Señor",
+    "bajada": "En 1994 fue el primer pueblo bonaerense declarado Bien de Interés Histórico Nacional: el casco entero, no un edificio suelto.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~85 km · ~1 h a 1 h 30"
+      ],
+      [
+        "Rutas",
+        "Panamericana (Pilar) y RN 8"
+      ],
+      [
+        "Ideal para",
+        "Caminar el casco histórico"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin camping confirmado"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra a Los Ombúes"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Calles de adoquines, casonas del siglo XIX, museos chicos y pulperías de campo cerca. Se recorre a pie en un día y combina con San Antonio de Areco por la RN 8."
+      ],
+      [
+        "Historia",
+        "Creció alrededor del oratorio de la familia Casco de Mendoza, abierto al culto en 1735: de ahí el nombre. En 1871 Manuel Cruz imprimió acá El Monitor de la Campaña, considerado el primer periódico rural bonaerense."
+      ],
+      [
+        "El casco",
+        "La iglesia parroquial de 1866, con torre y reloj, mira a la plaza San Martín; en su atrio descansan dos capellanes irlandeses. La estación de tren es de 1886."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P01-imprenta",
+      "titulo": "Imprenta Marinoni",
+      "sub": "Museo del Periodismo Bonaerense"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P01-los-ombues",
+          "nombre": "Pulpería Los Ombúes",
+          "texto": "Boliche del siglo XVIII entre dos ombúes, famoso por el truco."
+        },
+        {
+          "img": "BSA-P01-miralejos",
+          "nombre": "Casa Miralejos",
+          "texto": "Casona italianizante de 1926–27, en el circuito de visitas guiadas."
+        },
+        {
+          "img": "BSA-P01-locro",
+          "nombre": "Parrilla El Paisano",
+          "texto": "Parrilla de campo con locro. Balcarce 55, viernes a domingo.",
+          "contacto": "Tel. 02323 586842"
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "El Paisano abre viernes y sábados de 11:30 a 15, y domingos hasta las 16. Para la merienda, tortas caseras en La Dominga, una casona reciclada."
+      ],
+      [
+        "En la camper",
+        "No encontramos camping confirmado: consultá pernocte en Turismo de Exaltación de la Cruz. El camino a Los Ombúes es de tierra: con lluvia, no vayas en camper grande."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P02",
+    "region": "BSA-P",
+    "ubicacion": "San Antonio de Areco · Buenos Aires",
+    "titulo": "San Antonio de Areco",
+    "bajada": "Acá ambientó Ricardo Güiraldes Don Segundo Sombra (1926), y todavía hay plateros que trabajan a mano el cuchillo y el mate.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~110 km · ~1 h 30"
+      ],
+      [
+        "Rutas",
+        "Panamericana (Pilar) y RN 8"
+      ],
+      [
+        "Ideal para",
+        "Tradición gaucha y platería"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día (2 en noviembre)"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Club River Plate"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto por la RN 8"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la capital de la tradición gaucha: museo, pulpería de novela, platería criolla y una costanera arbolada sobre el río Areco. Calculá un día entero, o dos si venís en noviembre."
+      ],
+      [
+        "Historia",
+        "Nació alrededor de una capilla a San Antonio de Padua impulsada por el estanciero José Ruiz de Arellano. La fundación se fecha el 23 de octubre de 1730; en 1750 donó tierras junto al río para trazar el pueblo."
+      ],
+      [
+        "La Tradición",
+        "El fin de semana siguiente al 10 de noviembre, la Fiesta de la Tradición llena el Parque Criollo de desfiles gauchos y destrezas criollas. Si podés, planeá el viaje para esa fecha."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P02-plateria",
+      "titulo": "Platería criolla",
+      "sub": "Mates y facones trabajados a mano"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P02-la-blanqueada",
+          "nombre": "Museo Gauchesco",
+          "texto": "Con la pulpería La Blanqueada, citada en la novela de Güiraldes."
+        },
+        {
+          "img": "BSA-P02-bessonart",
+          "nombre": "Boliche de Bessonart",
+          "texto": "Almacén de más de 200 años: empanadas de cordero a cuchillo.",
+          "contacto": "Tel. 02325 655600"
+        },
+        {
+          "img": "BSA-P02-molina-campos",
+          "nombre": "Museo Las Lilas",
+          "texto": "Obras originales de Florencio Molina Campos. Moreno 279."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "Cocina criolla en el Almacén de Ramos Generales, una casona de 1850 en Zapiola 143 (ramosgeneralesareco.com.ar)."
+      ],
+      [
+        "En la camper",
+        "El camping del Club River Plate, sobre la costanera a ~10 cuadras del centro, recibe motorhomes en un predio de 13 ha. Informes: Turismo, (02326) 453165."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P03",
+    "region": "BSA-P",
+    "ubicacion": "Baradero · Buenos Aires",
+    "titulo": "Baradero, el pueblo más antiguo",
+    "bajada": "Es el pueblo más antiguo de la provincia: nació en 1615 como reducción franciscana, dos siglos antes que la mayoría.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~142 km · ~1 h 45 a 2 h"
+      ],
+      [
+        "Rutas",
+        "Panamericana y RN 9"
+      ],
+      [
+        "Ideal para",
+        "Río, historia y pulpería"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día (2 con San Pedro)"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá el Camino Real"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Río, historia colonial y una pulpería de campaña que sigue abierta. La costanera y el balneario municipal lo hacen cómodo para la camper, y combina con San Pedro en un fin de semana."
+      ],
+      [
+        "Historia",
+        "Se toma como fundación el 25 de julio de 1615, cuando los franciscanos reunieron a chanás, mbeguás y guaraníes en la misión de Santiago del Baradero, donde hoy está la plaza. No hay acta que lo certifique."
+      ],
+      [
+        "Colonia Suiza",
+        "En 1856 llegaron diez familias suizas y formaron la primera colonia agrícola suiza del país. Su barrio todavía se recorre y tiene un pequeño museo con utensilios de la época."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P03-parroquia",
+      "titulo": "Santiago Apóstol",
+      "sub": "En la manzana fundacional franciscana"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P03-el-torito",
+          "nombre": "Pulpería El Torito",
+          "texto": "De 1880, la última pulpería de campaña de Baradero.",
+          "contacto": "@eltoritopulperia"
+        },
+        {
+          "img": "BSA-P03-museo-barbich",
+          "nombre": "Museo Barbich",
+          "texto": "Casona de 1870 con piezas prehispánicas y documentos coloniales."
+        },
+        {
+          "img": "BSA-P03-balneario",
+          "nombre": "Costanera y balneario",
+          "texto": "Lago artificial, sectores de pesca y playas sobre el río Baradero."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "En El Torito: picadas, empanadas fritas de carne cortada a cuchillo, parrillada y pastas. Camino Real, a la altura del km 20 de la RP 41."
+      ],
+      [
+        "En la camper",
+        "Camping municipal junto al balneario, con sombra, pileta y pesca: consultá por motorhome. A El Torito, RP 41 de asfalto; el Camino Real puede ser de tierra."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P04",
+    "region": "BSA-P",
+    "ubicacion": "San Pedro · Buenos Aires",
+    "titulo": "San Pedro y sus barrancas",
+    "bajada": "Barrancas altas sobre el Paraná, el campo de batalla de la Vuelta de Obligado y la capital argentina de la ensaimada.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~2 h a 2 h 30"
+      ],
+      [
+        "Rutas",
+        "Panamericana y RN 9"
+      ],
+      [
+        "Ideal para",
+        "Barrancas, río y ensaimadas"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en la ciudad"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto por la RN 9"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Paseo costero en dos niveles con mirador sobre el Paraná, museos y río para bañarse o pescar. Todos los días a las 18 sale una visita guiada por el casco desde Turismo, en Mitre y Liniers."
+      ],
+      [
+        "Historia",
+        "A unos 20 km del centro, el 20 de noviembre de 1845, se libró la Batalla de la Vuelta de Obligado. Hoy es reserva natural e histórica, con un museo de piezas rescatadas por la Universidad Nacional de Luján."
+      ],
+      [
+        "Ensaimada",
+        "San Pedro es la capital argentina de la ensaimada mallorquina, y en agosto su fiesta nacional se hace en el Paseo Público, al pie de la barranca."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P04-obligado",
+      "titulo": "Vuelta de Obligado",
+      "sub": "Batalla del 20 de noviembre de 1845"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P04-escalera-flores",
+          "nombre": "Escalera de las Flores",
+          "texto": "Escalinata de mosaicos que sube al mirador de la barranca."
+        },
+        {
+          "img": "BSA-P04-buque-irigoyen",
+          "nombre": "Buque Museo Irigoyen",
+          "texto": "Buque de la época de la Segunda Guerra, en el puerto."
+        },
+        {
+          "img": "BSA-P04-fosil",
+          "nombre": "Museo Paleontológico",
+          "texto": "Más de veinte especies de mamíferos fósiles de la región."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "Para llevarte ensaimadas: La Perla, Mitre 945 (de 7 a 13 y de 16:30 a 20:30), o La Ensaimada, Mitre 1099 (laensaimada.com)."
+      ],
+      [
+        "En la camper",
+        "Camping Municipal ex Tiro Federal (Av. España 965), el más céntrico, con agua, parrillas y duchas calientes; o Camping América, con playita de río. Consultá lugar para motorhome."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P05",
+    "region": "BSA-P",
+    "ubicacion": "Carlos Keen · Buenos Aires",
+    "titulo": "Carlos Keen",
+    "bajada": "Tuvo unos 4.000 habitantes, se quedó dormido sin el tren y hoy despierta cada fin de semana con olor a parrilla.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~75–80 km · ~1 h 15"
+      ],
+      [
+        "Rutas",
+        "Acceso Oeste (RN 7) y rural"
+      ],
+      [
+        "Ideal para",
+        "Almuerzo de campo"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin pernocte confirmado"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Último tramo rural"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la escapada de campo más corta desde CABA: estación, capilla, feria de artesanos y una docena de restaurantes de campo. Ojo: entre semana está casi todo cerrado."
+      ],
+      [
+        "Historia",
+        "Creció alrededor de la estación de tren y vivió del traslado de cereales por ferrocarril. Cuando el tren dejó de pasar se vació, y desde hace unos años vive del turismo gastronómico."
+      ],
+      [
+        "A pie",
+        "Son pocas cuadras alrededor de la vieja estación y los galpones de acopio. Los fines de semana hay feria de artesanos, y la capilla San Carlos Borromeo es la parada clásica."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P05-capilla",
+      "titulo": "San Carlos Borromeo",
+      "sub": "Capilla neorrománica de 1906"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P05-vinedo",
+          "nombre": "Viñedo Zaffratelli",
+          "texto": "Viñedo de 2023 con restaurante y degustaciones. Solo con reserva.",
+          "contacto": "@zaffratelli"
+        },
+        {
+          "img": "BSA-P05-asado-estaca",
+          "nombre": "El Andén",
+          "texto": "Parrilla frente a la estación. Fines de semana y feriados.",
+          "contacto": "WhatsApp 02323 611501"
+        },
+        {
+          "img": "BSA-P05-el-molino",
+          "nombre": "El Molino",
+          "texto": "Restaurante de campo, camino a Villa Ruiz km 11,6. Reservá.",
+          "contacto": "WhatsApp 11 6785-1194"
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "Otra opción: Estación Keen Restaurante, con parrilla y pastas libres, y pet friendly. Tel. +54 9 11 5813-8118 o Instagram @estacionkeenrestaurante."
+      ],
+      [
+        "En la camper",
+        "Estacioná y recorré el pueblo a pie. No encontramos camping ni área de pernocte confirmada: planealo como salida de día o seguí a otro pueblo del recorrido."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P06",
+    "region": "BSA-P",
+    "ubicacion": "Villa Ruiz · Buenos Aires",
+    "titulo": "Villa Ruiz",
+    "bajada": "Unos 500 vecinos, una estación convertida en museo y la vieja YPF donde se filmó La odisea de los giles.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~95 km · ~1 h 30"
+      ],
+      [
+        "Rutas",
+        "RN 7 y camino rural"
+      ],
+      [
+        "Ideal para",
+        "Pulpería y picnic de campo"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin pernocte confirmado"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Rural: ojo con lluvia"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Luján o Giles"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Sigue a Carlos Keen por el mismo camino rural, pero es más tranquilo. Es Pueblo Turístico desde 2008 y hoy uno de los polos gastronómicos rurales de la provincia."
+      ],
+      [
+        "Historia",
+        "Nació y creció con el ferrocarril a fines del siglo XIX, alrededor de la estación. Cuando el tren dejó de pasar, se reconvirtió al turismo de campo. Cerca quedan sitios del viejo Camino Real, como la Posta de Figueroa."
+      ],
+      [
+        "La estación",
+        "Hoy funciona como museo y conserva la campana original, el mástil y el molinete de entrada. Alrededor, los caminos de campo se recorren en bici o a caballo."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P06-puente",
+      "titulo": "Puente de hierro",
+      "sub": "Sobre el arroyo de la Cruz"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P06-pulperia",
+          "nombre": "La Pulpería de Ruiz",
+          "texto": "Casona de principios del siglo XX: parrilla, pastas y parque.",
+          "contacto": "WhatsApp 2323 447842"
+        },
+        {
+          "img": "BSA-P06-ypf",
+          "nombre": "La vieja YPF",
+          "texto": "A la entrada del pueblo: escenario de La odisea de los giles."
+        },
+        {
+          "img": "BSA-P06-capilla",
+          "nombre": "Capilla del pueblo",
+          "texto": "Guarda imágenes de la Virgen del Rosario y de Luján."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Combinalo con Carlos Keen en el mismo día: están sobre el mismo camino rural. Reservá en La Pulpería de Ruiz y seguí las novedades en @villaruizturismo."
+      ],
+      [
+        "En la camper",
+        "No encontramos camping ni pernocte publicado: consultá en @villaruizturismo. El camino desde Carlos Keen es rural; si es de tierra, evitalo después de lluvias. Cargá en Luján."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P07",
+    "region": "BSA-P",
+    "ubicacion": "Azcuénaga · Buenos Aires",
+    "titulo": "Azcuénaga",
+    "bajada": "Un pueblo de estación de 1880 con capilla neorrománica, almacén de campo y un mural de adobe de interés cultural provincial.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~100–120 km · ~1 h 30 a 2 h"
+      ],
+      [
+        "Rutas",
+        "RN 8 y RP 193, o RN 7"
+      ],
+      [
+        "Ideal para",
+        "Pastas caseras y silencio"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Sin camping confirmado"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Rurales: ojo con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es el más silencioso de los pueblos de estación de la zona: una avenida, la estación, la capilla y pocos lugares para comer pastas caseras, siempre con reserva."
+      ],
+      [
+        "Historia",
+        "Se toma como fundación el 1 de abril de 1880, con la llegada del tren, y lleva el nombre de Miguel de Azcuénaga, vocal de la Primera Junta. Los pasajeros dejaron de pasar en 1978 y quedó congelado en el tiempo."
+      ],
+      [
+        "La vuelta a pie",
+        "Frente a la plaza está la capilla Nuestra Señora del Rosario, de 1907. Completan la vuelta el viejo edificio de la Casa Terreno, el Club Apolo y la panadería artesanal La Moderna."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P07-mural",
+      "titulo": "Mural de adobe",
+      "sub": "En la estación, de interés provincial"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P07-pastas",
+          "nombre": "La Porteña",
+          "texto": "Pastas caseras frente a la estación. Con reserva.",
+          "contacto": "@laportenarestaurante"
+        },
+        {
+          "img": "BSA-P07-almacen",
+          "nombre": "Almacén CT&Cía.",
+          "texto": "Almacén de campo para picar algo o comer. Con reserva previa."
+        },
+        {
+          "img": "BSA-P07-club-apolo",
+          "nombre": "Buffet del Club Apolo",
+          "texto": "El club del pueblo, en Av. P. Terren y El Ombú."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Acá todo funciona con reserva. La Porteña abre los fines de semana de 12 a 17, y viernes y sábados a la noche desde las 20:30."
+      ],
+      [
+        "En la camper",
+        "Hay una pequeña hostería, pero no encontramos camping ni pernocte publicado. Si llegás por caminos rurales desde San Andrés de Giles, consultá su estado: con lluvia se complican."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P08",
+    "region": "BSA-P",
+    "ubicacion": "San Andrés de Giles · Buenos Aires",
+    "titulo": "San Andrés de Giles",
+    "bajada": "La cabecera de los pueblos de estación del oeste: desde acá salís a Villa Ruiz y Azcuénaga, y volvés con miel.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~100 km · ~1 h 15"
+      ],
+      [
+        "Rutas",
+        "Acceso Oeste y RN 7"
+      ],
+      [
+        "Ideal para",
+        "Base para los pueblos"
+      ],
+      [
+        "Tiempo sugerido",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "ok",
+        "Cargá acá"
+      ],
+      [
+        "pernocte",
+        "aviso",
+        "Sin camping municipal"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto por la RN 7"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la base práctica del recorrido, sobre la RN 7: servicios, un parque municipal grande y un casco histórico tranquilo. Cargá combustible y provisiones antes de meterte en los caminos rurales."
+      ],
+      [
+        "Historia",
+        "En 1793 Francisco de Suero y Giles donó tierras junto al arroyo que hoy lleva su apellido para un oratorio. La fundación se fecha el 30 de noviembre de 1806, con la primera misa y San Andrés Apóstol como patrono."
+      ],
+      [
+        "El casco",
+        "Alrededor de la plaza están el Palacio Municipal de 1910, la iglesia San Andrés Apóstol y la Casa Méndez. La estación de tren queda en Diagonal J. Morgan 801."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P08-vitrales",
+      "titulo": "Casa Méndez",
+      "sub": "Una cúpula de vitrales en el casco"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P08-maquinaria",
+          "nombre": "Museo de Maquinaria",
+          "texto": "Maquinaria agrícola antigua, expuesta al aire libre."
+        },
+        {
+          "img": "BSA-P08-miel",
+          "nombre": "Granja Mirador al Sur",
+          "texto": "Miel y gírgolas para comprar en origen."
+        },
+        {
+          "img": "BSA-P08-domos",
+          "nombre": "Las Goya Glamping",
+          "texto": "Domos y hasta un vagón para dormir. Consultá si reciben campers.",
+          "contacto": "@lasgoya"
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "El Viejo Tropezón, un bodegón con aire de pulpería y platos caseros. Para más datos, la Dirección de Turismo informa en Instagram @turismosag."
+      ],
+      [
+        "En la camper",
+        "No encontramos camping municipal publicado. El Parque Lillia (15 ha, parrillas y senderos) sirve para pasar el día. Cargá combustible acá antes de los caminos rurales."
+      ]
+    ]
+  }
+]

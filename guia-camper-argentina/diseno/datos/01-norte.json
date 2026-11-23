@@ -261,5 +261,1067 @@
         "No hay camping en el sitio: dormí en Amaicha del Valle o seguí a Cafayate. El ripio de acceso está en mal estado."
       ]
     ]
+  },
+  {
+    "codigo": "NOR-04",
+    "region": "NOR",
+    "ubicacion": "Cafayate · Salta",
+    "titulo": "Cafayate y los vinos de altura",
+    "bajada": "Viñedos a 1.700 metros donde el torrontés, una uva blanca muy perfumada, es la cepa más plantada del valle.",
+    "datos": [
+      [
+        "Desde Salta",
+        "~185 km · ~2 h 30"
+      ],
+      [
+        "Camino",
+        "Asfalto (RN 68)"
+      ],
+      [
+        "Altura",
+        "~1.700 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "ok",
+        "En el pueblo"
+      ],
+      [
+        "camino",
+        "ok",
+        "Todo asfalto (RN 68)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se hace vino en el valle al menos desde mediados del siglo XIX: Etchart remonta su bodega a 1850 y Vasija Secreta, a 1857. Hoy la Ruta del Vino de Cafayate reúne unos 40 productores, de bodegas grandes a familiares."
+      ],
+      [
+        "Paisaje",
+        "El pueblo está en el fondo del Valle Calchaquí, una fosa larga de norte a sur entre cordones montañosos. Alrededor manda el Monte seco: jarillas en el llano y cardones en las laderas."
+      ],
+      [
+        "Vino de altura",
+        "La altura da días de sol, noches frescas y mucha amplitud térmica. Las uvas desarrollan piel gruesa y aromas concentrados: es la base de los vinos de altura y del torrontés del valle."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-04-torrontes",
+      "titulo": "Torrontés",
+      "sub": "La uva blanca más plantada del valle"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-04-museo-vino",
+          "nombre": "Museo de la Vid",
+          "texto": "A tres cuadras de la plaza: la historia del vino local."
+        },
+        {
+          "img": "NOR-04-jarilla",
+          "nombre": "Jarilla",
+          "texto": "El arbusto que domina el paisaje seco del valle."
+        },
+        {
+          "img": "NOR-04-zorro-gris",
+          "nombre": "Zorro gris",
+          "texto": "Puede cruzar la ruta de noche. No lo alimentes."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Dedicale el segundo día a la Quebrada de las Conchas, camino a Salta: es la página siguiente."
+      ],
+      [
+        "En la camper",
+        "Camping municipal básico, sobre suelo arenoso, y combustible en el pueblo. Si recorrés bodegas, designá un conductor que no tome: las catas suman."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-05",
+    "region": "NOR",
+    "ubicacion": "Cafayate · Salta",
+    "titulo": "Quebrada de las Conchas",
+    "bajada": "Un cañón de roca roja tan cerrado que el Anfiteatro, una de sus paradas, tiene una acústica casi perfecta.",
+    "datos": [
+      [
+        "Ruta",
+        "RN 68 (Cafayate–Salta)"
+      ],
+      [
+        "Camino",
+        "Asfalto, con curvas"
+      ],
+      [
+        "Sentido ideal",
+        "De Cafayate hacia Salta"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No en la quebrada"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Cafayate"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Curvas y mucho tránsito"
+      ]
+    ],
+    "bloques": [
+      [
+        "Las gargantas",
+        "La Garganta del Diablo y el Anfiteatro son gargantas laterales que el agua talló en la roca. La Garganta conserva la forma de una antigua cascada que ya no corre."
+      ],
+      [
+        "Por qué es roja",
+        "Son arenas y arcillas del Grupo Salta, depositadas entre el Cretácico y el Eoceno y teñidas de rojo por óxidos de hierro. Después los Andes las levantaron e inclinaron, y el río las fue cortando."
+      ],
+      [
+        "Paisaje",
+        "Es ambiente de Monte: laderas secas con jarillas y cardones. La ruta sigue el río de las Conchas y, sobre los filos de la quebrada, a veces planea el cóndor."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-05-anfiteatro",
+      "titulo": "El Anfiteatro",
+      "sub": "Paredes rojas y acústica casi perfecta"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-05-garganta",
+          "nombre": "Garganta del Diablo",
+          "texto": "La forma de una vieja cascada, tallada en roca roja."
+        },
+        {
+          "img": "NOR-05-castillos",
+          "nombre": "Los Castillos",
+          "texto": "Una de las paradas clásicas de la quebrada."
+        },
+        {
+          "img": "NOR-05-quirquincho",
+          "nombre": "Quirquincho chico",
+          "texto": "Armadillo del Monte, activo de noche y difícil de ver."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Recorrela sin apuro, de Cafayate hacia Salta. Casi todas las excursiones paran en los mismos puntos: salí temprano para tenerlos más tranquilos."
+      ],
+      [
+        "En la camper",
+        "No hay campings en la quebrada: dormí en Cafayate o en Salta. En las paradas, dejá la camper bien fuera de la calzada: pasan muchos vehículos de excursión."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-06",
+    "region": "NOR",
+    "ubicacion": "Salta capital · Salta",
+    "titulo": "Salta y los niños del Llullaillaco",
+    "bajada": "Frente a la plaza descansan tres niños incas hallados en 1999 en la cumbre del Llullaillaco, a unos 6.700 metros.",
+    "datos": [
+      [
+        "Desde Cafayate",
+        "~185 km por la RN 68"
+      ],
+      [
+        "Camino",
+        "Todo asfalto"
+      ],
+      [
+        "Altura",
+        "~1.200 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Carlos Xamena"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Base para cargar todo"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Hernando de Lerma la fundó el 16 de abril de 1582 como San Felipe de Lerma en el Valle de Salta. Tras la muerte del fundador, los pobladores dejaron de usar el apellido y quedó Salta."
+      ],
+      [
+        "El MAAM",
+        "El Museo de Arqueología de Alta Montaña, frente a la plaza 9 de Julio, guarda a los niños del Llullaillaco, ofrendas de una ceremonia inca. Por conservación se exhiben de a uno, nunca juntos."
+      ],
+      [
+        "El San Bernardo",
+        "La ciudad ocupa el Valle de Lerma, rodeada de cerros. Al San Bernardo, de 1.454 msnm, se sube en teleférico desde el Parque San Martín o por más de mil escalones."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-06-ofrendas",
+      "titulo": "Ofrendas incas",
+      "sub": "Miniaturas halladas en el Llullaillaco"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-06-teleferico",
+          "nombre": "Teleférico",
+          "texto": "Unos 8 minutos desde el Parque San Martín hasta la cima."
+        },
+        {
+          "img": "NOR-06-plaza",
+          "nombre": "Plaza 9 de Julio",
+          "texto": "Con la catedral y el MAAM enfrente."
+        },
+        {
+          "img": "NOR-06-xamena",
+          "nombre": "Pileta del Xamena",
+          "texto": "270 por 97 metros: una de las más grandes del país."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El MAAM cierra los lunes y sus horarios cambian: consultalos en maam.gob.ar. Subí al San Bernardo al atardecer para ver cómo el valle encierra la ciudad."
+      ],
+      [
+        "En la camper",
+        "El Camping Municipal Carlos Xamena es el clásico: recibe más de 20 motorhomes por día en temporada. Cargá agua, gas, combustible y víveres antes de la Puna."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-07",
+    "region": "NOR",
+    "ubicacion": "Entre Salta y Cachi · Salta",
+    "titulo": "Cuesta del Obispo y Los Cardones",
+    "bajada": "La ruta trepa en zigzag hasta los 3.348 metros y después corre recta, durante kilómetros, entre cactus de casi 15 metros.",
+    "datos": [
+      [
+        "Desde Salta",
+        "RN 68 y RP 33 por El Carril"
+      ],
+      [
+        "Altura máxima",
+        "3.348 m (Piedra del Molino)"
+      ],
+      [
+        "Ingreso al parque",
+        "9:30 a 18 h"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día entre Salta y Cachi"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Mejor dormir en Cachi"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Salta"
+      ],
+      [
+        "camino",
+        "aviso",
+        "~20 km de curvas"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El Parque Nacional Los Cardones se creó en 1996 en tierras cedidas por la provincia y protege unas 65.000 hectáreas. Lo cruza la Recta de Tin Tin, de unos 15 a 19 km sin curvas."
+      ],
+      [
+        "La subida",
+        "Desde El Carril, la RP 33 sube por la Quebrada de Escoipe y la Cuesta del Obispo: unos 20 km de curvas hasta la Piedra del Molino, a 3.348 metros, puerta del parque."
+      ],
+      [
+        "El cardonal",
+        "Arriba, unas 10.000 hectáreas de cardón o pasacana, que llega a casi 15 metros. Viven guanacos, zorros y el gato andino, uno de los felinos más amenazados de América."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-07-pasacana",
+      "titulo": "Cardón o pasacana",
+      "sub": "Llega a casi 15 metros de altura"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-07-cuesta-obispo",
+          "nombre": "Cuesta del Obispo",
+          "texto": "Unos 20 km de zigzag desde la Quebrada de Escoipe."
+        },
+        {
+          "img": "NOR-07-ojo-condor",
+          "nombre": "Mirador Ojo de Cóndor",
+          "texto": "Sendero corto: cardones de cerca y, con suerte, guanacos."
+        },
+        {
+          "img": "NOR-07-gato-andino",
+          "nombre": "Gato andino",
+          "texto": "Registrado con cámaras trampa. Verlo es casi imposible."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El estado de la RP 33 cambia con las lluvias de verano: consultalo antes de salir. El parque abre todo el año."
+      ],
+      [
+        "En la camper",
+        "En el parque no hay combustible ni proveeduría: salí de Salta con tanque lleno y agua. Bajá la cuesta en marcha corta y de día. Dormí en Cachi."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-08",
+    "region": "NOR",
+    "ubicacion": "Cachi · Salta",
+    "titulo": "Cachi, el pueblo blanco",
+    "bajada": "Un pueblo blanco de adobe al pie de los cerros, con una iglesia cuyo techo y confesionario son de madera de cardón.",
+    "datos": [
+      [
+        "Desde Salta",
+        "~157–162 km"
+      ],
+      [
+        "Rutas",
+        "RN 68, RP 33 y RN 40"
+      ],
+      [
+        "Altura",
+        "Más de 2.200 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día y 1 noche"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Salí de Salta lleno"
+      ],
+      [
+        "camino",
+        "aviso",
+        "RN 40 al sur: ripio"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "La Iglesia de San José, en la plaza, es de adobe con bóveda de madera de cardón. Es Monumento Histórico Nacional desde 1945; las fuentes ubican su construcción entre el siglo XVII y 1796."
+      ],
+      [
+        "Paisaje",
+        "Cachi está en el valle alto del río Calchaquí, entre cerros secos cubiertos de cardones y la mole nevada del Nevado de Cachi al oeste. En el camino desde Los Cardones se cruzan guanacos."
+      ],
+      [
+        "El museo",
+        "Frente a la plaza funciona el Museo Arqueológico Pío Pablo Díaz, con la historia de los pueblos del valle antes de la llegada española. Visitalo antes de recorrer los alrededores."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-08-techo-cardon",
+      "titulo": "Techo de cardón",
+      "sub": "Bóveda de la Iglesia de San José"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-08-calle-adobe",
+          "nombre": "Calles de adobe",
+          "texto": "Casas blancas de adobe al pie de los cerros."
+        },
+        {
+          "img": "NOR-08-nevado",
+          "nombre": "Nevado de Cachi",
+          "texto": "La mole nevada que cierra el valle hacia el oeste."
+        },
+        {
+          "img": "NOR-08-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Se lo cruza en el camino desde Los Cardones."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Seguí al sur por la RN 40: Molinos, Angastaco y la Quebrada de las Flechas, hasta Cafayate. Gran parte es ripio: consultá su estado."
+      ],
+      [
+        "En la camper",
+        "Camping Municipal arbolado, con pileta, duchas y unas 15 plazas; las tomas de luz quedan lejos: llevá un alargue largo. El Algarrobal no tiene lugar para motorhome."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-09",
+    "region": "NOR",
+    "ubicacion": "San Antonio de los Cobres · Salta",
+    "titulo": "San Antonio y La Polvorilla",
+    "bajada": "Un puente ferroviario de 224 metros de largo a 4.220 metros de altura: la postal del Tren a las Nubes.",
+    "datos": [
+      [
+        "Desde Salta",
+        "~164 km · ~2 h 50 (RN 51)"
+      ],
+      [
+        "Al viaducto",
+        "~15–17 km de ripio"
+      ],
+      [
+        "Altura del viaducto",
+        "4.220 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día; mejor hacer noche"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "ok",
+        "YPF en el pueblo"
+      ],
+      [
+        "camino",
+        "aviso",
+        "RN 51 irregular; ripio"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Casi 3.800 m: soroche"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El ingeniero estadounidense Richard Maury tomó la obra del ramal C14 en 1921 y la resolvió sin cremallera, solo por adherencia. La línea a Chile se completó en 1948; La Polvorilla, su viaducto más alto, en los años 30."
+      ],
+      [
+        "La subida",
+        "Tren y ruta trepan desde el Valle de Lerma por la Quebrada del Toro hasta la Puna, una meseta alta, seca y fría. Hoy el tren turístico solo hace el tramo San Antonio–La Polvorilla."
+      ],
+      [
+        "Cielo",
+        "A unos 20 km, en Alto Chorrillos, a cerca de 4.900 metros, funcionan dos observatorios: QUBIC, que estudia el universo temprano, y el radiotelescopio LLAMA. Altura y aire seco: apagá las luces y mirá."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-09-cielo-puna",
+      "titulo": "Cielo de la Puna",
+      "sub": "Observatorios a cerca de 4.900 m"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-09-quebrada-toro",
+          "nombre": "Quebrada del Toro",
+          "texto": "La RN 51 sigue en buena parte el trazado del tren."
+        },
+        {
+          "img": "NOR-09-estacion",
+          "nombre": "Estación San Antonio",
+          "texto": "De acá sale el tren turístico hasta La Polvorilla."
+        },
+        {
+          "img": "NOR-09-zorro-colorado",
+          "nombre": "Zorro colorado",
+          "texto": "Habita la Puna. No lo alimentes."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Subís de unos 1.200 a casi 3.800 metros en pocas horas: comé liviano, tomá mucha agua y no hagas esfuerzos. Con problemas cardíacos, consultá a tu médico."
+      ],
+      [
+        "En la camper",
+        "Llená el tanque en la YPF: en la Puna las estaciones están lejos. Consultá en el pueblo dónde pernoctar. Las noches son muy frías: revisá calefacción y gas."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-10",
+    "region": "NOR",
+    "ubicacion": "Purmamarca · Jujuy",
+    "titulo": "Salinas Grandes y Cuesta de Lipán",
+    "bajada": "Un desierto blanco de unos 212 km² a 3.450 metros, al que se llega cruzando la Cuesta de Lipán a 4.170.",
+    "datos": [
+      [
+        "Desde Purmamarca",
+        "~65 km por la RN 52"
+      ],
+      [
+        "Camino",
+        "Asfalto, muchas curvas"
+      ],
+      [
+        "Altura máxima",
+        "4.170 m (Cuesta de Lipán)"
+      ],
+      [
+        "Tiempo de visita",
+        "1 a 2 h en el salar"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "No en el salar"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Sin carga hasta Susques"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Más de 4.000 m"
+      ]
+    ],
+    "bloques": [
+      [
+        "Los salineros",
+        "Alrededor del salar viven 33 comunidades kollas y atacamas que sacan sal en cooperativa: la dejan madurar un año en piletas y la secan al sol un mes. Desde 2009 mantienen un conflicto por los proyectos de litio."
+      ],
+      [
+        "Costra de sal",
+        "Es el fondo de una cuenca cerrada de la Puna: la lluvia arrastra sales que, al evaporarse, dejan una costra blanca y dura. En la temporada de lluvias, el agua forma un espejo que refleja el Nevado de Chañi."
+      ],
+      [
+        "La cuesta",
+        "La RN 52 trepa desde Purmamarca por la Cuesta de Lipán, de muchas curvas y subida fuerte, hasta 4.170 metros. Arriba, en la estepa, con suerte aparecen vicuñas."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-10-panes-sal",
+      "titulo": "Panes de sal",
+      "sub": "Trabajo cooperativo de 33 comunidades"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-10-lipan",
+          "nombre": "Cuesta de Lipán",
+          "texto": "Curvas cerradas que trepan hasta los 4.170 metros."
+        },
+        {
+          "img": "NOR-10-salar-espejo",
+          "nombre": "Salar espejado",
+          "texto": "Con lluvias, el agua refleja el Nevado de Chañi."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Llevá anteojos de sol, sombrero y protector: el reflejo quema. Visitá las piletas solo por sectores habilitados y con guía local. Mejor época: abril a noviembre."
+      ],
+      [
+        "En la camper",
+        "No se pernocta en el salar: volvé a Purmamarca. Cargá en Jujuy o Tilcara. Bajá Lipán en marcha corta: los frenos sufren. Hay viento fuerte."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-11",
+    "region": "NOR",
+    "ubicacion": "Purmamarca · Jujuy",
+    "titulo": "Purmamarca y los Siete Colores",
+    "bajada": "Un pueblo de adobe al pie de un cerro rayado de violeta, rosa, verde y ocre, como las polleras andinas.",
+    "datos": [
+      [
+        "Desde S. S. de Jujuy",
+        "~65 km · RN 9 y RN 52"
+      ],
+      [
+        "Camino",
+        "Todo asfalto"
+      ],
+      [
+        "A Salinas Grandes",
+        "~65 km más al oeste"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día y 1 noche"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping a 1 km"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Calles angostas"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá antes de la Puna"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Es la puerta oeste de la Quebrada de Humahuaca, un valle de unos 155 km que la UNESCO declaró Patrimonio Mundial en 2003 como paisaje cultural: por sus caminos, pueblos y cultivos milenarios, no solo por los cerros."
+      ],
+      [
+        "Siete colores",
+        "Cada franja es una capa de roca de otra época y otro ambiente: areniscas marinas muy antiguas y sedimentos más jóvenes de ríos y lagos. Los Andes las plegaron y la erosión las dejó a la vista."
+      ],
+      [
+        "Los tonos",
+        "Vienen de los minerales de cada capa, como hierro, cobre y azufre. Con la luz de la mañana y la de la tarde el cerro cambia: por eso conviene hacer noche en el pueblo."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-11-franjas",
+      "titulo": "Siete colores",
+      "sub": "Cada franja, una capa de otra época"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-11-colorados",
+          "nombre": "Paseo de los Colorados",
+          "texto": "Sendero que rodea los cerros rojizos detrás del pueblo."
+        },
+        {
+          "img": "NOR-11-calle-adobe",
+          "nombre": "Calles de adobe",
+          "texto": "Dejá la camper en la entrada y recorrelas a pie."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Fotografiá el cerro con luz de mañana y de tarde. Desde la entrada o el cerrito El Porito se lo ve detrás de los techos de adobe."
+      ],
+      [
+        "En la camper",
+        "Camping Los Colorados de Chabelita, a 1 km: parcelas para motorhome, duchas calientes y cocina. Es chico: llegá temprano. En el pueblo, estacioná en la entrada."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-12",
+    "region": "NOR",
+    "ubicacion": "Tilcara · Jujuy",
+    "titulo": "Tilcara y el Pucará",
+    "bajada": "Un poblado prehispánico fortificado sobre un cerro, excavado desde 1908 por la UBA y reconstruido en parte en el siglo XX.",
+    "datos": [
+      [
+        "Desde Purmamarca",
+        "RN 9 al norte, asfalto"
+      ],
+      [
+        "Ubicación",
+        "A pocas cuadras del centro"
+      ],
+      [
+        "Monumento Nacional",
+        "Desde 2000"
+      ],
+      [
+        "Tiempo de visita",
+        "2 a 3 h con el museo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping cerca del centro"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Cargá antes de la Puna"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Juan Bautista Ambrosetti y Salvador Debenedetti lo excavaron en los veranos de 1908 a 1910, con fondos de la Facultad de Filosofía y Letras de la UBA. Debenedetti empezó a reconstruir algunos recintos."
+      ],
+      [
+        "Reconstrucción",
+        "En 1948 Eduardo Casanova retomó la obra y la llevó adelante casi dos décadas. Parte de lo que ves es del siglo XX, no original: esa historia también es parte de la visita."
+      ],
+      [
+        "Paisaje",
+        "El cerro domina el ancho fondo de la Quebrada, junto al río Grande, con cerros de colores a los dos lados. Dentro del predio hay un Jardín Botánico de Altura con plantas de la Quebrada y la Puna."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-12-recintos",
+      "titulo": "Recintos de pirca",
+      "sub": "Excavados por la UBA desde 1908"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-12-monumento",
+          "nombre": "Monumento de la cima",
+          "texto": "Homenaje a Ambrosetti y Debenedetti, en lo más alto."
+        },
+        {
+          "img": "NOR-12-jardin-botanico",
+          "nombre": "Jardín Botánico",
+          "texto": "Plantas de la Quebrada y la Puna, dentro del predio."
+        },
+        {
+          "img": "NOR-12-museo",
+          "nombre": "Museo arqueológico",
+          "texto": "En el pueblo: la provincia donó las tierras a cambio de crearlo."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Llevá agua y sombrero: se camina en subida y al sol. Consultá los horarios del Pucará y del museo en la web de Filosofía y Letras de la UBA."
+      ],
+      [
+        "En la camper",
+        "El Camping El Jardín, cerca del centro, tiene electricidad y ducha caliente; si tu camper es alta, preguntá antes de entrar por cables bajos. Buen lugar para cargar combustible."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-13",
+    "region": "NOR",
+    "ubicacion": "Humahuaca · Jujuy",
+    "titulo": "Humahuaca y Serranía de Hornocal",
+    "bajada": "A unos 25 km del pueblo, un mirador a 4.350 metros mira de frente \"el cerro de los 14 colores\".",
+    "datos": [
+      [
+        "A Hornocal",
+        "~25 km de ripio al este"
+      ],
+      [
+        "Altura del mirador",
+        "4.350 msnm"
+      ],
+      [
+        "Mejor época",
+        "Abril a octubre"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día: pueblo y mirador"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en el pueblo"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio: mejor en 4x4"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Mirador a 4.350 m"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Humahuaca, de fundación española en 1595, es uno de los pueblos más antiguos de la Quebrada y le da nombre a todo el valle. Desde la plaza, una gran escalinata sube al Monumento a la Independencia, inaugurado en 1950."
+      ],
+      [
+        "Los 14 colores",
+        "Hornocal es parte de la Formación Yacoraite: rocas calcáreas depositadas en capas cuando parte del noroeste estaba bajo aguas someras. Los Andes las plegaron en serrucho y la erosión dejó cada color a la vista."
+      ],
+      [
+        "La subida",
+        "Al mirador se llega por unos 25 km de ripio de altura hacia el este, empinado y con curvas; algunas fuentes dicen más. La temporada seca, de abril a octubre, es la más segura."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-13-dientes",
+      "titulo": "Los dientes",
+      "sub": "Capas plegadas en forma de serrucho"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-13-monumento",
+          "nombre": "Monumento",
+          "texto": "Obra de Ernesto Soto Avendaño, en el cerro Santa Bárbara."
+        },
+        {
+          "img": "NOR-13-calle",
+          "nombre": "Calles de Humahuaca",
+          "texto": "Uno de los pueblos más antiguos de la Quebrada."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Según viajeros, el mirador cobra entrada y abre de 10 a 18 h: no se puede esperar el atardecer arriba. Consultá el estado del camino en el pueblo."
+      ],
+      [
+        "En la camper",
+        "Hay campings privados con lugar para motorhome; no acampes en el Monumento. Hornocal es ideal en 4x4: con la camper, llevá auxilio, agua y abrigo."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-14",
+    "region": "NOR",
+    "ubicacion": "Iruya · Salta (acceso por Jujuy)",
+    "titulo": "Iruya, colgado de la montaña",
+    "bajada": "Un pueblo salteño al que solo se llega desde Jujuy, cruzando un abra de ~4.000 metros y bajando 21 km de cornisa.",
+    "datos": [
+      [
+        "Desde Humahuaca",
+        "RN 9 y RP 13 por Iturbe"
+      ],
+      [
+        "Camino",
+        "~50 km de ripio y vados"
+      ],
+      [
+        "Altura máxima",
+        "~4.000 m (Abra del Cóndor)"
+      ],
+      [
+        "Tiempo de visita",
+        "Mínimo 1 noche"
+      ]
+    ],
+    "iconos": [
+      [
+        "camino",
+        "no",
+        "No apto camper grande"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Abra de ~4.000 m"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El pueblo creció alrededor de la iglesia de Nuestra Señora del Rosario y San Roque, levantada hacia 1753 y modificada varias veces. En su fiesta, el primer domingo de octubre, se bailan frente a ella los cachis de Iruya."
+      ],
+      [
+        "Paisaje",
+        "Está encajonado en una quebrada estrecha, entre cerros de laderas casi verticales: las casas se apilan en la pendiente porque no hay lugar plano. Llegar ya es parte del viaje."
+      ],
+      [
+        "El camino",
+        "Desde Iturbe, donde hay que vadear un río, la RP 13 sube al Abra del Cóndor, límite entre Jujuy y Salta, y baja 21 km por cornisa hasta casi 2.800 metros."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-14-iglesia",
+      "titulo": "La iglesia",
+      "sub": "Nuestra Señora del Rosario y San Roque"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "NOR-14-abra-condor",
+          "nombre": "Abra del Cóndor",
+          "texto": "Cerca de 4.000 m: el límite entre Jujuy y Salta."
+        },
+        {
+          "img": "NOR-14-san-isidro",
+          "nombre": "Caminata a San Isidro",
+          "texto": "Caserío a unos 8 km. Consultá el sendero antes."
+        },
+        {
+          "img": "NOR-14-cachis",
+          "nombre": "Los cachis",
+          "texto": "La danza propia de la fiesta patronal, frente a la iglesia."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "No circules con lluvia ni de noche: el camino tiene curvas cerradas, precipicios, tramos muy angostos y vados."
+      ],
+      [
+        "En la camper",
+        "El camino no es apto para motorhome ni camper grande. Dejá la camper en Humahuaca y subí en transporte local; consultá allá opciones y dónde dejarla segura."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-15",
+    "region": "NOR",
+    "ubicacion": "Abra Pampa · Jujuy",
+    "titulo": "Laguna de los Pozuelos",
+    "bajada": "En esta laguna de la Puna se contaron más de 30.000 flamencos de las tres especies que viven en la Argentina.",
+    "datos": [
+      [
+        "Desde Abra Pampa",
+        "~50 km de ripio (RP 7)"
+      ],
+      [
+        "Entrada",
+        "Gratuita"
+      ],
+      [
+        "Mejor época",
+        "Marzo y abril"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día ida y vuelta"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Abra Pampa"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio: cortes por lluvia"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Puna: noches heladas"
+      ]
+    ],
+    "bloques": [
+      [
+        "Protección",
+        "Es Reserva de Biosfera de la UNESCO desde 1990, sitio Ramsar desde 1992 y Área Importante para la Conservación de las Aves. La administra Parques Nacionales como Monumento Natural."
+      ],
+      [
+        "Paisaje",
+        "Una laguna abierta en medio de la estepa puneña, que cambia mucho con la estación. La mejor época es marzo y abril, después de las lluvias, cuando miles de flamencos tiñen la orilla de rosa."
+      ],
+      [
+        "Tres flamencos",
+        "Acá conviven el flamenco austral, la parina grande y la parina chica, las tres especies del país. En la estepa de alrededor pastan vicuñas y, a veces, aparece el suri."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-15-parina-grande",
+      "titulo": "Parina grande",
+      "sub": "Una de las tres especies de la laguna"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "NOR-15-parina-chica",
+          "nombre": "Parina chica",
+          "texto": "En marzo y abril se concentra por miles junto a las otras."
+        },
+        {
+          "img": "NOR-15-flamenco-austral",
+          "nombre": "Flamenco austral",
+          "texto": "La tercera especie de flamenco que vive en el país."
+        },
+        {
+          "img": "NOR-15-suri",
+          "nombre": "Suri",
+          "texto": "Ñandú puneño amenazado; a veces se lo ve en la estepa."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Oficina del área: Pellegrini 120, Abra Pampa, lunes a viernes de 7:30 a 16:30 (03883 302000). Consultá ahí el ripio: el camino interno se corta con lluvia."
+      ],
+      [
+        "En la camper",
+        "No hay servicios en el área: cargá todo en Abra Pampa, que tiene alojamiento. Consultá en la intendencia si se puede acampar. Noches heladas: revisá la calefacción."
+      ]
+    ]
   }
 ]
