@@ -190,3 +190,145 @@ Photorealistic editorial photograph of farm products on a rustic wooden table at
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of a countryside glamping site in the Buenos Aires pampas: white geodesic dome tents on wooden decks spread on a green lawn among trees, and an old restored railway carriage converted into a lodging, warm string lights, clear dusk sky, wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
 **Mejor foto real del lugar.**
+
+### `BSA-P09-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of an 1830 country pulpería on the bank of the Luján River in Mercedes, Buenos Aires province, Argentina: a low old building with very thick exposed brick walls, small wooden doors and shutters, a tin roof and a wooden hitching post (palenque) in front, a dirt yard with tall trees and the calm river just behind, warm golden hour light, wide shot with the building in the middle horizontal band, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P09-salame`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial food photograph of Argentine salame quintero, a coarse artisanal farm salami: one whole cured salami with natural casing and string, and several thick slices showing coarse red meat and white fat, on a worn wooden board with country bread and a small knife, rustic farmhouse table, warm window light, close-up with shallow depth of field, vertical framing, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P09-catedral`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a monumental early-20th-century neo-Gothic cathedral in a provincial town of Buenos Aires province, Argentina: tall pointed spires, a large rose window and an ornate pale facade rising above the trees of a town square, deep blue sky, soft late afternoon light, low-angle wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P09-laurino`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the interior of a 1950s Argentine corner general store turned bar: long dark wooden counter, tall shelves with old bottles, jars and tins, small marble tables and bentwood chairs, a tiled floor, light from tall corner windows, warm nostalgic atmosphere, medium wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P09-rio-lujan`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the calm, brownish Luján River winding through a large wooded municipal park in the pampas: tall eucalyptus, willows and poplars on grassy banks, wooden picnic tables and a brick grill in the shade, soft morning light with a light mist on the water, wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P10-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the old railway station of Tomás Jofré, a tiny pampas village in Buenos Aires province, Argentina: a low brick station building with a wooden platform canopy, now a small museum, surrounded by long country restaurant tables with tablecloths set under large shady trees, dirt streets, warm weekend midday light filtered through leaves, wide shot with the station in the middle horizontal band, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P10-parrilla`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial food photograph of an Argentine country grill (parrilla) in full action: a large iron grill over glowing wood embers with a whole beef rib rack (costillar), chorizos, morcillas and crispy achuras (sweetbreads and chinchulines), light smoke rising, rustic brick grill structure, warm firelight mixed with daylight, close-up with shallow depth of field, vertical framing, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P10-antenor`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial food photograph of a picada of Argentine country cold cuts on a wooden board in a rural restaurant: sliced salami, bondiola, cheese cubes, olives and bread, a bottle of red wine and a siphon of soda water, outdoor table under trees with dappled light, close-up with shallow depth of field, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P10-silvano`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a popular country restaurant in a small pampas village: an old brick house with a long shaded gallery, many wooden tables with checked tablecloths set out on a lawn under tall trees, a smoking outdoor brick grill, dirt street in front, warm midday light, wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P10-fronteras`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the interior of an old rural general store converted into a restaurant in Buenos Aires province: original wooden counter and shelves with antique tins, scales and bottles, old furniture, set dining tables with simple tablecloths, brick floor, soft window light, medium wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P11-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Navarro lagoon, Buenos Aires province, Argentina, at sunset: a wide calm pampas lagoon with reeds along the shore, a long wooden fishing pier reaching into the water, the tall trees of the lakeside campground on the bank, orange and violet sky reflected on the still water, wide shot with the horizon in the middle band, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P11-fortin`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a reconstructed 18th-century colonial frontier fort (fortín) in the Argentine pampas: a wooden palisade of vertical logs, a simple watchtower and a small adobe guard house, a lagoon and tall grass in the background, soft early morning light, vertical framing, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P11-la-protegida`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the counter of an old Argentine general store turned museum and restaurant: a long wooden counter, shelves packed with antique colorful biscuit tins, old bottles and period tools hanging on the walls, a few set tables, warm soft light, medium shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P11-horno-barro`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial food photograph of a whole golden roast chicken with potatoes and sweet potatoes in a metal tray, just taken out of a traditional dome-shaped clay oven (horno de barro) whose arched mouth glows with embers behind it, rural farmyard setting, warm late-morning light, close-up with shallow depth of field, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P11-dorrego`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a quiet commemorative park in the Argentine pampas: a classical bronze bust on a stone pedestal among tall trees and green lawns, a path leading to it, a lagoon glimpsed in the background, soft afternoon light, medium wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P12-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the large Lobos lagoon, Buenos Aires province, Argentina, at sunset: a wide flat expanse of water with a few small sailboats and a kitesurf kite on the horizon, reeds and trees on the shore, warm orange sky reflected on the water, wide shot with the horizon and sails in the middle horizontal band, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P12-casa-peron`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a modest restored late-19th-century single-storey house in a small Argentine pampas town, now a museum: whitewashed facade, green wooden shutters and door, iron window grilles, a tiled sidewalk and a tree, facing a town square, soft morning light, vertical framing, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P12-paracaidistas`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of several colorful parachute canopies (rectangular ram-air parachutes) descending over the flat green fields of the pampas, a lagoon shining in the distance, clear blue sky with a few clouds, late afternoon light, telephoto shot, skydivers as small distant figures only, natural colors, high detail, no text, no watermark, no logos.
+
+### `BSA-P12-muelle`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a long wooden fishing pier on a calm pampas lagoon in Buenos Aires province, a lakeside campground with grassy pitches under tall trees on the bank, early morning light with soft mist over the water, wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P12-moreira`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial photograph of a bronze statue of a 19th-century Argentine gaucho with a wide-brimmed hat, poncho, chiripá and a facón knife at the waist, standing on a stone plinth in a small-town square with trees, soft afternoon light, low-angle medium shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P13-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the neo-Gothic church of Nuestra Señora de Luján in Uribelarrea, a small village in Buenos Aires province, Argentina: a slender brick church with a tall pointed spire and pointed arched windows, facing a quiet green plaza with old trees, dirt and cobbled streets, soft golden hour light, wide shot with the church centered in the middle horizontal band, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P13-escuela`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a late-19th-century agricultural school building in the Argentine pampas: a long two-storey brick building with arched windows and a gallery, a farmyard with cows and cultivated plots in front, tall trees and wide sky, soft morning light, vertical framing, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P13-tallarines`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial food photograph of a plate of fresh homemade green arugula tallarines (tagliatelle colored with rocket) with a light sauce and grated cheese, on a rustic wooden table in an old country pulpería turned restaurant, a glass of red wine and bread behind, warm window light, close-up with shallow depth of field, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P13-pan-casero`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial food photograph of homemade Italian-style breads and fresh pasta on a floured wooden table in a country restaurant kitchen: crusty round loaves, a basket of rolls, sheets of fresh egg pasta and ravioli being cut, soft warm window light, close-up with shallow depth of field, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P13-cerveza`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial food photograph of two pint glasses of craft beer, one amber and one dark, with creamy foam, on a wooden outdoor table of a rural brewery restaurant in the pampas, a picada board with cheese and salami beside them, green trees and stainless brewing tanks softly out of focus, warm afternoon light, close-up, no labels or brand names, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P14-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a 1920s English Tudor-style country estate house in the pampas of Buenos Aires province, Argentina, resembling a small castle: brick and stone facade with towers, gables and tall chimneys, surrounded by a vast manicured green park with old trees, golden hour light, wide shot with the house centered in the middle horizontal band, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P14-dulce-de-leche`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial food photograph of Argentine dulce de leche: a glass jar filled with glossy thick caramel-brown spread, a spoon lifting a slow ribbon of it, slices of country bread on a wooden board, an old enamel milk jug beside it, rustic estancia kitchen table, warm morning window light, close-up with shallow depth of field, vertical framing, no labels, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-P14-laberinto`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a large hedge maze made of tall clipped pine and cypress trees on a country estate in the Argentine pampas, seen from a slightly elevated viewpoint: deep green walls forming winding paths of grass, open fields and big trees beyond, soft late afternoon light with long shadows, wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P14-lo-de-beto`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a roadside grill restaurant on a pampas highway in Argentina: a rustic wooden building like a Patagonian mountain refuge, a smoking brick grill with large cuts of beef visible through a window, a gravel parking area and tall trees, warm late afternoon light, wide shot, no signs, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-P14-iglesia-carmen`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a historic Catholic parish church facing a leafy town square in a provincial town of Buenos Aires province, Argentina: a classical plastered facade with a bell tower and a clock, palm trees and old plane trees in the square, deep blue sky, soft morning light, medium wide shot, natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**

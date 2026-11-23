@@ -163,3 +163,85 @@ Photorealistic editorial travel photograph of the Hua Hum river in Neuquén, Arg
 ### `AND-08-nonthue`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of Lake Nonthué, the narrow western arm of Lake Lácar, Neuquén, Argentina: a slim, calm blue lake squeezed between steep mountain slopes covered with dense green forest, layers of ridges fading into haze. Soft morning light, wide-angle. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-09-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Lake Escondido seen from the Ruta de los Siete Lagos (RN 40), Neuquén, Argentina: a small emerald-green lake enclosed by steep slopes of dense coihue forest (Nothofagus dombeyi), layers of forested Andean ridges behind, a curve of the paved mountain road along the edge of the frame. Soft late morning light, calm water, wide-angle panoramic composition with the lake in the central band. Natural green and blue palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-09-correntoso`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the Correntoso river near Villa La Angostura, Neuquén, Argentina: one of the shortest rivers in the world, a few hundred meters of fast clear turquoise water rushing over stones between Lake Correntoso and Lake Nahuel Huapi, forested banks, mountains behind, seen from a bridge above. Soft morning light, vertical framing that follows the river into the big lake. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-09-espejo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the beach of Lake Espejo on the Ruta de los Siete Lagos, Neuquén, Argentina: a fine grey-sand beach with driftwood, crystal-clear still water mirroring the dense forested mountains. Calm early morning light, wide-angle from the shoreline. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-09-falkner`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Lake Falkner beside the RN 40 on the Seven Lakes Road, Neuquén, Argentina: a long pale sand beach with shade trees, deep-blue lake and a steep forested mountain rising straight from the water on the opposite shore. Bright summer afternoon light, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-09-condor`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of an Andean condor (Vultur gryphus) soaring: all-black body, white fluffy ruff at the base of the neck, large white patches on the upper side of the wings, bare dark grey-black head (not white-headed like an eagle), wide fingered wingtips. Gliding high above a deep-blue Patagonian lake and forested mountains. Clear daylight, telephoto lens. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-10-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the submerged forest of Lake Traful, Neuquén, Argentina: the pale grey trunks and bare branches of dead cypress trees standing upright under extremely clear turquoise water, their tops just below and breaking the surface, seen from a small boat, forested mountain shore in the distance. Bright calm midday light that lets you see deep into the water, wide-angle panoramic framing with the trunks and water in the central band. Natural blue-green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-10-cipres`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Close-up botanical photograph of a Chilean cedar or ciprés de la cordillera (Austrocedrus chilensis): a narrow conical evergreen conifer with flattened sprays of tiny scale-like leaves, slightly bluish-green, and reddish-brown fibrous bark, growing on a rocky slope above a blue lake. Soft morning light, vertical framing, foliage in sharp focus, background softly blurred. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-10-cataratas`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Cascada Cataratas near Villa Traful, Neuquén, Argentina: a white waterfall pouring down a rocky gorge within Andean-Patagonian forest of coihues and cypresses, moss and ferns on the rocks. Soft diffuse light, slow shutter for silky water, medium shot. Natural green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-10-la-puntilla`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of La Puntilla beach on Lake Traful, Neuquén, Argentina: a shore covered with smooth rounded pebbles in many colors (red, ochre, grey, green, white) under very clear shallow water, forested mountains across the lake. Low-angle wide shot with the colorful stones in the foreground, soft afternoon light. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-10-huillin`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern river otter or huillín (Lontra provocax): sleek dark-brown otter with paler throat, long thick tapering tail, small ears. Swimming with its head above the water near a rocky shore of a clear Andean lake, small ripples around. Soft overcast light, telephoto lens, low angle. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-11-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph inside the Bosque de Arrayanes, Los Arrayanes National Park, Villa La Angostura, Neuquén, Argentina: a dense stand of arrayán trees (Luma apiculata) with smooth, twisting cinnamon-orange trunks mottled with pale cream patches where the bark peels, a wooden boardwalk winding between them, small dark-green leaves forming a low canopy. Soft diffuse forest light with a few sunbeams, wide-angle panoramic framing with the boardwalk and trunks in the central band. Warm cinnamon and green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-11-corteza`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Close-up botanical photograph of the bark of an arrayán (Luma apiculata): smooth, cool-to-the-touch cinnamon-orange trunk with irregular pale cream and white patches where thin bark flakes have peeled off, a few small glossy dark-green oval leaves in the corner. Soft diffuse light, vertical macro framing, high texture detail. Warm natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-11-bahia-brava`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small wooden pier on a calm bay of Lake Nahuel Huapi at Villa La Angostura, Patagonia, with a small tourist boat moored, forested peninsula and mountains behind. Soft early morning light, still water with reflections, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-11-sendero`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a dirt trail through dense Andean-Patagonian forest of coihues on the Quetrihué peninsula, Neuquén, Argentina, with two cyclists on mountain bikes riding away from the camera, glimpses of blue lake between the trees. Dappled morning light, medium-wide shot. Natural green palette. natural colors, high detail, two cyclists seen from behind, no text, no watermark, no logos.
+
+### `AND-11-pudu`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern pudú (Pudu puda): a tiny deer about 40 cm tall, round compact body, short legs, dense reddish-brown coat, small rounded ears, large dark eyes. Standing still on the mossy floor of a humid Patagonian forest among ferns and fallen leaves. Soft diffuse light, telephoto lens, eye-level. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-12-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the view from Cerro Campanario, Bariloche, Río Negro, Argentina: deep-blue Lake Nahuel Huapi and Lake Moreno, the forested Llao Llao peninsula, small islands and bays, and layers of snow-capped Andes on the horizon. Late afternoon golden light, crisp air, wide-angle panoramic composition with lakes and peninsula in the central band. Natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-12-pato-torrente`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a torrent duck (Merganetta armata): slim streamlined duck with a bright red bill; male with a striking white head and neck boldly striped with black lines, and dark streaked body; perched on a wet boulder in the middle of a fast white-water mountain stream in Patagonia. Soft morning light, telephoto lens, fast shutter freezing the splashing water, vertical framing. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-12-san-eduardo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small alpine-style chapel built of wood and stone, with a steep shingled roof and a slender bell tower, on a forested hill above a blue Patagonian lake, snowy mountains behind. Soft afternoon light, three-quarter view. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-12-bahia-lopez`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Bahía López on Lake Nahuel Huapi, Bariloche, Argentina: a calm, sheltered bay of deep-blue water with a pebble shore and forest, the rocky peaks of Cerro López rising steeply behind. Soft morning light with reflections, wide-angle. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-12-huillin`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern river otter or huillín (Lontra provocax): sleek dark-brown otter with paler throat, long thick tapering tail, small ears and whiskered muzzle. Climbing out of the water onto a fallen log at the shore of a forested Patagonian lake. Soft early light, telephoto lens, eye-level. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
