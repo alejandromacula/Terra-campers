@@ -676,5 +676,425 @@
         "Hay campings sobre la RP 226; en la Laguna de los Padres, el centro Crecim permite acampar varios días. Consultá la norma antes de dormir en la calle."
       ]
     ]
+  },
+  {
+    "codigo": "BSA-09",
+    "region": "BSA",
+    "ubicacion": "Tandil · Buenos Aires",
+    "titulo": "Tandil y la Piedra Movediza",
+    "bajada": "Sobre rocas de más de 1.900 millones de años se balanceó durante siglos una piedra que no caía… hasta 1912.",
+    "datos": [
+      [
+        "Desde Mar del Plata",
+        "~170 km · ~2 h"
+      ],
+      [
+        "Ruta",
+        "RN 226 (asfalto)"
+      ],
+      [
+        "Sierra del Tigre",
+        "Cerro Venado, 389 m"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo áreas habilitadas"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (RN 226)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "La ciudad nació en 1823. La Piedra Movediza, una roca enorme que oscilaba al borde del cerro, se cayó el 29 de febrero de 1912 y nunca se supo bien por qué. Desde 2007 hay una réplica en el mismo lugar."
+      ],
+      [
+        "Rocas antiguas",
+        "Tandilia es de los sistemas serranos más antiguos del planeta: un cordón de ~350 km que asoma sobre la llanura y expone el basamento más viejo del país, de entre 1.960 y 2.176 millones de años."
+      ],
+      [
+        "Pastizal serrano",
+        "Es de los ambientes más diversos de la región pampeana, con unas 600 especies de plantas, varias endémicas; domina la flechilla. Los árboles exóticos que avanzan sobre las sierras lo amenazan."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-09-centinela",
+      "titulo": "Cerro El Centinela",
+      "sub": "Aerosilla, senderos y escalada"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-09-sierra-del-tigre",
+          "nombre": "Reserva Sierra del Tigre",
+          "texto": "Bloques de roca y el Cerro Venado, lo más alto."
+        },
+        {
+          "img": "BSA-09-lagartija-sierras",
+          "nombre": "Lagartija de las sierras",
+          "texto": "Dos especies que solo viven en estos pastizales serranos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Subí al Parque Lítico La Movediza al atardecer: la réplica se recorta contra el cielo, con la ciudad y la llanura detrás."
+      ],
+      [
+        "En la camper",
+        "La Ordenanza 18783/2025 prohíbe pernoctar en espacios públicos de 22 a 8 y tirar aguas grises o negras. Pedí las áreas habilitadas en la Dirección de Turismo."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-10",
+    "region": "BSA",
+    "ubicacion": "Necochea · Buenos Aires",
+    "titulo": "Necochea y el Parque Lillo",
+    "bajada": "El gran bosque frente al mar no es natural: se plantó desde 1948 para frenar el viento y fijar los médanos.",
+    "datos": [
+      [
+        "Desde Tandil",
+        "~160 km · ~2 h"
+      ],
+      [
+        "Camino",
+        "Asfalto hasta la ciudad"
+      ],
+      [
+        "Parque Lillo",
+        "Pegado a la playa"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá en los campings"
+      ],
+      [
+        "camino",
+        "no",
+        "Nunca a la arena"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Ángel Ignacio Murga organizó el primer asentamiento a orillas del río Quequén Grande, y la fundación oficial es del 12 de octubre de 1881. El nombre homenajea al general Mariano Necochea."
+      ],
+      [
+        "Parque Lillo",
+        "Es un bosque marítimo de coníferas plantadas sobre la duna, con eucaliptos entre las arboledas exóticas; desde 1979 es reserva. Tiene sectores quemados con planes de replantación."
+      ],
+      [
+        "Médanos y río",
+        "Playas anchas y médanos empujados por el viento, cortados por la desembocadura del Quequén Grande; Quequén queda enfrente. Al oeste de la ciudad, los médanos siguen sin forestar."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-10-lago-cisnes",
+      "titulo": "Lago de los Cisnes",
+      "sub": "Lago artificial entre playa y parque"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-10-medanos-oeste",
+          "nombre": "Médanos del oeste",
+          "texto": "Sin forestar: así era la costa antes del bosque."
+        },
+        {
+          "img": "BSA-10-rio-quequen",
+          "nombre": "Río Quequén Grande",
+          "texto": "Separa Necochea de Quequén, que queda enfrente."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Imperdible",
+        "Perderte en bici o caminando por los senderos del Parque Lillo y salir a la playa entre los pinos. Los senderos también son buenos para ver aves."
+      ],
+      [
+        "En la camper",
+        "Figuran los campings Miguel Lillo, El Gringo, SUTEBA y Río Quequén: consultá si reciben campers. En Arenas Verdes, Aldea de Mar recibe motorhomes. No entres a los médanos."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-11",
+    "region": "BSA",
+    "ubicacion": "Monte Hermoso · Buenos Aires",
+    "titulo": "Monte Hermoso y el Faro Recalada",
+    "bajada": "Como su costa corre de este a oeste, el sol sale del mar y a la tarde se hunde en el mar.",
+    "datos": [
+      [
+        "Desde Bahía Blanca",
+        "~105 km · ~1 h 20"
+      ],
+      [
+        "Desde Necochea",
+        "~275 km · ~3 h 30"
+      ],
+      [
+        "Playa",
+        "32 km mirando al sur"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo en camping"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (RN 3 y RP 78)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "En 1879 Esteban Dufaur compró 4.000 hectáreas para armar un establecimiento rural. El Faro Recalada se inauguró el 1 de enero de 1906 para marcar la entrada a la bahía de Bahía Blanca."
+      ],
+      [
+        "La playa",
+        "Son 32 km de arena que miran al sur, de cara al mar abierto, con médanos detrás. Por esa orientación, desde la misma playa ves el amanecer y el atardecer sobre el agua."
+      ],
+      [
+        "El faro",
+        "El Recalada, al este del pueblo, es el faro más alto de Sudamérica: una torre metálica de más de 60 metros, con más de 300 escalones y un museo."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-11-faro-recalada",
+      "titulo": "Faro Recalada",
+      "sub": "El más alto de Sudamérica, de 1906"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-11-laguna-sauce-grande",
+          "nombre": "Laguna Sauce Grande",
+          "texto": "A ~7 km: pejerrey, deportes de viento y aves."
+        },
+        {
+          "img": "BSA-11-cauquen",
+          "nombre": "Cauquén común",
+          "texto": "Registrado en la laguna, junto a rayadores y flamencos."
+        },
+        {
+          "img": "BSA-11-escalera-faro",
+          "nombre": "Escalera del faro",
+          "texto": "Más de 300 escalones hasta arriba."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Consejo fotográfico",
+        "Quedate en la playa al atardecer para ver el sol entrar al mar, algo que muy pocas playas del país ofrecen."
+      ],
+      [
+        "En la camper",
+        "Una ordenanza de 2005 complica a las casas rodantes: dormí en camping, como el municipal de Santa Clara del Mar (Sauce Grande), y consultá si recibe campers."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-12",
+    "region": "BSA",
+    "ubicacion": "Sierra de la Ventana · Buenos Aires",
+    "titulo": "Sierra de la Ventana y Tornquist",
+    "bajada": "En plena llanura se levantan montañas plegadas hace cientos de millones de años, con un cerro agujereado cerca de la cumbre.",
+    "datos": [
+      [
+        "Desde Bahía Blanca",
+        "~110–125 km"
+      ],
+      [
+        "Rutas",
+        "RP 51 y RP 76 (asfalto)"
+      ],
+      [
+        "Cerro Tres Picos",
+        "~1.240 m, techo bonaerense"
+      ],
+      [
+        "Tiempo de visita",
+        "Al menos 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings sobre la RP 76"
+      ],
+      [
+        "camino",
+        "ok",
+        "Todo asfalto"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El parque nació en 1937, cuando la familia Tornquist cedió tierras a la provincia; hoy tiene unas 6.700 ha. En los años 40, Emilio Solanet donó caballos criollos para trabajarlo; con el tiempo se volvieron cimarrones."
+      ],
+      [
+        "Montañas viejas",
+        "Ventania es una cadena paleozoica de cuarcitas plegadas como un mantel empujado, que los geólogos ubican entre las cadenas del antiguo Gondwana. El Cerro Ventana, de 1.134 m, tiene el hueco cerca de la cumbre."
+      ],
+      [
+        "La subida",
+        "Al Cerro Ventana se sube en 5 a 6 h ida y vuelta, con dificultad media-alta, cupo diario y registro en la base. Consultá el régimen vigente al parque: (0291) 491-0039."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-12-guanaco",
+      "titulo": "Guanaco",
+      "sub": "El gran mamífero del parque"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-12-margarita-cumbre",
+          "nombre": "Margarita de la cumbre",
+          "texto": "Endémica: solo crece en estas sierras."
+        },
+        {
+          "img": "BSA-12-caballo-cimarron",
+          "nombre": "Caballo cimarrón",
+          "texto": "Unos 600 a 700; compiten con la fauna nativa."
+        },
+        {
+          "img": "BSA-12-tres-picos",
+          "nombre": "Cerro Tres Picos",
+          "texto": "El techo de la provincia de Buenos Aires."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "En fines de semana largos llegá temprano a la base: el cupo se agota. Alternativa corta: el Cerro Bahía Blanca, ~2 h, con ingreso hasta las 15."
+      ],
+      [
+        "En la camper",
+        "Sobre la RP 76 están Campamento Base Cerro Ventana (km 224) y Parque Norte (km 250). Consultá antes si reciben campers grandes. Todo el acceso es asfaltado."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-13",
+    "region": "BSA",
+    "ubicacion": "Villa Ventana · Buenos Aires",
+    "titulo": "Villa Ventana y el Club Hotel",
+    "bajada": "Junto al pueblo quedan las ruinas de un hotel de 1911 que en 1943 alojó a 350 marinos del acorazado Graf Spee.",
+    "datos": [
+      [
+        "Acceso",
+        "RP 76"
+      ],
+      [
+        "Altura",
+        "~350 msnm"
+      ],
+      [
+        "Calles",
+        "De tierra, entre árboles"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día, con el parque"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá el camping"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra: evitá con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El Club Hotel lo construyó el Ferrocarril Sud y abrió en 1911 como lugar de reposo; terminó siendo hotel de lujo. En 1943 llegaron 350 marinos del Graf Spee para reacondicionarlo. Un incendio lo consumió en 1983."
+      ],
+      [
+        "El pueblo",
+        "Casas de madera entre pinos, calles de tierra y dos arroyos, Belisario y De las Piedras, que desaguan en el Sauce Grande. Se lo menciona como el pueblo más alto de la provincia."
+      ],
+      [
+        "Las ruinas",
+        "Un sendero sale del pueblo hasta el Club Hotel, que se recorre con sectores clausurados. En los alrededores esperan las cascadas San Teófilo y Escondida y la Fuente del Bautismo."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-13-arroyo-belisario",
+      "titulo": "Arroyo Belisario",
+      "sub": "Uno de los dos arroyos del pueblo"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "BSA-13-cascada-san-teofilo",
+          "nombre": "Cascada San Teófilo",
+          "texto": "En los alrededores, junto con la Escondida."
+        },
+        {
+          "img": "BSA-13-vizcacha",
+          "nombre": "Vizcacha",
+          "texto": "Coloniza los afloramientos rocosos de las sierras vecinas."
+        },
+        {
+          "img": "BSA-13-zorro-pampa",
+          "nombre": "Zorro pampa",
+          "texto": "Habita la comarca serrana."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Combiná el día con el Parque Tornquist: el pueblo está al pie de las sierras, sobre la misma RP 76."
+      ],
+      [
+        "En la camper",
+        "Estacioná y recorré el pueblo a pie; con lluvia, evitá sus calles de tierra. Figura un camping municipal: consultá antes. Mirá también los campings de la página anterior."
+      ]
+    ]
   }
 ]

@@ -1053,11 +1053,11 @@
     "cierre": [
       [
         "Antes de ir",
-        "Llevá agua y sombrero: se camina en subida y al sol. Consultá los horarios del Pucará y del museo en la web de Filosofía y Letras de la UBA."
+        "Llevá agua y sombrero: se camina en subida y al sol. Consultá horarios del Pucará y del museo en la web de Filosofía y Letras de la UBA."
       ],
       [
         "En la camper",
-        "El Camping El Jardín, cerca del centro, tiene electricidad y ducha caliente; si tu camper es alta, preguntá antes de entrar por cables bajos. Buen lugar para cargar combustible."
+        "El Camping El Jardín tiene electricidad y ducha caliente; si tu camper es alta, preguntá antes de entrar por cables bajos. Buen lugar para cargar combustible."
       ]
     ]
   },
@@ -1321,6 +1321,446 @@
       [
         "En la camper",
         "No hay servicios en el área: cargá todo en Abra Pampa, que tiene alojamiento. Consultá en la intendencia si se puede acampar. Noches heladas: revisá la calefacción."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-16",
+    "region": "NOR",
+    "ubicacion": "Libertador Gral. San Martín · Jujuy",
+    "titulo": "Parque Nacional Calilegua",
+    "bajada": "La mayor área protegida de las yungas argentinas: acá viven el yaguareté, el tapir y más de 350 especies de aves.",
+    "datos": [
+      [
+        "Desde S. S. de Jujuy",
+        "~112 km por la RN 34"
+      ],
+      [
+        "Camino",
+        "RP 83: ripio y cornisa"
+      ],
+      [
+        "Centro de visitantes",
+        "Aguas Negras, 8 a 19 h"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Camping Aguas Negras"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio con curvas"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1979 sobre tierras que la provincia de Jujuy donó a la Nación. Es parte de la Reserva de Biosfera de las Yungas, que protege la selva de montaña en todo su gradiente de altura."
+      ],
+      [
+        "Pisos de selva",
+        "Abajo, entre 300 y 900 metros, dominan la tipa, el pacará y el cebil, con jacarandá y cochucho. Más arriba aparecen el nogal, el aliso y el pino del cerro: más fresco y abierto."
+      ],
+      [
+        "Fauna",
+        "En las copas vive el mono caí: buscalo desde los senderos. El tapir, el mamífero terrestre más grande del país, es esquivo, y el yaguareté, en peligro, es casi imposible de ver."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-16-mono-cai",
+      "titulo": "Mono caí",
+      "sub": "En las copas, desde los senderos"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "NOR-16-tipa",
+          "nombre": "Tipa",
+          "texto": "Árbol de la selva pedemontana, entre 300 y 900 metros."
+        },
+        {
+          "img": "NOR-16-tapir",
+          "nombre": "Tapir o anta",
+          "texto": "El mamífero terrestre más grande del país. Muy esquivo."
+        },
+        {
+          "img": "NOR-16-pino-cerro",
+          "nombre": "Pino del cerro",
+          "texto": "Conífera nativa del bosque montano, en los pisos altos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Entrada gratuita. Para hacer los senderos, registrate en el centro Aguas Negras. Llevá repelente y ropa para lluvia: es selva, mucho más húmeda que la Quebrada."
+      ],
+      [
+        "En la camper",
+        "El camping Aguas Negras tiene agua potable y baños; no se hace fuego, sí calentador. Consultá si entra tu camper. En la RP 83, despacio: curvas y fauna."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-17",
+    "region": "NOR",
+    "ubicacion": "Los Toldos · Salta",
+    "titulo": "Parque Nacional Baritú",
+    "bajada": "El parque nacional más al norte del país tiene una rareza: para llegar en vehículo hay que pasar por Bolivia.",
+    "datos": [
+      [
+        "Desde Orán",
+        "Vía Bermejo (Bolivia)"
+      ],
+      [
+        "Por Bolivia",
+        "~113 km hasta La Mamora"
+      ],
+      [
+        "Ingreso en verano",
+        "6 a 19 h"
+      ],
+      [
+        "Tiempo de visita",
+        "Varios días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Acampe Cerro Ukumar"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Orán"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Cierres por lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó por ley en 1974 y protege unas 72.000 hectáreas de selva tucumano-oranense, el sector más septentrional de las yungas y una de las regiones con más biodiversidad del país."
+      ],
+      [
+        "Selva tropical",
+        "Presentado como el único parque nacional tropical del país, es selva de montaña en laderas muy empinadas y húmedas. Vive el yaguareté, el felino más grande de América, aunque verlo es excepcional."
+      ],
+      [
+        "La llegada",
+        "Desde Aguas Blancas se cruza a Bermejo, se recorren ~113 km por Bolivia y se vuelve a entrar por La Mamora. Después, ~17 km a Los Toldos y ~26 km más hasta Lipeo."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-17-yaguarete",
+      "titulo": "Yaguareté",
+      "sub": "El felino más grande de América"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-17-cruce-bermejo",
+          "nombre": "Cruce a Bermejo",
+          "texto": "Paso internacional desde Aguas Blancas: el tramo por Bolivia."
+        },
+        {
+          "img": "NOR-17-lipeo",
+          "nombre": "Seccional Lipeo",
+          "texto": "Registrate acá o en el centro de visitantes de Los Toldos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Llevá tu documentación, la de la camper y un seguro con cobertura en Bolivia. Si la camper es alquilada, confirmá antes que pueda salir del país."
+      ],
+      [
+        "En la camper",
+        "En Los Toldos no hay combustible: cargá en Orán o Aguas Blancas. El acampe Cerro Ukumar, libre, está cerca de Lipeo; consultá si entra tu camper."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-18",
+    "region": "NOR",
+    "ubicacion": "Lumbreras · Salta",
+    "titulo": "Parque Nacional El Rey",
+    "bajada": "Una vieja estancia ganadera convertida en parque nacional en 1948, donde la selva escalona cinco pisos de vegetación.",
+    "datos": [
+      [
+        "Desde Lumbreras",
+        "RP 5 y RP 20"
+      ],
+      [
+        "Camino",
+        "~47 km de ripio y vados"
+      ],
+      [
+        "Acceso en vehículo",
+        "De abril a noviembre"
+      ],
+      [
+        "Tiempo de visita",
+        "Al menos 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping gratuito"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Llevá para ida y vuelta"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Vados: no si hay crecida"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1948, durante el gobierno de Perón, sobre la vieja Finca El Rey, una gran estancia ganadera de la que heredó el nombre. Protege unas 44.000 hectáreas en el centro-este de Salta."
+      ],
+      [
+        "Cinco pisos",
+        "Protege yungas, la selva nublada de montaña de las sierras salteñas. Entre los 750 y los 2.000 metros de altura, la vegetación cambia en cinco pisos bien distintos."
+      ],
+      [
+        "Senderos",
+        "La Laguna Los Patitos, a unos 2 km de la sede por un sendero fácil, es buena para aves acuáticas. Al Pozo Verde se sube en 3 a 4 horas; el Chorro de los Loros, a 11 km, es exigente."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-18-los-patitos",
+      "titulo": "Laguna Los Patitos",
+      "sub": "Sendero fácil, buena para ver aves"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "NOR-18-pecari",
+          "nombre": "Pecarí labiado",
+          "texto": "Anda en tropas por la selva; verlo depende de la suerte."
+        },
+        {
+          "img": "NOR-18-pava-monte",
+          "nombre": "Pava de monte",
+          "texto": "Ave grande de la selva: atento a sus llamados."
+        },
+        {
+          "img": "NOR-18-charata",
+          "nombre": "Charata",
+          "texto": "Otra ave grande del parque; se la oye seguido."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "No hay transporte público y en vehículo solo se entra de abril a noviembre, con los ríos bajos. Consultá el estado del camino con Parques Nacionales."
+      ],
+      [
+        "En la camper",
+        "Camping gratuito junto a la sede, con baños y duchas frías. Entrá con comida y combustible para volver. Consultá si los vados admiten tu camper; con crecida, no cruces."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-19",
+    "region": "NOR",
+    "ubicacion": "El Peñón · Catamarca",
+    "titulo": "Campo de Piedra Pómez",
+    "bajada": "Unos 160 km² de piedra pómez blanca tallada por el viento a 3.300 metros, que muchos comparan con la Luna.",
+    "datos": [
+      [
+        "Desde Belén",
+        "RN 40 y RP 43"
+      ],
+      [
+        "Desde El Peñón",
+        "~35 km, solo en 4x4"
+      ],
+      [
+        "Altura",
+        "~3.300 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días con noche en El Peñón"
+      ]
+    ],
+    "iconos": [
+      [
+        "camino",
+        "no",
+        "Solo con guía en 4x4"
+      ],
+      [
+        "altura",
+        "aviso",
+        "3.300 m: apunamiento"
+      ]
+    ],
+    "bloques": [
+      [
+        "Qué es",
+        "Un área natural protegida de Catamarca, de unas 75.000 hectáreas, en plena Puna. Las excursiones en 4x4 salen de El Peñón y duran unas 3 horas, o 4 h 30 si suman el volcán Carachi Pampa."
+      ],
+      [
+        "Origen volcánico",
+        "Es un manto de ignimbrita, material volcánico que expulsó la caldera del Cerro Blanco: unos 2 km³ de roca porosa y liviana. Algunas superficies se oscurecen con una pátina."
+      ],
+      [
+        "Las formas",
+        "El viento de la Puna, cargado de arena, fue limando la roca en filas de crestas y canales llamadas yardangs. Con la luz baja de la tarde, las sombras marcan cada cresta."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-19-pomez",
+      "titulo": "Piedra pómez",
+      "sub": "Roca volcánica porosa y liviana"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-19-carachi-pampa",
+          "nombre": "Volcán Carachi Pampa",
+          "texto": "Se suma a la excursión: unas 4 h 30 en total."
+        },
+        {
+          "img": "NOR-19-flamencos",
+          "nombre": "Flamencos",
+          "texto": "En lagunas de la zona, según las excursiones de El Peñón."
+        },
+        {
+          "img": "NOR-19-el-penon",
+          "nombre": "El Peñón",
+          "texto": "Caserío de adobe, base de las excursiones en 4x4."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Es camino de montaña de altura, para 4x4: nunca solo, con agua y combustible de reserva. Lo más sensato es contratar un guía de la zona."
+      ],
+      [
+        "En la camper",
+        "No entres al campo con la camper. Salí de Belén con tanque lleno. En El Peñón hay hostería y casas; consultá dónde dejarla o pernoctar. Noches muy frías."
+      ]
+    ]
+  },
+  {
+    "codigo": "NOR-20",
+    "region": "NOR",
+    "ubicacion": "Fiambalá · Catamarca",
+    "titulo": "Fiambalá y los Seismiles",
+    "bajada": "En unos 200 km la ruta sube de 1.505 a 4.726 metros, con volcanes como el Pissis, de 6.882 m, a la vista.",
+    "datos": [
+      [
+        "Desde Tinogasta",
+        "~50 km (Ruta del Adobe)"
+      ],
+      [
+        "Ruta de los Seismiles",
+        "RN 60, ~200 km, asfalto"
+      ],
+      [
+        "Altura máxima",
+        "4.726 m (P. San Francisco)"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "altura",
+        "aviso",
+        "De 1.500 a 4.700 m"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Llevá combustible extra"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Nieve en invierno"
+      ]
+    ],
+    "bloques": [
+      [
+        "Ruta del Adobe",
+        "Entre Tinogasta y Fiambalá, la ruta une capillas, casonas y oratorios de barro, algunos de unos 300 años. La iglesia de San Pedro de Fiambalá es del siglo XVIII."
+      ],
+      [
+        "Los volcanes",
+        "La zona se presenta como la segunda región más alta del mundo después del Himalaya: desde la ruta se cuentan 19 volcanes. Los grandes picos aparecen hacia el km 120 del recorrido."
+      ],
+      [
+        "Dunas y termas",
+        "Las dunas de Saujil, a 14 km, pasan los 90 metros: sandboard con guía, mejor a la mañana. Las Termas de Fiambalá, a ~15 km, abren de 7 a 22 h con turnos: consultá cómo sacar la entrada."
+      ]
+    ],
+    "destacada": {
+      "img": "NOR-20-termas",
+      "titulo": "Termas de Fiambalá",
+      "sub": "Piletones escalonados, a ~15 km"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "NOR-20-dunas-saujil",
+          "nombre": "Dunas de Saujil",
+          "texto": "Más de 90 metros de alto, a 14 km del pueblo."
+        },
+        {
+          "img": "NOR-20-san-pedro",
+          "nombre": "Iglesia de San Pedro",
+          "texto": "Adobe del siglo XVIII, en plena Ruta del Adobe."
+        },
+        {
+          "img": "NOR-20-vicuna",
+          "nombre": "Vicuña",
+          "texto": "En tropillas, con guanacos, a lo largo de la RN 60."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Cielo nocturno",
+        "Turismo de Catamarca destaca Tinogasta y Antofagasta de la Sierra por su cielo sin contaminación lumínica. Si dormís en el pueblo o en las termas, apagá todo y mirá."
+      ],
+      [
+        "En la camper",
+        "Aclimatate antes en la Puna y no duermas arriba sin estarlo. Llená el tanque en Fiambalá y llevá reserva. En invierno el paso cierra por nieve: consultalo."
       ]
     ]
   }

@@ -693,5 +693,265 @@
         "Camping Municipal La Chacra, a 5 km por la RN 33: baños, duchas, electricidad y sereno. Tel. (02936) 43-0660. Con la sal, lavá bajos y llantas."
       ]
     ]
+  },
+  {
+    "codigo": "BSA-P23",
+    "region": "BSA-P",
+    "ubicacion": "Pigüé · Buenos Aires",
+    "titulo": "Pigüé, el pueblo aveyronés",
+    "bajada": "Cuarenta familias del Aveyron, sur de Francia, fundaron el pueblo en 1884; se festeja con una omelette de 15.000 huevos.",
+    "datos": [
+      [
+        "Desde Bahía Blanca",
+        "~134 km"
+      ],
+      [
+        "Rutas",
+        "RN 33"
+      ],
+      [
+        "Ideal para",
+        "Cocina francesa y sierras"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "camino",
+        "ok",
+        "Sobre la RN 33"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la parada con más identidad del camino a las sierras: un pueblo de raíz francesa con cocina propia, un cerro con vía crucis y vista a la llanura y, muy cerca, las sierras de Curamalal."
+      ],
+      [
+        "Historia",
+        "El 4 de diciembre de 1884 llegaron 164 aveyroneses traídos por Clément Cabanettes, con apoyo financiero de Eduardo Casey. Habían cruzado el océano desde Burdeos en el vapor Belgrano."
+      ],
+      [
+        "Cocina",
+        "Un programa del INTA rescata las comidas pigüenses de origen aveyronés: el aligot, un puré con mucho queso y ajo, las papas trufadas y las pascadas. Preguntá en Turismo dónde probarlas."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P23-aligot",
+      "titulo": "Aligot",
+      "sub": "Puré con mucho queso y ajo"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P23-cerro-cruz",
+          "nombre": "Cerro de la Cruz",
+          "texto": "Vía crucis hasta una gran cruz con vista al pueblo."
+        },
+        {
+          "img": "BSA-P23-museo",
+          "nombre": "Museo y Archivo",
+          "texto": "En la casa de Mary Gorman de Sewell, maestra llegada en 1869."
+        },
+        {
+          "img": "BSA-P23-curamalal",
+          "nombre": "Cerro Curamalal Grande",
+          "texto": "Techo de las sierras de Curamalal, 1.015 m. Consultá el acceso."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "La Fiesta de la Omelette Gigante es cada 4 de diciembre, aniversario del pueblo, y se reparte gratis. Info en Turismo: tel. (02923) 47-6278."
+      ],
+      [
+        "En la camper",
+        "Camping Municipal del Parque Chiappara: 15 ha arboladas con piletas, baños, proveeduría y tomas eléctricas. Es el predio de la fiesta: el 4 de diciembre, llegá temprano."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P24",
+    "region": "BSA-P",
+    "ubicacion": "Tornquist · Buenos Aires",
+    "titulo": "Tornquist, puerta de las sierras",
+    "bajada": "Un banquero fundó en 1883 una colonia para inmigrantes alemanes al pie de las sierras, y descansa en la iglesia de piedra.",
+    "datos": [
+      [
+        "Acceso",
+        "RN 33 (desde Pigüé) o RP 76"
+      ],
+      [
+        "Al Parque Provincial",
+        "~15 min · RP 76 km 225"
+      ],
+      [
+        "Ideal para",
+        "Senderismo serrano"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "No dentro del parque"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Cerro Ventana, con guía"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "Es la puerta norte de las sierras de la Ventana: un pueblo tranquilo con una plaza de lagos y puentes de madera y, a minutos, el Parque Provincial, con senderos a los cerros Ventana y Bahía Blanca."
+      ],
+      [
+        "Historia",
+        "Ernesto Tornquist, uno de los grandes empresarios de la Argentina moderna, fundó el pueblo el 17 de abril de 1883 como colonia agrícola para alemanes y alemanes del Volga. En 1886 llegó el tren."
+      ],
+      [
+        "El Parque",
+        "Se paga una entrada por día y los senderos se habilitan por orden de llegada, hasta completar el cupo y según el clima. El cerro Ventana se sube con guía habilitado, desde las 9."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P24-cerro-ventana",
+      "titulo": "Cerro Ventana",
+      "sub": "La “ventana” en la cresta, con guía"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P24-puente-plaza",
+          "nombre": "Plaza Ernesto Tornquist",
+          "texto": "Lagos, puentes de madera y patos frente a la iglesia de piedra."
+        },
+        {
+          "img": "BSA-P24-sendero-parque",
+          "nombre": "Parque Provincial",
+          "texto": "Entrada diaria y cupo por orden de llegada, sin reservas.",
+          "contacto": "Mensaje privado en su Facebook"
+        },
+        {
+          "img": "BSA-P24-teatro-funke",
+          "nombre": "Casa de la Historia",
+          "texto": "Museo del centro, junto al Teatro Rodolfo Funke. Consultá horarios."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El Parque no tiene teléfono: consultá días y horarios por mensaje en su Facebook. Los senderos no se reservan: llegá temprano, antes de que se complete el cupo."
+      ],
+      [
+        "En la camper",
+        "No se puede dormir dentro del Parque Provincial. En el partido figura el Camping Municipal Comarca de la Ventana, sin datos de servicios. Otra base: Saldungaray (BSA-P25)."
+      ]
+    ]
+  },
+  {
+    "codigo": "BSA-P25",
+    "region": "BSA-P",
+    "ubicacion": "Saldungaray · Buenos Aires",
+    "titulo": "Saldungaray, Salamone y vino",
+    "bajada": "El pórtico art déco de Salamone está a pasos de un fortín de tiempos de Rosas y de una bodega entre sierras.",
+    "datos": [
+      [
+        "Desde CABA",
+        "~570 km · ~6 a 7 h"
+      ],
+      [
+        "Rutas",
+        "RN 3, RP 76 y RP 72"
+      ],
+      [
+        "Ideal para",
+        "Salamone, vino e historia"
+      ],
+      [
+        "Tiempo sugerido",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "camino",
+        "ok",
+        "A ~10 min de Sierra"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué ir",
+        "En un pueblo de unos 2.000 habitantes se juntan tres cosas que no suelen ir juntas: un pórtico de Salamone, un fortín sobre el río Sauce Grande y una bodega con catas. Es el cierre perfecto antes de las sierras."
+      ],
+      [
+        "Historia",
+        "Pedro Saldungaray, de origen vasco-francés, compró estas tierras y fundó el pueblo el 29 de agosto de 1900. El portal del cementerio es Monumento Histórico Nacional; el matadero y la plaza completan el circuito."
+      ],
+      [
+        "Fortín Pavón",
+        "Nació como posta en la campaña de Rosas al desierto, tomó el nombre de Pavón en 1863 y estuvo activo hasta 1877. Hoy hay una réplica junto al río, con visitas guiadas."
+      ]
+    ],
+    "destacada": {
+      "img": "BSA-P25-fortin-pavon",
+      "titulo": "Fortín Pavón",
+      "sub": "Lugar Histórico Nacional desde 1980"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "BSA-P25-vinedo-sierras",
+          "nombre": "Bodega Saldungaray",
+          "texto": "Visitas guiadas con degustación y catas con picada. Consultá días.",
+          "contacto": "WhatsApp +54 9 291 412-5261"
+        },
+        {
+          "img": "BSA-P25-rio-sauce-grande",
+          "nombre": "Río Sauce Grande",
+          "texto": "Parque arbolado junto al fortín, con parrillas y quinchos."
+        },
+        {
+          "img": "BSA-P25-museo",
+          "nombre": "Museo y Archivo",
+          "texto": "La historia del pueblo, de jueves a sábados, de 9 a 15."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Es el cierre de la Ruta de Salamone (BSA-P21). Confirmá horarios del fortín y de la bodega: las catas dirigidas son solo con reserva."
+      ],
+      [
+        "En la camper",
+        "El Parque Municipal, junto al fortín y el río Sauce Grande, tiene camping con parrillas, sanitarios y quinchos. Sin servicios para motorhome publicados: consultá en la Municipalidad."
+      ]
+    ]
   }
 ]

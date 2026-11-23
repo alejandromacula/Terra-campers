@@ -156,3 +156,76 @@ Photorealistic editorial travel photograph of Cerro Mercedario (6,770 m), San Ju
 ### `CUY-08-rio-de-los-patos`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of the Río de los Patos in the Calingasta valley, San Juan, Argentina: a wide braided river of grey-green glacial water running over a gravel bed, willows and poplars along the banks, arid layered hills in ochre and pink tones behind. Soft golden late-afternoon light, wide-angle view along the river. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-09-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a land-sailing cart (carro a vela, a small three-wheeled sand yacht with a tall single sail) gliding across the Pampa del Leoncito (Barreal Blanco), San Juan, Argentina: a perfectly flat, pale dry lakebed of cracked clay stretching to the horizon, with the snow-capped Andes cordillera and the massive Cerro Mercedario along the background. Late-afternoon golden light, long shadow of the sail on the cracked ground, deep-blue sky. Wide-angle panoramic composition with the cart and mountains in the central horizontal band, slight motion feel. Natural pale palette. natural colors, high detail, no people unless stated (a single small pilot inside the cart is fine, seen from afar), no text, no watermark, no logos.
+
+### `CUY-09-barro`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the cracked dry clay surface of the Pampa del Leoncito, San Juan, Argentina: a close, low-angle view of polygonal plates of pale beige-white mud with deep dark cracks, curling edges, receding toward a distant line of mountains at the top of the frame. Low raking sunset light that brings out the texture, vertical composition, deep depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-09-barreal`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a quiet street in Barreal, a small Andean village in the Calingasta valley, San Juan, Argentina: an unpaved or simple tree-lined street with tall poplars and willows, low adobe houses, irrigation ditches and small orchards and farms (chacras), dry brown mountains and snowy peaks behind. Soft warm late-afternoon light, eye-level view along the street. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-09-rio`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Río de los Patos near Barreal, San Juan, Argentina: a broad, fast braided river of grey-brown glacial water over a wide stony bed, low willows on the banks, the high Andes with snow on the summits filling the horizon. Clear morning light, crisp air, wide-angle view looking upstream toward the cordillera. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-10-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial night photograph of the astronomical observatory domes of CASLEO in El Leoncito National Park, San Juan, Argentina: white telescope domes on a dry mountain ridge at over 2,500 m, under an extremely clear, dark desert sky with the bright core of the Milky Way arching above, countless stars, faint airglow on the horizon. Long exposure, wide-angle lens, domes silhouetted in the lower part of the central horizontal band, Milky Way across the middle. Natural night palette, deep blues, no light pollution. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-10-suri`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a lesser rhea, Darwin's rhea (Rhea pennata, suri cordillerano / choique) standing on a dry shrubby plain in El Leoncito, San Juan, Argentina: large flightless bird, smaller than the greater rhea, grey-brown plumage with distinctive white spots and speckles on the back and wings, long neck, feathered upper legs. Warm early-morning light, jarilla shrubs and mountains blurred behind, telephoto lens, vertical framing of the whole bird. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-10-cascada`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Cascada El Rincón in El Leoncito National Park, San Juan, Argentina: a small waterfall about 5 m high falling into a clear pool inside a narrow rocky desert ravine, a thin strip of green vegetation and moss along the water contrasting with dry ochre rock walls. Soft shaded light, slight long exposure for silky water. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-10-guanaco`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a guanaco (Lama guanicoe) standing among rocks and resinous jarilla shrubs in El Leoncito National Park, San Juan, Argentina: slender camelid with cinnamon-brown back, white belly, grey-black face and upright ears, alert pose. Dry hills behind, warm late-afternoon light, telephoto lens, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-10-casco`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the ruined adobe walls of an old estancia homestead in an arid Andean valley of San Juan, Argentina: crumbling thick mud-brick walls, empty window openings, a few old poplars or willows nearby, dry shrubland and mountains behind. Warm low afternoon light, wide-angle view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-11-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the wide Uspallata valley, Mendoza, Argentina: a straight paved road (Ruta Nacional 7) crossing a broad high valley of dry golden grassland and scattered shrubs, rows of poplars marking the small town, multicolored precordillera hills and the snow-capped main Andes cordillera on the horizon. Golden late-afternoon light, clear sky. Wide-angle panoramic composition with road, valley and mountains in the central horizontal band. Warm natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-11-bovedas`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of old colonial smelting furnaces in an Andean valley of Mendoza, Argentina: a row of small domed adobe and brick vaults (bóvedas) with arched openings, 18th-century style, earth-colored walls, set among poplars with dry mountains behind. Warm soft late-afternoon light, vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-11-siete-colores`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Cerro de los Siete Colores near Uspallata, Mendoza, Argentina: an eroded hillside striped with diagonal mineral bands in red, ochre, yellow, green-grey and purple tones, sparse dry shrubs, a short walking trail at the base. Low sunset light making the colored bands glow, clear sky. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-11-potrerillos`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Potrerillos reservoir, Mendoza, Argentina: a long turquoise-blue mountain lake about 12 km long surrounded by bare brown and ochre precordillera mountains, with snowy Andean peaks in the distance and the paved Ruta 7 running along the shore. Bright clear morning light, calm water with reflections, elevated wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-12-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Puente del Inca, Mendoza, Argentina: a natural stone arch spanning the rushing grey Río Las Cuevas, its surface crusted with mineral deposits in vivid yellow, orange and ochre from hot springs, small dripping mineral formations under the arch, and beside it the stone ruins of an old thermal bath building built into the riverbank; high bare Andean mountains with snow patches behind. Clear midday mountain light, deep-blue sky. Wide-angle composition with the arch in the central horizontal band. Natural colors, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-12-estalactitas`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic close-up photograph of the mineral stalactites under the Puente del Inca natural arch, Mendoza, Argentina: rows of small hanging mineral formations and rippled crusts colored bright yellow, orange, rust and cream by thermal spring water, wet and glistening, a little dripping water. Soft shaded light with warm reflections, vertical composition, macro detail. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-12-hotel`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the ruins of an early-20th-century stone thermal hotel beside a mountain river at Puente del Inca, Mendoza, Argentina: broken stone walls and foundations partly stained yellow and orange by mineral water, the rushing river below, steep bare Andean slopes behind. Clear afternoon light, documentary style. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-12-cementerio`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small, austere high-mountain cemetery for climbers in the Andes of Mendoza, Argentina: simple stone and metal crosses and plaques set in rocky ground inside a low stone wall, a few weathered flowers, bare brown mountains with snow-capped peaks rising behind. Clear cold light, quiet and respectful mood, wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**

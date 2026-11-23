@@ -1,8 +1,8 @@
-/* Terra Campers · Guía de Ruta · página 160 × 240 mm */
+/* Terra Campers · Guía de Ruta · página 170 × 255 mm */
 :root{
   --bg:#f7f4ee; --ink:#1f1c18; --muted:#6b655c; --rule:#d9d3c8; --orange:#c45c1a;
   --mx:12mm; --mr:15mm;             /* margen izquierdo / derecho (deja lugar a la pestaña) */
-  --rail:23mm;
+  --rail:20mm;
 }
 @page{size:170mm 255mm;margin:0;}
 *{box-sizing:border-box;margin:0;padding:0;}
@@ -37,9 +37,9 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
   background:linear-gradient(180deg,rgba(247,244,238,0) 0%,rgba(247,244,238,.85) 70%,var(--bg) 100%);}
 
 /* ---------- página de lugar ---------- */
-.lugar .hero{position:absolute;top:0;left:0;width:100%;height:62mm;}
-.lugar .hero-fade{top:44mm;height:19mm;}
-.lugar .head{position:relative;z-index:2;margin:49mm var(--mr) 0 var(--mx);display:grid;grid-template-columns:1fr 54mm;column-gap:6mm;
+.lugar .hero{position:absolute;top:0;left:0;width:100%;height:56mm;}
+.lugar .hero-fade{top:38mm;height:19mm;}
+.lugar .head{position:relative;z-index:2;margin:43mm var(--mr) 0 var(--mx);display:grid;grid-template-columns:1fr 54mm;column-gap:6mm;
   padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
 .lugar h1{font-family:'Montserrat',sans-serif;font-weight:800;font-size:21pt;line-height:20pt;letter-spacing:-.01em;text-transform:uppercase;margin-top:2.4mm;}
 .dek{font-style:italic;font-size:9.4pt;line-height:12.2pt;color:var(--ink);max-width:76mm;}
@@ -53,10 +53,10 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .ic{display:flex;flex-direction:column;align-items:flex-start;gap:1.2mm;font-size:6.2pt;line-height:7.4pt;font-weight:500;}
 .ic svg{flex:none;width:5.2mm;height:5.2mm;}
 
-.mid{display:grid;grid-template-columns:1fr 47mm;column-gap:6mm;margin:4.6mm var(--mr) 0 var(--mx);padding-bottom:4.4mm;border-bottom:.5pt solid var(--rule);}
-.blk{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;}
+.mid{display:grid;grid-template-columns:1fr 43mm;column-gap:6mm;margin:4.6mm var(--mr) 0 var(--mx);padding-bottom:4.4mm;border-bottom:.5pt solid var(--rule);}
+.blk{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:3.5mm;}
 .blk + .blk{margin-top:3.4mm;}
-.blk p,.cl p{font-size:8.3pt;line-height:11pt;}
+.blk p,.cl p{font-size:8.2pt;line-height:10.8pt;}
 .feat{position:relative;margin:0;min-height:46mm;}
 .feat .feat-img{position:absolute;inset:0;}
 .feat figcaption{position:absolute;left:0;right:0;bottom:0;padding:9mm 4mm 3.4mm;color:#fff;

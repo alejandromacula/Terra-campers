@@ -352,5 +352,359 @@
         "En Copahue, según viajeros, el único lugar habilitado es el camping El Viento Blanco: duchas calientes, sin sombra. Prohibido estacionar en la calle. Cargá en Loncopué."
       ]
     ]
+  },
+  {
+    "codigo": "AND-05",
+    "region": "AND",
+    "ubicacion": "Villa Pehuenia · Neuquén",
+    "titulo": "Villa Pehuenia y Moquehue",
+    "bajada": "El único rincón de la Argentina con bosques puros de araucaria, donde crecen pehuenes de más de mil años.",
+    "datos": [
+      [
+        "Desde Zapala",
+        "~117 km por la RP 13"
+      ],
+      [
+        "Camino",
+        "Tramos de ripio y obras"
+      ],
+      [
+        "Altura",
+        "~1.200 msnm"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Don Cirilo"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio y obras (RP 13)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Acá el pehuén es un árbol sagrado. El volcán Batea Mahuida lo administra la comunidad mapuche Puel, que desde el año 2000 gestiona un parque de nieve: se presenta como el único del mundo en manos de una comunidad originaria."
+      ],
+      [
+        "Paisaje",
+        "Los lagos Aluminé y Moquehue, rodeados de volcanes y de bosques de pehuén. Moquehue queda a ~25 km de Villa Pehuenia, a orillas de su propio lago, y es más tranquilo."
+      ],
+      [
+        "Batea Mahuida",
+        "En verano se sube a su cráter (~1.970 m), que guarda una laguna en la cumbre. Desde arriba se ven ocho volcanes de la frontera, del Lanín al sur al Copahue al norte."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-05-pinon",
+      "titulo": "Piñas y piñones",
+      "sub": "La semilla del pehuén"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-05-laguna-crater",
+          "nombre": "Laguna del Batea Mahuida",
+          "texto": "En la cumbre del volcán, con ocho volcanes alrededor."
+        },
+        {
+          "img": "AND-05-moquehue",
+          "nombre": "Lago Moquehue",
+          "texto": "A ~25 km de Villa Pehuenia, entre pehuenes."
+        },
+        {
+          "img": "AND-05-monito",
+          "nombre": "Monito del monte",
+          "texto": "Marsupial nocturno del bosque: verlo es muy difícil."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Hacé la visita guiada al pehuén \"abuelo\", de más de 1.000 años, y probá las tortas fritas de piñón en las fiestas del Batea Mahuida."
+      ],
+      [
+        "En la camper",
+        "Camping Don Cirilo, sobre el lago Aluminé: sector para motorhomes con electricidad, lejos del agua. Consultá la RP 13 en Vialidad Neuquén: obras, ripio y nieve."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-06",
+    "region": "AND",
+    "ubicacion": "Junín de los Andes · Neuquén",
+    "titulo": "Junín de los Andes",
+    "bajada": "La ciudad más antigua de Neuquén, nacida en 1883 como fortín, es hoy la capital nacional de la trucha.",
+    "datos": [
+      [
+        "Desde Neuquén",
+        "~390 km · RN 237 y RN 40"
+      ],
+      [
+        "Camino",
+        "Asfalto, apto camper"
+      ],
+      [
+        "A San Martín",
+        "~35 a 42 km · ~45 min"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día, más si pescás"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá en turismo"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Cargá antes del Lanín"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se fundó en 1883 como fortín de avanzada de la llamada Conquista del Desierto. El Santuario Nuestra Señora de las Nieves guarda los restos del padre Milanesio, el sacerdote que bautizó a Ceferino Namuncurá."
+      ],
+      [
+        "Vía Christi",
+        "En el cerro de la Cruz, el escultor Alejandro Santana contó la vida de Jesús con una mirada contemporánea: ~2 km y 17 estaciones, unas 2 h a paso tranquilo, con una gran cruz blanca en la cumbre."
+      ],
+      [
+        "Río de truchas",
+        "El Chimehuín corre por un valle abierto, con el Lanín asomando al oeste, y es uno de los ríos de pesca con mosca más famosos del país. La Fiesta Provincial de la Trucha abre la temporada."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-06-via-christi",
+      "titulo": "Vía Christi",
+      "sub": "17 estaciones en el cerro de la Cruz"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-06-boca-chimehuin",
+          "nombre": "Boca del Chimehuín",
+          "texto": "Donde el río sale del lago Huechulafquen, a ~22 km."
+        },
+        {
+          "img": "AND-06-pesca-mosca",
+          "nombre": "Pesca con mosca",
+          "texto": "Siempre con permiso: la fiesta abre la temporada."
+        },
+        {
+          "img": "AND-06-santuario",
+          "nombre": "Santuario de las Nieves",
+          "texto": "Guarda los restos del padre Milanesio."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Confirmá el horario del Vía Christi antes de subir. La oficina de turismo (Padre Milanesio 596) orienta sobre áreas de acampe y control de fuego."
+      ],
+      [
+        "En la camper",
+        "Camping La Isla, sobre el Chimehuín: consultá si admite motorhomes. Cargá combustible acá antes de entrar a los lagos del Lanín. Con viento, apagá el fuego."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-07",
+    "region": "AND",
+    "ubicacion": "Junín de los Andes · Neuquén",
+    "titulo": "Lago Huechulafquen y el Lanín",
+    "bajada": "El lago más grande del parque se recorre por la costa con la cara sur del Lanín, de 3.776 m, siempre enfrente.",
+    "datos": [
+      [
+        "Desde Junín",
+        "~26 km a la boca del lago"
+      ],
+      [
+        "Camino",
+        "Ripio (RP 61)"
+      ],
+      [
+        "Hasta Puerto Canoa",
+        "~30 km más por la costa"
+      ],
+      [
+        "Tiempo de visita",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en el corredor"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Junín"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio con tramos malos"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Nació como reserva forestal en 1937 y es parque nacional desde 1945: protege más de 412.000 ha. Desde Puerto Canoa salen embarcaciones por los lagos Huechulafquen y Epulafquen hasta cerca del volcán."
+      ],
+      [
+        "Paisaje",
+        "El Lanín, cono nevado sobre el límite con Chile, domina un parque con 24 lagos de origen glaciario. Lo rodean bosques de raulí y de pehuén, el árbol emblema, con ejemplares milenarios."
+      ],
+      [
+        "Fauna",
+        "El parque registra más de 230 especies. Las más buscadas están en peligro: el huemul, el pudú, que es el ciervo más chico, y el huillín, una nutria de río. Verlos es raro."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-07-rauli",
+      "titulo": "Bosque de raulí",
+      "sub": "Junto al pehuén, el bosque del Lanín"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AND-07-huemul",
+          "nombre": "Huemul",
+          "texto": "Ciervo andino en peligro: verlo es muy raro."
+        },
+        {
+          "img": "AND-07-pudu",
+          "nombre": "Pudú",
+          "texto": "El ciervo más chico; tímido y difícil de ver."
+        },
+        {
+          "img": "AND-07-huillin",
+          "nombre": "Huillín",
+          "texto": "Nutria de río en peligro; avistaje raro."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Para subir al Lanín hay que registrarse en línea y pasar por la seccional, que controla el equipo obligatorio: es alta montaña, no una caminata."
+      ],
+      [
+        "En la camper",
+        "Unos 4 campings organizados y 5 agrestes hasta el Paimún, como el Lafquenco. Sin estaciones en el corredor: combustible y víveres, en Junín. Respetá las restricciones de fuego."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-08",
+    "region": "AND",
+    "ubicacion": "San Martín de los Andes · Neuquén",
+    "titulo": "San Martín de los Andes y el Lácar",
+    "bajada": "El Lácar es el único lago de su cuenca que desagua al Pacífico: cruza la cordillera por el río Hua Hum.",
+    "datos": [
+      [
+        "Desde Junín",
+        "~35 a 42 km · ~45 min"
+      ],
+      [
+        "Camino",
+        "Asfalto, apto camper"
+      ],
+      [
+        "Navegación",
+        "Catamaranes desde el muelle"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "En campings"
+      ],
+      [
+        "combustible",
+        "ok",
+        "En el pueblo"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se fundó el 4 de febrero de 1898, tras un acuerdo entre el general Rudecindo Roca y el cacique Abel Curruhuinca. Según la Fundación San Martín de los Andes, el fundador real fue el teniente coronel Celestino Pérez."
+      ],
+      [
+        "Agua a Chile",
+        "El pueblo ocupa la cabecera este del Lácar, entre montañas boscosas. Hacia el oeste, el lago se angosta y sigue como Nonthué; de ahí nace el río Hua Hum, que cruza a Chile hacia el lago Pirihueico."
+      ],
+      [
+        "Bandurrias",
+        "El mirador, a 852 m, regala la vista del lago y del pueblo: ~1 h de subida a pie desde el final de la calle Juez del Valle. Hasta 2024 la comunidad mapuche cobraba la entrada: consultá."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-08-chachin",
+      "titulo": "Cascada Chachín",
+      "sub": "~30 m de caída en selva valdiviana"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-08-quila-quina",
+          "nombre": "Quila Quina",
+          "texto": "Catamaranes diarios desde el muelle del pueblo."
+        },
+        {
+          "img": "AND-08-hua-hum",
+          "nombre": "Río Hua Hum",
+          "texto": "Lleva el agua del Lácar hacia Chile."
+        },
+        {
+          "img": "AND-08-nonthue",
+          "nombre": "Lago Nonthué",
+          "texto": "La prolongación angosta del Lácar hacia el oeste."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Por la RP 48 llegás a la Cascada Chachín y al paso Hua Hum, donde un ferry de ~90 min cruza a Chile todo el año."
+      ],
+      [
+        "En la camper",
+        "ACA San Martín, urbano: carga de agua, sin descarga. Lolen tiene un puente de 2.000 kg: no para campers pesadas. Antu Ti Lafken, parcelas en la costa."
+      ]
+    ]
   }
 ]

@@ -186,5 +186,100 @@
       ["Antes de ir", "Llevá calzado firme: en los senderos agrestes hubo visitantes lesionados que tuvieron que ser rescatados. Abre todos los días; en invierno cierra una hora antes."],
       ["En la camper", "El parque tiene área de camping, baños y cafetería: consultá si entra un vehículo grande. Queda de paso entre el Moconá y Posadas, sobre la RN 14."]
     ]
+  },
+  {
+    "codigo": "LIT-09",
+    "region": "LIT",
+    "ubicacion": "Mburucuyá · Corrientes",
+    "titulo": "Parque Nacional Mburucuyá",
+    "bajada": "Un parque que nació de las estancias que donó un danés, Troels Pedersen, con camping gratuito y lugar para casas rodantes.",
+    "datos": [["Desde Corrientes", "~140–150 km"], ["Camino", "25 km de ripio (RP 86)"], ["Entrada", "Libre, con registro"], ["Tiempo de visita", "1 o 2 días"]],
+    "iconos": [["pernocte", "ok", "Acampe gratuito"], ["camino", "aviso", "Ripio: no con lluvia"]],
+    "bloques": [
+      ["Historia", "Troels Pedersen y su esposa, Nina Sinding, donaron las estancias Santa Teresa y Santa María; el acta se firmó en 1991. El parque se creó por ley en 2001 y protege unas 17.000 hectáreas."],
+      ["Cuatro mundos", "Es un mosaico donde se cruzan el Iberá, el Chaco, la selva Paranaense y el Espinal: palmares altos de yatay, esteros cambiantes, lagunas y montes de laurel."],
+      ["Senderos", "Son cuatro: Che Roga (4,4 km, ~2 h 30, dificultad media), Yatay (también en bici, con vista al estero Santa Lucía), Tape Porá y el botánico, de 1 km y accesible."]
+    ],
+    "destacada": {"img": "LIT-09-aguara-guazu", "titulo": "Aguará guazú", "sub": "El zorro de patas largas, amenazado"},
+    "fila": {"titulo": "Fauna", "items": [
+      {"img": "LIT-09-yacare-overo", "nombre": "Yacaré overo", "texto": "Junto al yacaré negro, en lagunas y esteros."},
+      {"img": "LIT-09-lobito-rio", "nombre": "Lobito de río", "texto": "Especie amenazada que vive en los cursos de agua."}
+    ]},
+    "cierre": [
+      ["Antes de ir", "No entres con el camino mojado: consultá al parque. La proveeduría solo tiene artículos básicos, sin comidas elaboradas: llevá la tuya y repelente."],
+      ["En la camper", "Acampe gratuito con estacionamiento para casa rodante, sanitarios, duchas y quincho. Desde el pueblo, 25 km de ripio por la RP 86, que con lluvia puede quedar intransitable."]
+    ]
+  },
+  {
+    "codigo": "LIT-10",
+    "region": "LIT",
+    "ubicacion": "Capitán Solari · Chaco",
+    "titulo": "Parque Nacional Chaco",
+    "bajada": "El primer parque nacional chaqueño: quebrachos colorados, monos carayá y más de 300 especies de aves, con entrada y camping gratuitos.",
+    "datos": [["Desde Resistencia", "~115 km · RN 16 y RP 9"], ["Camino", "~5 km de tierra al final"], ["Atención", "7 a 15 h · entrada libre"], ["Tiempo de visita", "1 día, mejor con noche"]],
+    "iconos": [["pernocte", "ok", "Acampe gratuito 24 h"], ["camino", "aviso", "Tierra: ojo con lluvia"]],
+    "bloques": [
+      ["Historia", "Se creó el 22 de octubre de 1954 y protege más de 14.900 hectáreas del Chaco Húmedo. Su gran valor es el quebrachal, que en algunos sectores forma bosques casi puros de quebracho colorado."],
+      ["Paisaje", "El parque alterna raleras de quebracho, monte fuerte, sabanas abiertas marcadas por la palmera caranday, selva en galería y esteros que crecen o se achican según las lluvias y las sequías."],
+      ["Panza de Cabra", "Es el mayor espejo de agua del parque, y la fauna baja a beber: llegás por un camino de 12 km entre monte. El circuito de las lagunas Carpincho y Yacaré arranca a 5,5 km del centro."]
+    ],
+    "destacada": {"img": "LIT-10-abuelo", "titulo": "El Abuelo", "sub": "Un quebracho colorado añoso"},
+    "fila": {"titulo": "Fauna", "items": [
+      {"img": "LIT-10-caraya", "nombre": "Mono carayá", "texto": "Bullicioso y fácil de ver en el monte."},
+      {"img": "LIT-10-guazuncho", "nombre": "Guazuncho", "texto": "Con los pecaríes, de lo más fácil de ver."},
+      {"img": "LIT-10-carpincho", "nombre": "Carpincho", "texto": "En las lagunas Panza de Cabra, Yacaré y Carpincho."}
+    ]},
+    "cierre": [
+      ["Para caminar", "El sendero del Abuelo te lleva hasta un quebracho colorado añoso de porte excepcional, el gran símbolo del quebrachal que protege el parque."],
+      ["En la camper", "Acampe gratuito con baños, duchas y asadores, abierto las 24 h, pero sin agua potable: llevá la tuya. Provisiones en Capitán Solari. Vehículos grandes: 03725-499-161."]
+    ]
+  },
+  {
+    "codigo": "LIT-11",
+    "region": "LIT",
+    "ubicacion": "Miraflores · Chaco",
+    "titulo": "Parque Nacional El Impenetrable",
+    "bajada": "En 2022 nacieron acá dos cachorros de yaguareté, en un monte donde el tapir es fácil de ver.",
+    "datos": [["Desde J. J. Castelli", "~100 km a La Armonía"], ["Camino", "Tierra desde Miraflores"], ["Al camping", "Huella de 36 km"], ["Tiempo de visita", "Al menos 2 noches"]],
+    "iconos": [["pernocte", "ok", "Camping La Fidelidad"], ["combustible", "aviso", "Último: Miraflores"], ["camino", "aviso", "Tierra: no con lluvia"]],
+    "bloques": [
+      ["Historia", "Ocupa la antigua estancia La Fidelidad. Su dueño, Manuel Roseo, fue asesinado en 2011 por hombres que querían quedarse con las tierras; se expropiaron y el parque se creó en 2014."],
+      ["Quebrachal", "Es el mayor remanente de bosque del Chaco Seco: unas 128.000 hectáreas entre el Teuco-Bermejo y el Bermejito. En las lomadas crecen los dos quebrachos colorados; en los bajos, palosantales."],
+      ["Los ríos", "Las salidas en kayak y las excursiones guiadas por el Bermejito y el Bermejo son la mejor forma de recorrerlo. Desde el agua se ven yacarés, y el tapir abunda en todo el parque."]
+    ],
+    "destacada": {"img": "LIT-11-tapir", "titulo": "Tapir", "sub": "Abundante y fácil de observar"},
+    "fila": {"titulo": "Para ver", "items": [
+      {"img": "LIT-11-yaguarete", "nombre": "Yaguareté", "texto": "Volvió con la reintroducción. Verlo es muy difícil."},
+      {"img": "LIT-11-palo-santo", "nombre": "Palo santo", "texto": "En las zonas bajas forma palosantales."},
+      {"img": "LIT-11-kayak", "nombre": "Kayak en el Bermejito", "texto": "La mejor forma de ver yacarés."}
+    ]},
+    "cierre": [
+      ["Antes de ir", "Consultá si tu vehículo entra por la huella: destino@elimpenetrable.org o WhatsApp +54 3794 654988. Preguntá cada día si se puede hacer fuego."],
+      ["En la camper", "Camping La Fidelidad, gratuito, sobre el Bermejo: parcelas elevadas, baños y restaurante. Última carga en Miraflores. Con lluvia, la tierra es intransitable. Llevá agua, comida y repelente."]
+    ]
+  },
+  {
+    "codigo": "LIT-12",
+    "region": "LIT",
+    "ubicacion": "Las Lomitas · Formosa",
+    "titulo": "Bañado La Estrella",
+    "bajada": "El segundo humedal más grande del país, con un bosque de árboles muertos que siguen en pie dentro del agua.",
+    "datos": [["Desde Formosa", "~300 km · ~5 h (RN 81)"], ["Acceso", "El Vertedero: 45 km asfalto"], ["Superficie", "~400.000 ha"], ["Tiempo de visita", "1 día, mejor con noche"]],
+    "iconos": [["pernocte", "aviso", "Consultá dónde dormir"], ["combustible", "aviso", "Cargá en Las Lomitas"], ["camino", "ok", "Asfalto por RP 28"]],
+    "bloques": [
+      ["Historia", "Se extiende en una franja paralela al Pilcomayo, el límite con Paraguay. Es Reserva Natural Provincial desde 2005, y en 2019 fue elegido por voto popular una de las Siete Maravillas Naturales de Argentina."],
+      ["Los champales", "El Pilcomayo baja de los Andes bolivianos, desborda y cubre los campos casi todo el año. Los árboles que murieron ahogados siguen en pie, sin corteza y cubiertos de enredaderas y musgo."],
+      ["En canoa", "Al Laberinto de los Champales se entra en piraguas o canoas largas de madera y fondo plano: son obligatorias por la cantidad de troncos sumergidos. Es la mejor forma de ver el bañado."]
+    ],
+    "destacada": {"img": "LIT-12-jabiru", "titulo": "Jabirú", "sub": "La cigüeña emblema del bañado"},
+    "fila": {"titulo": "Fauna", "items": [
+      {"img": "LIT-12-yacare", "nombre": "Yacaré", "texto": "Habita los canales y lagunas del bañado."},
+      {"img": "LIT-12-carpincho", "nombre": "Carpincho", "texto": "Otro habitante fácil de cruzar en el agua."},
+      {"img": "LIT-12-curiyu", "nombre": "Boa curiyú", "texto": "Vive en el bañado, pero es difícil de ver."}
+    ]},
+    "cierre": [
+      ["Para pajarear", "El bañado es Área Importante para la Conservación de las Aves, con más de 300 especies: llevá binoculares en la canoa."],
+      ["En la camper", "Entrá por El Vertedero (RP 28, asfalto): la RP 32 a Fortín La Soledad es de tierra. Consultá antes dónde pernoctar con casa rodante. Cargá en Las Lomitas."]
+    ]
   }
 ]
