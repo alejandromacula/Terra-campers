@@ -74,6 +74,7 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .card figcaption{padding-top:2mm;}
 .card figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.6pt;letter-spacing:.14em;text-transform:uppercase;margin-bottom:.8mm;}
 .card figcaption span{display:block;font-size:7.4pt;line-height:9.6pt;}
+.card figcaption .ct{font-size:6.6pt;line-height:8.4pt;font-weight:600;margin-top:1mm;}
 
 .cierre{display:grid;grid-template-columns:1fr 1fr;column-gap:0;margin:4.2mm var(--mr) 0 var(--mx);}
 .cl{padding-right:5mm;}

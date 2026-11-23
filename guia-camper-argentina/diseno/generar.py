@@ -1,4 +1,4 @@
-"""Genera guia-preview.html a partir de paginas.json. Cada recuadro de imagen muestra img/<slot>.jpg|png|webp
+"""Genera guia-terra-campers.html a partir de paginas.json (portada, regiones, aperturas) y datos/*.json (lugares). Cada recuadro de imagen muestra img/<slot>.jpg|png|webp
 si existe y, si no, un recuadro rayado con el nombre del archivo que falta."""
 import json
 import os
@@ -7,6 +7,10 @@ from html import escape
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = json.load(open(os.path.join(BASE, "paginas.json"), encoding="utf-8"))
 REG = DATA["regiones"]
+LUGARES = []
+for f in sorted(os.listdir(os.path.join(BASE, "datos"))):
+    if f.endswith(".json"):
+        LUGARES += json.load(open(os.path.join(BASE, "datos", f), encoding="utf-8"))
 ORANGE = "#c45c1a"
 
 
@@ -100,8 +104,8 @@ def page_como_usar():
 
 def page_apertura(region, a):
     r = REG[region]
-    items = "".join(f'<li><span style="color:{r["color"]}">{region} {i:02d}</span>{escape(n)}</li>'
-                    for i, n in enumerate(a["lugares"], 1))
+    items = "".join(f'<li><span style="color:{r["color"]}">{L["codigo"].replace("-", " ")}</span>{escape(L["titulo"])}</li>'
+                    for L in LUGARES if L["region"] == region)
     return f'''<section class="page apertura">
   {img(a["img"], "hero-open")}
   <div class="hero-fade"></div>
@@ -130,7 +134,9 @@ def page_lugar(L):
     fila = L["fila"]
     cards = "".join(
         f'<figure class="card">{img(it["img"], "thumb")}<figcaption><b>{escape(it["nombre"])}</b>'
-        f'<span>{escape(it["texto"])}</span></figcaption></figure>' for it in fila["items"])
+        f'<span>{escape(it["texto"])}</span>'
+        + (f'<span class="ct" style="color:{c}">{escape(it["contacto"])}</span>' if it.get("contacto") else "")
+        + '</figcaption></figure>' for it in fila["items"])
     cierre = "".join(
         f'<div class="cl"><h3 class="lab">{escape(t)}<i style="background:{c}"></i></h3><p>{escape(x)}</p></div>'
         for t, x in L["cierre"])
@@ -166,16 +172,16 @@ def page_lugar(L):
 
 CSS = open(os.path.join(BASE, "estilo.css"), encoding="utf-8").read()
 pages = [page_portada(DATA["portada"]), page_como_usar()]
-current = None
-for L in DATA["lugares"]:
-    if L["region"] != current and L["region"] in DATA["aperturas"]:
+abiertas = set()
+for L in LUGARES:
+    if L["region"] not in abiertas:
         pages.append(page_apertura(L["region"], DATA["aperturas"][L["region"]]))
-    current = L["region"]
+        abiertas.add(L["region"])
     pages.append(page_lugar(L))
 
 html = f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Guía de Ruta Terra Campers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Inter:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body>{"".join(pages)}</body></html>'''
-open(os.path.join(BASE, "guia-preview.html"), "w", encoding="utf-8").write(html)
-print(f"{len(pages)} páginas")
+open(os.path.join(BASE, "guia-terra-campers.html"), "w", encoding="utf-8").write(html)
+print(f"{len(pages)} páginas, {len(LUGARES)} lugares")

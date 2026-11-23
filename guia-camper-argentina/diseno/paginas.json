@@ -51,294 +51,42 @@
     "NOR": {
       "img": "NOR-apertura",
       "provincias": "Tucumán · Salta · Jujuy · Catamarca",
-      "intro": "Se sube desde Buenos Aires por Tucumán, se cruza a los Valles Calchaquíes, se sigue a Salta, la Puna y la Quebrada de Humahuaca, se baja a las yungas de Jujuy y Salta, y se vuelve hacia el sur por la Ruta 40 catamarqueña.",
-      "lugares": [
-        "Parque Nacional Aconquija",
-        "Tafí del Valle y los menhires",
-        "Ciudad Sagrada de los Quilmes",
-        "Cafayate y los vinos de altura",
-        "Quebrada de las Conchas",
-        "Salta",
-        "Cuesta del Obispo y Los Cardones",
-        "Cachi",
-        "San Antonio de los Cobres y La Polvorilla",
-        "Salinas Grandes",
-        "Purmamarca",
-        "Tilcara y el Pucará",
-        "Humahuaca y el Hornocal",
-        "Iruya",
-        "Laguna de los Pozuelos",
-        "Parque Nacional Calilegua",
-        "Parque Nacional Baritú",
-        "Parque Nacional El Rey",
-        "Campo de Piedra Pómez",
-        "Fiambalá y la Ruta de los Seismiles"
-      ]
-    }
-  },
-  "lugares": [
-    {
-      "codigo": "NOR-01",
-      "region": "NOR",
-      "ubicacion": "Concepción · Tucumán",
-      "titulo": "Parque Nacional Aconquija",
-      "bajada": "Selva de montaña y cumbres de más de 4.000 metros, donde vive más de la mitad de las aves de Tucumán.",
-      "datos": [
-        [
-          "Acceso",
-          "RN 38 y RN 65 desde Concepción"
-        ],
-        [
-          "Camino",
-          "Asfalto y luego ripio"
-        ],
-        [
-          "Entrada",
-          "Gratuita, antes de las 19 h"
-        ],
-        [
-          "Tiempo de visita",
-          "Medio día"
-        ]
-      ],
-      "iconos": [
-        [
-          "pernocte",
-          "ok",
-          "Camping en el portal"
-        ],
-        [
-          "combustible",
-          "aviso",
-          "Cargá en Concepción"
-        ],
-        [
-          "camino",
-          "aviso",
-          "Último tramo de ripio"
-        ]
-      ],
-      "bloques": [
-        [
-          "Historia",
-          "Nació en 1995 como Campo de los Alisos y en 2018 se amplió como Parque Nacional Aconquija. Arriba, a más de 4.000 m, está La Ciudacita, un sitio inca del Qhapaq Ñan, Patrimonio Mundial."
-        ],
-        [
-          "Selva y altura",
-          "Protege yungas y altos Andes en la ladera oriental del Aconquija. El nombre viene de los bosques de aliso del cerro; más abajo crecen el pino del cerro y el nogal criollo."
-        ],
-        [
-          "Senderos",
-          "Junto al centro operativo Santa Rosa sale un circuito fácil de unos 800 m (~40 min). A La Ciudacita, solo con guía y avisando al parque con días de anticipación."
-        ]
-      ],
-      "destacada": {
-        "img": "NOR-01-ciudacita",
-        "titulo": "La Ciudacita",
-        "sub": "Sitio inca a más de 4.000 m"
-      },
-      "fila": {
-        "titulo": "Flora y fauna",
-        "items": [
-          {
-            "img": "NOR-01-taruca",
-            "nombre": "Taruca",
-            "texto": "Ciervo andino en peligro. Verlo exige caminar alto."
-          },
-          {
-            "img": "NOR-01-aliso",
-            "nombre": "Aliso del cerro",
-            "texto": "Le daba nombre al viejo parque. Bosques en las laderas medias."
-          },
-          {
-            "img": "NOR-01-amancay",
-            "nombre": "Amancay",
-            "texto": "Flor del bosque bajo, cerca de los 1.400 m."
-          }
-        ]
-      },
-      "cierre": [
-        [
-          "Para pajarear",
-          "Unas 260 especies registradas: el sendero corto del portal ya da buenas chances. Llevá binoculares."
-        ],
-        [
-          "En la camper",
-          "El portal tiene camping con baños y parrillas. Salí de Concepción con tanque lleno y agua, y consultá el ripio en aconquija@apn.gob.ar."
-        ]
-      ]
+      "intro": "Se sube por Tucumán, se cruza a los Valles Calchaquíes, se sigue a Salta, la Puna y la Quebrada de Humahuaca, se baja a las yungas y se vuelve por la Ruta 40 catamarqueña."
     },
-    {
-      "codigo": "NOR-02",
-      "region": "NOR",
-      "ubicacion": "El Mollar · Tafí del Valle · Tucumán",
-      "titulo": "Tafí del Valle y los menhires",
-      "bajada": "Piedras talladas hace más de 2.000 años, en un valle a 2.000 metros al que se sube atravesando la selva.",
-      "datos": [
-        [
-          "Desde S. M. de Tucumán",
-          "~110–120 km · ~2 h"
-        ],
-        [
-          "Camino",
-          "Asfalto de cornisa (RP 307)"
-        ],
-        [
-          "Altura",
-          "~2.000 msnm"
-        ],
-        [
-          "Tiempo de visita",
-          "1 h menhires · 1 día el valle"
-        ]
-      ],
-      "iconos": [
-        [
-          "pernocte",
-          "ok",
-          "Camping municipal"
-        ],
-        [
-          "camino",
-          "aviso",
-          "Curvas; hielo en invierno"
-        ],
-        [
-          "altura",
-          "aviso",
-          "2.000 a 3.042 m"
-        ]
-      ],
-      "bloques": [
-        [
-          "Historia",
-          "Son monolitos de la cultura Tafí, que habitó el valle entre el 800 a.C. y el 800 d.C. En 1977, durante la dictadura, los arrancaron de sus sitios y los juntaron frente al dique La Angostura."
-        ],
-        [
-          "La subida",
-          "La RP 307 trepa por la Quebrada de Los Sosa, reserva de selva nublada con helechos y orquídeas. Arriba se abre el valle, de prados y bosquecillos de montaña."
-        ],
-        [
-          "El nombre",
-          "\"Menhir\" se los pusieron los investigadores del siglo XIX, por su parecido con los monolitos celtas. Sus creadores los llamaban huancas."
-        ]
-      ],
-      "destacada": {
-        "img": "NOR-02-menhir",
-        "titulo": "Menhir",
-        "sub": "Cultura Tafí, 800 a.C.–800 d.C."
-      },
-      "fila": {
-        "titulo": "En el camino",
-        "items": [
-          {
-            "img": "NOR-02-los-sosa",
-            "nombre": "Selva de Los Sosa",
-            "texto": "Selva nublada entre los km 20 y 38 de la RP 307."
-          },
-          {
-            "img": "NOR-02-condor",
-            "nombre": "Cóndor andino",
-            "texto": "Hubo liberaciones en Tafí: buscalo sobre los cerros."
-          },
-          {
-            "img": "NOR-02-infiernillo",
-            "nombre": "Abra del Infiernillo",
-            "texto": "3.042 m: el punto más alto de las rutas tucumanas."
-          }
-        ]
-      },
-      "cierre": [
-        [
-          "Si tenés un día más",
-          "Seguí 22 km hasta el Abra del Infiernillo y bajá a Amaicha: es la puerta a Quilmes, la página siguiente."
-        ],
-        [
-          "En la camper",
-          "RP 307 de curvas: sin apuro. En invierno se corta por hielo en El Infiernillo. Para dormir, el Camping Municipal Los Sauzales."
-        ]
-      ]
+    "LIT": {
+      "img": "LIT-apertura",
+      "provincias": "Entre Ríos · Corrientes · Misiones · Chaco · Formosa",
+      "intro": "Un circuito desde Buenos Aires: la costa del río Uruguay, los Esteros del Iberá, Misiones hasta Iguazú y el Moconá, un desvío al Chaco y Formosa, y la vuelta por el Pre-Delta."
     },
-    {
-      "codigo": "NOR-03",
-      "region": "NOR",
-      "ubicacion": "Amaicha del Valle · Tucumán",
-      "titulo": "Ciudad Sagrada de los Quilmes",
-      "bajada": "El pueblo que levantó esta ciudad de piedra resistió a los españoles durante unos 130 años.",
-      "datos": [
-        [
-          "Desde Amaicha",
-          "~17 km"
-        ],
-        [
-          "Camino",
-          "RN 40 y ~5 km de ripio"
-        ],
-        [
-          "Horario",
-          "Todos los días, 8–18 h"
-        ],
-        [
-          "Tiempo de visita",
-          "2 a 3 h"
-        ]
-      ],
-      "iconos": [
-        [
-          "pernocte",
-          "no",
-          "No en el sitio"
-        ],
-        [
-          "camino",
-          "aviso",
-          "Ripio en mal estado"
-        ]
-      ],
-      "bloques": [
-        [
-          "Historia",
-          "Los quilmes, un pueblo diaguita-calchaquí, levantaron la ciudad en la Sierra del Cajón. Tras la derrota de 1665, cerca de mil personas fueron desterradas a pie hasta Buenos Aires: ahí nació la actual ciudad de Quilmes."
-        ],
-        [
-          "Hoy",
-          "El sitio se gestiona junto con la Comunidad India Quilmes, descendiente de aquel pueblo."
-        ],
-        [
-          "Paisaje",
-          "Desde los miradores se ven las terrazas de piedra, la ladera cubierta de cardones y el fondo seco del Valle Calchaquí."
-        ]
-      ],
-      "destacada": {
-        "img": "NOR-03-pirca",
-        "titulo": "Muros de pirca",
-        "sub": "Piedra sin argamasa, a 1.850 msnm"
-      },
-      "fila": {
-        "titulo": "Para ver",
-        "items": [
-          {
-            "img": "NOR-03-cardon",
-            "nombre": "Cardón",
-            "texto": "El cactus columnar que marca los Valles Calchaquíes."
-          },
-          {
-            "img": "NOR-03-centro",
-            "nombre": "Centro de Interpretación",
-            "texto": "Empezá por acá: sin contexto, las ruinas son piedras."
-          }
-        ]
-      },
-      "cierre": [
-        [
-          "Antes de ir",
-          "Empezá por la visita guiada del Centro de Interpretación. Llevá agua, sombrero y protector para los miradores."
-        ],
-        [
-          "En la camper",
-          "No hay camping en el sitio: dormí en Amaicha del Valle o seguí a Cafayate. El ripio de acceso está en mal estado."
-        ]
-      ]
+    "CUY": {
+      "img": "CUY-apertura",
+      "provincias": "San Luis · San Juan · La Rioja · Mendoza",
+      "intro": "Se entra por San Luis, se sube a Ischigualasto y Talampaya, se baja por la precordillera sanjuanina hasta la alta montaña de la RN 7, se pasa por los valles del vino y se termina en el sur volcánico de Mendoza."
+    },
+    "COR": {
+      "img": "COR-apertura",
+      "provincias": "Córdoba",
+      "intro": "Desde la laguna de Ansenuza al norte jesuítico y el Valle de Punilla; después Alta Gracia y Calamuchita, y el cruce de las Altas Cumbres hacia Traslasierra."
+    },
+    "AND": {
+      "img": "AND-apertura",
+      "provincias": "Neuquén · Río Negro · Chubut",
+      "intro": "De norte a sur por la cordillera: los dinosaurios de El Chocón, el norte neuquino y sus volcanes, las araucarias, el Lanín, la Ruta de los Siete Lagos, Bariloche y la Comarca Andina hasta Los Alerces y Trevelin."
+    },
+    "AUS": {
+      "img": "AUS-apertura",
+      "provincias": "Santa Cruz · Chubut · Río Negro · Tierra del Fuego",
+      "intro": "Dos viajes en uno: la Ruta 40 de Los Antiguos a El Chaltén y El Calafate, y la costa atlántica de Las Grutas a Ushuaia, con ballenas, pingüinos y el cruce a Tierra del Fuego."
+    },
+    "BSA": {
+      "img": "BSA-apertura",
+      "provincias": "Provincia de Buenos Aires",
+      "intro": "El Delta y el río al norte, la costa atlántica hacia el sur, las sierras de Tandil y, al final, las sierras de la Ventana."
+    },
+    "BSA-P": {
+      "img": "BSA-P-apertura",
+      "provincias": "Escapadas de 1 a 3 días desde la ciudad",
+      "intro": "Pueblos chicos a pocas horas de Buenos Aires, agrupados en recorridos de fin de semana: almacenes de ramos generales, bodegas, estancias, museos y la arquitectura de Salamone."
     }
-  ]
+  }
 }
