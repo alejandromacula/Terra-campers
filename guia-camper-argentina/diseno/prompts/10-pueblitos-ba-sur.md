@@ -187,7 +187,7 @@ Photorealistic editorial travel photograph of the interior of a small regional h
 
 ### `BSA-P23-principal`
 **Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
-Photorealistic editorial travel photograph of a giant omelette festival in a tree-lined municipal park in a small town of the Buenos Aires pampas, Argentina: an enormous round iron frying pan, several metres wide, set over a wood fire, with a huge golden omelette cooking inside and wisps of smoke, cooks with long wooden paddles around it and a festive crowd in the background softly out of focus (people allowed in this image), tall eucalyptus trees behind. Warm early-summer morning light. Wide-angle shot, the pan centered in the central horizontal band. Warm, festive, natural palette, not oversaturated. Natural colors, high detail, no text, no watermark, no logos.
+Photorealistic editorial travel photograph of a giant omelette festival in a tree-lined municipal park in a small town of the Buenos Aires pampas, Argentina: an enormous round iron frying pan, several metres wide, set over a wood fire, with a huge golden omelette cooking inside and wisps of smoke, cooks with long wooden paddles around it and a festive crowd in the background softly out of focus (people allowed in this image), tall eucalyptus trees behind. Warm early-summer morning light. Wide-angle shot, the pan centered in the central horizontal band. Warm, festive, natural palette, not oversaturated. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
 
 ### `BSA-P23-aligot`
 **Formato:** vertical 2:3 (se recorta a 4:5)

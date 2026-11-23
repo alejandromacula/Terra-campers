@@ -706,5 +706,359 @@
         "ACA San Martín, urbano: carga de agua, sin descarga. Lolen tiene un puente de 2.000 kg: no para campers pesadas. Antu Ti Lafken, parcelas en la costa."
       ]
     ]
+  },
+  {
+    "codigo": "AND-09",
+    "region": "AND",
+    "ubicacion": "San Martín de los Andes · Neuquén",
+    "titulo": "Ruta de los Siete Lagos",
+    "bajada": "Unos 107 km de la RN 40, hoy todos asfaltados, que enhebran siete lagos entre bosques y montañas de dos parques nacionales.",
+    "datos": [
+      [
+        "Recorrido",
+        "San Martín–V. La Angostura"
+      ],
+      [
+        "Distancia",
+        "~107 a 110 km"
+      ],
+      [
+        "Camino",
+        "Asfalto de montaña (RN 40)"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día con paradas"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo áreas habilitadas"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá antes de salir"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Curvas: manejo tranquilo"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El camino era parte de las rutas nacionales 231 y 234, y en 2012 se sumó al nuevo trazado de la RN 40. El último tramo de ripio se terminó de pavimentar a mediados de la década de 2010."
+      ],
+      [
+        "Los siete",
+        "Machónico, Hermoso, Falkner, Villarino, Escondido, Correntoso y Espejo: lagos encajonados entre montañas de coihue, lenga y ñire, cada uno con su color. En el Escondido, el agua verde contrasta con los coihues."
+      ],
+      [
+        "Río Correntoso",
+        "Une el lago Correntoso con el Nahuel Huapi y mide apenas 200 a 300 m, según el nivel de los lagos: es uno de los ríos más cortos del mundo. Miralo desde el puente."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-09-correntoso",
+      "titulo": "Río Correntoso",
+      "sub": "De 200 a 300 m de largo"
+    },
+    "fila": {
+      "titulo": "En el camino",
+      "items": [
+        {
+          "img": "AND-09-espejo",
+          "nombre": "Playa del lago Espejo",
+          "texto": "La parada obligada de la ruta."
+        },
+        {
+          "img": "AND-09-falkner",
+          "nombre": "Lago Falkner",
+          "texto": "Playa y camping sobre la misma RN 40."
+        },
+        {
+          "img": "AND-09-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Con suerte, planeando alto sobre los lagos."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Paradas clave",
+        "La playa del lago Espejo y el mirador del Machónico. Dedicale un día entero sin apuro, o dormí en el camino: cada lago merece una parada."
+      ],
+      [
+        "En la camper",
+        "En el Nahuel Huapi, el acampe libre en motorhome se limita a Pichi Traful y Villarino: consultá la norma vigente. El camping Lago Falkner las admite. Hay multas."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-10",
+    "region": "AND",
+    "ubicacion": "Villa Traful · Neuquén",
+    "titulo": "Villa Traful y el bosque sumergido",
+    "bajada": "Bajo el agua del lago Traful sigue un bosque de cipreses muertos que se ve desde un bote, como un jardín sumergido.",
+    "datos": [
+      [
+        "Acceso",
+        "RP 65 desde la RN 40"
+      ],
+      [
+        "Camino",
+        "Asfalto y tramos de ripio"
+      ],
+      [
+        "Desde Bariloche",
+        "~2 h"
+      ],
+      [
+        "Tiempo de visita",
+        "1 o 2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe en Pichi Traful"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá antes de entrar"
+      ],
+      [
+        "camino",
+        "aviso",
+        "RP 65 en obras"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Tiene unos 761 habitantes. En 1934 los pobladores levantaron una escuela de troncos, y en 1936 el Parque Nacional Nahuel Huapi cedió el terreno para lotear la villa. Traful, en mapuche, se asocia a unión o confluencia."
+      ],
+      [
+        "Bajo el agua",
+        "Unos 60 cipreses quedaron sumergidos tras un movimiento de tierra y hoy se ven desde la superficie. Solo se visitan en una excursión lacustre guiada de medio día desde el muelle; mejor en primavera y verano."
+      ],
+      [
+        "Senderos",
+        "El sendero a la Cascada Cataratas mide 950 m (~40 min, dificultad media). A 2 km del centro, hacia la RN 40, está la playa de rocas de colores de La Puntilla."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-10-cipres",
+      "titulo": "Ciprés cordillerano",
+      "sub": "El árbol del bosque sumergido"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-10-cataratas",
+          "nombre": "Cascada Cataratas",
+          "texto": "950 m de sendero, ~40 min."
+        },
+        {
+          "img": "AND-10-la-puntilla",
+          "nombre": "Playa La Puntilla",
+          "texto": "Rocas de colores a 2 km del centro."
+        },
+        {
+          "img": "AND-10-huillin",
+          "nombre": "Huillín",
+          "texto": "Emblema del Nahuel Huapi; muy difícil de ver."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "El Mirador del Viento, sobre un acantilado de ~80 m, estuvo clausurado por riesgo de derrumbe: consultá si reabrió. La RP 65 está en obra: preguntá su estado."
+      ],
+      [
+        "En la camper",
+        "Pichi Traful, acampe libre sobre la RN 40 a ~65 km de San Martín: admite motorhome. En la villa, consultá en el camping Paloma Araucana. Cargá combustible antes."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-11",
+    "region": "AND",
+    "ubicacion": "Villa La Angostura · Neuquén",
+    "titulo": "Bosque de Los Arrayanes",
+    "bajada": "En la punta de la península Quetrihué crece un bosque de arrayanes color canela, con ejemplares de más de 650 años.",
+    "datos": [
+      [
+        "Sendero",
+        "~12 km por la península"
+      ],
+      [
+        "Último ingreso",
+        "13 h a pie · 12 h en bici"
+      ],
+      [
+        "Otra opción",
+        "Excursión lacustre"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping con descarga"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto hasta la villa"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El parque se creó en 1971, separando la península Quetrihué del Nahuel Huapi. El pueblo nació en 1932 con una oficina de radiotelégrafo y correo; su nombre alude al istmo que une la península con la costa."
+      ],
+      [
+        "El bosque",
+        "En la punta de la península, el arrayán forma un bosque de ~20 ha casi sin otros árboles: la mayor concentración de la especie en el mundo. En los últimos años se secaron copas por clima, erupciones e invasoras."
+      ],
+      [
+        "El nombre",
+        "Quetri es el nombre mapuche del arrayán (Luma apiculata) y bautizó a la península. Su corteza lisa, color canela, se descascara y deja manchas claras: tocala con cuidado."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-11-corteza",
+      "titulo": "Corteza de arrayán",
+      "sub": "Lisa, canela, con manchas claras"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-11-bahia-brava",
+          "nombre": "Muelle de Bahía Brava",
+          "texto": "Entrada al parque y salida de las excursiones."
+        },
+        {
+          "img": "AND-11-sendero",
+          "nombre": "Sendero de Quetrihué",
+          "texto": "Para caminantes y ciclistas: ~2 h por tramo en bici."
+        },
+        {
+          "img": "AND-11-pudu",
+          "nombre": "Pudú",
+          "texto": "Uno de los ciervos más chicos del mundo; muy tímido."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Los horarios de ingreso cambian según la temporada: confirmalos en la intendencia del parque. Si vas en bici, salí temprano."
+      ],
+      [
+        "En la camper",
+        "Camping Unquehue (Av. Siete Lagos 727): zona de motorhome con descarga, luz y canilla. También el Osa Mayor, cerca del centro. Usá campings: el parque multa el acampe."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-12",
+    "region": "AND",
+    "ubicacion": "San Carlos de Bariloche · Río Negro",
+    "titulo": "Bariloche y el Circuito Chico",
+    "bajada": "Una vuelta de ~60 km por la costa del Nahuel Huapi, el primer parque nacional de América Latina, creado en 1922.",
+    "datos": [
+      [
+        "Recorrido",
+        "~60 km de asfalto"
+      ],
+      [
+        "Salida",
+        "Por la Av. Bustillo"
+      ],
+      [
+        "Desvío",
+        "Colonia Suiza (ripio)"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo en campings"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Curvas y tránsito"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "En 1903 el perito Francisco Moreno donó tres leguas cuadradas cerca del lago Frías para un parque público. Sobre esa base nació en 1922 el Parque Nacional del Sud, que en 1934 pasó a llamarse Nahuel Huapi."
+      ],
+      [
+        "El circuito",
+        "Pasa por Playa Bonita, el cerro Campanario, Puerto Pañuelo, la capilla San Eduardo y el hotel Llao Llao, Bahía López y el Punto Panorámico sobre el lago Moreno. Desde el Campanario se ven lagos, islas y montañas."
+      ],
+      [
+        "Bosque y fauna",
+        "Coihue, lenga y ñire cubren más del 60 % del parque. Acá vive la única población de huillín de agua dulce del país, y en los ríos rápidos aparece el pato de torrente."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-12-pato-torrente",
+      "titulo": "Pato de torrente",
+      "sub": "En ríos rápidos de montaña"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-12-san-eduardo",
+          "nombre": "Capilla San Eduardo",
+          "texto": "Junto al hotel Llao Llao, ~km 24 del circuito."
+        },
+        {
+          "img": "AND-12-bahia-lopez",
+          "nombre": "Bahía López",
+          "texto": "Bahía tranquila al pie del cerro López."
+        },
+        {
+          "img": "AND-12-huillin",
+          "nombre": "Huillín",
+          "texto": "Emblema del parque; muy raro de ver."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde descargar",
+        "Baños químicos: en el playón municipal de la calle Esandi. Hay otra estación de descarga en Dina Huapi, a 15 km del centro."
+      ],
+      [
+        "En la camper",
+        "En Bariloche no se puede dormir en la vía pública y hay controles nocturnos. Camping Petunia (Bustillo km 13,5), con sector motorhome y descarga, o Los Coihues."
+      ]
+    ]
   }
 ]

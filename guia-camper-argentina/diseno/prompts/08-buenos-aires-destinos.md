@@ -154,3 +154,101 @@ Wildlife photograph of an adult male South American sea lion (Otaria flavescens)
 ### `BSA-08-laguna-de-los-padres`
 **Formato:** horizontal 2:1 aprox. (fila de 2: se recorta más angosto)
 Photorealistic editorial travel photograph of a calm freshwater lagoon in the gently rolling hills near Mar del Plata, Buenos Aires province, Argentina: reed beds on the shore, groves of trees, low hills of the Tandilia system in the background, mirror reflections. Soft golden evening light, wide shot. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-09-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a large rounded granite boulder balanced on the edge of a low rocky hill (the replica of the Piedra Movediza in Tandil, Buenos Aires province, Argentina), with the city of Tandil and the flat green pampas plain stretching to the horizon behind. Sunset light, warm orange glow on the rock, soft purple sky. Wide-angle panoramic composition with the boulder and the horizon line in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-09-centinela`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a rocky granite hill in the Tandilia range near Tandil, Buenos Aires province, Argentina: a chairlift line climbing over the slope among rounded grey granite boulders and native grassland, a tall rock outcrop on the summit. Soft late-afternoon light, deep blue sky, vertical composition with the chairlift leading the eye upward. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-09-sierra-del-tigre`
+**Formato:** horizontal 2:1 aprox. (fila de 2: se recorta más angosto)
+Photorealistic editorial travel photograph of low ancient hills of the Tandilia range, Buenos Aires province, Argentina: huge rounded grey granite blocks scattered over slopes of golden native tussock grassland (flechilla), a gentle summit in the distance, wide sky. Soft morning light, wide shot with the boulder field in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-09-lagartija-sierras`
+**Formato:** horizontal 2:1 aprox. (fila de 2: se recorta más angosto)
+Wildlife photograph of a small Liolaemus lizard endemic to the Tandilia hills (Liolaemus tandiliensis) basking on a lichen-covered granite rock among grass tufts: slender body with brownish-grey scales, rows of dark and pale spots along the back, short snout, no crest — not a gecko, not a green lizard. Low macro telephoto angle, warm morning sun, shallow depth of field. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Antes de usarla, confirmá con una fuente local la especie y su aspecto.**
+
+### `BSA-10-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a dense planted coastal forest of tall dark-green conifers that reaches right down to a wide sandy Atlantic beach in Necochea, Buenos Aires province, Argentina, seen from the top of a sand dune; the forest edge, the pale beach and the grey-blue sea form parallel bands. Golden morning light, light sea haze. Wide-angle panoramic composition with the forest-beach edge in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-10-lago-cisnes`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a calm small artificial lake bordered by reeds and a coastal pine forest, close to the beach dunes in Necochea, Buenos Aires province, Argentina; a few waterbirds as small distant silhouettes on the water, pine trunks reflected in the surface. Soft early-morning light with light mist, vertical composition with the reflections in the lower half. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-10-medanos-oeste`
+**Formato:** horizontal 2:1 aprox. (fila de 2: se recorta más angosto)
+Photorealistic editorial travel photograph of vast pristine white sand dunes on the Atlantic coast west of Necochea, Buenos Aires province, Argentina: tall smooth wind-sculpted dunes with sharp crests and ripples, sparse grass tufts, the sea visible as a thin line beyond. Low golden side light, wide shot with the dune crest in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-10-rio-quequen`
+**Formato:** horizontal 2:1 aprox. (fila de 2: se recorta más angosto)
+Photorealistic editorial travel photograph of the mouth of the Quequén Grande river where it meets the Atlantic between the towns of Necochea and Quequén, Buenos Aires province, Argentina: wide river channel with stone breakwaters reaching into the sea, beaches on both sides, low town skyline in the distance. Soft golden late-afternoon light, wide shot. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-11-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the sun setting directly into the sea from the wide sandy beach of Monte Hermoso, Buenos Aires province, Argentina: the sun touching the ocean horizon, a golden path of light on the gentle waves, wet sand reflecting the orange and pink sky, low dunes at one edge of the frame. Wide-angle panoramic composition with the horizon in the horizontal center. Warm but natural sunset palette, not oversaturated. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-11-faro-recalada`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a very tall early-20th-century metal lattice lighthouse tower with a central cylindrical staircase shaft and a lantern on top, rising above coastal dunes and grassland near Monte Hermoso, Buenos Aires province, Argentina. Low-angle view from the base, soft golden late-afternoon light, deep blue sky, vertical composition emphasizing its height. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-11-laguna-sauce-grande`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a large shallow lagoon on the flat pampas near the Atlantic coast of southern Buenos Aires province, Argentina: wind-rippled blue water, reed beds on the shore, a flock of waterbirds in the distance, wide open sky with high clouds. Clear morning light, wide shot with the shoreline in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-11-cauquen`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Wildlife photograph of a pair of upland geese (Chloephaga picta) grazing on short grass by a lagoon shore: the male with white head, neck and underparts with fine black barring on the flanks; the female cinnamon-brown with dense black barring and yellow legs; both with small black bills and white wing patches visible — not a domestic goose. Soft morning light, telephoto lens, shallow depth of field. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-11-escalera-faro`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial photograph looking up the interior of a tall old metal lighthouse: a tight spiral iron staircase winding upward inside a cylindrical riveted metal shaft, light entering through small portholes, strong geometric perspective. Soft natural light from above, warm metallic tones. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-12-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Cerro Ventana in the Ventania range, Buenos Aires province, Argentina, seen from the road: a rugged ridge of folded grey-brown quartzite rising abruptly from golden grassland, with a natural window-shaped hole through the rock near the summit, the sky visible through it in backlight. Late-afternoon light, soft haze, golden grasses in the foreground. Wide-angle panoramic composition with the ridge and its rock window in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-12-guanaco`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Wildlife photograph of a guanaco (Lama guanicoe) standing on a high grassy slope of the Ventania hills: slender camelid with light reddish-brown upperparts, clean white belly and inner legs, grey-black face, long neck and upright pointed ears — not a llama (no woolly mixed colors) and not a vicuña. Folded rocky ridges blurred behind, soft morning light, telephoto lens, vertical composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-12-margarita-cumbre`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Close-up botanical photograph of Grindelia ventanensis, a low cushion-forming endemic plant of the Ventania hills growing among quartzite rocks: bright yellow daisy-like flower heads with many ray florets around a yellow center, small narrow leaves, compact rounded shape. Soft morning light, macro lens, shallow depth of field, rocky summit grassland blurred behind. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-12-caballo-cimarron`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Wildlife photograph of a small band of feral horses (sturdy Criollo-type horses, bay and dun coats, thick manes) grazing in golden mountain grassland of the Ventania range, with folded rocky ridges behind. Soft late-afternoon light, telephoto lens, natural shaggy look, no saddles or tack. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-12-tres-picos`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Cerro Tres Picos, the highest summit of Buenos Aires province, Argentina: a massive ridge of folded quartzite with three distinct rocky peaks rising above rolling golden grassland. Early morning side light emphasizing the folded rock layers, clear sky, wide shot with the three peaks in the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-13-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the ruins of a large early-20th-century grand hotel among trees at the foot of hills in the Ventania range, Buenos Aires province, Argentina: roofless brick walls with tall arched window openings, fire-blackened masonry, vegetation growing inside, tall pines around. Soft late-afternoon light filtering through the trees, melancholic atmosphere. Wide composition with the ruined facade stretching across the horizontal center. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `BSA-13-arroyo-belisario`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a small clear mountain stream running over rounded stones in a wooded valley at the foot of the Ventania hills, Buenos Aires province, Argentina: shallow water with small cascades, willows and pines on the banks, dappled light on the water. Soft morning light, slow shutter for slightly silky water, vertical composition. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-13-cascada-san-teofilo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a small waterfall dropping over dark quartzite rock ledges into a clear pool in a hilly grassland ravine of the Ventania range, Buenos Aires province, Argentina; ferns and grasses on the rocks. Soft diffuse light, slow shutter for smooth water, wide shot. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-13-vizcacha`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Wildlife photograph of a plains vizcacha (Lagostomus maximus) sitting among rocks at dusk: stocky grey rodent with a large blunt head, bold black-and-white horizontal facial stripes, long whiskers, pale belly — not a mountain viscacha (no rabbit-like long ears, no long bushy tail). Rocky outcrop and grass around, soft warm evening light, telephoto lens. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `BSA-13-zorro-pampa`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Wildlife photograph of a Pampas fox (Lycalopex gymnocercus) standing in golden hill grassland: grizzled grey back, reddish-tawny head, ears and legs, white throat, dark muzzle and a bushy grey tail with a black tip — not a red fox (no bright orange body, no white tail tip). Soft early-morning light, telephoto lens, shallow depth of field. Natural colors, high detail, no people unless stated, no text, no watermark, no logos.
