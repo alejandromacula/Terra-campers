@@ -146,3 +146,82 @@ Photorealistic editorial travel photograph of a narrow rough gravel road with lo
 **Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo en el centro)
 Photorealistic editorial travel photograph of the interior of a small 17th-century Jesuit colonial chapel in rural Córdoba, Argentina: thick whitewashed walls, wooden roof beams, a simple altar with a small image of the Virgin, soft light from a single side window. Quiet, austere atmosphere, wide horizontal composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
 **Mejor foto real del lugar.**
+
+### `COR-09-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Jesuit Estancia of Alta Gracia, Córdoba, Argentina: the colonial church of Nuestra Señora de la Merced, with a whitewashed baroque façade and a single bell tower, and the long arcaded residence beside it, reflected in the still water of the Tajamar, a 17th-century artificial pond lined with old trees. Early-morning golden light, mirror-like reflection, soft clouds. Wide-angle panoramic composition with church and reflection in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-09-residencia-liniers`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the inner courtyard of a 17th-century Jesuit residence in Córdoba, Argentina: whitewashed arcades with thick round arches, a terracotta tiled roof, a stone-paved patio with a well and a lone tree, colonial wooden doors. Soft late-afternoon light and gentle shadows under the arches. Vertical composition through an archway. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-09-villa-nydia`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo en el centro)
+Photorealistic editorial travel photograph of a 1930s single-storey suburban chalet in an Argentine sierra town, with white walls, a pitched tiled roof, green wooden shutters, a small front garden and a low fence, tall trees behind. Soft morning light, wide horizontal composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-09-museo-falla`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo en el centro)
+Photorealistic editorial travel photograph of the quiet study of a 1940s composer's house in the Córdoba hills, Argentina: an old upright piano, sheet music on a wooden desk, simple period furniture and a window opening onto a leafy garden. Soft warm afternoon light, wide horizontal composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-10-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the main street of Villa General Belgrano, Calamuchita valley, Córdoba, Argentina: Alpine and Central-European style buildings with steep roofs, half-timbered façades, wooden balconies with flower boxes, tall pine trees and green sierras in the background. Soft early-morning light, empty street. Wide-angle panoramic composition with the street and façades in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-10-oktoberfest`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a beer festival in a small Alpine-style town in Córdoba, Argentina: close view of several glass beer steins being raised in a toast, a man in traditional lederhosen and a woman in a dirndl blurred behind, festive wooden stalls and string lights. Warm evening light, shallow depth of field, vertical composition. People: festival-goers (as stated), faces not the focus. natural colors, high detail, no text, no watermark, no logos.
+
+### `COR-10-cerveceria`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo en el centro)
+Photorealistic editorial travel photograph of a craft brewery taproom in an Alpine-style sierra town in Argentina: a row of copper and steel brewing tanks behind a wooden bar, a tasting flight of four beers from pale golden to dark brown on a wooden board in the foreground. Warm interior light, wide horizontal composition, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-10-las-acacias`
+**Formato:** horizontal 3:2 (se recorta a una franja muy horizontal, ~2,6:1: dejá el motivo en el centro)
+Photorealistic editorial travel photograph of a white motorhome parked on a grassy campsite under acacia and pine trees in the Calamuchita valley, Córdoba, Argentina, a water service point and a small river nearby, green sierras behind. Soft late-afternoon light, peaceful atmosphere, wide horizontal composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-11-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a pedestrian dirt lane in La Cumbrecita, Córdoba, Argentina: Alpine-style chalets with steep roofs, stone bases and wooden balconies scattered among a dense forest of tall pines and other conifers, a small stream with a wooden footbridge, green mountain slopes behind. Soft morning light filtering through the trees, light mist. Wide-angle panoramic composition with the lane and chalets in the central horizontal band. Fresh, natural green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-11-cascada-grande`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the Cascada Grande in La Cumbrecita, Córdoba, Argentina: a waterfall of about a dozen meters falling over dark granite rocks into a clear pool, surrounded by ferns, mossy boulders and tall conifers. Soft diffuse light, slight long exposure for silky water. Vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-11-la-olla`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of La Olla in La Cumbrecita, Córdoba, Argentina: a round natural pool of transparent green water in a mountain stream, enclosed by smooth granite boulders and a small cascade feeding it, pine forest around. Bright midday summer light, water clear enough to see the rocky bottom. Medium-wide shot. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-11-goulash`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic food photograph of a plate of Central-European goulash with spätzle: a rich dark red-brown beef stew with paprika sauce next to small golden egg noodle dumplings, a sprig of parsley, on a rustic ceramic plate on a wooden table, a mug of amber beer blurred behind. Warm window light, shallow depth of field, slightly overhead angle. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-11-penon-del-aguila`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial adventure photograph of a zipline cable stretched over a forested sierra valley near La Cumbrecita, Córdoba, Argentina, one rider in harness and helmet gliding along it, granite rocks and pine forest below, distant mountains. Clear morning light, wide shot with the rider small for scale. People: one rider (as stated). natural colors, high detail, no text, no watermark, no logos.
+
+### `COR-12-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the summit area of Cerro Champaquí (2,790 m), the highest peak of Córdoba, Argentina: broad rounded grassy summit ridge of golden tussock grass and grey granite outcrops, a small dark mountain lagoon in a hollow near the top, endless layered sierras fading into the blue distance. Early-morning light with long shadows and a sea of clouds in the lower valleys. Wide-angle panoramic composition with the ridge and lagoon in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-12-laguna`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a small high-mountain lagoon near the summit of Cerro Champaquí, Córdoba, Argentina, in winter: the surface frozen with white and blue-grey ice, frost on the surrounding tussock grass and granite boulders, a light dusting of snow on the slopes. Cold clear morning light, deep blue sky. Vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `COR-12-rio-tabaquillo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of two trekkers with large backpacks crossing a clear rocky mountain stream on stepping stones on the way to Cerro Champaquí, Córdoba, Argentina, tabaquillo trees with reddish peeling bark on the banks, grassy slopes. Late-afternoon light, medium-wide shot. People: two trekkers (as stated), seen from behind. natural colors, high detail, no text, no watermark, no logos.
+
+### `COR-12-refugio`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a simple stone mountain refuge with a tin roof in a grassy high valley of the Sierras Grandes, Córdoba, Argentina, a few tents pitched nearby and a stream, peaks behind. Blue-hour dusk light with a warm glow from the window. Medium-wide shot. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `COR-12-villa-alpina`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Villa Alpina, a tiny rural hamlet in the Calamuchita sierras, Córdoba, Argentina: a few wooden cabins among tall dark conifers beside a clear stream, a dirt track and green slopes rising toward the Champaquí. Soft morning light with mist in the valley. Medium-wide shot. natural colors, high detail, no people unless stated, no text, no watermark, no logos.

@@ -1045,5 +1045,354 @@
         "No hay camping: dormí en Uspallata y subí de día. Entre mayo y noviembre sopla el zonda, con ráfagas de más de 90 km/h: con alerta, no manejes."
       ]
     ]
+  },
+  {
+    "codigo": "CUY-13",
+    "region": "CUY",
+    "ubicacion": "Puente del Inca · Mendoza",
+    "titulo": "Parque Provincial Aconcagua",
+    "bajada": "Desde la Laguna de Horcones se ve la Pared Sur del Aconcagua, de 6.961 metros: la montaña más alta fuera de Asia.",
+    "datos": [
+      [
+        "Desde Mendoza",
+        "~185 km por RN 7"
+      ],
+      [
+        "Sendero",
+        "Laguna de Horcones, fácil"
+      ],
+      [
+        "Ingreso",
+        "10 a 16 h, todo el año"
+      ],
+      [
+        "Tiempo de visita",
+        "1 a 2 h"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en Uspallata"
+      ],
+      [
+        "altura",
+        "aviso",
+        "Cerca de 3.000 m"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Último: Uspallata"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El parque se creó en 1983 para proteger la montaña y sus valles. En Horcones está el control de guardaparques, por donde pasan los permisos de quienes van a la cumbre por la ruta normal y la Pared Sur."
+      ],
+      [
+        "El sendero",
+        "Se deja el vehículo en el Centro de Visitantes y se camina un sendero autoguiado, de baja dificultad y apto para todas las edades, hasta un mirador frente a la laguna, a casi 2.950 metros."
+      ],
+      [
+        "Vegas y hielo",
+        "En el fondo de los valles hay vegas altoandinas, humedales verdes que recorre el guanaco. En invierno la laguna se congela en parte: no la pises, porque el hielo se rompe."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-13-guanaco",
+      "titulo": "Guanaco",
+      "sub": "Recorre las quebradas del parque"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-13-vega",
+          "nombre": "Vega altoandina",
+          "texto": "Humedal verde que alimenta a la fauna del valle."
+        },
+        {
+          "img": "CUY-13-laguna-helada",
+          "nombre": "Laguna en invierno",
+          "texto": "Se congela en parte: mirala, pero no la pises."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Para seguir hasta Confluencia o Plaza Francia hace falta un permiso de trekking pago. En invierno, el sendero de Horcones cierra cuando hay mucha nieve."
+      ],
+      [
+        "En la camper",
+        "Dormí en Uspallata, que es también el último combustible confiable. Estás cerca de los 3.000 metros: caminá despacio, tomá agua y, si te sentís mal, bajá."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-14",
+    "region": "CUY",
+    "ubicacion": "Mendoza · Luján de Cuyo · Maipú",
+    "titulo": "Mendoza y las bodegas de Luján",
+    "bajada": "Una ciudad rehecha desde cero tras el terremoto de 1861, en la provincia con el 70 % de los viñedos del país.",
+    "datos": [
+      [
+        "Desde Uspallata",
+        "~105 km por RN 7"
+      ],
+      [
+        "Bodegas",
+        "Con reserva previa"
+      ],
+      [
+        "Viñedos",
+        "~70 % del país"
+      ],
+      [
+        "Tiempo sugerido",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings con motorhome"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Zonda: mayo a noviembre"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El terremoto del 20 de marzo de 1861 destruyó la ciudad colonial y mató a unas 4.200 personas. Se reconstruyó en otro sitio, con calles anchas y plazas pensadas como refugio ante futuros sismos."
+      ],
+      [
+        "Ciudad oasis",
+        "El agua de deshielo llega por acequias, canales abiertos que corren junto a las veredas y riegan los árboles. El Parque San Martín, diseñado por Thays, suma unas 400 hectáreas de bosque plantado."
+      ],
+      [
+        "El vino",
+        "Luján de Cuyo es famosa por sus Malbec y, con Maipú y el Valle de Uco, lidera el enoturismo de la provincia. En Maipú es clásico recorrer bodegas en bicicleta alquilada."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-14-malbec",
+      "titulo": "Malbec",
+      "sub": "La fama de Luján de Cuyo"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-14-cerro-gloria",
+          "nombre": "Cerro de la Gloria",
+          "texto": "Monumento al Ejército de los Andes, en el Parque San Martín."
+        },
+        {
+          "img": "CUY-14-acequia",
+          "nombre": "Acequias",
+          "texto": "Canales de deshielo que riegan los árboles de las calles."
+        },
+        {
+          "img": "CUY-14-plaza",
+          "nombre": "Plaza Independencia",
+          "texto": "El centro de la ciudad que se rehízo tras el terremoto."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Las bodegas se visitan con reserva previa: consultá días y horarios antes de armar el recorrido, porque no todas abren todos los días."
+      ],
+      [
+        "En la camper",
+        "El Mangrullo (El Challao) tiene sector para motorhomes con electricidad y agua caliente; hay más paradas Mendoza VanLife en Luján. Con alerta de zonda, no salgas."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-15",
+    "region": "CUY",
+    "ubicacion": "Tunuyán · Mendoza",
+    "titulo": "Valle de Uco y el Manzano",
+    "bajada": "Viñedos al pie de la cordillera, donde San Martín descansó bajo un manzano al volver del Perú en 1823.",
+    "datos": [
+      [
+        "Desde Mendoza",
+        "~80–100 km por RN 40"
+      ],
+      [
+        "Viñedos",
+        "~900 a 1.250 msnm"
+      ],
+      [
+        "Manzano Histórico",
+        "Entrada libre, todo el año"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Red Mendoza VanLife"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (RN 40)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "En 1823, de regreso de las campañas de Chile y Perú, San Martín descansó en este paraje. El manzano fue declarado Árbol Histórico Nacional y hoy se conserva un retoño. Es reserva natural desde 1994."
+      ],
+      [
+        "El valle",
+        "Lo forman Tupungato, Tunuyán y San Carlos. Sus viñedos van de unos 900 a 1.250 metros, al pie de la cordillera, y solo Tunuyán suma más de 30 bodegas abiertas a visitas."
+      ],
+      [
+        "Caminatas",
+        "El Manzano Histórico es el punto de partida de caminatas largas hacia el Portillo de Piuquenes. Antes de salir, avisá al puesto de guardaparques de la reserva."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-15-manzano",
+      "titulo": "Manzano Histórico",
+      "sub": "Retoño del árbol de San Martín"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-15-monumento",
+          "nombre": "Monumento a San Martín",
+          "texto": "Recuerda el descanso del Libertador en 1823."
+        },
+        {
+          "img": "CUY-15-altamira",
+          "nombre": "Paraje Altamira",
+          "texto": "Bodega Zuccardi y su restaurante, reconocido por la Guía Michelin."
+        },
+        {
+          "img": "CUY-15-laguna-diamante",
+          "nombre": "Laguna del Diamante",
+          "texto": "A 3.300 m, al pie del volcán Maipo; solo en verano."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "La Laguna del Diamante abre solo en verano, con turno y entrada online. Desde el Refugio Alvarado son ~43 km de tierra: no apto camper, conviene 4x4."
+      ],
+      [
+        "En la camper",
+        "La red Mendoza VanLife tiene un camping en San Carlos y paradas en bodegas: listado en mendoza.tur.ar. En el Manzano hay campings; consultá si aceptan motorhomes."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-16",
+    "region": "CUY",
+    "ubicacion": "San Rafael · Mendoza",
+    "titulo": "San Rafael y el Cañón del Atuel",
+    "bajada": "El río Atuel cortó la Sierra Pintada y dejó un cañón de ~50 km con figuras de piedra de nombre propio.",
+    "datos": [
+      [
+        "Desde Mendoza",
+        "~236 km"
+      ],
+      [
+        "Camino",
+        "RP 173: asfalto y ripio"
+      ],
+      [
+        "Ripio",
+        "~56 km hasta El Nihuil"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings sobre la RP 173"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio angosto y curvas"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en San Rafael"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Nació en 1805 como fuerte, por orden del virrey Sobremonte, cerca de la confluencia del Atuel y el Diamante; la ciudad se trasladó en 1903. Los ríos torrentosos permitieron diques como El Nihuil y Valle Grande."
+      ],
+      [
+        "Geología",
+        "El cañón empieza aguas abajo del embalse El Nihuil. Lo talló el río, ayudado por el viento, mientras el bloque de San Rafael se levantaba en el Neógeno."
+      ],
+      [
+        "Las figuras",
+        "En las paredes se reconocen El Lagarto, Los Monjes, la Ciudad Encantada, Los Monstruos y Los Jardines Colgantes. En el lago de Valle Grande asoma El Submarino."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-16-monjes",
+      "titulo": "Los Monjes",
+      "sub": "Figuras de piedra del cañón"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-16-lagarto",
+          "nombre": "El Lagarto",
+          "texto": "Una de las formaciones con nombre propio del cañón."
+        },
+        {
+          "img": "CUY-16-submarino",
+          "nombre": "El Submarino",
+          "texto": "Asoma en el lago de Valle Grande."
+        },
+        {
+          "img": "CUY-16-rafting",
+          "nombre": "Rafting en el Atuel",
+          "texto": "Rápidos de clase II a IV, con prestadores habilitados."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "No se circula de noche por el ripio, y tras los aluviones hay tramos de un solo sentido: consultá a Vialidad Mendoza antes de salir."
+      ],
+      [
+        "En la camper",
+        "Hay campings junto al río, como Río Azul o Rincón de la Ensenada; consultá si aceptan motorhomes. Con camper grande, llegá a Valle Grande y seguí en excursión."
+      ]
+    ]
   }
 ]
