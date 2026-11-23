@@ -245,3 +245,87 @@ Photorealistic editorial travel photograph of Bahía López on Lake Nahuel Huapi
 ### `AND-12-huillin`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic wildlife photograph of a southern river otter or huillín (Lontra provocax): sleek dark-brown otter with paler throat, long thick tapering tail, small ears and whiskered muzzle. Climbing out of the water onto a fallen log at the shore of a forested Patagonian lake. Soft early light, telephoto lens, eye-level. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-13-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Ventisquero Negro (Black Glacier) at the foot of Cerro Tronador, Nahuel Huapi National Park, Río Negro, Argentina: a dark grey glacier tongue covered in rock and mud ending in a murky grey-brown proglacial lake with floating dark ice chunks, and above it the brilliant white hanging glaciers and icefalls of the Tronador's walls, framed by green coihue and lenga forest on the valley sides. Soft morning light, wide-angle panoramic composition with the dark lake, black ice and white glaciers in the central band. Natural palette with strong contrast between black ice and white snow. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-13-garganta`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of the Garganta del Diablo waterfall near Pampa Linda, at the foot of Cerro Tronador, Argentina: meltwater falls pouring down a dark rocky amphitheatre beneath hanging glaciers, the snowy ice walls of the mountain visible above, mossy rocks and low forest in the foreground. Soft diffuse light, vertical framing that includes the falls and the ice above. Natural cool palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-13-pampa-linda`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Pampa Linda, Nahuel Huapi National Park, Argentina: a green open meadow in a valley surrounded by dense coihue and lenga forest, with the massive glaciated summit of Cerro Tronador rising behind, white ice walls above the trees. Late afternoon light, wide-angle. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-13-mano-unica`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a narrow single-lane gravel road winding through tall Patagonian coihue forest beside a river, toward snowy mountains, in Nahuel Huapi National Park, Argentina. Soft morning light filtering through the trees, dust hanging in the air, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-13-condor`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of an Andean condor (Vultur gryphus) soaring in front of a glaciated mountain wall: all-black body, white fluffy ruff at the base of the neck, large white patches on the upper side of the wings, bare dark grey-black head (not white-headed like an eagle), wide fingered wingtips. Clear daylight, telephoto lens, white ice softly out of focus behind. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-14-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a lively open-air craft market in a town square of El Bolsón, Río Negro, Argentina: rows of small wooden stalls with handmade crafts, woven goods, ceramics and local produce under tall trees, and the rugged ridge of Cerro Piltriquitrón rising behind the town. Bright summer morning light, wide-angle panoramic composition with the market and mountain in the central band; people present as small, unrecognizable figures among the stalls. Warm, natural palette. natural colors, high detail, small distant people allowed, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-14-bosque-tallado`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a large wooden sculpture carved directly into a standing fire-killed lenga tree trunk on a mountainside at about 1,400 m, Cerro Piltriquitrón, El Bolsón, Argentina: a carved human figure emerging from the silvery-grey weathered wood, other dead trunks and young lenga regrowth around, a wide valley far below. Soft late afternoon light, vertical framing. Natural grey-silver and green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-14-cajon-azul`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Cajón del Azul near El Bolsón, Argentina: deep crystal-clear turquoise pools of the Azul river squeezed between smooth vertical granite walls of a narrow canyon, green forest on top of the rocks. Soft midday light reaching the water, view from above into the gorge. Natural turquoise and grey palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-14-puente-colgante`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a narrow hanging footbridge of wood planks and steel cables crossing the clear blue-green Azul river in a forested Patagonian valley near El Bolsón, Argentina. Soft morning light, medium-wide shot from the riverbank. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-14-lupulo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Close-up botanical photograph of hop flowers (Humulus lupulus): pale green papery cone-shaped flowers hanging from a climbing vine with lobed, serrated leaves, in a hop field of a Patagonian valley with mountains blurred in the background. Warm late afternoon light, shallow depth of field. Natural green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-15-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Lake Puelo, Lago Puelo National Park, Chubut, Argentina, seen from the Mirador del Lago trail: an emerald-green to turquoise lake stretching west between steep forested mountains toward Chile, layered ridges fading into haze, dense green temperate forest in the foreground. Soft morning light, wide-angle panoramic composition with the lake in the central band. Natural green and blue palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-15-olivillo`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Close-up botanical photograph of an olivillo tree (Aextoxicon punctatum) in a Valdivian temperate rainforest: thick leathery oblong leaves, glossy dark green above and paler, rusty-dotted below, on a tall straight trunk with smooth grey bark covered in moss and small ferns. Soft diffuse humid light, vertical framing, leaves in sharp focus, forest softly blurred. Deep green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-15-la-playita`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of La Playita, a small pebble beach on Lake Puelo, Chubut, Argentina: calm clear green water, a gentle curve of shore with trees, steep forested mountains rising across the lake. Bright summer morning light, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-15-rio-azul`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Azul river near its mouth into Lake Puelo, Chubut, Argentina: wide clear blue-green river flowing over rounded stones, poplar and native trees on the banks, forested mountains behind. Soft afternoon light, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-15-huemul`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a south Andean deer or huemul (Hippocamelus bisulcus): stocky, short-legged deer with thick grey-brown coat, large ears, a dark Y-shaped mark on the forehead and muzzle; a female without antlers standing at the edge of a dense temperate forest on a steep mountain slope. Soft overcast light, telephoto lens. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-16-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a weathered old log cabin from around 1900 in a wide grassy valley near Cholila, Chubut, Argentina: simple rectangular cabin of rough horizontal logs, small windows, wooden fences around, poplar trees, and the forested Andes with some snow on the peaks in the background. Late afternoon golden light, wide-angle panoramic composition with the cabin small in the central band and lots of landscape around. Warm, natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-16-cabana`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph, close-up of the wall of a restored pioneer log cabin in Patagonia: rough horizontal logs with deep cracks and grey weathered wood, a small wooden window frame, partially restored joints with lighter new wood. Warm raking afternoon light that reveals the texture, vertical framing. Natural wood palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-16-lago-cholila`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Lake Cholila, Chubut, Argentina: a calm blue lake with forested shores and Andean mountains behind, a single fly fisherman standing on the stony shore casting, seen from behind and small in the frame. Soft early morning light with mist on the water, wide-angle. Natural palette. natural colors, high detail, one small person from behind, no text, no watermark, no logos.
+
+### `AND-16-carrileufu`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Carrileufú river, Chubut, Argentina: a clear river with gentle riffles winding through a green valley with riverside trees, a small drift boat with fishermen floating downstream in the distance, Andean mountains behind. Soft late afternoon light, medium-wide shot. Natural palette. natural colors, high detail, small distant people allowed, no text, no watermark, no logos.
+
+### `AND-16-trucha`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a rainbow trout (Oncorhynchus mykiss): silvery body with a pinkish-red horizontal band along the side, many small black spots on the back, dorsal fin and tail; held gently half in the water of a clear Patagonian lake before release, only hands visible. Soft natural light, close-up, shallow depth of field. Natural palette. natural colors, high detail, only hands visible, no text, no watermark, no logos.

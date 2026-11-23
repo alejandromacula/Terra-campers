@@ -1394,5 +1394,430 @@
         "Hay campings junto al río, como Río Azul o Rincón de la Ensenada; consultá si aceptan motorhomes. Con camper grande, llegá a Valle Grande y seguí en excursión."
       ]
     ]
+  },
+  {
+    "codigo": "CUY-17",
+    "region": "CUY",
+    "ubicacion": "Malargüe · Mendoza",
+    "titulo": "Malargüe y el Pierre Auger",
+    "bajada": "En este pueblo de la Ruta 40 funciona el detector de rayos cósmicos más grande del mundo, y se visita gratis.",
+    "datos": [
+      [
+        "Desde San Rafael",
+        "~185 km"
+      ],
+      [
+        "Camino",
+        "Asfalto (RN 40)"
+      ],
+      [
+        "Próximo surtidor sur",
+        "Barrancas, ~207 km"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día en el pueblo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Sin surtidor por 200 km"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Nieve en la RN 40 sur"
+      ]
+    ],
+    "bloques": [
+      [
+        "El nombre",
+        "Viene del mapudungun Malal Hue, \"corral de piedra\": los pueblos originarios encerraban el ganado entre formaciones de roca. La villa se oficializó en 1886, sobre un fuerte anterior."
+      ],
+      [
+        "Rayos cósmicos",
+        "El centro de visitantes del Observatorio Pierre Auger tiene una muestra interactiva gratuita que ya recorrieron más de 180.000 personas. Los turnos se piden en la web del observatorio."
+      ],
+      [
+        "Base del sur",
+        "El Planetario Malargüe, de 2008, fue el primer planetario fijo digital del país. El pueblo es, además, la base para Payunia, Llancanelo, la Caverna de las Brujas y Pincheira."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-17-detector",
+      "titulo": "Detector de superficie",
+      "sub": "Parte del Observatorio Pierre Auger"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-17-auger",
+          "nombre": "Centro de visitantes",
+          "texto": "Muestra interactiva gratuita del Auger, con turno web."
+        },
+        {
+          "img": "CUY-17-planetario",
+          "nombre": "Planetario Malargüe",
+          "texto": "Primer planetario fijo digital del país, inaugurado en 2008."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de seguir",
+        "En 2026 hubo faltantes de gasoil en el pueblo: llená el tanque y llevá bidón si tu equipo lo permite."
+      ],
+      [
+        "En la camper",
+        "El Camping Municipal tiene agua, electricidad y duchas calientes; Laberintos Carmona es parada Mendoza VanLife. Al norte hay ~224 km sin estaciones; al sur, ~207 km hasta Barrancas."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-18",
+    "region": "CUY",
+    "ubicacion": "Malargüe · Mendoza",
+    "titulo": "Castillos de Pincheira",
+    "bajada": "Torres de roca que parecen un castillo, donde según la tradición se escondía una guerrilla realista que peleó hasta 1832.",
+    "datos": [
+      [
+        "Desde Malargüe",
+        "~27 km al oeste"
+      ],
+      [
+        "Altura",
+        "~2.100 msnm"
+      ],
+      [
+        "Acceso",
+        "Excursión o transporte"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Dormí en Malargüe"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "No hay en el camino"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Los Pincheira, cuatro hermanos y dos hermanas nacidos en Chile, formaron desde 1817 una montonera realista contra los ejércitos patriotas, hasta 1832. Que se refugiaran en estas cuevas es tradición, no un hecho documentado."
+      ],
+      [
+        "Geología",
+        "Las \"torres\" son capas de origen sedimentario y volcánico que la erosión recortó en agujas, almenas y cuevas, sobre la margen sur del río Malargüe, en el cerro Algodón."
+      ],
+      [
+        "La reserva",
+        "Se creó en 1999 y protege unas 650 hectáreas. Mucho antes de los Pincheira, la zona la recorrían pueblos originarios: se encontraron numerosas puntas de flecha."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-18-torres",
+      "titulo": "Agujas y almenas",
+      "sub": "Lo que talló la erosión"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-18-cuevas",
+          "nombre": "Cuevas",
+          "texto": "Los refugios que la tradición asigna a los Pincheira."
+        },
+        {
+          "img": "CUY-18-puntas",
+          "nombre": "Puntas de flecha",
+          "texto": "Rastros de los pueblos originarios de la zona."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "La provincia recomienda ir en excursión; también hay transporte público desde el pueblo. Informes en la Dirección de Turismo de Malargüe: 0260 447 1659."
+      ],
+      [
+        "En la camper",
+        "Volvé a dormir a Malargüe y salí con tanque lleno: en el camino no hay combustible."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-19",
+    "region": "CUY",
+    "ubicacion": "Malargüe · Mendoza",
+    "titulo": "Laguna Llancanelo",
+    "bajada": "Un humedal salado en plena estepa donde se registraron más de 150 especies de aves, con flamencos y cisnes de cuello negro.",
+    "datos": [
+      [
+        "Desde Malargüe",
+        "~60–75 km (RP 186)"
+      ],
+      [
+        "Altura",
+        "~1.280 msnm"
+      ],
+      [
+        "Sitio Ramsar",
+        "Desde 1995"
+      ],
+      [
+        "Tiempo de visita",
+        "6 a 8 h ida y vuelta"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Malargüe"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá el acceso"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Es reserva de fauna desde 1980 y en 1995 fue designada Sitio Ramsar, con 65.000 hectáreas de humedal. También integra la Red Hemisférica de Reservas para Aves Playeras."
+      ],
+      [
+        "Paisaje",
+        "Agua salada, bañados, surgentes, arroyos y salares, rodeados de vegetación baja. Los años de nevadas fuertes en la cordillera la laguna crece y se recupera; en las sequías se achica."
+      ],
+      [
+        "Las aves",
+        "El flamenco austral es el emblema y se ve en bandadas en las orillas. Los cisnes de cuello negro y coscoroba son frecuentes, y varios macaes bucean entre la vegetación acuática."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-19-cisne",
+      "titulo": "Cisne de cuello negro",
+      "sub": "Frecuente en el espejo de agua"
+    },
+    "fila": {
+      "titulo": "Aves",
+      "items": [
+        {
+          "img": "CUY-19-coscoroba",
+          "nombre": "Coscoroba",
+          "texto": "Cisne blanco, más chico que el de cuello negro."
+        },
+        {
+          "img": "CUY-19-maca",
+          "nombre": "Macá",
+          "texto": "Bucea entre la vegetación acuática."
+        },
+        {
+          "img": "CUY-19-monjita",
+          "nombre": "Monjita salinera",
+          "texto": "Otra de las aves para buscar con binoculares."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Consultá en la Dirección de Turismo de Malargüe si hace falta guía y en qué horario se ingresa. Llevá binoculares."
+      ],
+      [
+        "En la camper",
+        "Es ida y vuelta desde Malargüe, donde dormís. En la reserva no hay servicios: salí con tanque lleno, agua y comida, y consultá antes el estado del camino."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-20",
+    "region": "CUY",
+    "ubicacion": "Bardas Blancas · Mendoza",
+    "titulo": "Caverna de las Brujas",
+    "bajada": "Kilómetros de galerías excavadas por el agua en calizas del Jurásico, con estalactitas y estalagmitas, dentro del Cerro Moncol.",
+    "datos": [
+      [
+        "Desde Malargüe",
+        "~72 km al sur (RN 40)"
+      ],
+      [
+        "Visita",
+        "Solo guiada, 2 a 3 h"
+      ],
+      [
+        "Entradas",
+        "Online, Áreas Naturales"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Malargüe"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá el acceso"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Es reserva provincial desde 1990. El nombre sale de una leyenda: mujeres cautivas se habrían refugiado en la cueva, y las luces y ruidos que decían ver los lugareños la bautizaron \"de las Brujas\"."
+      ],
+      [
+        "Cómo se formó",
+        "La lluvia y la nieve se filtran y disuelven la caliza. El levantamiento de la cordillera dejó las capas casi verticales y fisuradas, y el agua de la última glaciación agrandó los pasajes."
+      ],
+      [
+        "La visita",
+        "Se recorre con guía, con casco, iluminación y linternas incluidos. Se conocen entre 3 y 5 km de galerías, y quedan sectores sin explorar. Llevá calzado firme y ropa que se pueda ensuciar."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-20-estalagmitas",
+      "titulo": "Estalagmitas",
+      "sub": "Crecen desde el piso de la caverna"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "CUY-20-boca",
+          "nombre": "Boca de la cueva",
+          "texto": "En el Cerro Moncol, a 8 km de Bardas Blancas."
+        },
+        {
+          "img": "CUY-20-estalactitas",
+          "nombre": "Estalactitas",
+          "texto": "Cuelgan de los techos de las galerías."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Sacá entrada y turno en el sitio de Áreas Naturales de Mendoza: sin guía no se entra."
+      ],
+      [
+        "En la camper",
+        "La RN 40 está asfaltada hasta Bardas Blancas; consultá el acceso desde la ruta a la cueva. Cargá en Malargüe: hacia el sur no hay surtidores hasta Barrancas."
+      ]
+    ]
+  },
+  {
+    "codigo": "CUY-21",
+    "region": "CUY",
+    "ubicacion": "Malargüe · Mendoza",
+    "titulo": "Reserva La Payunia",
+    "bajada": "Más de 800 conos volcánicos en un desierto negro, escenario de la migración de guanacos más importante de Sudamérica.",
+    "datos": [
+      [
+        "Desde Malargüe",
+        "~90 a 160 km"
+      ],
+      [
+        "Acceso",
+        "Solo con guía, en 4x4"
+      ],
+      [
+        "Excursión",
+        "10 a 12 h ida y vuelta"
+      ],
+      [
+        "Tiempo de visita",
+        "Día completo"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Camper en Malargüe"
+      ],
+      [
+        "camino",
+        "no",
+        "RP 186: solo 4x4"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Nada adentro: llevá todo"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué tantos",
+        "Tras un período en que la placa de Nazca se metía casi plana bajo el continente, se empinó: eso fracturó la corteza y el magma subió en cientos de erupciones chicas. Hay 879 conos contados."
+      ],
+      [
+        "Ríos de lava",
+        "El Payún Matrú es un volcán en escudo con una gran caldera. De esta zona salió la colada de Pampas Onduladas: 181 km, el flujo de lava individual más largo del Cuaternario en la Tierra."
+      ],
+      [
+        "Pampas Negras",
+        "Son mantos de lapilli, piedritas volcánicas negras, donde el coirón amarillo resalta como pinceladas. La reserva existe desde 1988 y es candidata a Patrimonio Mundial Natural de la UNESCO."
+      ]
+    ],
+    "destacada": {
+      "img": "CUY-21-payun-matru",
+      "titulo": "Payún Matrú",
+      "sub": "Volcán en escudo de ~3.715 m"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "CUY-21-guanaco",
+          "nombre": "Guanaco",
+          "texto": "Tropillas casi seguras; su migración la monitorean WCS y CONICET."
+        },
+        {
+          "img": "CUY-21-choique",
+          "nombre": "Choique",
+          "texto": "El ñandú de la estepa, frecuente en las planicies."
+        },
+        {
+          "img": "CUY-21-lagarto",
+          "nombre": "Lagarto cola de piche",
+          "texto": "Reptil endémico de la zona."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "La reserva no está señalizada: entrá con guía habilitado por la Dirección de Turismo. Algunos prestadores aceptan que los sigas, pero la RP 186 pide 4x4."
+      ],
+      [
+        "En la camper",
+        "No es para la camper: dejala en Malargüe. Sin agua, comida ni combustible. Al sur de Bardas Blancas, la RN 40 es ripio y se corta con nieve."
+      ]
+    ]
   }
 ]

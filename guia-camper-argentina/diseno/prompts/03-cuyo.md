@@ -309,4 +309,4 @@ Photorealistic editorial travel photograph of El Submarino, a rock formation eme
 
 ### `CUY-16-rafting`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
-Photorealistic editorial travel photograph of a rafting boat with a small group of people wearing helmets and life jackets paddling through white-water rapids on the Atuel River at Valle Grande, Mendoza, Argentina: splashing water, willows on the banks, reddish canyon walls behind. Bright sunny light, fast shutter freezing the spray. natural colors, high detail, people as stated, no text, no watermark, no logos.
+Photorealistic editorial travel photograph of a rafting boat with a small group of people wearing helmets and life jackets paddling through white-water rapids on the Atuel River at Valle Grande, Mendoza, Argentina: splashing water, willows on the banks, reddish canyon walls behind. Bright sunny light, fast shutter freezing the spray. natural colors, high detail, no people unless stated, no text, no watermark, no logos.

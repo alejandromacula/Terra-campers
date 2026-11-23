@@ -1414,5 +1414,268 @@
         "Sin campings confirmados en Cholila: los más cercanos están en Los Alerces, como el de Lago Rivadavia. Combustible sobre la RN 40, en Epuyén o El Hoyo."
       ]
     ]
+  },
+  {
+    "codigo": "AND-17",
+    "region": "AND",
+    "ubicacion": "Villa Futalaufquen · Chubut",
+    "titulo": "Parque Nacional Los Alerces",
+    "bajada": "Sobre el brazo norte del lago Menéndez crecen alerces de hasta 2.600 años, en pie desde antes del Imperio romano.",
+    "datos": [
+      [
+        "Desde Esquel",
+        "~52 km de asfalto"
+      ],
+      [
+        "Desde el norte",
+        "~105 km, ~28 de ripio"
+      ],
+      [
+        "Portada Sur",
+        "9 a 20 h (verano)"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping Los Maitenes"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Esquel"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio desde el norte"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1937 para proteger el bosque de alerces y es Patrimonio Mundial desde 2017: abarca ~259.822 ha. En enero de 2024 un incendio quemó más de 8.300 ha, y en 2025 y 2026 hubo nuevos focos."
+      ],
+      [
+        "Paisaje",
+        "Una cadena de lagos, Rivadavia, Verde, Futalaufquen y Menéndez, entre montañas de bosque patagónico: alerce, coihue, ciprés, lenga y ñire. Los alerces milenarios se visitan navegando el lago Menéndez."
+      ],
+      [
+        "Fauna",
+        "El pudú, de ~42 cm de alto, es el símbolo del parque. Acá viven algunas de las principales poblaciones de huemul, y en 2021 se volvió a registrar al huillín tras más de 70 años."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-17-alerce",
+      "titulo": "Alerce milenario",
+      "sub": "Fitzroya: hasta 2.600 años"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "AND-17-pudu",
+          "nombre": "Pudú",
+          "texto": "Símbolo del parque: ~42 cm de alto. Raro de ver."
+        },
+        {
+          "img": "AND-17-huemul",
+          "nombre": "Huemul",
+          "texto": "El parque guarda algunas de sus principales poblaciones."
+        },
+        {
+          "img": "AND-17-huillin",
+          "nombre": "Huillín",
+          "texto": "Volvió a registrarse en 2021, tras más de 70 años."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "La navegación por el lago Menéndez con caminata al Bosque de Alerces Milenarios sale con operadores de Esquel o del parque: consultá puerto, duración y temporada."
+      ],
+      [
+        "En la camper",
+        "Los Maitenes, sobre el Futalaufquen y con acceso asfaltado, es el preferido de las motorhomes. Fuego solo en fogones de campings organizados. Abastecete en Esquel o Trevelin."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-18",
+    "region": "AND",
+    "ubicacion": "Esquel · Chubut",
+    "titulo": "Esquel y La Trochita",
+    "bajada": "Un tren a vapor de 75 cm de trocha recorre 19 km y 49 curvas entre Esquel y Nahuel Pan.",
+    "datos": [
+      [
+        "A Los Alerces",
+        "~52 km de asfalto"
+      ],
+      [
+        "A Trevelin",
+        "~25 km"
+      ],
+      [
+        "La Trochita",
+        "Reservá con tiempo"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping La Colina"
+      ],
+      [
+        "combustible",
+        "ok",
+        "Cargá para Los Alerces"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Esquel toma como fecha fundacional el 25 de febrero de 1906, ligada a la mensura de la Colonia 16 de Octubre y al telégrafo. Su nombre significa \"abrojo\" o \"lugar de abrojos\", por las plantas espinosas."
+      ],
+      [
+        "La Trochita",
+        "Hoy la opera el gobierno de Chubut. Llegó a recorrer 402 km entre Ingeniero Jacobacci y Esquel; ahora hace los 19 km hasta Nahuel Pan. Los pasajes se agotan y el cronograma cambia cada trimestre."
+      ],
+      [
+        "Paisaje",
+        "Un valle al pie de la cordillera, con el cerro La Hoya, centro de esquí en invierno. El coirón y el calafate son las plantas espinosas que, según una versión, le dieron nombre al pueblo."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-18-calafate",
+      "titulo": "Calafate",
+      "sub": "Una de las plantas espinosas del valle"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-18-nahuel-pan",
+          "nombre": "Estación Nahuel Pan",
+          "texto": "Fin del recorrido, a 19 km de Esquel."
+        },
+        {
+          "img": "AND-18-la-hoya",
+          "nombre": "Cerro La Hoya",
+          "texto": "Centro de esquí en invierno, sobre el valle."
+        },
+        {
+          "img": "AND-18-la-zeta",
+          "nombre": "Laguna La Zeta",
+          "texto": "A ~4 km del centro: kayak, aves y caminatas."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Reservá La Trochita con tiempo en la estación de Esquel: los pasajes se agotan. Confirmá los horarios, que cambian cada trimestre."
+      ],
+      [
+        "En la camper",
+        "Camping La Colina (Darwin 1400), con agua caliente; según viajeros, ruidoso. Camping & Motorhome 259, hacia Trevelin, tiene descarga. No pernoctes en La Zeta: hubo robos."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-19",
+    "region": "AND",
+    "ubicacion": "Trevelin · Chubut",
+    "titulo": "Trevelin, el pueblo del molino",
+    "bajada": "Su nombre es galés: \"tre\" es pueblo y \"velin\", molino; lo fundaron colonos galeses al pie de la cordillera.",
+    "datos": [
+      [
+        "Desde Esquel",
+        "~25 km"
+      ],
+      [
+        "A Nant y Fall",
+        "~14 km por la RN 259"
+      ],
+      [
+        "Paso a Chile",
+        "~39 km (Futaleufú)"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping con descarga"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Esquel"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El lugar se llamaba Colonia 16 de Octubre. Su origen se liga al primer molino, aunque las fuentes discuten la fecha. Desde 1971, el antiguo Molino Andes es el Museo Regional de la colonización galesa."
+      ],
+      [
+        "El Malacara",
+        "En el pueblo está la tumba del Malacara, el caballo que, según su lápida, salvó a John Daniel Evans de un ataque en el Valle de los Mártires en 1884."
+      ],
+      [
+        "Nant y Fall",
+        "Un arroyo forma siete saltos en el Área Natural Protegida Cascadas Nant y Fall, a ~14 km. Tres de ellos, Larga, Mellizas y La Petiza, se visitan con senderos señalizados y miradores."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-19-nant-fall",
+      "titulo": "Cascadas Nant y Fall",
+      "sub": "Siete saltos a ~14 km del pueblo"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-19-molino",
+          "nombre": "Molino Andes",
+          "texto": "Museo Regional desde 1971: la historia triguera del valle."
+        },
+        {
+          "img": "AND-19-malacara",
+          "nombre": "Tumba del Malacara",
+          "texto": "El caballo que salvó a Evans, según su lápida."
+        },
+        {
+          "img": "AND-19-torta-negra",
+          "nombre": "Torta negra",
+          "texto": "La merienda galesa de las casas de té."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Dónde comer",
+        "Merienda galesa con torta negra en Nain Maggie (Perito Moreno 179), abierta en 1975, o en La Mutisia (Av. San Martín 170)."
+      ],
+      [
+        "En la camper",
+        "Motorhome & Cámping Ruta 259, en el acceso al pueblo, ofrece descarga de efluentes. Cargá combustible en Esquel. Por la RN 259 seguís a Chile por Futaleufú."
+      ]
+    ]
   }
 ]
