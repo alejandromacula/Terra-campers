@@ -14,7 +14,10 @@ const path = require('path');
       const worst = Math.max(...[...p.querySelectorAll('.head,.mid,.fila,.cierre,.ap-body,.cols2')]
         .map(e => e.getBoundingClientRect().bottom));
       const code = (p.querySelector('.head .kick b') || {}).textContent || '';
-      return worst > limit ? `página ${i + 1} ${code}: se pasa ${Math.round((worst - limit) / 3.78)} mm` : null;
+      const anchos = [...p.querySelectorAll('.blk .lab, .fila > .lab')].filter(l => l.scrollWidth > l.clientWidth + 1)
+        .map(l => `página ${i + 1} ${code}: el rótulo "${l.textContent}" no entra en el margen`);
+      if (worst > limit) anchos.push(`página ${i + 1} ${code}: se pasa ${Math.round((worst - limit) / 3.78)} mm`);
+      return anchos.length ? anchos.join('\n') : null;
     }).filter(Boolean));
   await page.pdf({ path: path.resolve(__dirname, 'guia-terra-campers.pdf'), width: '170mm', height: '255mm',
     printBackground: true, margin: { top: '0mm', bottom: '0mm', left: '0mm', right: '0mm' } });

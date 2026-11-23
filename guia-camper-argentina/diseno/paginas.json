@@ -3,42 +3,50 @@
     "NOR": {
       "nombre": "Norte argentino",
       "color": "#a8441f",
-      "orden": 0
+      "orden": 0,
+      "pestana": "Norte"
     },
     "LIT": {
       "nombre": "Litoral",
       "color": "#2e6b45",
-      "orden": 1
+      "orden": 1,
+      "pestana": "Litoral"
     },
     "CUY": {
       "nombre": "Cuyo",
       "color": "#7a2340",
-      "orden": 2
+      "orden": 2,
+      "pestana": "Cuyo"
     },
     "COR": {
       "nombre": "Córdoba",
       "color": "#8a5d12",
-      "orden": 3
+      "orden": 3,
+      "pestana": "Córdoba"
     },
     "AND": {
       "nombre": "Patagonia Andina",
       "color": "#1f6670",
-      "orden": 4
+      "orden": 4,
+      "pestana": "Patagonia Andina"
     },
     "AUS": {
       "nombre": "Patagonia Austral",
       "color": "#2a5591",
-      "orden": 5
+      "orden": 5,
+      "pestana": "Patagonia Austral"
     },
     "BSA": {
       "nombre": "Buenos Aires",
       "color": "#4f6b22",
-      "orden": 6
+      "orden": 6,
+      "pestana": "Buenos Aires"
     },
     "BSA-P": {
       "nombre": "Pueblitos de Buenos Aires",
       "color": "#5b4a8a",
-      "orden": 7
+      "orden": 7,
+      "pestana": "Pueblitos BA"
     }
   },
   "portada": {

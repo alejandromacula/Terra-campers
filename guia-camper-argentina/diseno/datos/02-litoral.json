@@ -5,22 +5,84 @@
     "ubicacion": "Gualeguaychú · Entre Ríos",
     "titulo": "Gualeguaychú y su carnaval",
     "bajada": "La capital del Carnaval del País: comparsas que desfilan los sábados de enero y febrero por una pista de 500 metros.",
-    "datos": [["Desde CABA", "~230 km · RN 14"], ["Camino", "Todo asfalto"], ["A Ñandubaysal", "Menos de 20 km del centro"], ["Tiempo de visita", "1 día; +1 noche en carnaval"]],
-    "iconos": [["pernocte", "aviso", "Solo en camping"], ["camino", "ok", "Todo asfalto (RN 14)"]],
-    "bloques": [
-      ["Historia", "Tomás de Rocamora la fundó en 1783 como Villa de San José de Gualeguaychú. El nombre viene del guaraní y su traducción se discute: \"río de agua grande\" o \"río del tigre grande\"."],
-      ["El carnaval", "Tomó forma hacia 1980, cuando nacieron comparsas como O'Bahía y Marí Marí. Desde 1997 desfila en el corsódromo José Luis Gestro, donde compiten tres comparsas por temporada."],
-      ["Ñandubaysal", "El balneario toma su nombre del ñandubay, un algarrobillo espinoso del Espinal entrerriano. Junto con El Potrero es Área Importante para la Conservación de las Aves, y su playa mira de frente a Uruguay."]
+    "datos": [
+      [
+        "Desde CABA",
+        "~230 km · RN 14"
+      ],
+      [
+        "Camino",
+        "Todo asfalto"
+      ],
+      [
+        "A Ñandubaysal",
+        "Menos de 20 km del centro"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día; +1 noche en carnaval"
+      ]
     ],
-    "destacada": {"img": "LIT-01-nandubay", "titulo": "Ñandubay", "sub": "El árbol que nombra al balneario"},
-    "fila": {"titulo": "Para ver", "items": [
-      {"img": "LIT-01-playa-nandubaysal", "nombre": "Playa Ñandubaysal", "texto": "Arena dorada y suave pendiente frente a Fray Bentos."},
-      {"img": "LIT-01-carpincho", "nombre": "Carpincho", "texto": "Se ve en paseos por los bañados y la costa."},
-      {"img": "LIT-01-nandu", "nombre": "Ñandú", "texto": "Aparece en los campos de la zona de El Potrero."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Solo en camping"
+      ],
+      [
+        "camino",
+        "ok",
+        "Todo asfalto (RN 14)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Tomás de Rocamora la fundó en 1783 como Villa de San José de Gualeguaychú. El nombre viene del guaraní y su traducción se discute: \"río de agua grande\" o \"río del tigre grande\"."
+      ],
+      [
+        "El carnaval",
+        "Tomó forma hacia 1980, cuando nacieron comparsas como O'Bahía y Marí Marí. Desde 1997 desfila en el corsódromo José Luis Gestro, donde compiten tres comparsas por temporada."
+      ],
+      [
+        "El balneario",
+        "El balneario toma su nombre del ñandubay, un algarrobillo espinoso del Espinal entrerriano. Junto con El Potrero es Área Importante para la Conservación de las Aves, y su playa mira de frente a Uruguay."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-01-nandubay",
+      "titulo": "Ñandubay",
+      "sub": "El árbol que nombra al balneario"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "LIT-01-playa-nandubaysal",
+          "nombre": "Playa Ñandubaysal",
+          "texto": "Arena dorada y suave pendiente frente a Fray Bentos."
+        },
+        {
+          "img": "LIT-01-carpincho",
+          "nombre": "Carpincho",
+          "texto": "Se ve en paseos por los bañados y la costa."
+        },
+        {
+          "img": "LIT-01-nandu",
+          "nombre": "Ñandú",
+          "texto": "Aparece en los campos de la zona de El Potrero."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "Para el carnaval, sacá la entrada con anticipación. El corsódromo está en Maestra Piccini 1100 y también hay desfiles el fin de semana largo de carnaval."],
-      ["En la camper", "Para dormir, buscá camping: el de Ñandubaysal tiene baños y restaurantes, pero consultá antes si recibe vehículos grandes. En carnaval la ciudad se llena: reservá."]
+      [
+        "Antes de ir",
+        "Para el carnaval, sacá la entrada con anticipación. El corsódromo está en Maestra Piccini 1100 y también hay desfiles el fin de semana largo de carnaval."
+      ],
+      [
+        "En la camper",
+        "Para dormir, buscá camping: el de Ñandubaysal tiene baños y restaurantes, pero consultá antes si recibe vehículos grandes. En carnaval la ciudad se llena: reservá."
+      ]
     ]
   },
   {
@@ -29,21 +91,79 @@
     "ubicacion": "Colón · Entre Ríos",
     "titulo": "Colón y el Palacio San José",
     "bajada": "En el Palacio San José mataron a Urquiza, primer presidente constitucional, la noche del 11 de abril de 1870.",
-    "datos": [["Desde CABA", "~320 km · RN 14"], ["Camino", "Todo asfalto"], ["Palacio", "RP 39 km 128, por Caseros"], ["Tiempo de visita", "2 h palacio · ½ día Colón"]],
-    "iconos": [["pernocte", "ok", "Camping en la costanera"], ["camino", "ok", "Todo asfalto (RN 14)"]],
-    "bloques": [
-      ["Historia", "Urquiza inauguró su residencia en 1860 y fundó Colón en 1863, cerca de la Colonia San José, adonde había llevado colonos suizos y franceses. El palacio es Monumento Histórico Nacional desde 1935."],
-      ["La noche de 1870", "Lo mató una partida de seguidores de Ricardo López Jordán. Su viuda convirtió en oratorio el cuarto donde cayó, y ahí se conservan todavía las marcas de sus manos ensangrentadas."],
-      ["Río y termas", "Colón mira al río Uruguay, con el país vecino en la otra orilla y playas de arena sobre la costanera. Al norte, junto al río, las termas tienen piletas cubiertas y al aire libre."]
+    "datos": [
+      [
+        "Desde CABA",
+        "~320 km · RN 14"
+      ],
+      [
+        "Camino",
+        "Todo asfalto"
+      ],
+      [
+        "Palacio",
+        "RP 39 km 128, por Caseros"
+      ],
+      [
+        "Tiempo de visita",
+        "2 h palacio · ½ día Colón"
+      ]
     ],
-    "destacada": {"img": "LIT-02-oratorio", "titulo": "El oratorio", "sub": "El cuarto donde cayó Urquiza"},
-    "fila": {"titulo": "Para ver", "items": [
-      {"img": "LIT-02-termas", "nombre": "Termas de Colón", "texto": "Piletas de agua caliente junto al río, al norte de la ciudad."},
-      {"img": "LIT-02-costanera", "nombre": "Costanera de Colón", "texto": "Playas de arena sobre el río Uruguay."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping en la costanera"
+      ],
+      [
+        "camino",
+        "ok",
+        "Todo asfalto (RN 14)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Urquiza inauguró su residencia en 1860 y fundó Colón en 1863, cerca de la Colonia San José, adonde había llevado colonos suizos y franceses. El palacio es Monumento Histórico Nacional desde 1935."
+      ],
+      [
+        "La noche de 1870",
+        "Lo mató una partida de seguidores de Ricardo López Jordán. Su viuda convirtió en oratorio el cuarto donde cayó, y ahí se conservan todavía las marcas de sus manos ensangrentadas."
+      ],
+      [
+        "Río y termas",
+        "Colón mira al río Uruguay, con el país vecino en la otra orilla y playas de arena sobre la costanera. Al norte, junto al río, las termas tienen piletas cubiertas y al aire libre."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-02-oratorio",
+      "titulo": "El oratorio",
+      "sub": "El cuarto donde cayó Urquiza"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "LIT-02-termas",
+          "nombre": "Termas de Colón",
+          "texto": "Piletas de agua caliente junto al río, al norte de la ciudad."
+        },
+        {
+          "img": "LIT-02-costanera",
+          "nombre": "Costanera de Colón",
+          "texto": "Playas de arena sobre el río Uruguay."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "El palacio tuvo cierres temporales: confirmá que esté abierto y su horario antes de salir. El Palmar queda a ~57 km por la RN 14: combinalos."],
-      ["En la camper", "Camping Piedras Coloradas, frente a la playa: luz, wifi y duchas calientes; el sector motorhome no tiene sombra y en fiestas se llena. Alternativa: El Viejo Molino."]
+      [
+        "Antes de ir",
+        "El palacio tuvo cierres temporales: confirmá que esté abierto y su horario antes de salir. El Palmar queda a ~57 km por la RN 14: combinalos."
+      ],
+      [
+        "En la camper",
+        "Camping Piedras Coloradas, frente a la playa: luz, wifi y duchas calientes; el sector motorhome no tiene sombra y en fiestas se llena. Alternativa: El Viejo Molino."
+      ]
     ]
   },
   {
@@ -52,21 +172,84 @@
     "ubicacion": "Ubajay · Entre Ríos",
     "titulo": "Parque Nacional El Palmar",
     "bajada": "Un bosque de palmeras yatay que crecen tan lento que muchas de las que vas a ver superan los 200 años.",
-    "datos": [["Desde Colón", "~57 km · RN 14 km 198"], ["Camino", "12 km de ripio adentro"], ["Entrada", "Con pago, en la portada"], ["Tiempo de visita", "1 día, mejor con noche"]],
-    "iconos": [["pernocte", "ok", "Camping con electricidad"], ["combustible", "aviso", "Cargá en Colón"], ["camino", "aviso", "12 km de ripio"]],
-    "bloques": [
-      ["Historia", "Antes vivieron acá charrúas y guaraníes, y después los jesuitas, que levantaron la Calera del Palmar. El parque se creó en 1965 y protege unas 8.200 hectáreas."],
-      ["Paisaje", "Las palmeras crecen sobre suelos arenosos, terrazas antiguas del río Uruguay. Entre ellas hay pastizales, y monte en galería sobre los arroyos El Palmar y Los Loros."],
-      ["Por qué existe", "El parque nació para salvar uno de los últimos grandes palmares de yatay, amenazado por el ganado, que se come las plantas jóvenes. Hay unas 250 especies de aves registradas."]
+    "datos": [
+      [
+        "Desde Colón",
+        "~57 km · RN 14 km 198"
+      ],
+      [
+        "Camino",
+        "12 km de ripio adentro"
+      ],
+      [
+        "Entrada",
+        "Con pago, en la portada"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día, mejor con noche"
+      ]
     ],
-    "destacada": {"img": "LIT-03-yatay", "titulo": "Palmera yatay", "sub": "Butia yatay: llega a 15 metros"},
-    "fila": {"titulo": "Fauna", "items": [
-      {"img": "LIT-03-carpincho", "nombre": "Carpincho", "texto": "Fácil de ver en el sendero del arroyo Los Loros."},
-      {"img": "LIT-03-nandu", "nombre": "Ñandú", "texto": "En los pastizales abiertos, si tenés suerte."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping con electricidad"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Colón"
+      ],
+      [
+        "camino",
+        "aviso",
+        "12 km de ripio"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Antes vivieron acá charrúas y guaraníes, y después los jesuitas, que levantaron la Calera del Palmar. El parque se creó en 1965 y protege unas 8.200 hectáreas."
+      ],
+      [
+        "Paisaje",
+        "Las palmeras crecen sobre suelos arenosos, terrazas antiguas del río Uruguay. Entre ellas hay pastizales, y monte en galería sobre los arroyos El Palmar y Los Loros."
+      ],
+      [
+        "Por qué existe",
+        "El parque nació para salvar uno de los últimos grandes palmares de yatay, amenazado por el ganado, que se come las plantas jóvenes. Hay unas 250 especies de aves registradas."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-03-yatay",
+      "titulo": "Palmera yatay",
+      "sub": "Butia yatay: llega a 15 metros"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "LIT-03-carpincho",
+          "nombre": "Carpincho",
+          "texto": "Fácil de ver en el sendero del arroyo Los Loros."
+        },
+        {
+          "img": "LIT-03-nandu",
+          "nombre": "Ñandú",
+          "texto": "En los pastizales abiertos, si tenés suerte."
+        }
+      ]
+    },
     "cierre": [
-      ["Consejo fotográfico", "El mirador La Glorieta es el punto clásico para ver el palmar extendido. Andá al atardecer: la luz baja recorta las siluetas de las palmeras."],
-      ["En la camper", "Camping El Palmar, en el área de servicios: electricidad, agua caliente, proveeduría y restaurante. Consultá lugar para vehículos grandes. Cargá combustible en Colón."]
+      [
+        "Consejo fotográfico",
+        "El mirador La Glorieta es el punto clásico para ver el palmar extendido. Andá al atardecer: la luz baja recorta las siluetas de las palmeras."
+      ],
+      [
+        "En la camper",
+        "Camping El Palmar, en el área de servicios: electricidad, agua caliente, proveeduría y restaurante. Consultá lugar para vehículos grandes. Cargá combustible en Colón."
+      ]
     ]
   },
   {
@@ -75,22 +258,89 @@
     "ubicacion": "Colonia Carlos Pellegrini · Corrientes",
     "titulo": "Esteros del Iberá",
     "bajada": "Uno de los humedales más grandes del país, donde el yaguareté volvió a nacer después de 70 años de ausencia.",
-    "datos": [["Desde Mercedes", "~120 km · ~3 h 20 (RP 40)"], ["Camino", "40 km asfalto · 80 ripio"], ["Superficie", "+750.000 ha (dos parques)"], ["Tiempo de visita", "2 días"]],
-    "iconos": [["pernocte", "ok", "Camping municipal"], ["combustible", "aviso", "Cargá en Mercedes"], ["camino", "aviso", "Intransitable con lluvia"]],
-    "bloques": [
-      ["Historia", "Iberá significa en guaraní \"aguas que brillan\". El turismo en Pellegrini arrancó a fines de los 90, y en 2018 se creó el Parque Nacional sobre tierras donadas, junto al Parque Provincial."],
-      ["Islas que flotan", "Los esteros ocupan un antiguo cauce del Paraná, que cruzaba Corrientes en diagonal. Sobre el agua flotan los embalsados: islas de restos vegetales sobre raíces entramadas que el viento puede mover."],
-      ["En lancha", "El paseo por la laguna Iberá, de unos 14 km de largo, es el imperdible: andá al amanecer o al atardecer. Yacarés y carpinchos son los protagonistas."]
+    "datos": [
+      [
+        "Desde Mercedes",
+        "~120 km · ~3 h 20 (RP 40)"
+      ],
+      [
+        "Camino",
+        "40 km asfalto · 80 ripio"
+      ],
+      [
+        "Superficie",
+        "+750.000 ha (dos parques)"
+      ],
+      [
+        "Tiempo de visita",
+        "2 días"
+      ]
     ],
-    "destacada": {"img": "LIT-04-yacare", "titulo": "Yacaré", "sub": "Protagonista del paseo en lancha"},
-    "fila": {"titulo": "Fauna", "items": [
-      {"img": "LIT-04-ciervo-pantanos", "nombre": "Ciervo de los pantanos", "texto": "Vive en los esteros: con suerte, lo ves desde la lancha."},
-      {"img": "LIT-04-caraya", "nombre": "Mono carayá", "texto": "Una familia vive en el Sendero de los Monos (~400 m)."},
-      {"img": "LIT-04-carpincho", "nombre": "Carpincho", "texto": "El otro clásico del paseo en lancha."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping municipal"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Mercedes"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Intransitable con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Iberá significa en guaraní \"aguas que brillan\". El turismo en Pellegrini arrancó a fines de los 90, y en 2018 se creó el Parque Nacional sobre tierras donadas, junto al Parque Provincial."
+      ],
+      [
+        "Islas que flotan",
+        "Los esteros ocupan un antiguo cauce del Paraná, que cruzaba Corrientes en diagonal. Sobre el agua flotan los embalsados: islas de restos vegetales sobre raíces entramadas que el viento puede mover."
+      ],
+      [
+        "En lancha",
+        "El paseo por la laguna Iberá, de unos 14 km de largo, es el imperdible: andá al amanecer o al atardecer. Yacarés y carpinchos son los protagonistas."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-04-yacare",
+      "titulo": "Yacaré",
+      "sub": "Protagonista del paseo en lancha"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "LIT-04-ciervo-pantanos",
+          "nombre": "Ciervo de los pantanos",
+          "texto": "Vive en los esteros: con suerte, lo ves desde la lancha."
+        },
+        {
+          "img": "LIT-04-caraya",
+          "nombre": "Mono carayá",
+          "texto": "Una familia vive en el Sendero de los Monos (~400 m)."
+        },
+        {
+          "img": "LIT-04-carpincho",
+          "nombre": "Carpincho",
+          "texto": "El otro clásico del paseo en lancha."
+        }
+      ]
+    },
     "cierre": [
-      ["Si tenés un día más", "Camino a Misiones, el Portal Cambyretá sale de la RN 12 (km 1242, ~15 km al sur de Ituzaingó). Tiene acampe habilitado y entrada gratuita."],
-      ["En la camper", "Camping Municipal Iberá, a cinco cuadras del centro: registrate antes de las 18 h y consultá por vehículos grandes. Con lluvia no entres: la RP 40 se corta."]
+      [
+        "Si tenés un día más",
+        "Camino a Misiones, el Portal Cambyretá sale de la RN 12 (km 1242, ~15 km al sur de Ituzaingó). Tiene acampe habilitado y entrada gratuita."
+      ],
+      [
+        "En la camper",
+        "Camping Municipal Iberá, a cinco cuadras del centro: registrate antes de las 18 h y consultá por vehículos grandes. Con lluvia no entres: la RP 40 se corta."
+      ]
     ]
   },
   {
@@ -99,22 +349,84 @@
     "ubicacion": "San Ignacio · Misiones",
     "titulo": "San Ignacio Miní y las misiones",
     "bajada": "Una reducción jesuítico-guaraní que tropas luso-brasileñas destruyeron en 1817 y que la selva escondió hasta 1897.",
-    "datos": [["Desde Posadas", "~1 h por RN 12"], ["Camino", "Asfalto"], ["Imagen y Sonido", "De noche, ~45 min"], ["Tiempo de visita", "½ día + la noche"]],
-    "iconos": [["pernocte", "ok", "Camping en Teyú Cuaré"], ["camino", "ok", "Asfalto (RN 12)"]],
-    "bloques": [
-      ["Historia", "Nació en 1610 en el Guayrá. Los bandeirantes, que capturaban guaraníes para esclavizarlos, forzaron un éxodo en 1632, y se instaló acá en 1696. Tras la expulsión de los jesuitas, en 1767, la cubrió la selva."],
-      ["Piedra rojiza", "La plaza, la gran iglesia y las viviendas guaraníes en hilera, con muros de piedra rojiza tallada entre árboles. La restauración empezó en 1940, y es Patrimonio de la Humanidad desde 1984."],
-      ["De noche", "El espectáculo de Imagen y Sonido dura unos 45 minutos y empieza a las 20 o a las 20.30 h, según la temporada. Se paga aparte de la entrada al sitio."]
+    "datos": [
+      [
+        "Desde Posadas",
+        "~1 h por RN 12"
+      ],
+      [
+        "Camino",
+        "Asfalto"
+      ],
+      [
+        "Imagen y Sonido",
+        "De noche, ~45 min"
+      ],
+      [
+        "Tiempo de visita",
+        "½ día + la noche"
+      ]
     ],
-    "destacada": {"img": "LIT-05-piedra-tallada", "titulo": "Piedra tallada", "sub": "Los muros rojizos de la reducción"},
-    "fila": {"titulo": "Alrededores", "items": [
-      {"img": "LIT-05-santa-ana", "nombre": "Santa Ana y Loreto", "texto": "Las otras reducciones del circuito, en la misma excursión."},
-      {"img": "LIT-05-casa-quiroga", "nombre": "Casa de Horacio Quiroga", "texto": "La casa del escritor, a orillas del Paraná."},
-      {"img": "LIT-05-teyu-cuare", "nombre": "Teyú Cuaré", "texto": "Senderos y miradores sobre el río Paraná."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping en Teyú Cuaré"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (RN 12)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Nació en 1610 en el Guayrá. Los bandeirantes, que capturaban guaraníes para esclavizarlos, forzaron un éxodo en 1632, y se instaló acá en 1696. Tras la expulsión de los jesuitas, en 1767, la cubrió la selva."
+      ],
+      [
+        "Piedra rojiza",
+        "La plaza, la gran iglesia y las viviendas guaraníes en hilera, con muros de piedra rojiza tallada entre árboles. La restauración empezó en 1940, y es Patrimonio de la Humanidad desde 1984."
+      ],
+      [
+        "De noche",
+        "El espectáculo de Imagen y Sonido dura unos 45 minutos y empieza a las 20 o a las 20.30 h, según la temporada. Se paga aparte de la entrada al sitio."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-05-piedra-tallada",
+      "titulo": "Piedra tallada",
+      "sub": "Los muros rojizos de la reducción"
+    },
+    "fila": {
+      "titulo": "Cerca",
+      "items": [
+        {
+          "img": "LIT-05-santa-ana",
+          "nombre": "Santa Ana y Loreto",
+          "texto": "Las otras reducciones del circuito, en la misma excursión."
+        },
+        {
+          "img": "LIT-05-casa-quiroga",
+          "nombre": "Casa de Horacio Quiroga",
+          "texto": "La casa del escritor, a orillas del Paraná."
+        },
+        {
+          "img": "LIT-05-teyu-cuare",
+          "nombre": "Teyú Cuaré",
+          "texto": "Senderos y miradores sobre el río Paraná."
+        }
+      ]
+    },
     "cierre": [
-      ["Consejo fotográfico", "Andá en la última hora de la tarde: la luz baja enciende el rojo de la piedra. Después te quedás para el espectáculo nocturno."],
-      ["En la camper", "Dormí en el camping del Parque Provincial Teyú Cuaré (quinchos, sanitarios, luz) o en Playa del Sol, sobre el Paraná. Consultá por vehículos grandes. Llevá agua y repelente."]
+      [
+        "Consejo fotográfico",
+        "Andá en la última hora de la tarde: la luz baja enciende el rojo de la piedra. Después te quedás para el espectáculo nocturno."
+      ],
+      [
+        "En la camper",
+        "Dormí en el camping del Parque Provincial Teyú Cuaré (quinchos, sanitarios, luz) o en Playa del Sol, sobre el Paraná. Consultá por vehículos grandes. Llevá agua y repelente."
+      ]
     ]
   },
   {
@@ -123,22 +435,84 @@
     "ubicacion": "Puerto Iguazú · Misiones",
     "titulo": "Parque Nacional Iguazú",
     "bajada": "Unos 275 saltos de hasta 80 metros, y una pasarela de 1.100 metros que te deja parado sobre la Garganta del Diablo.",
-    "datos": [["Desde Posadas", "~300 km · RN 12"], ["Desde Puerto Iguazú", "~18 km · RN 101"], ["Horario", "8–18 h, ingreso hasta 16.30"], ["Tiempo de visita", "1 día entero (o 2)"]],
-    "iconos": [["pernocte", "no", "Sin camping en el parque"], ["camino", "ok", "Asfalto (RN 12 y 101)"]],
-    "bloques": [
-      ["Historia", "Iguazú significa en guaraní \"agua grande\". El parque se creó en 1934 y la UNESCO lo declaró Patrimonio de la Humanidad en 1984. Protege selva Paranaense, la ecorregión con más biodiversidad del país."],
-      ["Por qué cae así", "El río corre sobre basalto de la Formación Serra Geral, coladas de lava de hace unos 135 millones de años. Salta los escalones de esa roca dura y se abre en cientos de caídas entre islotes."],
-      ["La Garganta", "Es el salto más famoso. Llegás con el Tren Ecológico de la Selva y después caminás la pasarela sobre el río hasta quedar parado frente a la caída, entre bruma y vencejos."]
+    "datos": [
+      [
+        "Desde Posadas",
+        "~300 km · RN 12"
+      ],
+      [
+        "Desde Puerto Iguazú",
+        "~18 km · RN 101"
+      ],
+      [
+        "Horario",
+        "8–18 h, ingreso hasta 16.30"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día entero (o 2)"
+      ]
     ],
-    "destacada": {"img": "LIT-06-vencejo", "titulo": "Vencejo de cascada", "sub": "El emblema: vuela sobre las cataratas"},
-    "fila": {"titulo": "Flora y fauna", "items": [
-      {"img": "LIT-06-coati", "nombre": "Coatí", "texto": "Seguro en las pasarelas. No lo alimentes: muerde y abre mochilas."},
-      {"img": "LIT-06-tucan", "nombre": "Tucán", "texto": "En los árboles junto a los senderos, con suerte."},
-      {"img": "LIT-06-palo-rosa", "nombre": "Palo rosa", "texto": "Un gigante de la selva: llega a unos 40 metros."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "no",
+        "Sin camping en el parque"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto (RN 12 y 101)"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Iguazú significa en guaraní \"agua grande\". El parque se creó en 1934 y la UNESCO lo declaró Patrimonio de la Humanidad en 1984. Protege selva Paranaense, la ecorregión con más biodiversidad del país."
+      ],
+      [
+        "Por qué cae así",
+        "El río corre sobre basalto de la Formación Serra Geral, coladas de lava de hace unos 135 millones de años. Salta los escalones de esa roca dura y se abre en cientos de caídas entre islotes."
+      ],
+      [
+        "La Garganta",
+        "Es el salto más famoso. Llegás con el Tren Ecológico de la Selva y después caminás la pasarela sobre el río hasta quedar parado frente a la caída, entre bruma y vencejos."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-06-vencejo",
+      "titulo": "Vencejo de cascada",
+      "sub": "El emblema: vuela sobre las cataratas"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "LIT-06-coati",
+          "nombre": "Coatí",
+          "texto": "Seguro en las pasarelas. No lo alimentes: muerde y abre mochilas."
+        },
+        {
+          "img": "LIT-06-tucan",
+          "nombre": "Tucán",
+          "texto": "En los árboles junto a los senderos, con suerte."
+        },
+        {
+          "img": "LIT-06-palo-rosa",
+          "nombre": "Palo rosa",
+          "texto": "Un gigante de la selva: llega a unos 40 metros."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "Comprá la entrada online, con fecha y hora, y llevá DNI. Con crecida, el circuito de la Garganta del Diablo puede cerrar: consultá antes."],
-      ["En la camper", "No hay camping en el parque: dormí en Puerto Iguazú. Ma-Ri Cabañas Camping tiene sitios para motorhome; Eterno Reverdecer queda a 15 minutos. Repelente siempre."]
+      [
+        "Antes de ir",
+        "Comprá la entrada online, con fecha y hora, y llevá DNI. Con crecida, el circuito de la Garganta del Diablo puede cerrar: consultá antes."
+      ],
+      [
+        "En la camper",
+        "No hay camping en el parque: dormí en Puerto Iguazú. Ma-Ri Cabañas Camping tiene sitios para motorhome; Eterno Reverdecer queda a 15 minutos. Repelente siempre."
+      ]
     ]
   },
   {
@@ -147,21 +521,84 @@
     "ubicacion": "El Soberbio · Misiones",
     "titulo": "Saltos del Moconá",
     "bajada": "Saltos que no caen de frente sino a lo largo del río: casi 3 km de cascadas paralelas al cauce del Uruguay.",
-    "datos": [["Desde El Soberbio", "~70–75 km · RP 2"], ["Camino", "Últimos km de tierra"], ["Paseo en lancha", "Se paga aparte"], ["Tiempo de visita", "1 día desde El Soberbio"]],
-    "iconos": [["pernocte", "ok", "Campings sobre la RP 2"], ["combustible", "aviso", "Cargá antes de la tierra"], ["camino", "aviso", "Tierra: no con lluvia"]],
-    "bloques": [
-      ["El nombre", "Moconá significa en guaraní \"lo que todo lo traga\". Los saltos están del lado argentino, frente a Brasil, entre las desembocaduras del arroyo Yabotí y del río Pepirí Guazú."],
-      ["Cae de costado", "Una falla longitudinal parte el lecho del Uruguay: el agua de un lado cae, entre 5 y 10 metros, al canal profundo del otro. Cuando el río crece, por lluvias o represas en Brasil, los saltos desaparecen."],
-      ["Selva", "El parque integra la Reserva de Biosfera Yabotí, Área Importante para la Conservación de las Aves. En su selva Paranaense crecen el yacaratiá, la palmera pindó y el ambaí."]
+    "datos": [
+      [
+        "Desde El Soberbio",
+        "~70–75 km · RP 2"
+      ],
+      [
+        "Camino",
+        "Últimos km de tierra"
+      ],
+      [
+        "Paseo en lancha",
+        "Se paga aparte"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día desde El Soberbio"
+      ]
     ],
-    "destacada": {"img": "LIT-07-pindo", "titulo": "Palmera pindó", "sub": "Syagrus romanzoffiana"},
-    "fila": {"titulo": "Flora", "items": [
-      {"img": "LIT-07-yacaratia", "nombre": "Yacaratiá", "texto": "Jacaratia dodecaphylla, árbol de la selva del parque."},
-      {"img": "LIT-07-ambai", "nombre": "Ambaí", "texto": "Cecropia pachystachya, otro árbol típico de esta selva."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings sobre la RP 2"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá antes de la tierra"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra: no con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "El nombre",
+        "Moconá significa en guaraní \"lo que todo lo traga\". Los saltos están del lado argentino, frente a Brasil, entre las desembocaduras del arroyo Yabotí y del río Pepirí Guazú."
+      ],
+      [
+        "Cae de costado",
+        "Una falla longitudinal parte el lecho del Uruguay: el agua de un lado cae, entre 5 y 10 metros, al canal profundo del otro. Cuando el río crece, por lluvias o represas en Brasil, los saltos desaparecen."
+      ],
+      [
+        "Selva",
+        "El parque integra la Reserva de Biosfera Yabotí, Área Importante para la Conservación de las Aves. En su selva Paranaense crecen el yacaratiá, la palmera pindó y el ambaí."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-07-pindo",
+      "titulo": "Palmera pindó",
+      "sub": "Syagrus romanzoffiana"
+    },
+    "fila": {
+      "titulo": "Flora",
+      "items": [
+        {
+          "img": "LIT-07-yacaratia",
+          "nombre": "Yacaratiá",
+          "texto": "Jacaratia dodecaphylla, árbol de la selva del parque."
+        },
+        {
+          "img": "LIT-07-ambai",
+          "nombre": "Ambaí",
+          "texto": "Cecropia pachystachya, otro árbol típico de esta selva."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "Consultá el nivel del río y los horarios: con crecida se inunda el puente del arroyo Yabotí y se cierra el acceso. Llevá efectivo: hay poca señal."],
-      ["En la camper", "Sobre la RP 2 hay campings, como Haras al Paraíso (km 26) y Oro Verde: consultá por vehículos grandes. Cargá antes de dejar el asfalto. Calor y mosquitos."]
+      [
+        "Antes de ir",
+        "Consultá el nivel del río y los horarios: con crecida se inunda el puente del arroyo Yabotí y se cierra el acceso. Llevá efectivo: hay poca señal."
+      ],
+      [
+        "En la camper",
+        "Sobre la RP 2 hay campings, como Haras al Paraíso (km 26) y Oro Verde: consultá por vehículos grandes. Cargá antes de dejar el asfalto. Calor y mosquitos."
+      ]
     ]
   },
   {
@@ -170,21 +607,79 @@
     "ubicacion": "Aristóbulo del Valle · Misiones",
     "titulo": "Salto Encantado",
     "bajada": "Una cascada de 64 metros escondida en la selva misionera, a pocos kilómetros de la RN 14.",
-    "datos": [["Desde Puerto Iguazú", "~3 h"], ["Acceso", "RN 14 y RP 220"], ["Horario", "Hasta 18 h (17 h invierno)"], ["Tiempo de visita", "Medio día"]],
-    "iconos": [["pernocte", "ok", "Área de camping"], ["camino", "ok", "Cerca de la RN 14"]],
-    "bloques": [
-      ["Historia", "Para los guaraníes fue un lugar de culto y misterio: la leyenda habla de dos tribus enemigas, la del cacique Aguará y la del patriarca Jurumí. El parque, abierto en 1991, protege unas 13.200 hectáreas."],
-      ["El valle", "El arroyo Cuñá Pirú cae en el Salto Encantado y sigue por un valle de selva con otros saltos: La Olla, Picaflor, Acutí y Escondido. Es Área Importante para la Conservación de las Aves."],
-      ["Senderos", "Los senderos en deck, de baja dificultad, llegan a los miradores del salto principal. Bajar a La Olla o a la base del Encantado pide más energía, cuidado y calzado firme."]
+    "datos": [
+      [
+        "Desde Puerto Iguazú",
+        "~3 h"
+      ],
+      [
+        "Acceso",
+        "RN 14 y RP 220"
+      ],
+      [
+        "Horario",
+        "Hasta 18 h (17 h invierno)"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
     ],
-    "destacada": {"img": "LIT-08-la-olla", "titulo": "Salto La Olla", "sub": "Abajo, por un sendero más exigente"},
-    "fila": {"titulo": "Para ver", "items": [
-      {"img": "LIT-08-sendero-deck", "nombre": "Senderos en deck", "texto": "Baja dificultad, hasta los miradores del salto."},
-      {"img": "LIT-08-cuna-piru", "nombre": "Arroyo Cuñá Pirú", "texto": "Corre por un valle de selva con varios saltos."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Área de camping"
+      ],
+      [
+        "camino",
+        "ok",
+        "Cerca de la RN 14"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Para los guaraníes fue un lugar de culto y misterio: la leyenda habla de dos tribus enemigas, la del cacique Aguará y la del patriarca Jurumí. El parque, abierto en 1991, protege unas 13.200 hectáreas."
+      ],
+      [
+        "El valle",
+        "El arroyo Cuñá Pirú cae en el Salto Encantado y sigue por un valle de selva con otros saltos: La Olla, Picaflor, Acutí y Escondido. Es Área Importante para la Conservación de las Aves."
+      ],
+      [
+        "Senderos",
+        "Los senderos en deck, de baja dificultad, llegan a los miradores del salto principal. Bajar a La Olla o a la base del Encantado pide más energía, cuidado y calzado firme."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-08-la-olla",
+      "titulo": "Salto La Olla",
+      "sub": "Abajo, por un sendero más exigente"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "LIT-08-sendero-deck",
+          "nombre": "Senderos en deck",
+          "texto": "Baja dificultad, hasta los miradores del salto."
+        },
+        {
+          "img": "LIT-08-cuna-piru",
+          "nombre": "Arroyo Cuñá Pirú",
+          "texto": "Corre por un valle de selva con varios saltos."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "Llevá calzado firme: en los senderos agrestes hubo visitantes lesionados que tuvieron que ser rescatados. Abre todos los días; en invierno cierra una hora antes."],
-      ["En la camper", "El parque tiene área de camping, baños y cafetería: consultá si entra un vehículo grande. Queda de paso entre el Moconá y Posadas, sobre la RN 14."]
+      [
+        "Antes de ir",
+        "Llevá calzado firme: en los senderos agrestes hubo visitantes lesionados que tuvieron que ser rescatados. Abre todos los días; en invierno cierra una hora antes."
+      ],
+      [
+        "En la camper",
+        "El parque tiene área de camping, baños y cafetería: consultá si entra un vehículo grande. Queda de paso entre el Moconá y Posadas, sobre la RN 14."
+      ]
     ]
   },
   {
@@ -193,21 +688,79 @@
     "ubicacion": "Mburucuyá · Corrientes",
     "titulo": "Parque Nacional Mburucuyá",
     "bajada": "Un parque que nació de las estancias que donó un danés, Troels Pedersen, con camping gratuito y lugar para casas rodantes.",
-    "datos": [["Desde Corrientes", "~140–150 km"], ["Camino", "25 km de ripio (RP 86)"], ["Entrada", "Libre, con registro"], ["Tiempo de visita", "1 o 2 días"]],
-    "iconos": [["pernocte", "ok", "Acampe gratuito"], ["camino", "aviso", "Ripio: no con lluvia"]],
-    "bloques": [
-      ["Historia", "Troels Pedersen y su esposa, Nina Sinding, donaron las estancias Santa Teresa y Santa María; el acta se firmó en 1991. El parque se creó por ley en 2001 y protege unas 17.000 hectáreas."],
-      ["Cuatro mundos", "Es un mosaico donde se cruzan el Iberá, el Chaco, la selva Paranaense y el Espinal: palmares altos de yatay, esteros cambiantes, lagunas y montes de laurel."],
-      ["Senderos", "Son cuatro: Che Roga (4,4 km, ~2 h 30, dificultad media), Yatay (también en bici, con vista al estero Santa Lucía), Tape Porá y el botánico, de 1 km y accesible."]
+    "datos": [
+      [
+        "Desde Corrientes",
+        "~140–150 km"
+      ],
+      [
+        "Camino",
+        "25 km de ripio (RP 86)"
+      ],
+      [
+        "Entrada",
+        "Libre, con registro"
+      ],
+      [
+        "Tiempo de visita",
+        "1 o 2 días"
+      ]
     ],
-    "destacada": {"img": "LIT-09-aguara-guazu", "titulo": "Aguará guazú", "sub": "El zorro de patas largas, amenazado"},
-    "fila": {"titulo": "Fauna", "items": [
-      {"img": "LIT-09-yacare-overo", "nombre": "Yacaré overo", "texto": "Junto al yacaré negro, en lagunas y esteros."},
-      {"img": "LIT-09-lobito-rio", "nombre": "Lobito de río", "texto": "Especie amenazada que vive en los cursos de agua."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe gratuito"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio: no con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Troels Pedersen y su esposa, Nina Sinding, donaron las estancias Santa Teresa y Santa María; el acta se firmó en 1991. El parque se creó por ley en 2001 y protege unas 17.000 hectáreas."
+      ],
+      [
+        "Cuatro mundos",
+        "Es un mosaico donde se cruzan el Iberá, el Chaco, la selva Paranaense y el Espinal: palmares altos de yatay, esteros cambiantes, lagunas y montes de laurel."
+      ],
+      [
+        "Senderos",
+        "Son cuatro: Che Roga (4,4 km, ~2 h 30, dificultad media), Yatay (también en bici, con vista al estero Santa Lucía), Tape Porá y el botánico, de 1 km y accesible."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-09-aguara-guazu",
+      "titulo": "Aguará guazú",
+      "sub": "El zorro de patas largas, amenazado"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "LIT-09-yacare-overo",
+          "nombre": "Yacaré overo",
+          "texto": "Junto al yacaré negro, en lagunas y esteros."
+        },
+        {
+          "img": "LIT-09-lobito-rio",
+          "nombre": "Lobito de río",
+          "texto": "Especie amenazada que vive en los cursos de agua."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "No entres con el camino mojado: consultá al parque. La proveeduría solo tiene artículos básicos, sin comidas elaboradas: llevá la tuya y repelente."],
-      ["En la camper", "Acampe gratuito con estacionamiento para casa rodante, sanitarios, duchas y quincho. Desde el pueblo, 25 km de ripio por la RP 86, que con lluvia puede quedar intransitable."]
+      [
+        "Antes de ir",
+        "No entres con el camino mojado: consultá al parque. La proveeduría solo tiene artículos básicos, sin comidas elaboradas: llevá la tuya y repelente."
+      ],
+      [
+        "En la camper",
+        "Acampe gratuito con estacionamiento para casa rodante, sanitarios, duchas y quincho. Desde el pueblo, 25 km de ripio por la RP 86, que con lluvia puede quedar intransitable."
+      ]
     ]
   },
   {
@@ -216,22 +769,84 @@
     "ubicacion": "Capitán Solari · Chaco",
     "titulo": "Parque Nacional Chaco",
     "bajada": "El primer parque nacional chaqueño: quebrachos colorados, monos carayá y más de 300 especies de aves, con entrada y camping gratuitos.",
-    "datos": [["Desde Resistencia", "~115 km · RN 16 y RP 9"], ["Camino", "~5 km de tierra al final"], ["Atención", "7 a 15 h · entrada libre"], ["Tiempo de visita", "1 día, mejor con noche"]],
-    "iconos": [["pernocte", "ok", "Acampe gratuito 24 h"], ["camino", "aviso", "Tierra: ojo con lluvia"]],
-    "bloques": [
-      ["Historia", "Se creó el 22 de octubre de 1954 y protege más de 14.900 hectáreas del Chaco Húmedo. Su gran valor es el quebrachal, que en algunos sectores forma bosques casi puros de quebracho colorado."],
-      ["Paisaje", "El parque alterna raleras de quebracho, monte fuerte, sabanas abiertas marcadas por la palmera caranday, selva en galería y esteros que crecen o se achican según las lluvias y las sequías."],
-      ["Panza de Cabra", "Es el mayor espejo de agua del parque, y la fauna baja a beber: llegás por un camino de 12 km entre monte. El circuito de las lagunas Carpincho y Yacaré arranca a 5,5 km del centro."]
+    "datos": [
+      [
+        "Desde Resistencia",
+        "~115 km · RN 16 y RP 9"
+      ],
+      [
+        "Camino",
+        "~5 km de tierra al final"
+      ],
+      [
+        "Atención",
+        "7 a 15 h · entrada libre"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día, mejor con noche"
+      ]
     ],
-    "destacada": {"img": "LIT-10-abuelo", "titulo": "El Abuelo", "sub": "Un quebracho colorado añoso"},
-    "fila": {"titulo": "Fauna", "items": [
-      {"img": "LIT-10-caraya", "nombre": "Mono carayá", "texto": "Bullicioso y fácil de ver en el monte."},
-      {"img": "LIT-10-guazuncho", "nombre": "Guazuncho", "texto": "Con los pecaríes, de lo más fácil de ver."},
-      {"img": "LIT-10-carpincho", "nombre": "Carpincho", "texto": "En las lagunas Panza de Cabra, Yacaré y Carpincho."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe gratuito 24 h"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra: ojo con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó el 22 de octubre de 1954 y protege más de 14.900 hectáreas del Chaco Húmedo. Su gran valor es el quebrachal, que en algunos sectores forma bosques casi puros de quebracho colorado."
+      ],
+      [
+        "Paisaje",
+        "El parque alterna raleras de quebracho, monte fuerte, sabanas abiertas marcadas por la palmera caranday, selva en galería y esteros que crecen o se achican según las lluvias y las sequías."
+      ],
+      [
+        "Panza de Cabra",
+        "Es el mayor espejo de agua del parque, y la fauna baja a beber: llegás por un camino de 12 km entre monte. El circuito de las lagunas Carpincho y Yacaré arranca a 5,5 km del centro."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-10-abuelo",
+      "titulo": "El Abuelo",
+      "sub": "Un quebracho colorado añoso"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "LIT-10-caraya",
+          "nombre": "Mono carayá",
+          "texto": "Bullicioso y fácil de ver en el monte."
+        },
+        {
+          "img": "LIT-10-guazuncho",
+          "nombre": "Guazuncho",
+          "texto": "Con los pecaríes, de lo más fácil de ver."
+        },
+        {
+          "img": "LIT-10-carpincho",
+          "nombre": "Carpincho",
+          "texto": "En las lagunas Panza de Cabra, Yacaré y Carpincho."
+        }
+      ]
+    },
     "cierre": [
-      ["Para caminar", "El sendero del Abuelo te lleva hasta un quebracho colorado añoso de porte excepcional, el gran símbolo del quebrachal que protege el parque."],
-      ["En la camper", "Acampe gratuito con baños, duchas y asadores, abierto las 24 h, pero sin agua potable: llevá la tuya. Provisiones en Capitán Solari. Vehículos grandes: 03725-499-161."]
+      [
+        "Para caminar",
+        "El sendero del Abuelo te lleva hasta un quebracho colorado añoso de porte excepcional, el gran símbolo del quebrachal que protege el parque."
+      ],
+      [
+        "En la camper",
+        "Acampe gratuito con baños, duchas y asadores, abierto las 24 h, pero sin agua potable: llevá la tuya. Provisiones en Capitán Solari. Vehículos grandes: 03725-499-161."
+      ]
     ]
   },
   {
@@ -240,22 +855,89 @@
     "ubicacion": "Miraflores · Chaco",
     "titulo": "Parque Nacional El Impenetrable",
     "bajada": "En 2022 nacieron acá dos cachorros de yaguareté, en un monte donde el tapir es fácil de ver.",
-    "datos": [["Desde J. J. Castelli", "~100 km a La Armonía"], ["Camino", "Tierra desde Miraflores"], ["Al camping", "Huella de 36 km"], ["Tiempo de visita", "Al menos 2 noches"]],
-    "iconos": [["pernocte", "ok", "Camping La Fidelidad"], ["combustible", "aviso", "Último: Miraflores"], ["camino", "aviso", "Tierra: no con lluvia"]],
-    "bloques": [
-      ["Historia", "Ocupa la antigua estancia La Fidelidad. Su dueño, Manuel Roseo, fue asesinado en 2011 por hombres que querían quedarse con las tierras; se expropiaron y el parque se creó en 2014."],
-      ["Quebrachal", "Es el mayor remanente de bosque del Chaco Seco: unas 128.000 hectáreas entre el Teuco-Bermejo y el Bermejito. En las lomadas crecen los dos quebrachos colorados; en los bajos, palosantales."],
-      ["Los ríos", "Las salidas en kayak y las excursiones guiadas por el Bermejito y el Bermejo son la mejor forma de recorrerlo. Desde el agua se ven yacarés, y el tapir abunda en todo el parque."]
+    "datos": [
+      [
+        "Desde J. J. Castelli",
+        "~100 km a La Armonía"
+      ],
+      [
+        "Camino",
+        "Tierra desde Miraflores"
+      ],
+      [
+        "Al camping",
+        "Huella de 36 km"
+      ],
+      [
+        "Tiempo de visita",
+        "Al menos 2 noches"
+      ]
     ],
-    "destacada": {"img": "LIT-11-tapir", "titulo": "Tapir", "sub": "Abundante y fácil de observar"},
-    "fila": {"titulo": "Para ver", "items": [
-      {"img": "LIT-11-yaguarete", "nombre": "Yaguareté", "texto": "Volvió con la reintroducción. Verlo es muy difícil."},
-      {"img": "LIT-11-palo-santo", "nombre": "Palo santo", "texto": "En las zonas bajas forma palosantales."},
-      {"img": "LIT-11-kayak", "nombre": "Kayak en el Bermejito", "texto": "La mejor forma de ver yacarés."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Camping La Fidelidad"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Último: Miraflores"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Tierra: no con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Ocupa la antigua estancia La Fidelidad. Su dueño, Manuel Roseo, fue asesinado en 2011 por hombres que querían quedarse con las tierras; se expropiaron y el parque se creó en 2014."
+      ],
+      [
+        "El bosque",
+        "Es el mayor remanente de bosque del Chaco Seco: unas 128.000 hectáreas entre el Teuco-Bermejo y el Bermejito. En las lomadas crecen los dos quebrachos colorados; en los bajos, palosantales."
+      ],
+      [
+        "Los ríos",
+        "Las salidas en kayak y las excursiones guiadas por el Bermejito y el Bermejo son la mejor forma de recorrerlo. Desde el agua se ven yacarés, y el tapir abunda en todo el parque."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-11-tapir",
+      "titulo": "Tapir",
+      "sub": "Abundante y fácil de observar"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "LIT-11-yaguarete",
+          "nombre": "Yaguareté",
+          "texto": "Volvió con la reintroducción. Verlo es muy difícil."
+        },
+        {
+          "img": "LIT-11-palo-santo",
+          "nombre": "Palo santo",
+          "texto": "En las zonas bajas forma palosantales."
+        },
+        {
+          "img": "LIT-11-kayak",
+          "nombre": "Kayak en el Bermejito",
+          "texto": "La mejor forma de ver yacarés."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "Consultá si tu vehículo entra por la huella: destino@elimpenetrable.org o WhatsApp +54 3794 654988. Preguntá cada día si se puede hacer fuego."],
-      ["En la camper", "Camping La Fidelidad, gratuito, sobre el Bermejo: parcelas elevadas, baños y restaurante. Última carga en Miraflores. Con lluvia, la tierra es intransitable. Llevá agua, comida y repelente."]
+      [
+        "Antes de ir",
+        "Consultá si tu vehículo entra por la huella: destino@elimpenetrable.org o WhatsApp +54 3794 654988. Preguntá cada día si se puede hacer fuego."
+      ],
+      [
+        "En la camper",
+        "Camping La Fidelidad, gratuito, sobre el Bermejo: parcelas elevadas, baños y restaurante. Última carga en Miraflores. Con lluvia, la tierra es intransitable. Llevá agua, comida y repelente."
+      ]
     ]
   },
   {
@@ -264,22 +946,89 @@
     "ubicacion": "Las Lomitas · Formosa",
     "titulo": "Bañado La Estrella",
     "bajada": "El segundo humedal más grande del país, con un bosque de árboles muertos que siguen en pie dentro del agua.",
-    "datos": [["Desde Formosa", "~300 km · ~5 h (RN 81)"], ["Acceso", "El Vertedero: 45 km asfalto"], ["Superficie", "~400.000 ha"], ["Tiempo de visita", "1 día, mejor con noche"]],
-    "iconos": [["pernocte", "aviso", "Consultá dónde dormir"], ["combustible", "aviso", "Cargá en Las Lomitas"], ["camino", "ok", "Asfalto por RP 28"]],
-    "bloques": [
-      ["Historia", "Se extiende en una franja paralela al Pilcomayo, el límite con Paraguay. Es Reserva Natural Provincial desde 2005, y en 2019 fue elegido por voto popular una de las Siete Maravillas Naturales de Argentina."],
-      ["Los champales", "El Pilcomayo baja de los Andes bolivianos, desborda y cubre los campos casi todo el año. Los árboles que murieron ahogados siguen en pie, sin corteza y cubiertos de enredaderas y musgo."],
-      ["En canoa", "Al Laberinto de los Champales se entra en piraguas o canoas largas de madera y fondo plano: son obligatorias por la cantidad de troncos sumergidos. Es la mejor forma de ver el bañado."]
+    "datos": [
+      [
+        "Desde Formosa",
+        "~300 km · ~5 h (RN 81)"
+      ],
+      [
+        "Acceso",
+        "El Vertedero: 45 km asfalto"
+      ],
+      [
+        "Superficie",
+        "~400.000 ha"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día, mejor con noche"
+      ]
     ],
-    "destacada": {"img": "LIT-12-jabiru", "titulo": "Jabirú", "sub": "La cigüeña emblema del bañado"},
-    "fila": {"titulo": "Fauna", "items": [
-      {"img": "LIT-12-yacare", "nombre": "Yacaré", "texto": "Habita los canales y lagunas del bañado."},
-      {"img": "LIT-12-carpincho", "nombre": "Carpincho", "texto": "También habita el bañado, entre canales y lagunas."},
-      {"img": "LIT-12-curiyu", "nombre": "Boa curiyú", "texto": "Vive en el bañado, pero es difícil de ver."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá dónde dormir"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Las Lomitas"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto por RP 28"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se extiende en una franja paralela al Pilcomayo, el límite con Paraguay. Es Reserva Natural Provincial desde 2005, y en 2019 fue elegido por voto popular una de las Siete Maravillas Naturales de Argentina."
+      ],
+      [
+        "Los champales",
+        "El Pilcomayo baja de los Andes bolivianos, desborda y cubre los campos casi todo el año. Los árboles que murieron ahogados siguen en pie, sin corteza y cubiertos de enredaderas y musgo."
+      ],
+      [
+        "En canoa",
+        "Al Laberinto de los Champales se entra en piraguas o canoas largas de madera y fondo plano: son obligatorias por la cantidad de troncos sumergidos. Es la mejor forma de ver el bañado."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-12-jabiru",
+      "titulo": "Jabirú",
+      "sub": "La cigüeña emblema del bañado"
+    },
+    "fila": {
+      "titulo": "Fauna",
+      "items": [
+        {
+          "img": "LIT-12-yacare",
+          "nombre": "Yacaré",
+          "texto": "Habita los canales y lagunas del bañado."
+        },
+        {
+          "img": "LIT-12-carpincho",
+          "nombre": "Carpincho",
+          "texto": "También habita el bañado, entre canales y lagunas."
+        },
+        {
+          "img": "LIT-12-curiyu",
+          "nombre": "Boa curiyú",
+          "texto": "Vive en el bañado, pero es difícil de ver."
+        }
+      ]
+    },
     "cierre": [
-      ["Para pajarear", "El bañado es Área Importante para la Conservación de las Aves, con más de 300 especies: llevá binoculares en la canoa."],
-      ["En la camper", "Entrá por El Vertedero (RP 28, asfalto): la RP 32 a Fortín La Soledad es de tierra. Consultá antes dónde pernoctar con casa rodante. Cargá en Las Lomitas."]
+      [
+        "Para pajarear",
+        "El bañado es Área Importante para la Conservación de las Aves, con más de 300 especies: llevá binoculares en la canoa."
+      ],
+      [
+        "En la camper",
+        "Entrá por El Vertedero (RP 28, asfalto): la RP 32 a Fortín La Soledad es de tierra. Consultá antes dónde pernoctar con casa rodante. Cargá en Las Lomitas."
+      ]
     ]
   },
   {
@@ -288,22 +1037,84 @@
     "ubicacion": "Laguna Blanca · Formosa",
     "titulo": "Parque Nacional Río Pilcomayo",
     "bajada": "Esteros, lagunas y palmares sobre la frontera con Paraguay, donde viven las dos especies de yacaré del país.",
-    "datos": [["Desde Formosa", "~175 km · RN 11 y RN 86"], ["A Estero Poí", "~7–9 km del pueblo"], ["Entrada", "Gratuita"], ["Tiempo de visita", "1 día y 1 noche"]],
-    "iconos": [["pernocte", "ok", "Acampe con luz y wifi"], ["camino", "aviso", "Cierra con lluvia"]],
-    "bloques": [
-      ["Historia", "Se creó en 1951 y protege 51.889 hectáreas. En 1992 fue designado sitio Ramsar, humedal de importancia internacional, y es clave para la conservación del aguará guazú, aunque verlo es raro."],
-      ["Paisaje", "Esteros, lagunas y pastizales con palmeras caranday se alternan con monte, cuyo suelo cubren los caraguatás. Tiene dos áreas de uso público: Laguna Blanca y Estero Poí."],
-      ["Dos yacarés", "El yacaré overo y el yacaré negro, las dos especies del país, viven en sus esteros y lagunas. En el monte habita el mono carayá, y en el agua, carpinchos y boa curiyú."]
+    "datos": [
+      [
+        "Desde Formosa",
+        "~175 km · RN 11 y RN 86"
+      ],
+      [
+        "A Estero Poí",
+        "~7–9 km del pueblo"
+      ],
+      [
+        "Entrada",
+        "Gratuita"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día y 1 noche"
+      ]
     ],
-    "destacada": {"img": "LIT-13-yacare-negro", "titulo": "Yacaré negro", "sub": "Vive en los esteros y lagunas"},
-    "fila": {"titulo": "Flora y fauna", "items": [
-      {"img": "LIT-13-yacare-overo", "nombre": "Yacaré overo", "texto": "Comparte los esteros y lagunas con el yacaré negro."},
-      {"img": "LIT-13-caraya", "nombre": "Mono carayá", "texto": "Habita el monte del parque."},
-      {"img": "LIT-13-caraguata", "nombre": "Caraguatá", "texto": "Cubre el suelo del monte."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Acampe con luz y wifi"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Cierra con lluvia"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1951 y protege 51.889 hectáreas. En 1992 fue designado sitio Ramsar, humedal de importancia internacional, y es clave para la conservación del aguará guazú, aunque verlo es raro."
+      ],
+      [
+        "Paisaje",
+        "Esteros, lagunas y pastizales con palmeras caranday se alternan con monte, cuyo suelo cubren los caraguatás. Tiene dos áreas de uso público: Laguna Blanca y Estero Poí."
+      ],
+      [
+        "Dos yacarés",
+        "El yacaré overo y el yacaré negro, las dos especies del país, viven en sus esteros y lagunas. En el monte habita el mono carayá, y en el agua, carpinchos y boa curiyú."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-13-yacare-negro",
+      "titulo": "Yacaré negro",
+      "sub": "Vive en los esteros y lagunas"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "LIT-13-yacare-overo",
+          "nombre": "Yacaré overo",
+          "texto": "Comparte los esteros y lagunas con el yacaré negro."
+        },
+        {
+          "img": "LIT-13-caraya",
+          "nombre": "Mono carayá",
+          "texto": "Habita el monte del parque."
+        },
+        {
+          "img": "LIT-13-caraguata",
+          "nombre": "Caraguatá",
+          "texto": "Cubre el suelo del monte."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "Con lluvia, los accesos vehiculares se cierran, y siguen cerrados hasta 72 horas después. Intendencia: Pueyrredón y RN 86, Laguna Blanca, tel. (03718) 470-045."],
-      ["En la camper", "Laguna Blanca y Estero Poí tienen acampe con fogones, sanitarios, electricidad, wifi y leña. El camino a Estero Poí puede volverse intransitable. Calor, humedad y mosquitos en verano."]
+      [
+        "Antes de ir",
+        "Con lluvia, los accesos vehiculares se cierran, y siguen cerrados hasta 72 horas después. Intendencia: Pueyrredón y RN 86, Laguna Blanca, tel. (03718) 470-045."
+      ],
+      [
+        "En la camper",
+        "Laguna Blanca y Estero Poí tienen acampe con fogones, sanitarios, electricidad, wifi y leña. El camino a Estero Poí puede volverse intransitable. Calor, humedad y mosquitos en verano."
+      ]
     ]
   },
   {
@@ -312,21 +1123,79 @@
     "ubicacion": "Diamante · Entre Ríos",
     "titulo": "Parque Nacional Pre-Delta",
     "bajada": "Donde empieza el Delta del Paraná: islas, riachos y lagunas al pie de la barranca, con una población relictual de yacaré overo.",
-    "datos": [["Desde Paraná", "~45 km a Diamante"], ["Acceso", "~4,5 km hasta La Jaula"], ["Horario", "7–20 h · 8–19 h en invierno"], ["Tiempo de visita", "Medio día"]],
-    "iconos": [["pernocte", "aviso", "Acampe: consultá antes"], ["camino", "aviso", "Consultá el acceso"]],
-    "bloques": [
-      ["Historia", "Se creó en 1991 para proteger una muestra de la ecorregión Delta e Islas del Paraná: unas 2.600 hectáreas de humedales de importancia internacional, a pocos kilómetros de Diamante."],
-      ["Paisaje", "El Paraná modeló sus islas, arroyos, lagunas y riachos. En la barranca de La Azotea crece un monte ribereño exuberante, de sauce criollo y aliso de río, con influencias de la selva misionera y del Chaco."],
-      ["Senderos", "Son de dificultad baja a media. El sendero Laguna Curiyú, de 400 metros y unos 30 minutos, recorre el monte de barranca desde el mirador del Delta."]
+    "datos": [
+      [
+        "Desde Paraná",
+        "~45 km a Diamante"
+      ],
+      [
+        "Acceso",
+        "~4,5 km hasta La Jaula"
+      ],
+      [
+        "Horario",
+        "7–20 h · 8–19 h en invierno"
+      ],
+      [
+        "Tiempo de visita",
+        "Medio día"
+      ]
     ],
-    "destacada": {"img": "LIT-14-lobito-rio", "titulo": "Lobito de río", "sub": "Amenazado: verlo requiere suerte"},
-    "fila": {"titulo": "Flora y fauna", "items": [
-      {"img": "LIT-14-yacare-overo", "nombre": "Yacaré overo", "texto": "Sobrevive acá una población relictual de esta especie amenazada."},
-      {"img": "LIT-14-sauce-criollo", "nombre": "Sauce criollo", "texto": "Forma bosques en el monte de la barranca."}
-    ]},
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Acampe: consultá antes"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Consultá el acceso"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Se creó en 1991 para proteger una muestra de la ecorregión Delta e Islas del Paraná: unas 2.600 hectáreas de humedales de importancia internacional, a pocos kilómetros de Diamante."
+      ],
+      [
+        "Paisaje",
+        "El Paraná modeló sus islas, arroyos, lagunas y riachos. En la barranca de La Azotea crece un monte ribereño exuberante, de sauce criollo y aliso de río, con influencias de la selva misionera y del Chaco."
+      ],
+      [
+        "Senderos",
+        "Son de dificultad baja a media. El sendero Laguna Curiyú, de 400 metros y unos 30 minutos, recorre el monte de barranca desde el mirador del Delta."
+      ]
+    ],
+    "destacada": {
+      "img": "LIT-14-lobito-rio",
+      "titulo": "Lobito de río",
+      "sub": "Amenazado: verlo requiere suerte"
+    },
+    "fila": {
+      "titulo": "Flora y fauna",
+      "items": [
+        {
+          "img": "LIT-14-yacare-overo",
+          "nombre": "Yacaré overo",
+          "texto": "Sobrevive acá una población relictual de esta especie amenazada."
+        },
+        {
+          "img": "LIT-14-sauce-criollo",
+          "nombre": "Sauce criollo",
+          "texto": "Forma bosques en el monte de la barranca."
+        }
+      ]
+    },
     "cierre": [
-      ["Antes de ir", "El parque cierra en las crecidas: consultá si está abierto y el estado del camino a La Jaula (predelta@apn.gob.ar o 0343 4983535)."],
-      ["En la camper", "Hay zona de acampe y picnic en el área de uso público: consultá si admite casas rodantes. Última parada antes de volver a Buenos Aires. Llevá repelente."]
+      [
+        "Antes de ir",
+        "El parque cierra en las crecidas: consultá si está abierto y el estado del camino a La Jaula (predelta@apn.gob.ar o 0343 4983535)."
+      ],
+      [
+        "En la camper",
+        "Hay zona de acampe y picnic en el área de uso público: consultá si admite casas rodantes. Última parada antes de volver a Buenos Aires. Llevá repelente."
+      ]
     ]
   }
 ]

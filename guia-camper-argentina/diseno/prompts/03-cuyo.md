@@ -363,7 +363,8 @@ Photorealistic wildlife photograph of a white-tufted grebe (Rollandia rolland, m
 
 ### `CUY-19-monjita`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
-Photorealistic wildlife photograph of a rusty-backed monjita (Neoxolmis rubetra, monjita castaña / salinera) perched on a low saltbush in the Patagonian-Andean steppe of southern Mendoza, Argentina: slim tyrant flycatcher with rufous-brown back, white underparts with fine dark streaks on the breast, a white eyebrow, black wings with white edges and a black tail. Soft early-morning light, telephoto lens, dry steppe blurred behind. Check the species name with a local birding guide before using. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+Photorealistic wildlife photograph of a Salinas monjita (Neoxolmis salinarum, formerly Xolmis salinarum; monjita salinera) perched on a low saltbush at the edge of a salt flat in Argentina: slim pale tyrant flycatcher with rufous-brown upperparts, clean white underparts, black wings with a broad white patch, black tail with white outer edges, small dark bill. Soft early-morning light, telephoto lens, whitish salt flat and dry shrubs blurred behind. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Antes de generarla, confirmá con la reserva qué especie llaman "monjita salinera" ahí:** podría ser la monjita castaña (Neoxolmis rubetra), de lomo rojizo y pecho rayado.
 
 ### `CUY-20-principal`
 **Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)

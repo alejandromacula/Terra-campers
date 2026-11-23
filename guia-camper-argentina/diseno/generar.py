@@ -39,9 +39,9 @@ def icon(kind, state, color):
 
 def tab(region):
     r = REG[region]
-    top = 30 + r["orden"] * 27
+    top = 24 + r["orden"] * 26  # 8 pestañas de 24 mm entre 24 y 230 mm: no tocan el pie
     return (f'<div class="tab" style="top:{top}mm;background:{r["color"]}">'
-            f'<span>{escape(r["nombre"])}</span></div>')
+            f'<span>{escape(r.get("pestana", r["nombre"]))}</span></div>')
 
 
 def footer(region, num):
