@@ -226,3 +226,39 @@ Photorealistic wildlife photograph of a capybara (Hydrochoerus hydrochaeris) sta
 ### `LIT-12-curiyu`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic wildlife photograph of a yellow anaconda (boa curiyú, Eunectes notaeus) partly coiled on a mat of floating water plants in a wetland in Formosa, Argentina: thick heavy-bodied snake, yellowish-olive skin covered with irregular black blotches and spots, eyes and nostrils on top of the head. Soft diffuse light, dark water around. Telephoto lens, close framing on the coils and head, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-13-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Laguna Blanca in Río Pilcomayo National Park, Formosa, Argentina, at sunset: a wide calm shallow lagoon edged with reeds and water plants, tall caranday palms (Copernicia alba) with fan-shaped fronds standing along the shore, low subtropical forest behind. Warm orange and violet sky mirrored in the still water. Wide-angle panoramic view, shoreline and palm silhouettes in the central horizontal band. Warm natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-13-yacare-negro`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a yacare caiman (yacaré negro, Caiman yacare) resting on a muddy bank of a marsh in Formosa, Argentina: dark olive-black armored body with faint yellowish crossbands on the tail, a bony ridge between the eyes like spectacles, dark spots on the lower jaw, mouth slightly open showing teeth. Floating plants and calm water nearby. Soft morning light. Vertical composition, telephoto lens at ground level, head in sharp focus. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-13-yacare-overo`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a broad-snouted caiman (yacaré overo, Caiman latirostris) half-submerged among water hyacinths in a lagoon in Formosa, Argentina: very broad, short, rounded snout, olive-green to pale greyish skin with darker mottling, eyes above the surface. Soft warm morning light, calm water. Telephoto lens at water level, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-13-caraya`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a female black-and-gold howler monkey (Alouatta caraya) with a baby on her back, sitting on a branch in subtropical forest in Formosa, Argentina: golden-buff to light-brown fur, dark face, long prehensile tail wrapped around the branch. Soft filtered light through leaves. Telephoto lens, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-13-caraguata`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Close-up botanical photograph of caraguatá (Bromelia serra), a terrestrial bromeliad covering the forest floor in the Chaco of Formosa, Argentina: dense rosettes of long, narrow, stiff, arching leaves with hooked spiny edges, bright red inner leaves at the center of a flowering rosette, shaded forest floor with dry leaves. Soft dappled light. Low angle, shallow depth of field. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-14-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the upper Paraná Delta seen from a high natural riverbank viewpoint in Pre-Delta National Park, Diamante, Entre Ríos, Argentina: a vast flat landscape of low green islands, winding brown riachos and small lagoons stretching to the horizon, willow and alder gallery forest along the channels, lush riverside forest on the bank in the foreground. Warm golden late-afternoon light, a few soft clouds. Wide-angle panoramic view, islands and channels in the central horizontal band. Natural greens and brown water. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-14-lobito-rio`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a Neotropical otter (lobito de río, Lontra longicaudis) emerging from brown river water onto a muddy bank among reeds in the Paraná Delta, Entre Ríos, Argentina: sleek wet dark-brown fur, paler silvery throat and chest, flat head with small ears, long thick tapering tail — not a giant otter, no cream throat blotches. Soft early-morning light. Vertical composition, telephoto lens at water level. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-14-yacare-overo`
+**Formato:** horizontal 3:2 (se recorta a muy horizontal ~2,6:1, fila de 2)
+Photorealistic wildlife photograph of a broad-snouted caiman (yacaré overo, Caiman latirostris) basking on a muddy bank of a delta lagoon in Entre Ríos, Argentina: very broad, short, rounded snout, olive-green to greyish armored body with darker mottling, willows and reeds behind. Soft warm morning light. Telephoto lens at ground level, animal stretched across the central band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `LIT-14-sauce-criollo`
+**Formato:** horizontal 3:2 (se recorta a muy horizontal ~2,6:1, fila de 2)
+Photorealistic editorial nature photograph of a riverside forest of sauce criollo (Salix humboldtiana) on the banks of a delta channel in Entre Ríos, Argentina: tall, slender willows with narrow upright crowns of long thin light-green leaves, rough grey bark, reflected in calm brown water. Soft hazy morning light. Wide shot along the bank, trees and reflections in the central band. Natural soft greens. natural colors, high detail, no people unless stated, no text, no watermark, no logos.

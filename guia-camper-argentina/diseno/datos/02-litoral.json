@@ -281,5 +281,52 @@
       ["Para pajarear", "El bañado es Área Importante para la Conservación de las Aves, con más de 300 especies: llevá binoculares en la canoa."],
       ["En la camper", "Entrá por El Vertedero (RP 28, asfalto): la RP 32 a Fortín La Soledad es de tierra. Consultá antes dónde pernoctar con casa rodante. Cargá en Las Lomitas."]
     ]
+  },
+  {
+    "codigo": "LIT-13",
+    "region": "LIT",
+    "ubicacion": "Laguna Blanca · Formosa",
+    "titulo": "Parque Nacional Río Pilcomayo",
+    "bajada": "Esteros, lagunas y palmares sobre la frontera con Paraguay, donde viven las dos especies de yacaré del país.",
+    "datos": [["Desde Formosa", "~175 km · RN 11 y RN 86"], ["A Estero Poí", "~7–9 km del pueblo"], ["Entrada", "Gratuita"], ["Tiempo de visita", "1 día y 1 noche"]],
+    "iconos": [["pernocte", "ok", "Acampe con luz y wifi"], ["camino", "aviso", "Cierra con lluvia"]],
+    "bloques": [
+      ["Historia", "Se creó en 1951 y protege 51.889 hectáreas. En 1992 fue designado sitio Ramsar, humedal de importancia internacional, y es clave para la conservación del aguará guazú, aunque verlo es raro."],
+      ["Paisaje", "Esteros, lagunas y pastizales con palmeras caranday se alternan con monte, cuyo suelo cubren los caraguatás. Tiene dos áreas de uso público: Laguna Blanca y Estero Poí."],
+      ["Dos yacarés", "El yacaré overo y el yacaré negro, las dos especies del país, viven en sus esteros y lagunas. En el monte habita el mono carayá, y en el agua, carpinchos y boa curiyú."]
+    ],
+    "destacada": {"img": "LIT-13-yacare-negro", "titulo": "Yacaré negro", "sub": "Vive en los esteros y lagunas"},
+    "fila": {"titulo": "Flora y fauna", "items": [
+      {"img": "LIT-13-yacare-overo", "nombre": "Yacaré overo", "texto": "Comparte los esteros y lagunas con el yacaré negro."},
+      {"img": "LIT-13-caraya", "nombre": "Mono carayá", "texto": "Habita el monte del parque."},
+      {"img": "LIT-13-caraguata", "nombre": "Caraguatá", "texto": "Cubre el suelo del monte."}
+    ]},
+    "cierre": [
+      ["Antes de ir", "Con lluvia, los accesos vehiculares se cierran, y siguen cerrados hasta 72 horas después. Intendencia: Pueyrredón y RN 86, Laguna Blanca, tel. (03718) 470-045."],
+      ["En la camper", "Laguna Blanca y Estero Poí tienen acampe con fogones, sanitarios, electricidad, wifi y leña. El camino a Estero Poí puede volverse intransitable. Calor, humedad y mosquitos en verano."]
+    ]
+  },
+  {
+    "codigo": "LIT-14",
+    "region": "LIT",
+    "ubicacion": "Diamante · Entre Ríos",
+    "titulo": "Parque Nacional Pre-Delta",
+    "bajada": "Donde empieza el Delta del Paraná: islas, riachos y lagunas al pie de la barranca, con una población relictual de yacaré overo.",
+    "datos": [["Desde Paraná", "~45 km a Diamante"], ["Acceso", "~4,5 km hasta La Jaula"], ["Horario", "7–20 h · 8–19 h en invierno"], ["Tiempo de visita", "Medio día"]],
+    "iconos": [["pernocte", "aviso", "Acampe: consultá antes"], ["camino", "aviso", "Consultá el acceso"]],
+    "bloques": [
+      ["Historia", "Se creó en 1991 para proteger una muestra de la ecorregión Delta e Islas del Paraná: unas 2.600 hectáreas de humedales de importancia internacional, a pocos kilómetros de Diamante."],
+      ["Paisaje", "El Paraná modeló sus islas, arroyos, lagunas y riachos. En la barranca de La Azotea crece un monte ribereño exuberante, de sauce criollo y aliso de río, con influencias de la selva misionera y del Chaco."],
+      ["Senderos", "Son de dificultad baja a media. El sendero Laguna Curiyú, de 400 metros y unos 30 minutos, recorre el monte de barranca desde el mirador del Delta."]
+    ],
+    "destacada": {"img": "LIT-14-lobito-rio", "titulo": "Lobito de río", "sub": "Amenazado: verlo requiere suerte"},
+    "fila": {"titulo": "Flora y fauna", "items": [
+      {"img": "LIT-14-yacare-overo", "nombre": "Yacaré overo", "texto": "Sobrevive acá una población relictual de esta especie amenazada."},
+      {"img": "LIT-14-sauce-criollo", "nombre": "Sauce criollo", "texto": "Forma bosques en el monte de la barranca."}
+    ]},
+    "cierre": [
+      ["Antes de ir", "El parque cierra en las crecidas: consultá si está abierto y el estado del camino a La Jaula (predelta@apn.gob.ar o 0343 4983535)."],
+      ["En la camper", "Hay zona de acampe y picnic en el área de uso público: consultá antes si admite casas rodantes. Es la última parada antes de volver a Buenos Aires. Llevá repelente."]
+    ]
   }
 ]
