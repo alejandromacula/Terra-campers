@@ -229,3 +229,84 @@ Photorealistic editorial travel photograph of the ruins of an early-20th-century
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic editorial travel photograph of a small, austere high-mountain cemetery for climbers in the Andes of Mendoza, Argentina: simple stone and metal crosses and plaques set in rocky ground inside a low stone wall, a few weathered flowers, bare brown mountains with snow-capped peaks rising behind. Clear cold light, quiet and respectful mood, wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
 **Mejor foto real del lugar.**
+
+### `CUY-13-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Laguna de Horcones in Aconcagua Provincial Park, Mendoza, Argentina: a small calm green-blue high-Andean lagoon at about 2,950 m, fringed by grass and a wooden viewpoint trail, reflecting the colossal snow- and ice-covered South Face (Pared Sur) of Aconcagua (6,961 m) rising at the end of the Horcones valley, bare brown and grey moraine slopes on both sides. Clear crisp morning light, deep-blue sky, perfect reflection. Wide-angle composition with lagoon and mountain face in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-13-guanaco`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic wildlife photograph of a guanaco (Lama guanicoe) standing on a rocky slope of a high-Andean valley in Aconcagua Provincial Park, Mendoza, Argentina: slender camelid with cinnamon-brown back, white belly, grey-black face and upright ears, sparse yellow grass and scree around it, snowy peaks blurred behind. Cold clear morning light, telephoto lens, vertical framing. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-13-vega`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a high-Andean wetland meadow (vega altoandina) at the bottom of a valley in Aconcagua Provincial Park, Mendoza, Argentina: a bright green carpet of cushion grasses and small pools of water winding through a barren grey-brown glacial valley, steep rocky slopes and snow patches above. Soft morning light, wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-13-laguna-helada`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Laguna de Horcones in winter, Aconcagua Provincial Park, Mendoza, Argentina: the small lagoon partly frozen with white and grey ice plates and a patch of dark open water, snow covering the surrounding slopes, the snowy South Face of Aconcagua in the distance. Cold bluish winter light, clear sky, quiet mood. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-14-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of vineyards in Luján de Cuyo, Mendoza, Argentina: long straight rows of Malbec vines on trellises with deep-green leaves and dark bunches of grapes, converging toward a line of poplars and the snow-capped Andes cordillera on the horizon. Warm golden late-afternoon light, long shadows between the rows, clear sky. Wide-angle composition with vine rows and the white mountain line in the central horizontal band. Warm natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-14-malbec`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a glass of deep purple-red Malbec wine on a rustic wooden table outdoors, with a vineyard and the snowy Andes softly out of focus behind, a bunch of dark blue-black Malbec grapes beside the glass. Warm golden late-afternoon backlight glowing through the wine, shallow depth of field, vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-14-cerro-gloria`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of the Monument to the Army of the Andes on top of Cerro de la Gloria in Parque General San Martín, Mendoza, Argentina: a large bronze monumental sculpture group with soldiers, horses and a winged figure of Liberty on top, set on a massive stone base, with the city and the precordillera behind. Warm late-afternoon light, low angle. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-14-acequia`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a typical street in Mendoza city, Argentina: an open irrigation channel (acequia) running along the sidewalk with clear flowing water, lined by large old plane trees whose canopies form a green tunnel over the street, dappled sunlight on the pavement. Soft morning light, eye-level view along the acequia. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-14-plaza`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Plaza Independencia, the main square of Mendoza, Argentina: a wide square with tall leafy trees, paved walkways, a large fountain with water jets, surrounded by city buildings. Soft golden early-evening light, wide-angle view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-15-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Uco Valley, Mendoza, Argentina, in autumn: rows of grapevines with leaves turned golden yellow, orange and red, stretching toward the foot of the high Andes cordillera covered in fresh snow, a line of poplars in autumn color in the middle distance. Soft warm morning light, crisp clear air. Wide-angle panoramic composition with vineyards and the snowy wall of mountains in the central horizontal band. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-15-manzano`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of an old apple tree (Malus domestica) standing alone in a small grassy clearing in the Andean foothills of Tunuyán, Mendoza, Argentina: gnarled trunk, spreading branches with green leaves and a few small red apples, a simple low fence around it, dry foothills and snowy peaks behind. Soft warm afternoon light, vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-15-monumento`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a monumental stone and bronze memorial to General San Martín in the Andean foothills of Mendoza, Argentina: a large sculpture on a broad stone base set on a hillside, with poplars, dry slopes and the snow-capped cordillera behind. Warm late-afternoon light, slightly low angle. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-15-altamira`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a modern winery built of stone and concrete blending into the landscape in Paraje Altamira, Uco Valley, Mendoza, Argentina: low architectural building with natural stone walls among vineyard rows, the snow-capped Andes behind. Golden late-afternoon light, wide view. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `CUY-15-laguna-diamante`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Laguna del Diamante, Mendoza, Argentina, at 3,300 m: a deep-blue high-Andean lake with the perfect cone of the snow-capped Maipo volcano (5,323 m) reflected on its calm surface, golden steppe grass and dark volcanic rocks on the shore. Clear early-morning summer light, deep-blue sky, still water. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-16-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of the Valle Grande reservoir in the Atuel Canyon, San Rafael, Mendoza, Argentina, seen from the viewpoint above the dam: a winding turquoise lake enclosed by steep, eroded red, ochre and pink rock walls of the Sierra Pintada, sculpted rock formations along the shore. Warm late-afternoon light, clear sky. Wide-angle elevated view with the turquoise water and red walls in the central horizontal band. Natural warm palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-16-monjes`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of Los Monjes rock formation in the Atuel Canyon, Mendoza, Argentina: a row of tall eroded reddish-ochre rock pinnacles that look like hooded monks standing side by side on a canyon slope, dry shrubs at their base, deep-blue sky. Warm side light from the low sun, vertical composition. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-16-lagarto`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of El Lagarto rock formation in the Atuel Canyon, Mendoza, Argentina: a long eroded reddish rock ridge on a canyon wall whose shape resembles a giant lizard climbing the slope, the gravel road and the river below. Warm afternoon light, clear sky, medium telephoto. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-16-submarino`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of El Submarino, a rock formation emerging from the turquoise water of the Valle Grande reservoir in the Atuel Canyon, Mendoza, Argentina: an elongated reddish rock with a tower-like top that looks like a submarine surfacing, steep colored canyon walls behind. Bright midday light, calm water with reflections. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `CUY-16-rafting`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a rafting boat with a small group of people wearing helmets and life jackets paddling through white-water rapids on the Atuel River at Valle Grande, Mendoza, Argentina: splashing water, willows on the banks, reddish canyon walls behind. Bright sunny light, fast shutter freezing the spray. natural colors, high detail, people as stated, no text, no watermark, no logos.

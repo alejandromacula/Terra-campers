@@ -1060,5 +1060,359 @@
         "En Bariloche no se puede dormir en la vía pública y hay controles nocturnos. Camping Petunia (Bustillo km 13,5), con sector motorhome y descarga, o Los Coihues."
       ]
     ]
+  },
+  {
+    "codigo": "AND-13",
+    "region": "AND",
+    "ubicacion": "Pampa Linda · Bariloche · Río Negro",
+    "titulo": "Tronador y Ventisquero Negro",
+    "bajada": "El Tronador debe su nombre al estruendo de sus glaciares al desprenderse; al pie, el Ventisquero Negro es hielo cubierto de roca.",
+    "datos": [
+      [
+        "Desde Bariloche",
+        "~90 km"
+      ],
+      [
+        "Camino",
+        "~50 km de ripio angosto"
+      ],
+      [
+        "Altura del cerro",
+        "3.478 m"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Consultá en Pampa Linda"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Bariloche"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio; grandes, consultá"
+      ]
+    ],
+    "bloques": [
+      [
+        "Por qué es negro",
+        "Es un glaciar cubierto: lo forman las avalanchas de hielo del glaciar Manso, que cae desde arriba, mezcladas con rocas y sedimentos que le dan su color gris oscuro."
+      ],
+      [
+        "Retroceso",
+        "El cerro está sobre el límite con Chile. Desde 2012, cuando se empezó a estudiar, el Ventisquero Negro retrocede rápido: su deshielo formó un lago que ya tiene 70 m de profundidad."
+      ],
+      [
+        "Pampa Linda",
+        "Un valle de bosque de coihue y lenga con las paredes de hielo del Tronador encima. De ahí sale la senda a la Garganta del Diablo, corta y con una linda subida."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-13-garganta",
+      "titulo": "Garganta del Diablo",
+      "sub": "Senda corta desde Pampa Linda"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-13-pampa-linda",
+          "nombre": "Pampa Linda",
+          "texto": "Valle de bosque con el Tronador encima."
+        },
+        {
+          "img": "AND-13-mano-unica",
+          "nombre": "Camino de mano única",
+          "texto": "Sube a la mañana y baja a la tarde."
+        },
+        {
+          "img": "AND-13-condor",
+          "nombre": "Cóndor andino",
+          "texto": "Con suerte, sobre las paredes del cerro."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Mano única: se sube de 10:30 a 14 h y se baja de 16 a 18 h; doble mano, de 19:30 a 9 h. Hay multas."
+      ],
+      [
+        "En la camper",
+        "El parque suele restringir el ripio a 4x4 o vehículos altos: una camper grande quizá no pueda entrar. Consultá en la intendencia. Tanque lleno en Bariloche."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-14",
+    "region": "AND",
+    "ubicacion": "El Bolsón · Río Negro",
+    "titulo": "El Bolsón",
+    "bajada": "Un valle cerrado a los pies del Piltriquitrón que en 1984 se declaró zona no nuclear y cumplió cien años en 2026.",
+    "datos": [
+      [
+        "Desde Bariloche",
+        "~120 a 130 km · ~2 h"
+      ],
+      [
+        "Camino",
+        "Asfalto (RN 40)"
+      ],
+      [
+        "Feria",
+        "Plaza Pagano; consultá días"
+      ],
+      [
+        "Tiempo de visita",
+        "2 o 3 días"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings en el río Azul"
+      ],
+      [
+        "camino",
+        "ok",
+        "Asfalto desde Bariloche"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Su fecha fundacional es el 28 de enero de 1926. El nombre tiene dos versiones: el valle cerrado como una bolsa, o un bolso de cuero colgado de un ciprés que los pioneros usaban como correo."
+      ],
+      [
+        "La feria",
+        "La Feria Regional de la Plaza Pagano se formalizó en 1979 y reúne a más de 300 artesanos y productores de la comarca. En los años 30, inmigrantes alemanes empezaron a cultivar lúpulo en el valle."
+      ],
+      [
+        "Bosque Tallado",
+        "Desde 1998, escultores tallan los troncos de lenga que quemó un incendio en el Piltriquitrón: ya son más de 50 obras. Se sube por ~13 km de camino de montaña y se sigue a pie."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-14-bosque-tallado",
+      "titulo": "Bosque Tallado",
+      "sub": "Más de 50 esculturas en lenga quemada"
+    },
+    "fila": {
+      "titulo": "Qué hacer",
+      "items": [
+        {
+          "img": "AND-14-cajon-azul",
+          "nombre": "Cajón del Azul",
+          "texto": "Pozones cristalinos tras 3 a 5 h de sendero."
+        },
+        {
+          "img": "AND-14-puente-colgante",
+          "nombre": "Puente colgante",
+          "texto": "Sobre el río Azul, camino al Cajón."
+        },
+        {
+          "img": "AND-14-lupulo",
+          "nombre": "Flor de lúpulo",
+          "texto": "Se cultiva en el valle desde los años 30."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Para el Cajón del Azul (~9 a 10 km desde Wharton), completá el registro de trekking del área protegida. Consultá si el camino al Bosque Tallado admite campers."
+      ],
+      [
+        "En la camper",
+        "Hielo Azul y Mirando al Piltri, sobre el río Azul; Refugio Patagónico, cerca del centro: consultá si admiten motorhome. Descarga en Dina Huapi. Respetá las prohibiciones de fuego."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-15",
+    "region": "AND",
+    "ubicacion": "Lago Puelo · Chubut",
+    "titulo": "Parque Nacional Lago Puelo",
+    "bajada": "Guarda la mayor porción de selva valdiviana en suelo argentino, con árboles que parecen sacados de los bosques de Chile.",
+    "datos": [
+      [
+        "Acceso",
+        "RN 40 y RP 16 (El Bolsón)"
+      ],
+      [
+        "Último tramo",
+        "~4 km de ripio"
+      ],
+      [
+        "Superficie",
+        "~27.674 ha"
+      ],
+      [
+        "Tiempo de visita",
+        "1 día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "ok",
+        "Campings cerca del lago"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en El Bolsón"
+      ],
+      [
+        "camino",
+        "aviso",
+        "Ripio corto al lago"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "Desde 1937 fue un anexo del Parque Nacional Los Alerces, y en 1971 se lo declaró parque nacional independiente. Protege unas 27.674 hectáreas de lagos, ventisqueros y bosque entre montañas."
+      ],
+      [
+        "Selva valdiviana",
+        "La baja altitud deja entrar especies de los bosques húmedos de Chile: avellano, ulmo, lingue y olivillo, árboles raros en la Argentina, junto a cipreses y alerces. El parque registra más de 150 especies de fauna."
+      ],
+      [
+        "Senderos",
+        "El Mirador del Lago, de dificultad media (~40 min), arranca en el estacionamiento de La Playita. Otros senderos: Bosque de las Sombras, Pitranto Grande y El Faldeo."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-15-olivillo",
+      "titulo": "Olivillo",
+      "sub": "Árbol de la selva valdiviana"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-15-la-playita",
+          "nombre": "La Playita",
+          "texto": "Balneario y punto de partida del Mirador del Lago."
+        },
+        {
+          "img": "AND-15-rio-azul",
+          "nombre": "Río Azul",
+          "texto": "Desemboca en el lago Puelo; a su orilla hay campings."
+        },
+        {
+          "img": "AND-15-huemul",
+          "nombre": "Huemul",
+          "texto": "Ciervo andino en peligro; verlo es excepcional."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Antes de ir",
+        "Consultá en la intendencia si se está cobrando el ingreso (02944-499232). Los derechos de acceso valen 72 horas."
+      ],
+      [
+        "En la camper",
+        "En el parque, camping vehicular en La Playita: consultá servicios. Afuera, La Pasarela (río Azul), con luz y baños, y Los Quinchos. Combustible: El Bolsón o El Hoyo."
+      ]
+    ]
+  },
+  {
+    "codigo": "AND-16",
+    "region": "AND",
+    "ubicacion": "Cholila · Chubut",
+    "titulo": "Cholila y Butch Cassidy",
+    "bajada": "En 1901, Butch Cassidy, Sundance Kid y Etta Place compraron un campo en este valle y criaron ovejas como cualquier colono.",
+    "datos": [
+      [
+        "Desde El Bolsón",
+        "~80 km al sur"
+      ],
+      [
+        "Cabaña",
+        "Visita libre y gratuita"
+      ],
+      [
+        "Pesca",
+        "Lago Cholila, con permiso"
+      ],
+      [
+        "Tiempo de visita",
+        "1 a 2 h · medio día"
+      ]
+    ],
+    "iconos": [
+      [
+        "pernocte",
+        "aviso",
+        "Campings en Los Alerces"
+      ],
+      [
+        "combustible",
+        "aviso",
+        "Cargá en Epuyén"
+      ]
+    ],
+    "bloques": [
+      [
+        "Historia",
+        "El grupo se instaló en 1901 en un campo de ~5.000 ha y se quedó hasta alrededor de 1905, cuando partió hacia Bolivia. La cabaña de troncos principal sigue en pie: se restauró en parte en 2007."
+      ],
+      [
+        "El valle",
+        "Cholila reúne cuatro valles: El Cajón, El Rincón, El Blanco y Villa Lago Rivadavia. El nombre recordaría al cacique Chulilaquin o significaría \"valle hermoso\" en mapuche."
+      ],
+      [
+        "Pesca",
+        "El lago Cholila es destino de pesca deportiva, desde la orilla o embarcado: hay truchas arco iris y fontinalis, y salmón encerrado. Siempre con el permiso correspondiente."
+      ]
+    ],
+    "destacada": {
+      "img": "AND-16-cabana",
+      "titulo": "La cabaña",
+      "sub": "Troncos restaurados en 2007"
+    },
+    "fila": {
+      "titulo": "Para ver",
+      "items": [
+        {
+          "img": "AND-16-lago-cholila",
+          "nombre": "Lago Cholila",
+          "texto": "Pesca desde la orilla o embarcado."
+        },
+        {
+          "img": "AND-16-carrileufu",
+          "nombre": "Río Carrileufú",
+          "texto": "Flotadas de pesca hasta el lago Rivadavia."
+        },
+        {
+          "img": "AND-16-trucha",
+          "nombre": "Trucha arco iris",
+          "texto": "Una de las especies que se pescan en el lago."
+        }
+      ]
+    },
+    "cierre": [
+      [
+        "Si tenés un día más",
+        "Hacé una flotada de pesca por el río Carrileufú hasta el lago Rivadavia, o remá en kayak en el lago Pellegrini."
+      ],
+      [
+        "En la camper",
+        "Sin campings confirmados en Cholila: los más cercanos están en Los Alerces, como el de Lago Rivadavia. Combustible sobre la RN 40, en Epuyén o El Hoyo."
+      ]
+    ]
   }
 ]
