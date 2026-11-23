@@ -329,3 +329,66 @@ Photorealistic editorial travel photograph of the Carrileufú river, Chubut, Arg
 ### `AND-16-trucha`
 **Formato:** horizontal 3:2 (se recorta a 16:9)
 Photorealistic wildlife photograph of a rainbow trout (Oncorhynchus mykiss): silvery body with a pinkish-red horizontal band along the side, many small black spots on the back, dorsal fin and tail; held gently half in the water of a clear Patagonian lake before release, only hands visible. Soft natural light, close-up, shallow depth of field. Natural palette. natural colors, high detail, only hands visible, no text, no watermark, no logos.
+
+### `AND-17-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of Lake Menéndez, Los Alerces National Park, Chubut, Argentina: a long deep-blue glacial lake flanked by steep slopes of dense dark-green temperate forest with tall alerce trees, and snow-capped Andean peaks with small glaciers at the far end. Clear morning light, calm water with soft reflections, wide-angle panoramic composition with the lake and the snowy range in the central band. Natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-17-alerce`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of a giant ancient Patagonian cypress or alerce (Fitzroya cupressoides) in a humid temperate rainforest: a massive straight columnar trunk several meters around with deeply furrowed, fibrous reddish-brown bark in long vertical strips, small scale-like dark-green leaves high above, ferns and moss at its base, and one small person in hiking clothes standing at the base for scale. Soft diffuse forest light, low-angle vertical framing looking up the trunk. Natural deep green and reddish-brown palette. natural colors, high detail, one small person for scale, no text, no watermark, no logos.
+
+### `AND-17-pudu`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern pudú (Pudu puda): a tiny deer about 40 cm tall, round compact body, short legs, dense reddish-brown coat, small rounded ears, male with very short spike antlers. Walking out from bamboo-like caña colihue and ferns at the edge of a mossy forest clearing. Soft diffuse light, telephoto lens, eye-level, shallow depth of field. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-17-huemul`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a male south Andean deer or huemul (Hippocamelus bisulcus): stocky, short-legged deer with thick grey-brown coat, large ears, a dark Y-shaped mark on the forehead and muzzle, short simple forked antlers. Standing among lenga trees on a mountain slope above a blue lake. Soft late afternoon light, telephoto lens. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-17-huillin`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic wildlife photograph of a southern river otter or huillín (Lontra provocax): sleek dark-brown otter with paler throat, long thick tapering tail, small ears; peering out from among the roots of a tree at the edge of a clear forest river. Soft diffuse light, telephoto lens, low angle near the water. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-18-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of La Trochita, the Old Patagonian Express, near Esquel, Chubut, Argentina: a small black narrow-gauge steam locomotive puffing a plume of white steam and smoke, pulling a short line of old wooden passenger carriages along a curving narrow track across golden Patagonian steppe, with the Andean foothills behind. Low warm morning light, side-on wide-angle panoramic composition with the train and smoke in the central band, big sky. Warm, natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-18-calafate`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Close-up botanical photograph of calafate (Berberis microphylla): a spiny Patagonian shrub with small leathery leaves, sharp three-parted thorns along the stems, and small round dark blue-purple berries with a whitish bloom (or small yellow cup-shaped flowers in spring). Soft natural light, vertical framing, steppe and mountains softly blurred behind. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-18-nahuel-pan`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a tiny rural railway station on the Patagonian steppe: a small old wooden station building next to a narrow-gauge track, a vintage steam locomotive stopped at the platform, open grassland and distant mountains under a vast sky. Soft late morning light, medium-wide shot. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-18-la-hoya`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Cerro La Hoya above Esquel, Chubut, Argentina, in winter: broad snow-covered mountain slopes with ski runs through scattered lenga forest, the valley and town below, clear blue sky. Bright crisp morning light, wide-angle. Natural cool palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-18-la-zeta`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of Laguna La Zeta near Esquel, Chubut, Argentina: a calm blue lagoon among low hills with scattered shrubs and forest, a single kayak gliding on the water in the distance, mountains on the horizon. Soft early morning light with mirror reflections, wide-angle. Natural palette. natural colors, high detail, small distant kayaker allowed, no text, no watermark, no logos.
+
+### `AND-19-principal`
+**Formato:** horizontal 3:2 (se recorta a una franja panorámica: dejá el motivo en la franja central)
+Photorealistic editorial travel photograph of a tulip field in bloom in the valley of Trevelin, Chubut, Argentina: long straight rows of red, yellow, pink and white tulips stretching toward a line of poplar trees, with the snow-capped Andes rising behind. Spring morning light, clear sky, wide-angle panoramic composition with the flower rows and snowy peaks in the central band. Vivid but natural palette, not oversaturated. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-19-nant-fall`
+**Formato:** vertical 2:3 (se recorta a 4:5)
+Photorealistic editorial travel photograph of one of the Nant y Fall waterfalls near Trevelin, Chubut, Argentina: a white waterfall dropping over a rocky ledge into a pool, framed by Andean-Patagonian forest, a wooden viewing platform at the edge of the frame. Soft diffuse light, slow shutter for silky water, vertical framing. Natural green palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+
+### `AND-19-molino`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of an old brick flour mill building from the Welsh colony era in a small Patagonian town: a tall rectangular red-brick structure with small windows and a pitched roof, poplar trees and mountains behind. Soft afternoon light, three-quarter view. Natural warm palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-19-malacara`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a simple old gravestone for a horse in a quiet garden of a Patagonian town: a small weathered stone marker with a plaque, fresh grass and flowers around, poplar trees behind. Soft late afternoon light, medium shot, shallow depth of field. Natural palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
+**Mejor foto real del lugar.**
+
+### `AND-19-torta-negra`
+**Formato:** horizontal 3:2 (se recorta a 16:9)
+Photorealistic editorial travel photograph of a Welsh afternoon tea in a Patagonian tea house: a slice of torta negra (dark Welsh fruit cake, very dark brown and dense, studded with dried fruits and nuts) on a delicate china plate, a teapot with a knitted cozy, cups of tea, scones and jam on a lace tablecloth by a window with garden light. Warm soft side light, close-up with shallow depth of field. Warm, cozy palette. natural colors, high detail, no people unless stated, no text, no watermark, no logos.
