@@ -1,5 +1,5 @@
-"""Genera guia-preview.html a partir de paginas.json. Las imágenes se buscan en img/<slot>.jpg|png|webp;
-si no existen, se dibuja un recuadro con el nombre del archivo que falta."""
+"""Genera guia-preview.html a partir de paginas.json. Cada recuadro de imagen muestra img/<slot>.jpg|png|webp
+si existe y, si no, un recuadro rayado con el nombre del archivo que falta."""
 import json
 import os
 from html import escape
@@ -11,10 +11,10 @@ ORANGE = "#c45c1a"
 
 
 def img(slot, cls=""):
-    for ext in ("jpg", "jpeg", "png", "webp"):
-        if os.path.exists(os.path.join(BASE, "img", f"{slot}.{ext}")):
-            return f'<div class="img {cls}" style="background-image:url(\'img/{slot}.{ext}\')"></div>'
-    return f'<div class="img ph {cls}"><span>Imagen<br><b>{escape(slot)}</b></span></div>'
+    # La foto se busca al abrir el HTML: si img/<slot>.jpg|png|webp existe tapa el recuadro rayado.
+    urls = ", ".join(f"url('img/{slot}.{ext}')" for ext in ("jpg", "png", "webp"))
+    return (f'<div class="img ph {cls}"><span>Imagen<br><b>{escape(slot)}</b></span>'
+            f'<div class="pic" style="background-image:{urls}"></div></div>')
 
 
 ICONS = {

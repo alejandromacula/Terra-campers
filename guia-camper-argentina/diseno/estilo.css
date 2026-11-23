@@ -13,7 +13,8 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .page:last-child{page-break-after:auto;}
 
 /* ---------- imágenes ---------- */
-.img{background-size:cover;background-position:center;background-color:#e4ddd1;}
+.img{position:relative;background-color:#e4ddd1;}
+.img .pic{position:absolute;inset:0;background-size:cover;background-position:center;}
 .ph{display:flex;align-items:center;justify-content:center;text-align:center;
   background:repeating-linear-gradient(135deg,#e7e0d4 0 6px,#e1d9cc 6px 12px);}
 .ph span{font-size:5.8pt;line-height:7.2pt;letter-spacing:.06em;text-transform:uppercase;color:#7b746a;}
@@ -63,7 +64,6 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .feat figcaption i{display:block;width:6mm;height:.9mm;margin-bottom:2mm;}
 .feat figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:7.4pt;letter-spacing:.16em;text-transform:uppercase;}
 .feat figcaption span{display:block;font-size:6.6pt;letter-spacing:.06em;text-transform:uppercase;margin-top:.6mm;opacity:.92;}
-.feat .ph + figcaption{background:none;color:var(--ink);}
 
 .fila{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;margin:4.4mm var(--mr) 0 var(--mx);padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
 .cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:3.4mm;}

@@ -16,7 +16,8 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .page:last-child{page-break-after:auto;}
 
 /* ---------- imágenes ---------- */
-.img{background-size:cover;background-position:center;background-color:#e4ddd1;}
+.img{position:relative;background-color:#e4ddd1;}
+.img .pic{position:absolute;inset:0;background-size:cover;background-position:center;}
 .ph{display:flex;align-items:center;justify-content:center;text-align:center;
   background:repeating-linear-gradient(135deg,#e7e0d4 0 6px,#e1d9cc 6px 12px);}
 .ph span{font-size:5.8pt;line-height:7.2pt;letter-spacing:.06em;text-transform:uppercase;color:#7b746a;}
@@ -66,7 +67,6 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .feat figcaption i{display:block;width:6mm;height:.9mm;margin-bottom:2mm;}
 .feat figcaption b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:7.4pt;letter-spacing:.16em;text-transform:uppercase;}
 .feat figcaption span{display:block;font-size:6.6pt;letter-spacing:.06em;text-transform:uppercase;margin-top:.6mm;opacity:.92;}
-.feat .ph + figcaption{background:none;color:var(--ink);}
 
 .fila{display:grid;grid-template-columns:var(--rail) 1fr;column-gap:4mm;margin:4.4mm var(--mr) 0 var(--mx);padding-bottom:4.2mm;border-bottom:.5pt solid var(--rule);}
 .cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:3.4mm;}
@@ -120,7 +120,7 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .indice li{break-inside:avoid;display:grid;grid-template-columns:13mm 1fr;font-size:8.2pt;line-height:10.4pt;padding:1mm 0;}
 .indice li span{font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.4pt;letter-spacing:.1em;}
 </style></head><body><section class="page portada">
-  <div class="img ph hero-full"><span>Imagen<br><b>portada</b></span></div>
+  <div class="img ph hero-full"><span>Imagen<br><b>portada</b></span><div class="pic" style="background-image:url('img/portada.jpg'), url('img/portada.png'), url('img/portada.webp')"></div></div>
   <div class="portada-shade"></div>
   <div class="portada-top"><span class="logo">Terra<br>Campers</span></div>
   <div class="portada-text">
@@ -150,7 +150,7 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
   <p class="credit-ia">Imágenes ilustrativas generadas con inteligencia artificial. Datos relevados en 2026: confirmá horarios y estado de caminos antes de viajar.</p>
   <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Guía de ruta</span></footer>
 </section><section class="page apertura">
-  <div class="img ph hero-open"><span>Imagen<br><b>NOR-apertura</b></span></div>
+  <div class="img ph hero-open"><span>Imagen<br><b>NOR-apertura</b></span><div class="pic" style="background-image:url('img/NOR-apertura.jpg'), url('img/NOR-apertura.png'), url('img/NOR-apertura.webp')"></div></div>
   <div class="hero-fade"></div>
   <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
   <div class="ap-body">
@@ -162,7 +162,7 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
   </div>
   <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino</span></footer>
 </section><section class="page lugar">
-  <div class="img ph hero"><span>Imagen<br><b>NOR-01-principal</b></span></div>
+  <div class="img ph hero"><span>Imagen<br><b>NOR-01-principal</b></span><div class="pic" style="background-image:url('img/NOR-01-principal.jpg'), url('img/NOR-01-principal.png'), url('img/NOR-01-principal.webp')"></div></div>
   <div class="hero-fade"></div>
   <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
   <header class="head">
@@ -180,16 +180,16 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
   </header>
   <div class="mid">
     <div class="mid-text"><div class="blk"><h3 class="lab">Historia<i style="background:#a8441f"></i></h3><p>Nació en 1995 como Campo de los Alisos y en 2018 se amplió como Parque Nacional Aconquija. Arriba, a más de 4.000 m, está La Ciudacita, un sitio inca del Qhapaq Ñan, Patrimonio Mundial.</p></div><div class="blk"><h3 class="lab">Selva y altura<i style="background:#a8441f"></i></h3><p>Protege yungas y altos Andes en la ladera oriental del Aconquija. El nombre viene de los bosques de aliso del cerro; más abajo crecen el pino del cerro y el nogal criollo.</p></div><div class="blk"><h3 class="lab">Senderos<i style="background:#a8441f"></i></h3><p>Junto al centro operativo Santa Rosa sale un circuito fácil de unos 800 m (~40 min). A La Ciudacita, solo con guía y avisando al parque con días de anticipación.</p></div></div>
-    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-01-ciudacita</b></span></div><figcaption><i style="background:#a8441f"></i><b>La Ciudacita</b><span>Sitio inca a más de 4.000 m</span></figcaption></figure>
+    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-01-ciudacita</b></span><div class="pic" style="background-image:url('img/NOR-01-ciudacita.jpg'), url('img/NOR-01-ciudacita.png'), url('img/NOR-01-ciudacita.webp')"></div></div><figcaption><i style="background:#a8441f"></i><b>La Ciudacita</b><span>Sitio inca a más de 4.000 m</span></figcaption></figure>
   </div>
   <div class="fila n3">
     <h3 class="lab">Flora y fauna<i style="background:#a8441f"></i></h3>
-    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-taruca</b></span></div><figcaption><b>Taruca</b><span>Ciervo andino en peligro. Verlo exige caminar alto.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-aliso</b></span></div><figcaption><b>Aliso del cerro</b><span>Le daba nombre al viejo parque. Bosques en las laderas medias.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-amancay</b></span></div><figcaption><b>Amancay</b><span>Flor del bosque bajo, cerca de los 1.400 m.</span></figcaption></figure></div>
+    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-taruca</b></span><div class="pic" style="background-image:url('img/NOR-01-taruca.jpg'), url('img/NOR-01-taruca.png'), url('img/NOR-01-taruca.webp')"></div></div><figcaption><b>Taruca</b><span>Ciervo andino en peligro. Verlo exige caminar alto.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-aliso</b></span><div class="pic" style="background-image:url('img/NOR-01-aliso.jpg'), url('img/NOR-01-aliso.png'), url('img/NOR-01-aliso.webp')"></div></div><figcaption><b>Aliso del cerro</b><span>Le daba nombre al viejo parque. Bosques en las laderas medias.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-01-amancay</b></span><div class="pic" style="background-image:url('img/NOR-01-amancay.jpg'), url('img/NOR-01-amancay.png'), url('img/NOR-01-amancay.webp')"></div></div><figcaption><b>Amancay</b><span>Flor del bosque bajo, cerca de los 1.400 m.</span></figcaption></figure></div>
   </div>
   <div class="cierre"><div class="cl"><h3 class="lab">Para pajarear<i style="background:#a8441f"></i></h3><p>Unas 260 especies registradas: el sendero corto del portal ya da buenas chances. Llevá binoculares.</p></div><div class="cl"><h3 class="lab">En la camper<i style="background:#a8441f"></i></h3><p>El portal tiene camping con baños y parrillas. Salí de Concepción con tanque lleno y agua, y consultá el ripio en aconquija@apn.gob.ar.</p></div></div>
   <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino <i style="color:#a8441f">/</i> <b>01</b></span></footer>
 </section><section class="page lugar">
-  <div class="img ph hero"><span>Imagen<br><b>NOR-02-principal</b></span></div>
+  <div class="img ph hero"><span>Imagen<br><b>NOR-02-principal</b></span><div class="pic" style="background-image:url('img/NOR-02-principal.jpg'), url('img/NOR-02-principal.png'), url('img/NOR-02-principal.webp')"></div></div>
   <div class="hero-fade"></div>
   <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
   <header class="head">
@@ -207,16 +207,16 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
   </header>
   <div class="mid">
     <div class="mid-text"><div class="blk"><h3 class="lab">Historia<i style="background:#a8441f"></i></h3><p>Son monolitos de la cultura Tafí, que habitó el valle entre el 800 a.C. y el 800 d.C. En 1977, durante la dictadura, los arrancaron de sus sitios y los juntaron frente al dique La Angostura.</p></div><div class="blk"><h3 class="lab">La subida<i style="background:#a8441f"></i></h3><p>La RP 307 trepa por la Quebrada de Los Sosa, reserva de selva nublada con helechos y orquídeas. Arriba se abre el valle, de prados y bosquecillos de montaña.</p></div><div class="blk"><h3 class="lab">El nombre<i style="background:#a8441f"></i></h3><p>&quot;Menhir&quot; se los pusieron los investigadores del siglo XIX, por su parecido con los monolitos celtas. Sus creadores los llamaban huancas.</p></div></div>
-    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-02-menhir</b></span></div><figcaption><i style="background:#a8441f"></i><b>Menhir</b><span>Cultura Tafí, 800 a.C.–800 d.C.</span></figcaption></figure>
+    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-02-menhir</b></span><div class="pic" style="background-image:url('img/NOR-02-menhir.jpg'), url('img/NOR-02-menhir.png'), url('img/NOR-02-menhir.webp')"></div></div><figcaption><i style="background:#a8441f"></i><b>Menhir</b><span>Cultura Tafí, 800 a.C.–800 d.C.</span></figcaption></figure>
   </div>
   <div class="fila n3">
     <h3 class="lab">En el camino<i style="background:#a8441f"></i></h3>
-    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-los-sosa</b></span></div><figcaption><b>Selva de Los Sosa</b><span>Selva nublada entre los km 20 y 38 de la RP 307.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-condor</b></span></div><figcaption><b>Cóndor andino</b><span>Hubo liberaciones en Tafí: buscalo sobre los cerros.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-infiernillo</b></span></div><figcaption><b>Abra del Infiernillo</b><span>3.042 m: el punto más alto de las rutas tucumanas.</span></figcaption></figure></div>
+    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-los-sosa</b></span><div class="pic" style="background-image:url('img/NOR-02-los-sosa.jpg'), url('img/NOR-02-los-sosa.png'), url('img/NOR-02-los-sosa.webp')"></div></div><figcaption><b>Selva de Los Sosa</b><span>Selva nublada entre los km 20 y 38 de la RP 307.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-condor</b></span><div class="pic" style="background-image:url('img/NOR-02-condor.jpg'), url('img/NOR-02-condor.png'), url('img/NOR-02-condor.webp')"></div></div><figcaption><b>Cóndor andino</b><span>Hubo liberaciones en Tafí: buscalo sobre los cerros.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-02-infiernillo</b></span><div class="pic" style="background-image:url('img/NOR-02-infiernillo.jpg'), url('img/NOR-02-infiernillo.png'), url('img/NOR-02-infiernillo.webp')"></div></div><figcaption><b>Abra del Infiernillo</b><span>3.042 m: el punto más alto de las rutas tucumanas.</span></figcaption></figure></div>
   </div>
   <div class="cierre"><div class="cl"><h3 class="lab">Si tenés un día más<i style="background:#a8441f"></i></h3><p>Seguí 22 km hasta el Abra del Infiernillo y bajá a Amaicha: es la puerta a Quilmes, la página siguiente.</p></div><div class="cl"><h3 class="lab">En la camper<i style="background:#a8441f"></i></h3><p>RP 307 de curvas: sin apuro. En invierno se corta por hielo en El Infiernillo. Para dormir, el Camping Municipal Los Sauzales.</p></div></div>
   <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino <i style="color:#a8441f">/</i> <b>02</b></span></footer>
 </section><section class="page lugar">
-  <div class="img ph hero"><span>Imagen<br><b>NOR-03-principal</b></span></div>
+  <div class="img ph hero"><span>Imagen<br><b>NOR-03-principal</b></span><div class="pic" style="background-image:url('img/NOR-03-principal.jpg'), url('img/NOR-03-principal.png'), url('img/NOR-03-principal.webp')"></div></div>
   <div class="hero-fade"></div>
   <div class="tab" style="top:30mm;background:#a8441f"><span>Norte argentino</span></div>
   <header class="head">
@@ -234,11 +234,11 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
   </header>
   <div class="mid">
     <div class="mid-text"><div class="blk"><h3 class="lab">Historia<i style="background:#a8441f"></i></h3><p>Los quilmes, un pueblo diaguita-calchaquí, levantaron la ciudad en la Sierra del Cajón. Tras la derrota de 1665, cerca de mil personas fueron desterradas a pie hasta Buenos Aires: ahí nació la actual ciudad de Quilmes.</p></div><div class="blk"><h3 class="lab">Hoy<i style="background:#a8441f"></i></h3><p>El sitio se gestiona junto con la Comunidad India Quilmes, descendiente de aquel pueblo.</p></div><div class="blk"><h3 class="lab">Paisaje<i style="background:#a8441f"></i></h3><p>Desde los miradores se ven las terrazas de piedra, la ladera cubierta de cardones y el fondo seco del Valle Calchaquí.</p></div></div>
-    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-03-pirca</b></span></div><figcaption><i style="background:#a8441f"></i><b>Muros de pirca</b><span>Piedra sin argamasa, a 1.850 msnm</span></figcaption></figure>
+    <figure class="feat"><div class="img ph feat-img"><span>Imagen<br><b>NOR-03-pirca</b></span><div class="pic" style="background-image:url('img/NOR-03-pirca.jpg'), url('img/NOR-03-pirca.png'), url('img/NOR-03-pirca.webp')"></div></div><figcaption><i style="background:#a8441f"></i><b>Muros de pirca</b><span>Piedra sin argamasa, a 1.850 msnm</span></figcaption></figure>
   </div>
   <div class="fila n2">
     <h3 class="lab">Para ver<i style="background:#a8441f"></i></h3>
-    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-03-cardon</b></span></div><figcaption><b>Cardón</b><span>El cactus columnar que marca los Valles Calchaquíes.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-03-centro</b></span></div><figcaption><b>Centro de Interpretación</b><span>Empezá por acá: sin contexto, las ruinas son piedras.</span></figcaption></figure></div>
+    <div class="cards"><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-03-cardon</b></span><div class="pic" style="background-image:url('img/NOR-03-cardon.jpg'), url('img/NOR-03-cardon.png'), url('img/NOR-03-cardon.webp')"></div></div><figcaption><b>Cardón</b><span>El cactus columnar que marca los Valles Calchaquíes.</span></figcaption></figure><figure class="card"><div class="img ph thumb"><span>Imagen<br><b>NOR-03-centro</b></span><div class="pic" style="background-image:url('img/NOR-03-centro.jpg'), url('img/NOR-03-centro.png'), url('img/NOR-03-centro.webp')"></div></div><figcaption><b>Centro de Interpretación</b><span>Empezá por acá: sin contexto, las ruinas son piedras.</span></figcaption></figure></div>
   </div>
   <div class="cierre"><div class="cl"><h3 class="lab">Antes de ir<i style="background:#a8441f"></i></h3><p>Empezá por la visita guiada del Centro de Interpretación. Llevá agua, sombrero y protector para los miradores.</p></div><div class="cl"><h3 class="lab">En la camper<i style="background:#a8441f"></i></h3><p>No hay camping en el sitio: dormí en Amaicha del Valle o seguí a Cafayate. El ripio de acceso está en mal estado.</p></div></div>
   <footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Norte argentino <i style="color:#a8441f">/</i> <b>03</b></span></footer>
