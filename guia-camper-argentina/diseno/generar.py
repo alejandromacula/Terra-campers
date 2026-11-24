@@ -61,8 +61,8 @@ def page_portada(p):
     <h1>{escape(p["titulo"])}</h1>
     <p class="sub">{escape(p["subtitulo"])}</p>
     <div class="rule" style="background:{ORANGE}"></div>
-    <p class="linea">{escape(p["linea"])}</p>
   </div>
+  <p class="portada-pie">{escape(p["linea"])}</p>
 </section>'''
 
 
