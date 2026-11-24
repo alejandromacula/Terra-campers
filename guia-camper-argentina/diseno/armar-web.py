@@ -46,14 +46,25 @@ chips = '<a href="#portada" class="chip"><i style="background:#c45c1a"></i>Inici
     f'<a href="#{k}" class="chip"><i style="background:{r["color"]}"></i>{r["nombre"]}</a>'
     for k, r in sorted(REG.items(), key=lambda kv: kv[1]["orden"]))
 
+# Cada página en su hoja; el id pasa a la hoja para que los saltos caigan en el lugar escalado.
+def envolver(m):
+    ident = f' id="{m.group(2)}"' if m.group(2) else ""
+    return f'<div class="hoja"{ident}><section class="page{m.group(1)}">'
+cuerpo = re.sub(r'<section class="page([^"]*)"(?: id="([^"]+)")?>', envolver, cuerpo)
+cuerpo = cuerpo.replace("</section>", "</section></div>")
+
 pantalla = """
 /* Versión de pantalla: las mismas páginas del libro, apiladas sobre una mesa, con barra de regiones arriba. */
 :root{--mesa:#ddd6ca;--barra:#f7f4ee;--tinta:#1f1c18;--linea:#cfc6b8;--z:1;}
 @media screen{
+  html{-webkit-text-size-adjust:100%;text-size-adjust:100%;}
   html,body{background:var(--mesa);}
   body{padding-block:64px 32px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));}
   body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--barra);}
-  .page{zoom:var(--z);margin:0 auto 22px;box-shadow:0 1px 3px rgba(60,45,30,.18),0 8px 24px rgba(60,45,30,.14);}
+  /* Cada página va en una "hoja" del tamaño ya escalado; la página se achica con transform (Safari respeta transform, no zoom). */
+  .hoja{width:calc(170mm * var(--z));height:calc(255mm * var(--z));margin:0 auto 22px;overflow:clip;position:relative;
+    box-shadow:0 1px 3px rgba(60,45,30,.18),0 8px 24px rgba(60,45,30,.14);}
+  .hoja > .page{transform:scale(var(--z));transform-origin:0 0;}
   .page:target{outline:none;}
   .barra{position:fixed;top:env(safe-area-inset-top,0px);left:0;right:0;z-index:9;background:var(--barra);border-bottom:1px solid var(--linea);
     padding-left:max(12px,env(safe-area-inset-left,0px));padding-right:max(12px,env(safe-area-inset-right,0px));}
@@ -64,7 +75,7 @@ pantalla = """
   .chip:hover{border-color:var(--tinta);}
   .chip:focus-visible{outline:2px solid var(--tinta);outline-offset:2px;}
   .chip i{width:10px;height:10px;border-radius:50%;display:block;}
-  section.page{scroll-margin-top:72px;}
+  .hoja{scroll-margin-top:64px;}
 }
 """
 script = """<script>
