@@ -97,7 +97,7 @@ def page_como_usar():
       <p class="small">Datos para el viaje, historia, paisaje, flora y fauna, y al final lo que tenés que saber para llegar y dormir con la camper. Los consejos (fotografía, cielo, dónde comer) aparecen solo donde hay algo realmente propio del lugar.</p>
     </div>
   </div>
-  <p class="credit-ia">Imágenes ilustrativas generadas con inteligencia artificial. Datos relevados en 2026: confirmá horarios y estado de caminos antes de viajar.</p>
+  <p class="credit-ia">Foto de portada: Terra Campers. Las demás imágenes son ilustrativas, generadas con inteligencia artificial. Datos relevados en 2026: confirmá horarios y estado de caminos antes de viajar.</p>
   {footer(None, "")}
 </section>'''
 

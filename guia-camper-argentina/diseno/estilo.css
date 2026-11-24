@@ -84,14 +84,15 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .cl .lab i{margin-top:1.4mm;}
 
 /* ---------- portada ---------- */
-.portada .hero-full{position:absolute;inset:0;}
-.portada-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,0) 45%,rgba(0,0,0,.72) 100%);}
+.portada .hero-full{position:absolute;top:0;left:0;width:100%;height:180mm;}
+.portada .hero-full .pic{background-position:20% center;}
+.portada-shade{position:absolute;top:0;left:0;width:100%;height:181mm;background:linear-gradient(180deg,rgba(0,0,0,.38) 0%,rgba(0,0,0,0) 20%,rgba(247,244,238,0) 88%,var(--bg) 100%);}
 .portada-top{position:absolute;top:12mm;left:12mm;}
 .logo{font-family:'Montserrat',sans-serif;font-weight:600;font-size:9pt;line-height:11pt;letter-spacing:.32em;text-transform:uppercase;color:#fff;}
-.portada-text{position:absolute;left:12mm;right:14mm;bottom:16mm;color:#fff;}
+.portada-text{position:absolute;left:12mm;right:14mm;bottom:17mm;color:var(--ink);}
 .portada h1{font-family:'Montserrat',sans-serif;font-weight:800;font-size:40pt;line-height:37pt;letter-spacing:-.015em;text-transform:uppercase;margin-top:2mm;}
 .portada .sub{font-style:italic;font-size:15pt;line-height:18pt;margin-top:2.4mm;}
-.portada .linea{font-size:8.6pt;line-height:11.4pt;max-width:110mm;opacity:.95;}
+.portada .linea{font-size:8.6pt;line-height:11.4pt;max-width:110mm;color:var(--muted);}
 
 /* ---------- interior / cómo usar ---------- */
 .interior{padding:20mm var(--mr) 0 var(--mx);}
