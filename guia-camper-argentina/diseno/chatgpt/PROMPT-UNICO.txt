@@ -1,0 +1,780 @@
+Necesito que generes las 735 fotos de una guía de viaje impresa de Argentina en camper, la "Guía de Ruta Terra Campers". Abajo está la lista completa: cada línea tiene el código de la imagen y qué tiene que mostrar. Te adjunto una foto de mi camioneta.
+
+CÓMO TRABAJAMOS
+- Seguí el orden de la lista. Generá una imagen por respuesta y escribí arriba de cada una solo su código exacto (por ejemplo: NOR-04-principal). Cuando te escriba "seguí", pasá a la siguiente. Si te pido rehacer una, rehacela con el mismo código.
+- Al terminar cada región (cada título ##), dame la lista de códigos generados, salteados y dudosos.
+- Antes de cada imagen, ampliá la descripción de la lista por tu cuenta como un fotógrafo profesional: lugar real, luz, hora, lente, composición. No me muestres ese texto, solo la imagen con su código.
+
+FORMATO (la imagen después se recorta)
+- Por defecto: horizontal 3:2, con el motivo centrado.
+- Las que terminan en "-principal" y las "-apertura": horizontal 3:2, pero se recortan a una franja panorámica, así que lo importante tiene que estar en la franja horizontal del medio.
+- [V]: vertical 2:3, con el motivo centrado. La portada es vertical, con cielo limpio arriba para el logo y suelo más oscuro abajo para el título.
+
+REGLAS PARA TODAS
+1. Tienen que parecer fotos reales de revista de viajes, sacadas con cámara. Luz natural de un solo sol, profundidad de campo creíble, grano leve, colores naturales sin saturar. Nada de HDR exagerado, brillo plástico, cielos de póster, simetrías perfectas ni aspecto de render o ilustración.
+2. Nada que delate a la IA: sin texto, letras, carteles, patentes, logos, marcas de agua ni bordes. Sin objetos duplicados, fundidos o deformes. Horizonte derecho, y sombras y reflejos coherentes. Nada de arcoíris, auroras, Vía Láctea ni lunas gigantes si la línea no los pide.
+3. No inventes nada. Respetá la geografía, la vegetación y el clima reales de cada lugar de Argentina. Los animales y plantas tienen que ser exactamente de la especie indicada, con su anatomía y sus colores reales (por ejemplo, el cóndor andino tiene la cabeza oscura y pelada, el collar blanco y manchas blancas en las alas, no la cabeza blanca). Si no sabés cómo es algo con exactitud, elegí un encuadre donde ese detalle no sea el protagonista.
+4. [R] = lugar, edificio, negocio, cartel o monumento concreto. Una versión generada casi nunca se parece al real, y se nota. No reproduzcas la fachada ni el cartel de frente. Elegí un encuadre auténtico y menos identificable: el paisaje o la calle alrededor, un detalle (puerta de madera, pared de adobe, barricas, vitrina, mesa servida) o el edificio lejos, parcial o a contraluz. Que se sienta verdadero sin que nadie pueda decir "ese no es el lugar". En ciudades, preferí el lago, la montaña o una calle típica antes que el monumento o el cartel famoso.
+5. VEHÍCULOS: nunca pongas camionetas, campers, motorhomes, pickups, autos ni ningún otro vehículo. La única excepción son las marcadas [CAM], y ahí la única camioneta es la de mi foto: misma marca, modelo, color, forma, ventanas, llantas y detalles, sin patente ni logos legibles, sin agregarle ni quitarle nada. Si no podés hacerla idéntica, avisame en vez de dibujar otra.
+6. PERSONAS: ninguna, salvo que la línea las pida. Si las pide, que sean chicas en el cuadro, lejos o de espaldas, sin caras reconocibles.
+7. [SKIP] = no la generes, solo anotala en la lista de salteadas.
+
+Empezá ahora con la primera imagen (portada).
+
+LISTA DE IMÁGENES
+## Portada y aperturas de región
+portada [V,CAM]: the Terra Campers van from the reference photo parked on the gravel shoulder of the Ruta 40 at golden
+NOR-apertura: the Cerro de los Siete Colores in Purmamarca, Jujuy
+LIT-apertura: the Iguazú Falls, Misiones
+CUY-apertura: the Aconcagua south face seen from the Laguna de Horcones, Mendoza
+COR-apertura: the Sierras de Córdoba, from the Camino de las Altas Cumbres
+AND-apertura: the Lanín volcano, Neuquén
+AUS-apertura: the Fitz Roy massif near El Chaltén, Santa Cruz, at sunrise
+BSA-apertura: the Sierra de la Ventana
+BSA-P-apertura: a small pampas town in Buenos Aires province, at golden hour
+
+## Norte argentino
+NOR-01-principal: a montane cloud forest of Andean alder trees (Alnus acuminata) on the eastern slope of the Aconquija
+NOR-01-ciudacita [V]: Inca stone ruins above 4,000 m on the Aconquija range, Tucumán (La Ciudacita)
+NOR-01-taruca: a taruca, the north Andean deer (Hippocamelus antisensis)
+NOR-01-aliso: Andean alder (Alnus acuminata) branches
+NOR-01-amancay [SKIP]: an amancay flower in the Tucumán yungas, green montane forest background out of focus, soft light
+NOR-02-principal: the menhirs of Tafí del Valle at El Mollar, Tucumán
+NOR-02-menhir [V]: Photorealistic close-up of a tall grey granite menhir from the Tafí culture with a simple carved human
+NOR-02-los-sosa: the Quebrada de Los Sosa, Tucumán
+NOR-02-condor: an Andean condor (Vultur gryphus) soaring
+NOR-02-infiernillo: the Abra del Infiernillo mountain pass, Tucumán, at 3,042 m
+NOR-03-principal: the Ruins of Quilmes (Ciudad Sagrada de los Quilmes), Tucumán
+NOR-03-pirca [V]: Photorealistic close-up of an ancient dry-stone wall (pirca) at the Quilmes ruins
+NOR-03-cardon: tall columnar cardón cacti (Leucostele terscheckii, many-armed, ribbed, up to 10 m tall) on a dry rocky
+NOR-03-centro [R]: a small museum display of ancient Diaguita ceramics (painted urns with geometric black-and-red motifs)
+NOR-04-principal: high-altitude vineyards of Torrontés grapes on the floor of the Calchaquí Valley around Cafayate, Salta
+NOR-04-torrontes [V]: a ripe bunch of Torrontés grapes (Vitis vinifera, white variety) hanging on the vine in Cafayate
+NOR-04-museo-vino [R]: the interior of a small wine museum in a northern Argentine valley town
+NOR-04-jarilla: jarilla (Larrea divaricata) in bloom in the dry Monte scrubland of the Calchaquí Valley, Salta
+NOR-04-zorro-gris: a South American grey fox, zorro gris (Lycalopex griseus), in the dry Monte scrub of the Calchaquí Valley
+NOR-05-principal: the Quebrada de las Conchas, Salta
+NOR-05-anfiteatro [V]: El Anfiteatro, Quebrada de las Conchas, Salta
+NOR-05-garganta: the Garganta del Diablo in the Quebrada de las Conchas, Salta
+NOR-05-castillos: Los Castillos in the Quebrada de las Conchas, Salta
+NOR-05-quirquincho: a screaming hairy armadillo, quirquincho chico (Chaetophractus vellerosus)
+NOR-06-principal: the city of Salta, seen from the summit of Cerro San Bernardo at sunset
+NOR-06-ofrendas [V,R]: Inca ritual offerings in a glass display case
+NOR-06-teleferico [R]: small cable car cabins gliding on a cable up a green wooded hillside above a city in a mountain valley
+NOR-06-plaza [R]: a colonial main square
+NOR-06-xamena [R]: an enormous rectangular public swimming pool, as large as a lake, with turquoise water, surrounded by
+NOR-07-principal: the Recta de Tin Tin in Los Cardones National Park, Salta
+NOR-07-pasacana [V]: a giant cardón or pasacana cactus (Leucostele atacamensis, syn
+NOR-07-cuesta-obispo: the Cuesta del Obispo, Salta, seen from above
+NOR-07-ojo-condor: a short gravel footpath winding between giant columnar cardón cacti on a high Andean slope in Los
+NOR-07-gato-andino: an Andean cat, gato andino (Leopardus jacobita)
+NOR-08-principal [R]: a small whitewashed adobe colonial church on the main square of an Andean village in the Calchaquí
+NOR-08-techo-cardon [V,R]: a ceiling made of cardón cactus wood in an old adobe church
+NOR-08-calle-adobe: a quiet cobbled street in an Andean village in the Calchaquí Valleys
+NOR-08-nevado: the Nevado de Cachi, Salta
+NOR-08-guanaco: a guanaco (Lama guanicoe) in the high Calchaquí Valleys
+NOR-09-principal [R]: the La Polvorilla viaduct near San Antonio de los Cobres, Salta, at 4,220 m
+NOR-09-cielo-puna [V]: the sky over the high Puna desert of Salta, near 4,900 m
+NOR-09-quebrada-toro: the Quebrada del Toro, Salta
+NOR-09-estacion [R]: a small, simple railway station in a high Andean mining town of the Argentine Puna
+NOR-09-zorro-colorado: a culpeo or Andean fox, zorro colorado (Lycalopex culpaeus), in the Puna of
+NOR-10-principal: Salinas Grandes, Jujuy, at 3,450 m
+NOR-10-panes-sal [V]: hand-cut blocks of salt stacked in neat piles on the white salt flat of Salinas Grandes, Jujuy, rough
+NOR-10-lipan: the Cuesta de Lipán, Jujuy, seen from above
+NOR-10-salar-espejo: Salinas Grandes, Jujuy, in the rainy season
+NOR-11-principal: the Cerro de los Siete Colores in Purmamarca, Jujuy
+NOR-11-franjas [V]: the folded, multicolored rock layers of the Cerro de los Siete Colores, Purmamarca
+NOR-11-colorados: the Paseo de los Colorados near Purmamarca, Jujuy
+NOR-11-calle-adobe: a narrow dirt street in Purmamarca, Jujuy
+NOR-12-principal: the Pucará de Tilcara, Jujuy
+NOR-12-recintos [V]: a partially reconstructed pre-Hispanic stone house in an Andean hilltop fortress
+NOR-12-monumento [R]: a simple stone monument shaped like a truncated pyramid standing on the summit of a rocky hill among
+NOR-12-jardin-botanico: a high-altitude botanical garden in the Quebrada de Humahuaca
+NOR-12-museo [R]: the interior of a small archaeological museum in an Andean town of northern
+NOR-13-principal: the Serranía de Hornocal near Humahuaca, Jujuy, seen from the viewpoint at 4,350 m
+NOR-13-dientes [V]: a detail of the Serranía de Hornocal, Jujuy
+NOR-13-monumento [R]: a large stone and bronze independence monument on top of a hill in an Andean town of northern, reached
+NOR-13-calle: a narrow cobblestone street in Humahuaca, Jujuy
+NOR-14-principal: the village of Iruya, Salta, seen from the viewpoint across the valley
+NOR-14-iglesia [V,R]: a small colonial Andean church in a mountain village of northern
+NOR-14-abra-condor: the Abra del Cóndor, a high mountain pass at about 4,000 m on the border between Jujuy and Salta
+NOR-14-san-isidro: a footpath following a wide stony riverbed up a narrow Andean gorge toward a tiny hamlet of adobe houses
+NOR-14-cachis [R]: a traditional Andean masked dance at a village patron-saint festival
+NOR-15-principal: the Laguna de los Pozuelos, Jujuy
+NOR-15-parina-grande [V]: an Andean flamingo, parina grande (Phoenicoparrus andinus), in a shallow Puna lagoon
+NOR-15-parina-chica: James's flamingo, parina chica (Phoenicoparrus jamesi), the smallest of the three Andean flamingos
+NOR-15-flamenco-austral: a Chilean flamingo, flamenco austral (Phoenicopterus chilensis)
+NOR-15-suri: a Puna rhea, suri (Rhea pennata tarapacensis / Rhea tarapacensis)
+NOR-16-principal: the yungas cloud forest in Calilegua National Park, Jujuy, seen from Provincial Route 83
+NOR-16-mono-cai [V]: a hooded capuchin monkey, mono caí (Sapajus cay)
+NOR-16-tipa: a tipa tree (Tipuana tipu) in the foothill forest of the yungas, Jujuy
+NOR-16-tapir: a South American tapir, anta (Tapirus terrestris)
+NOR-16-pino-cerro: pino del cerro (Podocarpus parlatorei), a native conifer of the Andean montane forest
+NOR-17-principal: Baritú National Park, Salta
+NOR-17-yaguarete [V]: a jaguar, yaguareté (Panthera onca)
+NOR-17-cruce-bermejo [R]: a river border crossing in subtropical northern
+NOR-17-lipeo [R]: a small, rustic park ranger station in a remote jungle valley of northern
+NOR-18-principal: El Rey National Park, Salta
+NOR-18-los-patitos [V]: a small, calm forest lagoon in El Rey National Park, Salta
+NOR-18-pecari: a herd of white-lipped peccaries, pecarí labiado (Tayassu pecari)
+NOR-18-pava-monte: a dusky-legged guan, pava de monte (Penelope obscura)
+NOR-18-charata: a chaco chachalaca, charata (Ortalis canicollis)
+NOR-19-principal: the Campo de Piedra Pómez, Catamarca, at 3,300 m
+NOR-19-pomez [V]: white pumice rock in the high Puna of Catamarca
+NOR-19-carachi-pampa: the Carachi Pampa volcano in the Puna of Catamarca
+NOR-19-flamencos: a small group of pink flamingos wading in a shallow, still lagoon in the high Puna of Catamarca, white
+NOR-19-el-penon: a tiny Puna village in Catamarca
+NOR-20-principal: Ruta Nacional 60, the Ruta de los Seismiles, in the Puna of Catamarca
+NOR-20-termas [V,R]: terraced natural hot-spring pools cascading down a dry mountain ravine in Catamarca
+NOR-20-dunas-saujil: the Saujil dunes near Fiambalá, Catamarca
+NOR-20-san-pedro [R]: an 18th-century adobe church in a small village of western Catamarca
+NOR-20-vicuna: a small herd of vicuñas (Vicugna vicugna) beside a high-altitude road in the Puna of Catamarca
+
+## Litoral
+LIT-01-principal: a carnival comparsa parading at night in the Corsódromo of Gualeguaychú, Entre Ríos
+LIT-01-nandubay [V]: a ñandubay tree (Prosopis affinis), a small thorny native mesquite of the Espinal woodland of Entre Ríos
+LIT-01-playa-nandubaysal: the Ñandubaysal beach on the Uruguay River near Gualeguaychú, Entre Ríos
+LIT-01-carpincho: a capybara (Hydrochoerus hydrochaeris) standing at the muddy edge of a marsh on the Uruguay River, Entre
+LIT-01-nandu: a greater rhea (Rhea americana) walking through open grassland in Entre Ríos
+LIT-02-principal [R]: the central courtyard of a grand 19th-century Italianate country palace in Entre Ríos (Palacio San José)
+LIT-02-oratorio [V,R]: a small private 19th-century oratory in an Argentine historic country house
+LIT-02-termas [R]: outdoor thermal pools on the bank of the Uruguay River in Colón, Entre Ríos
+LIT-02-costanera: the riverside promenade of Colón, Entre Ríos
+LIT-03-principal: the yatay palm savanna of El Palmar National Park, Entre Ríos, seen from a viewpoint at sunset
+LIT-03-yatay [V]: a yatay palm (Butia yatay) in El Palmar, Entre Ríos
+LIT-03-carpincho: a family of capybaras (Hydrochoerus hydrochaeris) resting on the grassy bank of a slow creek
+LIT-03-nandu: a greater rhea (Rhea americana) in open grassland among scattered yatay palms in El Palmar, Entre Ríos
+LIT-04-principal: the Laguna Iberá, Esteros del Iberá, Corrientes, at sunset seen from a small boat
+LIT-04-yacare [V]: a yacare caiman (Caiman yacare) resting half-submerged among floating water plants in the Iberá
+LIT-04-ciervo-pantanos: a marsh deer (Blastocerus dichotomus) standing knee-deep in a flooded grassland of the Esteros del Iberá
+LIT-04-caraya: black-and-gold howler monkeys (Alouatta caraya) in a gallery forest tree in Colonia Carlos Pellegrini
+LIT-04-carpincho: a capybara (Hydrochoerus hydrochaeris) swimming in the Laguna Iberá, Corrientes
+LIT-05-principal [R]: the ruined Baroque church facade of the Jesuit-Guaraní mission of San Ignacio Miní, Misiones
+LIT-05-piedra-tallada [V]: a carved stone relief on a ruined 17th–18th-century Jesuit-Guaraní mission wall in Misiones
+LIT-05-santa-ana [R]: the ruins of a Jesuit-Guaraní mission partly swallowed by subtropical forest in Misiones (Santa Ana)
+LIT-05-casa-quiroga [R]: a simple early-20th-century writer's house in the subtropical forest of Misiones
+LIT-05-teyu-cuare: a cliff-top viewpoint in Teyú Cuaré Provincial Park, San Ignacio, Misiones
+LIT-06-principal: the Garganta del Diablo (Devil's Throat) at Iguazú Falls, Misiones, seen from the end of the walkway
+LIT-06-vencejo [V]: great dusky swifts (Cypseloides senex) at Iguazú Falls
+LIT-06-coati: a South American coati (Nasua nasua) walking on a metal-grated walkway railing in the rainforest of
+LIT-06-tucan: a toco toucan (Ramphastos toco) perched on a branch in the subtropical rainforest of Iguazú, Misiones
+LIT-06-palo-rosa: a giant palo rosa tree (Aspidosperma polyneuron) in the Paranaense rainforest of Iguazú
+LIT-07-principal: the Moconá Falls on the Uruguay River, Misiones, seen from a boat
+LIT-07-pindo [V]: a queen palm (pindó, Syagrus romanzoffiana) in the Paranaense forest of Misiones
+LIT-07-yacaratia: a yacaratiá tree (Jacaratia dodecaphylla) in the subtropical forest of Misiones
+LIT-07-ambai: an ambaí tree (Cecropia pachystachya) at the edge of the Paranaense forest, Misiones
+LIT-08-principal: the Salto Encantado waterfall, Misiones, seen from a viewpoint
+LIT-08-la-olla [V]: a small jungle waterfall falling into a round dark natural pool (La Olla) on the Cuñá Pirú creek
+LIT-08-sendero-deck: a wooden boardwalk trail winding through dense subtropical rainforest in Misiones
+LIT-08-cuna-piru: the Cuñá Pirú creek in Misiones
+LIT-09-principal: a tall yatay palm grove (Butia yatay) at the edge of the Santa Lucía marsh in Mburucuyá National Park
+LIT-09-aguara-guazu [V]: a maned wolf (aguará guazú, Chrysocyon brachyurus) standing in tall golden grassland in Corrientes
+LIT-09-yacare-overo: a broad-snouted caiman (yacaré overo, Caiman latirostris) basking on a grassy bank of a marsh lagoon in
+LIT-09-lobito-rio: a Neotropical otter (lobito de río, Lontra longicaudis) on a log at the edge of a quiet stream in
+LIT-10-principal: the Panza de Cabra lagoon in Chaco National Park, at sunset
+LIT-10-abuelo [V,R]: a huge, very old quebracho colorado tree (Schinopsis balansae) in the Chaco forest
+LIT-10-caraya: a black-and-gold howler monkey (Alouatta caraya) male calling from a high branch in the Chaco forest
+LIT-10-guazuncho: a gray brocket deer (guazuncho, Mazama gouazoubira) standing alert at the edge of a dry Chaco forest
+LIT-10-carpincho: a group of capybaras (Hydrochoerus hydrochaeris) grazing on the edge of a lagoon in the Chaco forest
+LIT-11-principal: the Bermejo River in El Impenetrable National Park, Chaco
+LIT-11-tapir [V]: a South American tapir (Tapirus terrestris) walking out of the dry Chaco forest to a muddy riverbank in
+LIT-11-yaguarete: a jaguar (yaguareté, Panthera onca) walking along a sandy riverbank in the Chaco forest
+LIT-11-palo-santo: a palo santo forest (Bulnesia sarmientoi) in the low lands of the dry Chaco
+LIT-11-kayak: two people paddling sit-on-top kayaks on the calm, narrow, brown Bermejito River in El Impenetrable
+LIT-12-principal: the champales of Bañado La Estrella, Formosa, at sunrise
+LIT-12-jabiru [V]: a jabiru stork (Jabiru mycteria) standing in shallow water in Bañado La Estrella, Formosa
+LIT-12-yacare: a yacare caiman (Caiman yacare) floating in a still channel of Bañado La Estrella, Formosa
+LIT-12-carpincho: a capybara (Hydrochoerus hydrochaeris) standing in shallow water among floating plants in Bañado La
+LIT-12-curiyu: a yellow anaconda (boa curiyú, Eunectes notaeus) partly coiled on a mat of floating water plants in a
+LIT-13-principal: Laguna Blanca in Río Pilcomayo National Park, Formosa, at sunset
+LIT-13-yacare-negro [V]: a yacare caiman (yacaré negro, Caiman yacare) resting on a muddy bank of a marsh in Formosa
+LIT-13-yacare-overo: a broad-snouted caiman (yacaré overo, Caiman latirostris) half-submerged among water hyacinths in a
+LIT-13-caraya: a female black-and-gold howler monkey (Alouatta caraya) with a baby on her back, sitting on a branch in
+LIT-13-caraguata: caraguatá (Bromelia serra), a terrestrial bromeliad covering the forest floor in the Chaco of Formosa
+LIT-14-principal: the upper Paraná Delta seen from a high natural riverbank viewpoint in Pre-Delta National Park
+LIT-14-lobito-rio [V]: a Neotropical otter (lobito de río, Lontra longicaudis) emerging from brown river water onto a muddy
+LIT-14-yacare-overo: a broad-snouted caiman (yacaré overo, Caiman latirostris) basking on a muddy bank of a delta lagoon in
+LIT-14-sauce-criollo: a riverside forest of sauce criollo (Salix humboldtiana) on the banks of a delta channel in Entre Ríos
+
+## Cuyo
+CUY-01-principal: the view from the Mirador del Sol (about 1,470 m) on the Sierra de los Comechingones above Villa de
+CUY-01-algarrobo [V]: an ancient, enormous algarrobo tree (Prosopis sp., native carob tree) in Piedra Blanca, Merlo, San Luis
+CUY-01-condor: an adult Andean condor (Vultur gryphus) soaring over the granite ridges of the Sierra de los
+CUY-01-tabaquillo: tabaquillo trees (Polylepis australis) on a high rocky slope of the Sierra de los Comechingones
+CUY-01-peperina: peperina (Minthostachys verticillata), an aromatic mint-family shrub of the Argentine central sierras
+CUY-02-principal: the Potrero de la Aguada in Sierra de las Quijadas National Park, San Luis, seen from the viewpoint
+CUY-02-pterodaustro [V]: Photorealistic scientific reconstruction of Pterodaustro guinazui, a Cretaceous pterosaur from San Luis
+CUY-02-guanaco: a guanaco (Lama guanicoe) standing on a dry scrubland slope in Sierra de las Quijadas, San Luis
+CUY-02-tortuga: a Chaco tortoise (Chelonoidis chilensis), the Argentine land tortoise, walking on dry sandy ground among
+CUY-02-mara: a Patagonian mara (Dolichotis patagonum) in dry Monte scrubland, San Luis
+CUY-03-principal: El Hongo (the Mushroom) rock formation in Ischigualasto Provincial Park (Valle de la Luna), San Juan
+CUY-03-bochas [V]: the Cancha de Bochas in Ischigualasto Provincial Park, San Juan
+CUY-03-guanaco: two guanacos (Lama guanicoe) walking across the barren grey-ochre desert of Ischigualasto, San Juan
+CUY-03-condor: an adult Andean condor (Vultur gryphus) gliding over red sandstone cliffs in Ischigualasto, San Juan
+CUY-03-zorro: a South American grey fox (Lycalopex griseus) sitting on dry sandy desert ground in Ischigualasto, San
+CUY-04-principal: the floor of the Talampaya Canyon, Talampaya National Park, La Rioja
+CUY-04-petroglifos [V]: ancient petroglyphs at the entrance of Talampaya Canyon, La Rioja
+CUY-04-condor: an adult Andean condor (Vultur gryphus) perched on a ledge of a towering red sandstone wall in Talampaya
+CUY-04-mara: a pair of Patagonian maras (Dolichotis patagonum) resting on sandy ground in the Monte scrubland of
+CUY-04-guanaco: a small group of guanacos (Lama guanicoe) crossing a dry plain beside Ruta 76 in Talampaya National
+CUY-05-principal: the Cuesta de Miranda on Ruta Nacional 40, La Rioja, seen from the Bordo Atravesado viewpoint (2,020 m)
+CUY-05-cardon [V]: a tall columnar cardón cactus (Leucostele terscheckii) growing on an eroded deep-red rocky slope of the
+CUY-05-condor: an adult Andean condor (Vultur gryphus) soaring in front of deep-red cliffs at the Cuesta de Miranda, La
+CUY-05-jarilla: jarilla (Larrea divaricata), the creosote bush of the Argentine Monte
+CUY-05-camino-viejo: a high viewpoint in the Cuesta de Miranda, La Rioja
+CUY-06-principal: Laguna Brava, a high-altitude salt lagoon at over 4,200 m in La Rioja
+CUY-06-refugio [V]: an old stone shelter (refugio de arrieros) in the high Andes of La Rioja, on the route to Laguna Brava
+CUY-06-vicuna: a small group of vicuñas (Vicugna vicugna) on the high-Andean plain near Laguna Brava, La Rioja
+CUY-06-parina: a James's flamingo or puna flamingo (Phoenicoparrus jamesi, parina chica) feeding in a shallow
+CUY-06-corona-del-inca: the Corona del Inca volcanic crater at about 5,500 m in La Rioja
+CUY-07-principal: a herd of vicuñas (Vicugna vicugna) grazing on the vast high-altitude plateau of San Guillermo National
+CUY-07-huarpea [V]: Huarpea andina, a rare endemic Andean daisy found only in San Guillermo, San Juan
+CUY-07-yareta: yareta (Azorella compacta), a high-Andean cushion plant
+CUY-07-guanaco: a guanaco (Lama guanicoe) standing on a high-Andean plateau in San Guillermo, San Juan
+CUY-07-puma: a puma (Puma concolor) walking across rocky high-Andean terrain in San Guillermo, San Juan
+CUY-08-principal: Cerro Alcázar near Calingasta, San Juan
+CUY-08-capilla [V,R]: a small, very old adobe chapel in an Andean valley of San Juan
+CUY-08-mercedario: Cerro Mercedario (6,770 m), San Juan, seen from the Calingasta valley
+CUY-08-rio-de-los-patos: the Río de los Patos in the Calingasta valley, San Juan
+CUY-09-principal: a land-sailing cart (carro a vela, a small three-wheeled sand yacht with a tall single sail) gliding
+CUY-09-barro [V]: the cracked dry clay surface of the Pampa del Leoncito, San Juan
+CUY-09-barreal: a quiet street in Barreal, a small Andean village in the Calingasta valley, San Juan
+CUY-09-rio: the Río de los Patos near Barreal, San Juan
+CUY-10-principal [R]: the astronomical observatory domes of CASLEO in El Leoncito National Park, San Juan
+CUY-10-suri [V]: a lesser rhea, Darwin's rhea (Rhea pennata, suri cordillerano / choique) standing on a dry shrubby plain
+CUY-10-cascada: the Cascada El Rincón in El Leoncito National Park, San Juan
+CUY-10-guanaco: a guanaco (Lama guanicoe) standing among rocks and resinous jarilla shrubs in El Leoncito National Park
+CUY-10-casco [R]: the ruined adobe walls of an old estancia homestead in an arid Andean valley of San Juan
+CUY-11-principal: the wide Uspallata valley, Mendoza
+CUY-11-bovedas [V,R]: old colonial smelting furnaces in an Andean valley of Mendoza
+CUY-11-siete-colores: the Cerro de los Siete Colores near Uspallata, Mendoza
+CUY-11-potrerillos: the Potrerillos reservoir, Mendoza
+CUY-12-principal: Puente del Inca, Mendoza
+CUY-12-estalactitas [V]: the mineral stalactites under the Puente del Inca natural arch, Mendoza
+CUY-12-hotel [R]: the ruins of an early-20th-century stone thermal hotel beside a mountain river at Puente del Inca
+CUY-12-cementerio [R]: a small, austere high-mountain cemetery for climbers in the Andes of Mendoza
+CUY-13-principal: Laguna de Horcones in Aconcagua Provincial Park, Mendoza
+CUY-13-guanaco [V]: a guanaco (Lama guanicoe) standing on a rocky slope of a high-Andean valley in Aconcagua Provincial
+CUY-13-vega: a high-Andean wetland meadow (vega altoandina) at the bottom of a valley in Aconcagua Provincial Park
+CUY-13-laguna-helada: Laguna de Horcones in winter, Aconcagua Provincial Park, Mendoza
+CUY-14-principal: vineyards in Luján de Cuyo, Mendoza
+CUY-14-malbec [V]: a glass of deep purple-red Malbec wine on a rustic wooden table outdoors, with a vineyard and the snowy
+CUY-14-cerro-gloria [R]: the Monument to the Army of the Andes on top of Cerro de la Gloria in Parque General San Martín, Mendoza
+CUY-14-acequia: a typical street in Mendoza city
+CUY-14-plaza [R]: Plaza Independencia, the main square of Mendoza
+CUY-15-principal: the Uco Valley, Mendoza, in autumn
+CUY-15-manzano [V,R]: an old apple tree (Malus domestica) standing alone in a small grassy clearing in the Andean foothills of
+CUY-15-monumento [R]: a monumental stone and bronze memorial to General San Martín in the Andean foothills of Mendoza
+CUY-15-altamira [R]: a modern winery built of stone and concrete blending into the landscape in Paraje Altamira, Uco Valley
+CUY-15-laguna-diamante: Laguna del Diamante, Mendoza, at 3,300 m
+CUY-16-principal: the Valle Grande reservoir in the Atuel Canyon, San Rafael, Mendoza, seen from the viewpoint above the
+CUY-16-monjes [V]: Los Monjes rock formation in the Atuel Canyon, Mendoza
+CUY-16-lagarto: El Lagarto rock formation in the Atuel Canyon, Mendoza
+CUY-16-submarino: El Submarino, a rock formation emerging from the turquoise water of the Valle Grande reservoir in the
+CUY-16-rafting: a rafting boat with a small group of people wearing helmets and life jackets paddling through
+CUY-17-principal: the main avenue of Malargüe, a small town on Ruta 40 in southern Mendoza
+CUY-17-detector [V]: a single surface detector of the Pierre Auger cosmic-ray observatory on the open pampa near Malargüe
+CUY-17-auger [R]: a small modern science visitor center interior
+CUY-17-planetario [R]: a modern planetarium building in a small Andean town of southern Mendoza
+CUY-18-principal: the Castillos de Pincheira near Malargüe, Mendoza
+CUY-18-torres [V]: the eroded rock towers of the Castillos de Pincheira, Mendoza
+CUY-18-cuevas: shallow caves and rock shelters eroded into the base of the layered rock towers of Castillos de
+CUY-18-puntas: several ancient stone arrowheads (projectile points) knapped from obsidian, basalt and flint, displayed
+CUY-19-principal: Laguna Llancanelo, Malargüe, Mendoza
+CUY-19-cisne [V]: a black-necked swan (Cygnus melancoryphus) swimming on calm water at Laguna Llancanelo, Mendoza
+CUY-19-coscoroba: a coscoroba swan (Coscoroba coscoroba) on a shallow steppe lagoon in Mendoza
+CUY-19-maca: a white-tufted grebe (Rollandia rolland, macá común) swimming among aquatic vegetation in a steppe
+CUY-19-monjita [SKIP]: a Salinas monjita (Neoxolmis salinarum, formerly Xolmis salinarum
+CUY-20-principal: the Caverna de las Brujas, Malargüe, Mendoza
+CUY-20-estalagmitas [V]: stalagmites rising from the floor of a limestone cave in the Caverna de las Brujas, Mendoza
+CUY-20-boca: the entrance of the Caverna de las Brujas in Cerro Moncol, Mendoza
+CUY-20-estalactitas: a cluster of slender stalactites hanging from the ceiling of a limestone cave in the Caverna de las
+CUY-21-principal: the Pampas Negras in La Payunia Reserve, Malargüe, Mendoza
+CUY-21-payun-matru [V]: the Payún Matrú shield volcano in La Payunia, Mendoza
+CUY-21-guanaco: a herd of guanacos (Lama guanicoe) crossing a black volcanic plain in La Payunia, Mendoza
+CUY-21-choique: a lesser rhea or choique (Rhea pennata) walking across the volcanic steppe of La Payunia, Mendoza
+CUY-21-lagarto: a lagarto cola de piche (Phymaturus sp., a stout endemic Patagonian rock lizard) basking on dark
+
+## Córdoba
+COR-01-principal: the lakeshore promenade (costanera) of Miramar de Ansenuza on the vast salt lake Mar Chiquita, Córdoba
+COR-01-flamenco-austral [V]: a Chilean flamingo (Phoenicopterus chilensis) standing in shallow salty water at Laguna Mar Chiquita
+COR-01-aves-playeras: migratory shorebirds feeding on the wet muddy shore of Laguna Mar Chiquita (Ansenuza), Córdoba
+COR-01-aguara-guazu: a maned wolf, aguará guazú (Chrysocyon brachyurus), in the tall grassy wetlands of the Río Dulce, Córdoba
+COR-01-hotel-viena [R]: the weathered ruins of a large 1940s lakeside spa hotel partly flooded by a salt lake
+COR-02-principal [R]: the baroque church of the Jesuit Estancia Santa Catalina, Córdoba
+COR-02-bodega-jesuitica [V,R]: a 17th-century colonial Jesuit wine cellar in Córdoba
+COR-02-estancia-caroya [R]: a rustic colonial estancia interior in Colonia Caroya, Córdoba
+COR-02-platanos: the long main avenue of Colonia Caroya, Córdoba, lined on both sides by tall century-old plane trees
+COR-02-doma: a gaucho rider on a bucking criollo horse at a traditional Argentine rodeo (jineteada) in an open-air
+COR-03-principal: Cerro Colorado, northern Córdoba, at sunset seen from the riverbank
+COR-03-pintura-rupestre [V]: ancient rock paintings under a sandstone rock shelter at Cerro Colorado, Córdoba
+COR-03-casa-yupanqui [R]: a simple rustic country house in the northern Córdoba sierras, with whitewashed walls, a tiled roof and
+COR-03-museo-arqueologico [R]: a small rural archaeology museum display in Córdoba
+COR-04-principal: the Ongamira valley, northern Punilla, Córdoba
+COR-04-grutas [V]: the Grutas de Ongamira, Córdoba
+COR-04-charalqueta: the view from the summit of Cerro Charalqueta (Colchiquí), Ongamira, Córdoba
+COR-04-los-terrones: the Los Terrones reserve (Quebrada de la Luna), Córdoba
+COR-05-principal: Cerro Uritorco, the highest peak of the Sierras Chicas (1,979 m), rising above the small town of Capilla
+COR-05-cumbre-uritorco [V]: the rocky summit of Cerro Uritorco, Córdoba
+COR-05-calle-techada [R]: a short pedestrian street covered by a roof in a small Argentine sierra town, with small shop fronts on
+COR-05-dique-el-cajon: the Dique El Cajón reservoir near Capilla del Monte, Córdoba
+COR-06-principal: Lago San Roque, Córdoba
+COR-06-cola-de-la-novia [V]: the "cola de la novia" at the San Roque dam, Córdoba
+COR-06-aerosilla: a classic open double chairlift climbing a green wooded sierra slope above Villa Carlos Paz, Córdoba
+COR-06-viejo-paredon [R]: an old 1890s masonry dam wall of dark cut stone emerging from the low water of a reservoir during a
+COR-07-principal: Los Gigantes, Sierras Grandes, Córdoba
+COR-07-condor [V]: an adult Andean condor (Vultur gryphus) soaring close to grey granite towers in the Sierras Grandes
+COR-07-tabaquillo: tabaquillo trees (Polylepis australis) in a rocky gully of the Sierras Grandes, Córdoba
+COR-07-escalada: one rock climber with helmet and rope climbing a vertical crack on a pale grey granite tower at Los
+COR-08-principal [R]: the isolated Jesuit Estancia La Candelaria, Córdoba
+COR-08-puerta-1683 [V,R]: an old weathered colonial wooden door set in a thick whitewashed adobe wall, with the year 1683 carved
+COR-08-camino-ripio: a narrow rough gravel road with loose stones and tight curves crossing a high, empty grassy plateau in
+COR-08-capilla [R]: the interior of a small 17th-century Jesuit colonial chapel in rural Córdoba
+COR-09-principal [R]: the Jesuit Estancia of Alta Gracia, Córdoba
+COR-09-residencia-liniers [V,R]: the inner courtyard of a 17th-century Jesuit residence in Córdoba
+COR-09-villa-nydia [R]: a 1930s single-storey suburban chalet in an Argentine sierra town, with white walls, a pitched tiled
+COR-09-museo-falla [R]: the quiet study of a 1940s composer's house in the Córdoba hills
+COR-10-principal: the main street of Villa General Belgrano, Calamuchita valley, Córdoba
+COR-10-oktoberfest [V]: a beer festival in a small Alpine-style town in Córdoba
+COR-10-cerveceria [R]: a craft brewery taproom in an Alpine-style sierra town
+COR-10-las-acacias [R]: a white motorhome parked on a grassy campsite under acacia and pine trees in the Calamuchita valley
+COR-11-principal: a pedestrian dirt lane in La Cumbrecita, Córdoba
+COR-11-cascada-grande [V]: the Cascada Grande in La Cumbrecita, Córdoba
+COR-11-la-olla: La Olla in La Cumbrecita, Córdoba
+COR-11-goulash: a plate of Central-European goulash with spätzle
+COR-11-penon-del-aguila: a zipline cable stretched over a forested sierra valley near La Cumbrecita, Córdoba, one rider in
+COR-12-principal: the summit area of Cerro Champaquí (2,790 m), the highest peak of Córdoba
+COR-12-laguna [V]: a small high-mountain lagoon near the summit of Cerro Champaquí, Córdoba, in winter
+COR-12-rio-tabaquillo: two trekkers with large backpacks crossing a clear rocky mountain stream on stepping stones on the way
+COR-12-refugio [R]: a simple stone mountain refuge with a tin roof in a grassy high valley of the Sierras Grandes, Córdoba
+COR-12-villa-alpina: Villa Alpina, a tiny rural hamlet in the Calamuchita sierras, Córdoba
+COR-13-principal: the Camino de las Altas Cumbres (provincial road E-34), Córdoba, on its descent toward Traslasierra
+COR-13-pampa-de-achala [V]: the Pampa de Achala, the high plateau of the Sierras Grandes, Córdoba (about 2,000 m)
+COR-13-ruta-nevada: a paved mountain road across a high grassy plateau in the Córdoba sierras, after a winter snowfall
+COR-13-puente-colgante [R]: an old early-20th-century suspension bridge on a historic gravel mountain road in the Córdoba sierras
+COR-14-principal: the Quebrada del Condorito, Córdoba, seen from the Balcón Norte viewpoint
+COR-14-tabaquillo [V]: a tabaquillo tree (Polylepis australis), endemic to, in the Quebrada del Condorito
+COR-14-lagarto-achala: the Achala lizard (Pristidactylus achalensis), endemic to the Pampa de Achala, Córdoba
+COR-14-zorro-colorado: a culpeo or zorro colorado (Lycalopex culpaeus) on the Pampa de Achala, Córdoba
+COR-15-principal: the Mina Clavero river in Traslasierra, Córdoba
+COR-15-museo-rocsen [V,R]: the crowded interior of an eclectic private collection museum in rural
+COR-15-nido-del-aguila: the Nido del Águila swimming spot on the Mina Clavero river, Córdoba
+COR-15-panaholma: the Panaholma river in Traslasierra, Córdoba
+COR-16-principal: a small herd of guanacos (Lama guanicoe
+COR-16-estancia-pinas [V,R]: the old main house (casco) of a historic cattle estancia in the dry hills of western Córdoba
+COR-16-aguila-coronada: a crowned eagle or Chaco eagle (Buteogallus coronatus) perched on a dead branch in dry Chaco woodland
+COR-16-boa-chaquena: an Argentine rainbow boa (Epicrates alvarezi) coiled on dry leaf litter in Chaco Seco woodland, Córdoba
+
+## Patagonia Andina
+AND-01-principal: fossil dinosaur footprints on the western shore of the Ezequiel Ramos Mexía reservoir at Villa El
+AND-01-giganotosaurus [V,R]: a mounted skeleton of Giganotosaurus carolinii in a small paleontology museum in Patagonia
+AND-01-buggy [R]: an old weathered off-road dune buggy from the 1990s, small open tubular frame and big tires, displayed
+AND-01-mara: a Patagonian mara (Dolichotis patagonum)
+AND-01-choique: a lesser rhea or choique (Rhea pennata pennata)
+AND-02-principal: Laguna Blanca National Park near Zapala, Neuquén, seen from a 1,723 m summit
+AND-02-cisne [V]: a black-necked swan (Cygnus melancoryphus)
+AND-02-flamenco: Chilean flamingos (Phoenicopterus chilensis)
+AND-02-escorial: a short interpretive walking trail across a rough black basalt lava field (escorial) in Laguna Blanca
+AND-02-estepa: Patagonian steppe in Neuquén
+AND-03-principal: El Humazo, a geothermal vent at the foot of the Domuyo volcano in northern Neuquén
+AND-03-olletas [V]: Photorealistic editorial travel photograph, close view of boiling hot springs (olletas) in the Domuyo
+AND-03-confluencia: the confluence of two rivers at Varvarco, northern Neuquén
+AND-03-aguas-calientes: a natural hot stream at Aguas Calientes, in the Domuyo area, Neuquén
+AND-03-nire: ñire trees (Nothofagus antarctica)
+AND-04-principal: Lake Caviahue in Neuquén
+AND-04-pehuen [V]: a monkey puzzle tree or pehuén (Araucaria araucana)
+AND-04-termas: natural thermal pools at Copahue, Neuquén
+AND-04-salto-agrio: the Salto del Agrio waterfall near Caviahue, Neuquén
+AND-04-hualcupen: Laguna Hualcupén near Caviahue, Neuquén, at sunset
+AND-05-principal: Lake Aluminé at Villa Pehuenia, Neuquén, at sunset
+AND-05-pinon [V]: the seeds and cone of the pehuén (Araucaria araucana)
+AND-05-laguna-crater: the crater lake on the summit of the Batea Mahuida volcano (about 1,970 m), Villa Pehuenia, Neuquén
+AND-05-moquehue: Lake Moquehue in Neuquén
+AND-05-monito: a monito del monte (Dromiciops gliroides)
+AND-06-principal: the Cerro de la Cruz above Junín de los Andes, Neuquén
+AND-06-via-christi [V,R]: a contemporary outdoor religious sculpture on a wooded hillside trail in Patagonia
+AND-06-boca-chimehuin: the Boca del Chimehuín, Neuquén
+AND-06-pesca-mosca: a fly fisherman in waders casting a long looping line on the Chimehuín river near Junín de los Andes
+AND-06-santuario [R]: a modern Patagonian church built with stone and wood, with a tall pitched roof, standing in a small
+AND-07-principal: the south face of the Lanín volcano (3,776 m) seen from Puerto Canoa on Lake Huechulafquen, Lanín
+AND-07-rauli [V]: a raulí forest (Nothofagus alpina) in Lanín National Park
+AND-07-huemul: a south Andean deer or huemul (Hippocamelus bisulcus)
+AND-07-pudu: a southern pudú (Pudu puda)
+AND-07-huillin: a southern river otter or huillín (Lontra provocax)
+AND-08-principal: Lake Lácar and the town of San Martín de los Andes, Neuquén, seen from the Bandurrias viewpoint
+AND-08-chachin [V]: the Chachín waterfall near San Martín de los Andes, Neuquén
+AND-08-quila-quina: a small white tourist catamaran crossing the blue waters of Lake Lácar toward the beach of Quila Quina
+AND-08-hua-hum: the Hua Hum river in Neuquén
+AND-08-nonthue: Lake Nonthué, the narrow western arm of Lake Lácar, Neuquén
+AND-09-principal: Lake Escondido seen from the Ruta de los Siete Lagos (RN 40), Neuquén
+AND-09-correntoso [V]: the Correntoso river near Villa La Angostura, Neuquén
+AND-09-espejo: the beach of Lake Espejo on the Ruta de los Siete Lagos, Neuquén
+AND-09-falkner: Lake Falkner beside the RN 40 on the Seven Lakes Road, Neuquén
+AND-09-condor: an Andean condor (Vultur gryphus) soaring
+AND-10-principal: the submerged forest of Lake Traful, Neuquén
+AND-10-cipres [V]: a Chilean cedar or ciprés de la cordillera (Austrocedrus chilensis)
+AND-10-cataratas: the Cascada Cataratas near Villa Traful, Neuquén
+AND-10-la-puntilla: La Puntilla beach on Lake Traful, Neuquén
+AND-10-huillin: a southern river otter or huillín (Lontra provocax)
+AND-11-principal: the Bosque de Arrayanes, Los Arrayanes National Park, Villa La Angostura, Neuquén
+AND-11-corteza [V]: the bark of an arrayán (Luma apiculata)
+AND-11-bahia-brava [R]: a small wooden pier on a calm bay of Lake Nahuel Huapi at Villa La Angostura, Patagonia, with a small
+AND-11-sendero: a dirt trail through dense Andean-Patagonian forest of coihues on the Quetrihué peninsula, Neuquén, with
+AND-11-pudu: a southern pudú (Pudu puda)
+AND-12-principal: the view from Cerro Campanario, Bariloche, Río Negro
+AND-12-pato-torrente [V]: a torrent duck (Merganetta armata)
+AND-12-san-eduardo [R]: a small alpine-style chapel built of wood and stone, with a steep shingled roof and a slender bell
+AND-12-bahia-lopez: Bahía López on Lake Nahuel Huapi, Bariloche
+AND-12-huillin: a southern river otter or huillín (Lontra provocax)
+AND-13-principal: the Ventisquero Negro (Black Glacier) at the foot of Cerro Tronador, Nahuel Huapi National Park, Río
+AND-13-garganta [V]: the Garganta del Diablo waterfall near Pampa Linda, at the foot of Cerro Tronador
+AND-13-pampa-linda: Pampa Linda, Nahuel Huapi National Park
+AND-13-mano-unica: a narrow single-lane gravel road winding through tall Patagonian coihue forest beside a river, toward
+AND-13-condor: an Andean condor (Vultur gryphus) soaring in front of a glaciated mountain wall
+AND-14-principal [R]: a lively open-air craft market in a town square of El Bolsón, Río Negro
+AND-14-bosque-tallado [V,R]: a large wooden sculpture carved directly into a standing fire-killed lenga tree trunk on a mountainside
+AND-14-cajon-azul: the Cajón del Azul near El Bolsón
+AND-14-puente-colgante: a narrow hanging footbridge of wood planks and steel cables crossing the clear blue-green Azul river in
+AND-14-lupulo: hop flowers (Humulus lupulus)
+AND-15-principal: Lake Puelo, Lago Puelo National Park, Chubut, seen from the Mirador del Lago trail
+AND-15-olivillo [V]: an olivillo tree (Aextoxicon punctatum) in a Valdivian temperate rainforest
+AND-15-la-playita: La Playita, a small pebble beach on Lake Puelo, Chubut
+AND-15-rio-azul: the Azul river near its mouth into Lake Puelo, Chubut
+AND-15-huemul: a south Andean deer or huemul (Hippocamelus bisulcus)
+AND-16-principal [R]: a weathered old log cabin from around 1900 in a wide grassy valley near Cholila, Chubut
+AND-16-cabana [V,R]: Photorealistic editorial travel photograph, close-up of the wall of a restored pioneer log cabin in
+AND-16-lago-cholila: Lake Cholila, Chubut
+AND-16-carrileufu: the Carrileufú river, Chubut
+AND-16-trucha: a rainbow trout (Oncorhynchus mykiss)
+AND-17-principal: Lake Menéndez, Los Alerces National Park, Chubut
+AND-17-alerce [V]: a giant ancient Patagonian cypress or alerce (Fitzroya cupressoides) in a humid temperate rainforest
+AND-17-pudu: a southern pudú (Pudu puda)
+AND-17-huemul: a male south Andean deer or huemul (Hippocamelus bisulcus)
+AND-17-huillin: a southern river otter or huillín (Lontra provocax)
+AND-18-principal: La Trochita, the Old Patagonian Express, near Esquel, Chubut
+AND-18-calafate [V]: calafate (Berberis microphylla)
+AND-18-nahuel-pan [R]: a tiny rural railway station on the Patagonian steppe
+AND-18-la-hoya: Cerro La Hoya above Esquel, Chubut, in winter
+AND-18-la-zeta: Laguna La Zeta near Esquel, Chubut
+AND-19-principal: a tulip field in bloom in the valley of Trevelin, Chubut
+AND-19-nant-fall [V]: one of the Nant y Fall waterfalls near Trevelin, Chubut
+AND-19-molino [R]: an old brick flour mill building from the Welsh colony era in a small Patagonian town
+AND-19-malacara [R]: a simple old gravestone for a horse in a quiet garden of a Patagonian town
+AND-19-torta-negra: a Welsh afternoon tea in a Patagonian tea house
+
+## Patagonia Austral · Ruta 40
+AUS-01-principal: cherry orchards at Los Antiguos, Santa Cruz, Argentine Patagonia
+AUS-01-cerezas [V]: freshly picked sweet cherries from Los Antiguos, Patagonia
+AUS-01-choique: a lesser rhea or choique (Rhea pennata pennata) walking across open Patagonian steppe near Lago Buenos
+AUS-01-martineta: an elegant crested tinamou or martineta (Eudromia elegans) walking at the edge of a gravel road in the
+AUS-02-principal [R]: the old La Ascensión estancia headquarters in Patagonia National Park, Santa Cruz
+AUS-02-maca-tobiano [V]: a hooded grebe or macá tobiano (Podiceps gallardoi) floating on a small high-plateau lake in Santa Cruz
+AUS-02-guanaco: a guanaco (Lama guanicoe) standing on a ridge in the Patagonian steppe above a canyon
+AUS-02-condor: an Andean condor (Vultur gryphus) soaring along the basalt cliffs of the Cañadón Pinturas, Santa Cruz
+AUS-02-galpon-esquila [R]: an old Patagonian sheep-shearing shed
+AUS-03-principal: the Cueva de las Manos rock shelter, Santa Cruz
+AUS-03-caza-guanacos [V]: ancient rock art at the Cueva de las Manos, Patagonia
+AUS-03-canadon-pinturas: the Pinturas River canyon, Santa Cruz, Patagonia, seen from the rim
+AUS-03-guanaco: two guanacos (Lama guanicoe) grazing on the green floor of the Pinturas River canyon in Patagonia
+AUS-03-condor: an Andean condor (Vultur gryphus) gliding low over the Pinturas River canyon, seen slightly from above
+AUS-04-principal: Ruta 40 crossing the empty Patagonian steppe of Santa Cruz
+AUS-04-hotel-bajo-caracoles [V,R]: a remote roadside hotel and general store on a gravel stretch of Ruta 40 in Patagonia
+AUS-04-guanacos: a herd of guanacos (Lama guanicoe) on the steppe beside a gravel road in Santa Cruz, Patagonia
+AUS-04-choique: a lesser rhea or choique (Rhea pennata pennata) running alongside a Patagonian road
+AUS-04-lago-cardiel: Lago Cardiel in the Santa Cruz steppe, Patagonia
+AUS-05-principal: Lago Burmeister in Perito Moreno National Park, Santa Cruz
+AUS-05-aguila-mora [V]: a black-chested buzzard-eagle or águila mora (Geranoaetus melanoleucus) perched on a basalt rock outcrop
+AUS-05-guanacos-laguna: a group of guanacos (Lama guanicoe) on the shore of a small steppe lagoon in Perito Moreno National
+AUS-05-condor: an Andean condor (Vultur gryphus) perched on a high cliff ledge in the Patagonian Andes
+AUS-05-nacurutu: a Magellanic horned owl or ñacurutú (Bubo magellanicus) perched in a rocky crevice at dusk in the
+AUS-06-principal: Mount Fitz Roy (Cerro Chaltén) at sunrise seen from Ruta Provincial 23 on the way into El Chaltén, Santa
+AUS-06-laguna-de-los-tres [V]: Laguna de los Tres in Los Glaciares National Park
+AUS-06-carpintero-gigante: a male Magellanic woodpecker or carpintero gigante (Campephilus magellanicus) clinging to the trunk of a
+AUS-06-huemul: a south Andean deer or huemul (Hippocamelus bisulcus) standing at the edge of a lenga beech forest in
+AUS-06-lenga-otono: a lenga beech forest (Nothofagus pumilio) in autumn near El Chaltén, Patagonia
+AUS-07-principal: Laguna Torre and Cerro Torre in Los Glaciares National Park, seen from the rocky moraine
+AUS-07-mirador-maestri [V]: Cerro Torre seen from the crest of the lateral moraine above Laguna Torre, Patagonia
+AUS-07-pato-torrentes: a male torrent duck or pato de los torrentes (Merganetta armata) standing on a wet boulder in a fast
+AUS-07-carpintero: a female Magellanic woodpecker (Campephilus magellanicus) on a lenga beech trunk in Patagonia
+AUS-07-condor: an Andean condor (Vultur gryphus) soaring past steep granite walls in the Fitz Roy area, Patagonia
+AUS-08-principal: Lago del Desierto seen from its southern shore (Punta Sur), Santa Cruz
+AUS-08-glaciar-huemul [V]: the Huemul hanging glacier near Lago del Desierto, Patagonia
+AUS-08-chorrillo-del-salto: the Chorrillo del Salto waterfall near El Chaltén, Patagonia
+AUS-08-huemul: a female south Andean deer or huemul (Hippocamelus bisulcus) among lenga trees by a lake shore in
+AUS-09-principal: Laguna Nimez nature reserve in El Calafate, Santa Cruz
+AUS-09-flamenco-austral [V]: a Chilean flamingo or flamenco austral (Phoenicopterus chilensis) standing in shallow water at Laguna
+AUS-09-calafate-flor: a calafate shrub (Berberis microphylla) in the Patagonian steppe
+AUS-09-pico-de-plata: a male spectacled tyrant or pico de plata (Hymenops perspicillatus) perched on a reed stem by a
+AUS-09-bar-de-hielo [R]: an ice bar
+AUS-10-principal: the Perito Moreno Glacier in Los Glaciares National Park, seen from the visitor walkways
+AUS-10-ruptura [V]: a huge block of ice breaking off the front of the Perito Moreno Glacier and crashing into the lake
+AUS-10-calafate-fruto: ripe calafate berries (Berberis microphylla) on a spiny branch
+AUS-10-zorro-colorado: a culpeo or zorro colorado (Lycalopex culpaeus) sitting at the edge of a lenga beech forest in Patagonia
+AUS-10-condor: an Andean condor (Vultur gryphus) soaring above a glacier-fed lake arm in Patagonia, seen from below
+AUS-11-principal: the Spegazzini Glacier in Los Glaciares National Park, seen from the deck of an excursion boat
+AUS-11-tempanos [V]: icebergs floating in the Upsala channel of Lago Argentino, Patagonia
+AUS-11-glaciar-upsala: the Upsala Glacier seen from far away across Lago Argentino
+AUS-11-base-spegazzini [R]: a wooden walkway and viewing platform on a forested lakeshore slope in Los Glaciares National Park
+AUS-11-condor: an Andean condor (Vultur gryphus) gliding along a steep rock wall above a glacial channel in Patagonia
+
+## Patagonia Austral · Costa y Tierra del Fuego
+AUS-12-principal: Las Grutas, Río Negro, at low tide
+AUS-12-playero-rojizo [V]: a red knot (Calidris canutus rufa) feeding on a tidal mudflat of the Bahía de San Antonio, Río Negro
+AUS-12-pozones: low-tide rock pools on the beach of Las Grutas, Río Negro
+AUS-12-lobos-villarino: a South American sea lion colony at Punta Villarino, San Antonio Este, Río Negro
+AUS-12-chorlos: a small flock of migratory shorebirds feeding at the tide line of a wide sandy-muddy beach on the Bahía
+AUS-13-principal: a southern right whale mother and calf very close to the shore of El Doradillo beach, Golfo Nuevo, near
+AUS-13-lobo-un-pelo [V]: a male South American sea lion (Otaria flavescens) at Punta Loma, Puerto Madryn, Chubut
+AUS-13-cormoranes: rock shags (Leucocarbo magellanicus) nesting on narrow ledges of a pale layered sedimentary cliff at
+AUS-13-punta-cuevas [R]: the rocky shore at Punta Cuevas, Puerto Madryn, Patagonia, where the first Welsh settlers landed in 1865
+AUS-14-principal: Photorealistic wildlife photograph at Punta Norte, Península Valdés, Chubut
+AUS-14-elefante-marino [V]: a southern elephant seal (Mirounga leonina) on a pebble beach of Península Valdés, Chubut
+AUS-14-ballena-franca: a southern right whale (Eubalaena australis) breaching in the Golfo Nuevo off Puerto Pirámides, Chubut
+AUS-14-guanaco: a guanaco (Lama guanicoe) standing in the flat shrub steppe of Península Valdés
+AUS-14-mara: a Patagonian mara (Dolichotis patagonum) in the dry steppe of Península Valdés
+AUS-15-principal [R]: a full-size titanosaur skeleton replica (Patagotitan mayorum) in a modern paleontology museum hall in
+AUS-15-te-gales [V]: a traditional Welsh tea in Gaiman, Chubut, Patagonia
+AUS-15-casa-de-te [R]: an old red-brick Welsh-style tea house in a small Patagonian village
+AUS-15-canal-riego: an irrigation canal in the lower Chubut River valley, Patagonia
+AUS-16-principal: the Magellanic penguin colony at Punta Tombo, Chubut
+AUS-16-pichon [V]: a pair of adult Magellanic penguins (Spheniscus magellanicus)
+AUS-16-guanaco: a guanaco (Lama guanicoe)
+AUS-16-sendero: a marked walking trail with low wooden railings winding through a Magellanic penguin colony in the stony
+AUS-17-principal: Magellanic penguins (Spheniscus magellanicus)
+AUS-17-museo-peron [V,R]: a modest early-1900s house turned into a small local history museum in a Patagonian fishing village
+AUS-17-lobos-marinos: South American sea lions (Otaria flavescens)
+AUS-17-guanaco: a guanaco (Lama guanicoe)
+AUS-17-choique: a lesser rhea or Darwin's rhea (Rhea pennata), called choique
+AUS-18-principal: a giant petrified araucaria trunk lying on the bare windswept plateau of the Bosques Petrificados de
+AUS-18-corteza [V]: the surface of a petrified araucaria trunk in Patagonia
+AUS-18-seccional [R]: a small, simple park ranger station in the remote Patagonian steppe
+AUS-18-meseta: the cold, arid Patagonian plateau in Santa Cruz
+AUS-19-principal: the Ría Deseado estuary, Puerto Deseado, Santa Cruz, seen from a small boat
+AUS-19-penacho-amarillo [V]: a southern rockhopper penguin (Eudyptes chrysocome) on a rocky slope of Isla Pingüino, Santa Cruz
+AUS-19-tonina-overa: a Commerson's dolphin (Cephalorhynchus commersonii), called tonina overa, leaping out of the water in
+AUS-19-cormoran-roquero: a rock shag (Leucocarbo magellanicus) on its seaweed nest on a ledge of a reddish rock wall in the Ría
+AUS-19-pinguino-magallanes: Magellanic penguins (Spheniscus magellanicus)
+AUS-20-principal [R]: a full-size replica of a 16th-century carrack, Magellan's ship Nao Victoria, displayed on the waterfront
+AUS-20-mapa-pigafetta [V,R]: a bronze relief map in the style of a 16th-century explorer's chart (Antonio Pigafetta), showing a
+AUS-20-delfin-austral: a Peale's dolphin (Lagenorhynchus australis), called delfín austral, surfacing next to a boat in the bay
+AUS-20-pinguinos: a group of Magellanic penguins (Spheniscus magellanicus)
+AUS-20-circuito-costero: a gravel coastal road along the bay of Puerto San Julián, Patagonia
+AUS-21-principal: the coast of Monte León National Park, Santa Cruz, at very low tide
+AUS-21-pinguinera [V]: a dense Magellanic penguin colony in Monte León National Park, Patagonia
+AUS-21-lobos-elefantes: South American sea lions (Otaria flavescens)
+AUS-21-guanaco: a small herd of guanacos (Lama guanicoe)
+AUS-21-galpon [R]: an old Patagonian sheep-shearing shed converted into a visitor center
+AUS-22-principal: Lago Fagnano from the shore at Tolhuin, Tierra del Fuego
+AUS-22-panaderia [V,R]: the inside of a busy, rustic roadside bakery in Tierra del Fuego
+AUS-22-balsa [CAM]: a car ferry crossing the Strait of Magellan at Primera Angostura, Chile
+AUS-22-faro-virgenes [R]: a tall historic lighthouse standing on a windswept grassy cliff top at Cabo Vírgenes, the southern tip
+AUS-22-pinguinos-virgenes: Magellanic penguins (Spheniscus magellanicus)
+AUS-23-principal: the Paso Garibaldi viewpoint on Ruta 3, Tierra del Fuego
+AUS-23-castor [V]: a beaver dam in Tierra del Fuego
+AUS-23-tierra-mayor: the Valle de Tierra Mayor near Ushuaia, Tierra del Fuego
+AUS-23-zorro-gris: a South American grey fox (Lycalopex griseus)
+AUS-24-principal: the bay of Ushuaia, Tierra del Fuego, seen from the waterfront
+AUS-24-presidio [V,R]: a long corridor inside an early-20th-century stone and concrete prison wing turned museum
+AUS-24-glaciar-martial: the Martial Glacier above Ushuaia, Tierra del Fuego
+AUS-24-canal-beagle: the Beagle Channel from the Ushuaia tourist pier
+AUS-25-principal: Bahía Lapataia, Tierra del Fuego National Park, where Ruta 3 ends
+AUS-25-lenga-otono [V]: lenga (Nothofagus pumilio) in autumn in Tierra del Fuego
+AUS-25-cauquen: a pair of upland geese (Chloephaga picta), called cauquén, walking in a grassy clearing of Tierra del
+AUS-25-zorro-colorado: a Fuegian culpeo fox (Lycalopex culpaeus lycoides), called zorro colorado
+AUS-25-conchero: an ancient shell midden on the shore of Bahía Lapataia, Tierra del Fuego
+AUS-26-principal: Magellanic penguins (Spheniscus magellanicus)
+AUS-26-pinguino-papua [V]: a gentoo penguin (Pygoscelis papua) on a pebble beach of Isla Martillo, Beagle Channel
+AUS-26-isla-lobos: sea lions and fur seals on Isla de los Lobos, Beagle Channel
+AUS-26-cormoran-imperial: a dense colony of imperial shags (Leucocarbo atriceps) on Isla de los Pájaros, Beagle Channel
+AUS-26-faro-eclaireurs [R]: the Les Éclaireurs lighthouse in the Beagle Channel near Ushuaia
+
+## Buenos Aires
+BSA-01-principal: a wooden public passenger launch (lancha colectiva) sailing along a narrow brown-water stream in the
+BSA-01-ceibo [V]: a flowering ceibo tree (Erythrina crista-galli) on the high bank of a Paraná Delta island
+BSA-01-estacion-fluvial [R]: a river passenger terminal on a wide muddy river in a delta town of Buenos Aires province
+BSA-01-lobito-de-rio: a Neotropical otter (Lontra longicaudis), the "lobito de río", swimming at the surface of a calm brown
+BSA-01-carpincho: a capybara (Hydrochoerus hydrochaeris) standing at the muddy edge of a delta stream among reeds and
+BSA-02-principal: the arrival by boat at Martín García Island in the Río de la Plata
+BSA-02-presidio [V,R]: a quiet street in a small historic island village in the Río de la Plata
+BSA-02-lapacho: a pink lapacho tree (Handroanthus heptaphyllus) in full bloom at the edge of a riverside gallery forest
+BSA-02-cardenal: a red-crested cardinal (Paroaria coronata) perched on a thorny branch
+BSA-02-pan-dulce [R]: a rustic homemade Argentine pan dulce (sweet bread loaf studded with candied fruit and nuts) on a worn
+BSA-03-principal: the top of a gentle grassy ravine (barranca) looking down over the floodplain lowlands of the Paraná de
+BSA-03-ciervo [V]: a marsh deer (Blastocerus dichotomus), a male standing chest-deep in a reed marsh
+BSA-03-pajonalera: a straight-billed reedhaunter (Limnoctites rectirostris), a small slender ovenbird clinging to a tall
+BSA-03-sendero [R]: a narrow mown nature trail winding through tall native pampas grassland in a protected area near the
+BSA-04-principal: the coastal salt marshes of Samborombón Bay
+BSA-04-venado [V]: a male Pampas deer (Ozotoceros bezoarticus) standing alert in tall native pampas grassland
+BSA-04-playerito-canela: a buff-breasted sandpiper (Calidris subruficollis) walking on short coastal grass near a tidal flat
+BSA-04-nandu: a greater rhea (Rhea americana) walking through open pampas grassland
+BSA-04-faro-san-antonio [R]: a tall lighthouse standing on a low sandy point where a wide river estuary meets the open sea coast
+BSA-05-principal: a wide sandy beach on the Atlantic coast of Pinamar
+BSA-05-carilo [V]: an unpaved sand street winding through a dense coastal pine forest in Cariló
+BSA-05-lagartija-dunas: the sand dune lizard of the Buenos Aires coast (Liolaemus multimaculatus) basking on pale sand among
+BSA-05-medano: wild, unforested coastal sand dunes on the Buenos Aires Atlantic coast
+BSA-06-principal [R]: the Faro Querandí lighthouse near Villa Gesell
+BSA-06-casa-gesell [V,R]: a modest 1930s wooden-and-brick house standing on top of a wooded sand dune in a coastal pine and acacia
+BSA-06-mar-de-las-pampas: a quiet sand street in Mar de las Pampas
+BSA-06-ostrero: an American oystercatcher (Haematopus palliatus) walking on wet sand at the edge of the surf
+BSA-06-monjita-dominica: a black-and-white monjita (Heteroxolmis dominicana) perched on a tall grass stem in coastal grassland
+BSA-07-principal: the Mar Chiquita coastal lagoon in Buenos Aires province, seen from its mouth
+BSA-07-cangrejo [V]: a burrowing mud crab (Neohelice granulata) at the entrance of its burrow in grey estuarine mud
+BSA-07-gaviota-cangrejera: an Olrog's gull (Leucophaeus atlanticus) standing on a coastal mudflat with a crab in its bill
+BSA-07-rayador: a black skimmer (Rynchops niger) skimming low over calm lagoon water with its lower mandible slicing the
+BSA-07-flamenco: Chilean flamingos (Phoenicopterus chilensis) wading in a shallow brackish lagoon
+BSA-08-principal: the sea lion colony at the port of Mar del Plata
+BSA-08-cabo-corrientes [V]: the rocky headland of Cabo Corrientes in Mar del Plata
+BSA-08-lobo-marino: an adult male South American sea lion (Otaria flavescens) resting on a harbor quay
+BSA-08-laguna-de-los-padres: a calm freshwater lagoon in the gently rolling hills near Mar del Plata
+BSA-09-principal [R]: a large rounded granite boulder balanced on the edge of a low rocky hill
+BSA-09-centinela [V,R]: a rocky granite hill in the Tandilia range near Tandil
+BSA-09-sierra-del-tigre: low ancient hills of the Tandilia range
+BSA-09-lagartija-sierras: a small Liolaemus lizard endemic to the Tandilia hills (Liolaemus tandiliensis) basking on a
+BSA-10-principal: a dense planted coastal forest of tall dark-green conifers that reaches right down to a wide sandy
+BSA-10-lago-cisnes [V]: a calm small artificial lake bordered by reeds and a coastal pine forest, close to the beach dunes in
+BSA-10-medanos-oeste: vast pristine white sand dunes on the Atlantic coast west of Necochea
+BSA-10-rio-quequen: the mouth of the Quequén Grande river where it meets the Atlantic between the towns of Necochea and
+BSA-11-principal: the sun setting directly into the sea from the wide sandy beach of Monte Hermoso
+BSA-11-faro-recalada [V,R]: a very tall early-20th-century metal lattice lighthouse tower with a central cylindrical staircase shaft
+BSA-11-laguna-sauce-grande: a large shallow lagoon on the flat pampas near the Atlantic coast of southern Buenos Aires province
+BSA-11-cauquen: a pair of upland geese (Chloephaga picta) grazing on short grass by a lagoon shore
+BSA-11-escalera-faro [R]: Photorealistic editorial photograph looking up the interior of a tall old metal lighthouse
+BSA-12-principal: the Cerro Ventana in the Ventania range, seen from the road
+BSA-12-guanaco [V]: a guanaco (Lama guanicoe) standing on a high grassy slope of the Ventania hills
+BSA-12-margarita-cumbre: Grindelia ventanensis, a low cushion-forming endemic plant of the Ventania hills growing among quartzite
+BSA-12-caballo-cimarron: a small band of feral horses (sturdy Criollo-type horses, bay and dun coats, thick manes) grazing in
+BSA-12-tres-picos: Cerro Tres Picos, the highest summit of Buenos Aires province
+BSA-13-principal [R]: the ruins of a large early-20th-century grand hotel among trees at the foot of hills in the Ventania
+BSA-13-arroyo-belisario [V]: a small clear mountain stream running over rounded stones in a wooded valley at the foot of the Ventania
+BSA-13-cascada-san-teofilo: a small waterfall dropping over dark quartzite rock ledges into a clear pool in a hilly grassland ravine
+BSA-13-vizcacha: a plains vizcacha (Lagostomus maximus) sitting among rocks at dusk
+BSA-13-zorro-pampa: a Pampas fox (Lycalopex gymnocercus) standing in golden hill grassland
+
+## Pueblitos de Buenos Aires · Norte y oeste
+BSA-P01-principal [R]: a 19th-century Italianate parish church with a single tall bell tower and a clock, facing a small leafy
+BSA-P01-imprenta [V,R]: an antique late-19th-century French cast-iron flatbed printing press (Marinoni style) displayed inside a
+BSA-P01-los-ombues [R]: an old rural pulpería (country general store and bar) in the Buenos Aires pampas
+BSA-P01-miralejos [R]: a 1920s Italianate townhouse in a small historic town of Buenos Aires province
+BSA-P01-locro: a steaming clay bowl of Argentine locro, a thick stew of white corn, squash, beans and pieces of meat
+BSA-P02-principal: the old pink-plastered brick arch bridge (Puente Viejo, 1857) over the calm Areco River in San Antonio
+BSA-P02-plateria [V,R]: Argentine criollo silverwork on a dark wooden workbench in a traditional silversmith's workshop
+BSA-P02-la-blanqueada [R]: a 19th-century rural pulpería in the pampas of Buenos Aires province
+BSA-P02-bessonart [R]: the interior of a centuries-old Argentine country general store turned bar
+BSA-P02-molina-campos [R]: a quiet gallery room in a small museum in the Argentine countryside
+BSA-P03-principal: the riverside promenade (costanera) of Baradero, at sunset
+BSA-P03-parroquia [V,R]: a historic white-plastered Catholic parish church facing a leafy town square in a small Argentine river
+BSA-P03-el-torito [R]: an old country pulpería in the Buenos Aires pampas
+BSA-P03-museo-barbich [R]: an 1870s colonial-style townhouse in a small Argentine town
+BSA-P03-balneario: a riverside municipal park and beach on a branch of the Paraná delta in Buenos Aires province
+BSA-P04-principal: the top of the high green barrancas (river bluffs) of San Pedro
+BSA-P04-obligado [V,R]: a historic battlefield memorial on the high bank of the Paraná River in Buenos Aires province
+BSA-P04-escalera-flores [R]: a long outdoor stairway climbing a green river bluff, each step decorated with colorful ceramic mosaic
+BSA-P04-buque-irigoyen [R]: a decommissioned World War II–era grey naval ship moored permanently as a museum in a small river port
+BSA-P04-fosil [R]: a fossil skeleton of an extinct Pleistocene South American mammal, such as a glyptodont (Glyptodon) with
+BSA-P05-principal [R]: an old 19th-century British-style railway station in the tiny pampas village of Carlos Keen
+BSA-P05-capilla [V,R]: a small early-20th-century neo-Romanesque country chapel in the Argentine pampas
+BSA-P05-vinedo [R]: a young boutique vineyard in the flat green pampas of Buenos Aires province
+BSA-P05-asado-estaca: a traditional Argentine asado a la estaca
+BSA-P05-el-molino [R]: a rustic country restaurant in the Buenos Aires pampas
+BSA-P06-principal [R]: the small old railway station of Villa Ruiz, a village of about 500 people in Buenos Aires province, now
+BSA-P06-puente [V]: an old rusty iron truss bridge over a small winding pampas stream with grassy banks, willows and tall
+BSA-P06-pulperia [R]: an early-20th-century country house turned rural restaurant in Buenos Aires province
+BSA-P06-ypf [R]: an abandoned small-town gas station from the mid-20th century at the entrance of a pampas village
+BSA-P06-capilla [R]: a small simple white country chapel in a tiny Argentine pampas village
+BSA-P07-principal [R]: a quiet pampas village in Buenos Aires province
+BSA-P07-mural [V,R]: a large handmade adobe relief mural on the wall of an old country railway station in the Argentine pampas
+BSA-P07-pastas: homemade Italian-Argentine pasta in a country restaurant
+BSA-P07-almacen [R]: the interior of a restored old country general store (almacén de campo) in Buenos Aires province
+BSA-P07-club-apolo [R]: an old small-town social club in the Argentine pampas
+BSA-P08-principal [R]: a 1910 eclectic-style municipal palace in a small town of Buenos Aires province
+BSA-P08-vitrales [V,R]: Photorealistic editorial travel photograph looking up into an early-20th-century stained-glass dome
+BSA-P08-maquinaria [R]: antique agricultural machinery displayed outdoors on a green lawn in the Argentine pampas
+BSA-P08-miel: farm products on a rustic wooden table at a small farm in the pampas
+BSA-P08-domos [R]: a countryside glamping site in the Buenos Aires pampas
+BSA-P09-principal [R]: an 1830 country pulpería on the bank of the Luján River in Mercedes
+BSA-P09-salame [V]: Argentine salame quintero, a coarse artisanal farm salami
+BSA-P09-catedral [R]: a monumental early-20th-century neo-Gothic cathedral in a provincial town of Buenos Aires province
+BSA-P09-laurino [R]: the interior of a 1950s Argentine corner general store turned bar
+BSA-P09-rio-lujan: the calm, brownish Luján River winding through a large wooded municipal park in the pampas
+BSA-P10-principal [R]: the old railway station of Tomás Jofré, a tiny pampas village in Buenos Aires province
+BSA-P10-parrilla [V]: an Argentine country grill (parrilla) in full action
+BSA-P10-antenor [R]: a picada of Argentine country cold cuts on a wooden board in a rural restaurant
+BSA-P10-silvano [R]: a popular country restaurant in a small pampas village
+BSA-P10-fronteras [R]: the interior of an old rural general store converted into a restaurant in Buenos Aires province
+BSA-P11-principal: the Navarro lagoon, at sunset
+BSA-P11-fortin [V,R]: a reconstructed 18th-century colonial frontier fort (fortín) in the Argentine pampas
+BSA-P11-la-protegida [R]: the counter of an old Argentine general store turned museum and restaurant
+BSA-P11-horno-barro [R]: a whole golden roast chicken with potatoes and sweet potatoes in a metal tray, just taken out of a
+BSA-P11-dorrego [R]: a quiet commemorative park in the Argentine pampas
+BSA-P12-principal: the large Lobos lagoon, at sunset
+BSA-P12-casa-peron [V,R]: a modest restored late-19th-century single-storey house in a small Argentine pampas town, now a museum
+BSA-P12-paracaidistas: several colorful parachute canopies (rectangular ram-air parachutes) descending over the flat green
+BSA-P12-muelle [R]: a long wooden fishing pier on a calm pampas lagoon in Buenos Aires province, a lakeside campground with
+BSA-P12-moreira [R]: a bronze statue of a 19th-century Argentine gaucho with a wide-brimmed hat, poncho, chiripá and a facón
+BSA-P13-principal [R]: the neo-Gothic church of Nuestra Señora de Luján in Uribelarrea, a small village in Buenos Aires province
+BSA-P13-escuela [V,R]: a late-19th-century agricultural school building in the Argentine pampas
+BSA-P13-tallarines: a plate of fresh homemade green arugula tallarines (tagliatelle colored with rocket) with a light sauce
+BSA-P13-pan-casero [R]: homemade Italian-style breads and fresh pasta on a floured wooden table in a country restaurant kitchen
+BSA-P13-cerveza [R]: two pint glasses of craft beer, one amber and one dark, with creamy foam, on a wooden outdoor table of a
+BSA-P14-principal [R]: a 1920s English Tudor-style country estate house in the pampas of Buenos Aires province, resembling a
+BSA-P14-dulce-de-leche [V]: Argentine dulce de leche
+BSA-P14-laberinto [R]: a large hedge maze made of tall clipped pine and cypress trees on a country estate in the Argentine
+BSA-P14-lo-de-beto [R]: a roadside grill restaurant on a pampas highway
+BSA-P14-iglesia-carmen [R]: a historic Catholic parish church facing a leafy town square in a provincial town of Buenos Aires
+
+## Pueblitos de Buenos Aires · Sur y sierras
+BSA-P15-principal: Laguna de Chascomús, seen from the lakeside promenade (costanera) at sunset
+BSA-P15-capilla-negros [V,R]: a small, humble 19th-century adobe chapel in a pampas town of Buenos Aires province
+BSA-P15-museo-pampeano [R]: the interior of a small regional history museum in the Argentine pampas
+BSA-P15-palacio-municipal [R]: a 1930s neocolonial-style town hall facing a leafy town square in a pampas town of Buenos Aires province
+BSA-P15-pejerrey: an Argentine silverside, the pejerrey (Odontesthes bonariensis), underwater in a greenish pampas lake
+BSA-P16-principal: a historic park in Dolores
+BSA-P16-plaza-castelli [V,R]: the main square of a historic pampas town in Buenos Aires province
+BSA-P16-museo-libres-sur [R]: a 19th-century Argentine pampas history exhibit inside a museum
+BSA-P16-parque-termal [R]: a thermal water park in the flat pampas of Buenos Aires province
+BSA-P16-lago: a calm park lake at the entrance of a pampas town in Buenos Aires province
+BSA-P17-principal [R]: outdoor thermal pools on the bank of the Salado River in General Belgrano, on a cold winter morning
+BSA-P17-ravioles-cordero [V]: a plate of homemade lamb ravioli (ravioles de cordero) in a rustic pampas restaurant
+BSA-P17-bosque-encantado: a forest trail in a pampas estate reserve in Buenos Aires province
+BSA-P17-balneario-salado: the Salado River at a riverside beach area in the pampas of Buenos Aires province
+BSA-P17-cine-teatro [R]: the façade of an early 20th-century small-town cinema-theatre in the Argentine pampas
+BSA-P18-principal: a small boutique vineyard in the middle of the flat pampas of Buenos Aires province
+BSA-P18-laguna-difunto-manuel [V]: an urban pampas lagoon with a nature reserve
+BSA-P18-copa-quesos [R]: a small artisanal wine cellar
+BSA-P18-estacion-pardo [R]: an old rural railway station in a tiny village of the Argentine pampas
+BSA-P18-almacen-lamaro [R]: the interior of an old Argentine rural general store (almacén de ramos generales)
+BSA-P19-principal [R]: the monumental art deco cemetery portal of Azul, designed by Francisco Salamone (1937–1938)
+BSA-P19-cervantino [V]: a Cervantes-themed cultural festival in the main square of a pampas town in late spring
+BSA-P19-monasterio-trapense [R]: a quiet Trappist (Cistercian) monastery in the low hills of the Argentine pampas
+BSA-P19-balneario: a municipal riverside park on a small pampas stream in Buenos Aires province
+BSA-P19-teatro-espanol [R]: an elegant early 20th-century Spanish-community theatre in a provincial Argentine city
+BSA-P20-principal [R]: an old 19th-century pulpería (rural tavern-store) alone in the open pampas of Buenos Aires province
+BSA-P20-torta-negra [V]: Argentine "torta negra"
+BSA-P20-pulperia-mostrador [R]: the interior of a 19th-century Argentine pulpería turned museum-bar
+BSA-P20-termas [R]: a small thermal spa on the edge of a pampas town in Buenos Aires province
+BSA-P20-arroyo-kayak: a calm pampas creek with a municipal riverside beach in Buenos Aires province
+BSA-P21-principal [R]: an art deco municipal palace in a small town of the western pampas of Buenos Aires province, by
+BSA-P21-cruz-laprida [V,R]: a monumental 33-metre art deco concrete cross designed by Francisco Salamone (1936), standing at the end
+BSA-P21-guamini-torre [R]: an art deco municipal tower by Francisco Salamone in a quiet western pampas town of Buenos Aires province
+BSA-P21-saldungaray-matadero [R]: an abandoned 1930s art deco municipal slaughterhouse by Francisco Salamone on the outskirts of a small
+BSA-P21-azul-angel [R]: Photorealistic editorial travel photograph, close-up detail of a gigantic cubist concrete sculpture of
+BSA-P22-principal: the ruins of Villa Epecuén
+BSA-P22-lago-sal [V]: the shore of Lago Epecuén, a hypersaline lake in the Buenos Aires pampas
+BSA-P22-matadero [R]: the ruined art deco slaughterhouse of Epecuén by Francisco Salamone
+BSA-P22-termas [R]: a thermal spa using hypersaline lake water in the Buenos Aires pampas
+BSA-P22-museo-regional [R]: the interior of a small regional history museum in the Argentine pampas
+BSA-P23-principal: a giant omelette festival in a tree-lined municipal park in a small town of the Buenos Aires pampas
+BSA-P23-aligot [V]: aligot, the French Aveyron dish
+BSA-P23-cerro-cruz [R]: a low grassy hill on the edge of a pampas town in Buenos Aires province with a path of Stations of the
+BSA-P23-museo [R]: a modest late-19th-century house turned into a local history museum in a small Argentine pampas town of
+BSA-P23-curamalal: the Sierras de Curamalal in southwestern Buenos Aires province
+BSA-P24-principal [R]: the main square of Tornquist
+BSA-P24-cerro-ventana [V]: Cerro Ventana in the Sierra de la Ventana range
+BSA-P24-puente-plaza: an arched wooden footbridge over a small pond in a leafy town square in the Buenos Aires sierras
+BSA-P24-sendero-parque: a hiking trail in Parque Provincial Ernesto Tornquist, Sierra de la Ventana
+BSA-P24-teatro-funke [R]: a small early-20th-century theatre and history-museum building in a quiet sierra town of German
+BSA-P25-principal [R]: the art deco cemetery portal of Saldungaray, by Francisco Salamone
+BSA-P25-fortin-pavon [V,R]: a reconstructed 19th-century Argentine frontier fort (fortín) beside a river
+BSA-P25-vinedo-sierras [R]: a small vineyard at the foot of the Sierra de la Ventana hills
+BSA-P25-rio-sauce-grande: the Sauce Grande river at a riverside municipal park in southern Buenos Aires province
+BSA-P25-museo [R]: the interior of a small-town history museum and archive in the Argentine pampas
