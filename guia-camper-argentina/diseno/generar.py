@@ -53,7 +53,7 @@ def footer(region, num):
 
 
 def page_portada(p):
-    return f'''<section class="page portada">
+    return f'''<section class="page portada" id="portada">
   {img(p["img"], "hero-full")}
   <div class="portada-shade"></div>
   <div class="portada-top"><img class="logo" src="marca/logo-blanco.png" alt="Terra Campers"></div>
@@ -107,7 +107,7 @@ def page_apertura(region, a):
     r = REG[region]
     items = "".join(f'<li><span style="color:{r["color"]}">{L["codigo"].replace("-", " ")}</span>{escape(L["titulo"])}</li>'
                     for L in LUGARES if L["region"] == region)
-    return f'''<section class="page apertura">
+    return f'''<section class="page apertura" id="{region}">
   {img(a["img"], "hero-open")}
   <div class="hero-fade"></div>
   {tab(region)}
@@ -141,7 +141,7 @@ def page_lugar(L):
     cierre = "".join(
         f'<div class="cl"><h3 class="lab">{escape(t)}<i style="background:{c}"></i></h3><p>{escape(x)}</p></div>'
         for t, x in L["cierre"])
-    return f'''<section class="page lugar">
+    return f'''<section class="page lugar" id="{L["codigo"]}">
   {img(L["codigo"] + "-principal", "hero")}
   <div class="hero-fade"></div>
   {tab(L["region"])}
