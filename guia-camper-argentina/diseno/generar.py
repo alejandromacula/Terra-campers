@@ -46,17 +46,17 @@ def tab(region):
 
 def footer(region, num):
     if region is None:
-        return '<footer class="foot"><span class="brand">Terra Campers</span><span class="folio">Guía de ruta</span></footer>'
+        return '<footer class="foot"><span class="brand"><b>Terra</b> <i>Campers</i></span><span class="folio">Guía de ruta</span></footer>'
     r = REG[region]
     folio = escape(r["nombre"]) + (f' <i style="color:{r["color"]}">/</i> <b>{num}</b>' if num else "")
-    return f'<footer class="foot"><span class="brand">Terra Campers</span><span class="folio">{folio}</span></footer>'
+    return f'<footer class="foot"><span class="brand"><b>Terra</b> <i>Campers</i></span><span class="folio">{folio}</span></footer>'
 
 
 def page_portada(p):
     return f'''<section class="page portada">
   {img(p["img"], "hero-full")}
   <div class="portada-shade"></div>
-  <div class="portada-top"><span class="logo">Terra<br>Campers</span></div>
+  <div class="portada-top"><img class="logo" src="marca/logo-blanco.png" alt="Terra Campers"></div>
   <div class="portada-text">
     <h1>{escape(p["titulo"])}</h1>
     <p class="sub">{escape(p["subtitulo"])}</p>
@@ -80,6 +80,7 @@ def page_como_usar():
             ("altura", "aviso", "Altura", "metros sobre el nivel del mar"),
         ])
     return f'''<section class="page interior como">
+  <img class="como-logo" src="marca/logo-verde.png" alt="Terra Campers">
   <p class="kick" style="color:{ORANGE}">Antes de salir</p>
   <h2 class="big">Cómo usar<br>esta guía</h2>
   <div class="rule" style="background:{ORANGE}"></div>
