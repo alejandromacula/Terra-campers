@@ -20,10 +20,11 @@ for f in os.listdir(os.path.join(BASE, "datos")):
             validos |= {L["codigo"] + "-principal", L["destacada"]["img"]} | {i["img"] for i in L["fila"]["items"]}
 
 tmp = tempfile.mkdtemp()
-html = subprocess.run(["curl", "-sSL", f"https://drive.google.com/drive/folders/{CARPETA}"],
+# La vista "embebida" de la carpeta lista todos los archivos (la vista normal corta en ~50).
+html = subprocess.run(["curl", "-sSL", f"https://drive.google.com/embeddedfolderview?id={CARPETA}"],
                       capture_output=True, check=True).stdout.decode("utf-8", "ignore")
-html = html.encode().decode("unicode_escape", "ignore")
-archivos = re.findall(r'\["(1[A-Za-z0-9_-]{25,45})",\["' + re.escape(CARPETA) + r'"\],"([^"]+)","image', html)
+archivos = [(i, n.strip()) for i, n in re.findall(r'id="entry-([A-Za-z0-9_-]+)".*?flip-entry-title">([^<]+)', html, re.S)
+            if n.strip().lower().endswith((".png", ".jpg", ".jpeg", ".webp"))]
 if not archivos:
     sys.exit("No encontré imágenes: ¿la carpeta está compartida como 'Cualquier persona con el enlace'?")
 
