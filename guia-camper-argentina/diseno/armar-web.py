@@ -23,15 +23,16 @@ def webp(origen, nombre, ancho):
 
 
 # Imágenes: solo las que existen, en webp; las que faltan quedan con el recuadro rayado.
-usadas = set()
+usadas = []  # en orden de página
 def cambiar(m):
     slot = m.group(1)
     jpg = os.path.join(BASE, "img", slot + ".jpg")
     if not os.path.exists(jpg):
         return "background-image:none"
     webp(jpg, slot, 1600 if slot == "portada" else 1100)
-    usadas.add(slot)
-    return f"background-image:url('img/{slot}.webp')"
+    usadas.append(slot)
+    # La foto llega después desde un paquete fotos/NN.json (ver abajo); el slot queda marcado en el div.
+    return f"background-image:none\" data-foto=\"{slot}"
 
 cuerpo = re.sub(r"background-image:url\('img/([^']+)\.jpg'\), url\('img/[^']+\.png'\), url\('img/[^']+\.webp'\)", cambiar, cuerpo)
 for logo in ("logo-blanco", "logo-verde"):
@@ -39,8 +40,29 @@ for logo in ("logo-blanco", "logo-verde"):
     cuerpo = cuerpo.replace(f'src="marca/{logo}.png"', f'src="img/{logo}.webp"')
 # Las páginas son las mismas del PDF: se borran del directorio web las imágenes que ya no se usan.
 for f in os.listdir(os.path.join(WEB, "img")):
-    if f.endswith(".webp") and f[:-5] not in usadas | {"logo-blanco", "logo-verde"}:
+    if f.endswith(".webp") and f[:-5] not in set(usadas) | {"logo-blanco", "logo-verde"}:
         os.remove(os.path.join(WEB, "img", f))
+
+# Paquetes de fotos: la web admite pocos archivos, así que las fotos van en JSON de ~9 MB
+# (base64), en orden de página. La página los baja de a uno y empieza por el de la página abierta.
+import base64
+FOTOS = os.path.join(WEB, "fotos")
+os.makedirs(FOTOS, exist_ok=True)
+for f in os.listdir(FOTOS):
+    os.remove(os.path.join(FOTOS, f))
+paquetes, actual, tam_actual = [], {}, 0
+for slot in usadas:
+    datos = base64.b64encode(open(os.path.join(WEB, "img", slot + ".webp"), "rb").read()).decode()
+    if actual and tam_actual + len(datos) > 9_000_000:
+        paquetes.append(actual); actual, tam_actual = {}, 0
+    actual[slot] = datos; tam_actual += len(datos)
+if actual:
+    paquetes.append(actual)
+indice_fotos = {}
+for i, paq in enumerate(paquetes):
+    json.dump(paq, open(os.path.join(FOTOS, f"{i:02d}.json"), "w"))
+    for slot in paq:
+        indice_fotos[slot] = i
 
 chips = '<a href="#portada" class="chip"><i style="background:#c45c1a"></i>Inicio</a>' + "".join(
     f'<a href="#{k}" class="chip"><i style="background:{r["color"]}"></i>{r["nombre"]}</a>'
@@ -90,8 +112,28 @@ script = """<script>
   function ir(){ var id = location.hash.slice(1); var el = id && document.getElementById(id); if (el) el.scrollIntoView(); }
   window.addEventListener('hashchange', ir); window.addEventListener('load', ir);
 })();
+// Fotos: se bajan por paquetes; primero el de la página que se está viendo.
+(function(){
+  var IDX = __INDICE__, N = __N__, pedidos = {};
+  function poner(paq){ for (var slot in paq) {
+    document.querySelectorAll('[data-foto="' + slot + '"]').forEach(function(el){
+      el.style.backgroundImage = "url('data:image/webp;base64," + paq[slot] + "')"; }); } }
+  function bajar(i){ if (pedidos[i]) return pedidos[i];
+    pedidos[i] = fetch('fotos/' + String(i).padStart(2, '0') + '.json').then(function(r){ return r.json(); })
+      .then(poner).catch(function(){ delete pedidos[i]; });
+    return pedidos[i]; }
+  var vis = new IntersectionObserver(function(es){ es.forEach(function(e){
+    if (!e.isIntersecting) return;
+    e.target.querySelectorAll('[data-foto]').forEach(function(el){ var i = IDX[el.getAttribute('data-foto')]; if (i !== undefined) bajar(i); });
+  }); }, { rootMargin: '1200px 0px' });
+  document.querySelectorAll('.hoja').forEach(function(h){ vis.observe(h); });
+  // En segundo plano, el resto en orden.
+  var cola = Promise.resolve();
+  for (var i = 0; i < N; i++) (function(i){ cola = cola.then(function(){ return bajar(i); }); })(i);
+})();
 </script>"""
 
+script = script.replace("__INDICE__", json.dumps(indice_fotos)).replace("__N__", str(len(paquetes)))
 pagina = f"""<title>Guía de Ruta Terra Campers</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -102,5 +144,5 @@ pagina = f"""<title>Guía de Ruta Terra Campers</title>
 {script}
 """
 open(os.path.join(WEB, "index.html"), "w", encoding="utf-8").write(pagina)
-tam = sum(os.path.getsize(os.path.join(WEB, "img", f)) for f in os.listdir(os.path.join(WEB, "img")))
-print(f"web/index.html {os.path.getsize(os.path.join(WEB, 'index.html')) // 1024} KB · {len(usadas)} fotos + 2 logos · {tam / 1e6:.1f} MB")
+tam = sum(os.path.getsize(os.path.join(FOTOS, f)) for f in os.listdir(FOTOS))
+print(f"web/index.html {os.path.getsize(os.path.join(WEB, 'index.html')) // 1024} KB · {len(usadas)} fotos en {len(paquetes)} paquetes · {tam / 1e6:.1f} MB")
