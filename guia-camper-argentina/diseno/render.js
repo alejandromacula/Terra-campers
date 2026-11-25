@@ -21,7 +21,7 @@ const path = require('path');
     }).filter(Boolean));
   await page.pdf({ path: path.resolve(__dirname, 'guia-terra-campers.pdf'), width: '170mm', height: '255mm',
     printBackground: true, margin: { top: '0mm', bottom: '0mm', left: '0mm', right: '0mm' } });
-  // Versión liviana para pantalla: mismas páginas, fotos de 750 px (copias en liviano/).
+  // Versión liviana para pantalla: mismas páginas, fotos de 620 px (copias en liviano/).
   const fs = require('fs');
   const { execFileSync } = require('child_process');
   const liv = path.resolve(__dirname, 'liviano');
@@ -29,7 +29,7 @@ const path = require('path');
   for (const f of fs.readdirSync(path.resolve(__dirname, 'img')).filter(f => f.endsWith('.jpg'))) {
     const src = path.resolve(__dirname, 'img', f), dst = path.join(liv, f);
     if (!fs.existsSync(dst) || fs.statSync(dst).mtimeMs < fs.statSync(src).mtimeMs)
-      execFileSync('convert', [src, '-resize', '750x750>', '-quality', '64', dst]);
+      execFileSync('convert', [src, '-resize', '620x620>', '-quality', '60', dst]);
   }
   {
     const p2 = await browser.newPage();
