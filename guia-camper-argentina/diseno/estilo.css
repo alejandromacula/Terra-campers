@@ -123,3 +123,11 @@ body{font-family:'Inter',Arial,sans-serif;color:var(--ink);font-size:8.6pt;line-
 .indice{list-style:none;columns:2;column-gap:8mm;margin-top:6mm;padding-top:4mm;border-top:.5pt solid var(--rule);}
 .indice li{break-inside:avoid;display:grid;grid-template-columns:13mm 1fr;font-size:8.2pt;line-height:10.4pt;padding:1mm 0;}
 .indice li span{font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.4pt;letter-spacing:.1em;}
+
+/* ---------- créditos ---------- */
+.cred{list-style:none;margin-top:6mm;columns:2;column-gap:7mm;border-top:.5pt solid var(--rule);padding-top:1mm;}
+.cred li{break-inside:avoid;padding:1.3mm 0;border-bottom:.4pt solid var(--rule);font-size:6.6pt;line-height:8.4pt;}
+.cred li b{display:block;font-family:'Montserrat',sans-serif;font-weight:700;font-size:6.8pt;letter-spacing:.06em;text-transform:uppercase;}
+.cred li span{display:block;color:var(--ink);}
+.cred li .url{color:var(--muted);font-size:5.6pt;line-height:7pt;word-break:break-all;}
+.creditos .lead{font-size:8.6pt;line-height:11.6pt;}

@@ -98,7 +98,7 @@ def page_como_usar():
       <p class="small">Datos para el viaje, historia, paisaje, flora y fauna, y al final lo que tenés que saber para llegar y dormir con la camper. Los consejos (fotografía, cielo, dónde comer) aparecen solo donde hay algo realmente propio del lugar.</p>
     </div>
   </div>
-  <p class="credit-ia">Foto de portada: Terra Campers. Las demás imágenes son ilustrativas, generadas con inteligencia artificial. Datos relevados en 2026: confirmá horarios y estado de caminos antes de viajar.</p>
+  <p class="credit-ia">Foto de portada: Terra Campers. Las fotos de algunos monumentos y museos son reales y se acreditan al final de la guía; las demás imágenes son ilustrativas, generadas con inteligencia artificial. Datos relevados en 2026: confirmá horarios y estado de caminos antes de viajar.</p>
   {footer(None, "")}
 </section>'''
 
@@ -171,6 +171,25 @@ def page_lugar(L):
 </section>'''
 
 
+CREDITOS = json.load(open(os.path.join(BASE, "creditos.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE, "creditos.json")) else []
+
+
+def page_creditos():
+    titulos = {L["codigo"]: L["titulo"] for L in LUGARES}
+    filas = "".join(
+        f'<li><b>{escape(titulos.get("-".join(c["img"].split("-")[:2]), ""))}</b>'
+        f'<span>{escape(c["archivo"])} · {escape(c["autor"])} · {escape(c["licencia"])}</span>'
+        f'<span class="url">{escape(c["url"])}</span></li>' for c in CREDITOS)
+    return f'''<section class="page interior creditos">
+  <p class="kick" style="color:{ORANGE}">Créditos</p>
+  <h2 class="big">Fotografías</h2>
+  <div class="rule" style="background:{ORANGE}"></div>
+  <p class="lead">Estas fotos son de autores de Wikimedia Commons y se publican bajo licencias Creative Commons. Se recortaron y ajustaron al diseño de la guía; las versiones adaptadas se comparten con la misma licencia. Las demás imágenes son ilustraciones generadas con inteligencia artificial.</p>
+  <ul class="cred">{filas}</ul>
+  {footer(None, "")}
+</section>'''
+
+
 CSS = open(os.path.join(BASE, "estilo.css"), encoding="utf-8").read()
 pages = [page_portada(DATA["portada"]), page_como_usar()]
 abiertas = set()
@@ -179,6 +198,9 @@ for L in LUGARES:
         pages.append(page_apertura(L["region"], DATA["aperturas"][L["region"]]))
         abiertas.add(L["region"])
     pages.append(page_lugar(L))
+
+if CREDITOS:
+    pages.append(page_creditos())
 
 html = f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Guía de Ruta Terra Campers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

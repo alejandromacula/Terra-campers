@@ -11,7 +11,7 @@ const path = require('path');
       const foot = p.querySelector('.foot');
       if (!foot) return null;
       const limit = foot.getBoundingClientRect().top - 2;
-      const worst = Math.max(...[...p.querySelectorAll('.head,.mid,.fila,.cierre,.ap-body,.cols2')]
+      const worst = Math.max(...[...p.querySelectorAll('.head,.mid,.fila,.cierre,.ap-body,.cols2,.cred')]
         .map(e => e.getBoundingClientRect().bottom));
       const code = (p.querySelector('.head .kick b') || {}).textContent || '';
       const anchos = [...p.querySelectorAll('.blk .lab, .fila > .lab')].filter(l => l.scrollWidth > l.clientWidth + 1)
